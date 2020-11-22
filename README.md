@@ -124,3 +124,6 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
 #EXTINF:-7, TELEHIT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=220&format=HLS&f=.m3u8
+
+#EXTINF:-7, TELENOVELAS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=83&format=HLS&f=.m3u8
