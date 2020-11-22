@@ -1,7 +1,4 @@
 
-#EXTINF:-1, UNIVISION 
-http://89.105.194.59:25461/live/uss$$F10/uss$$F10/50.m3u8
-
 #EXTINF:-1, TELEMUNDO 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
@@ -124,3 +121,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 
 #EXTINF:-7, TRAVEL HD MUSIC
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
+#EXTINF:-7, TELEHIT HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=220&format=HLS&f=.m3u8
