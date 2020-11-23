@@ -142,3 +142,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 
 #EXTINF:-1, CENTRAL COMEDIA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=340&format=HLS&f=.m3u8
+
+#EXTINF:-1, TV UNAM HD
+https://player-api.new.livestream.com/accounts/27177136/events/8970901/broadcasts/213664479.secure.m3u8?dw=80&hdnea=st=1606103500~exp=1606105300~acl=/i/27177136_8970901_lsipb9izd3yrt786g62_1@408470/*~hmac=a3ccc846bb5f0663ee19a6d9fd8f49050a0f0d8f2689e7f816965bdf1ff6b2c6&token=5fbb32f8_bbcc6e04334072445ef47e9b40d532e34febf8a2
