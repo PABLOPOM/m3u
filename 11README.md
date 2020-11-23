@@ -55,6 +55,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&s=ze
 #EXTINF:-1, IMAGEN TELEVISION HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2298&format=HLS&f=.m3u8
 
+#EXTINF:-1, RT NOTICIAS HD
+https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
+
 #EXTINF:-1, FORO TV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=700&format=HLS&f=.m3u8
 
