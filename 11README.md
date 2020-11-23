@@ -128,13 +128,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, TELENOVELAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=83&format=HLS&f=.m3u8
 
-#EXTINF:-1, FOX SPORT 3 HD
+#EXTINF:-1, FOX SPORTS 3 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=178&format=HLS&f=.m3u8
 
-#EXTINF:-1, FOX SPORT 2 HD
+#EXTINF:-1, FOX SPORTS 2 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=172&format=HLS&f=.m3u8
 
-#EXTINF:-1, FOX SPORT HD
+#EXTINF:-1, FOX SPORTS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=170&format=HLS&f=.m3u8
 
 #EXTINF:-1, INGENIO TV HD
