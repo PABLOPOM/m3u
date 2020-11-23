@@ -145,3 +145,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 
 #EXTINF:-1, TV UNAM HD
 https://player-api.new.livestream.com/accounts/27177136/events/8970901/broadcasts/213664479.secure.m3u8?dw=80&hdnea=st=1606103500~exp=1606105300~acl=/i/27177136_8970901_lsipb9izd3yrt786g62_1@408470/*~hmac=a3ccc846bb5f0663ee19a6d9fd8f49050a0f0d8f2689e7f816965bdf1ff6b2c6&token=5fbb32f8_bbcc6e04334072445ef47e9b40d532e34febf8a2
+
+#EXINF:-1, TELEVISA DEL BAJIO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606126256/ei/UDa7X7mYBK2K2_gPsq22gAQ/ip/2806%3A103e%3A23%3A1c02%3Ae10c%3Afbd6%3Ad4b3%3Ab6d1/id/1sx8VIyp7vo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/mx/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgN5ZsGBD6ocl5BJ9pu1Be953SdXv0nGE901Np82AhqC0CIHfuaM0YWQTdeKHj0C7ZACZr8Nk4tx_xzKjZoLLuAFiM/file/index.m3u8
