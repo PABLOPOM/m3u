@@ -85,6 +85,9 @@ https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 #EXTINF:-1, CNN ESPAÑOL SD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=187&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#ENTINF:-1, HERALDO DE MÉXICO
+https://stream-03.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yUqvOgJR6MU_es6bz0ilCKs)/dm/3/x792196/d/live-2.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
+
 #EXTINF:-1, TELEFORMULA
 https://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
