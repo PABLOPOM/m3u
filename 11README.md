@@ -1,6 +1,9 @@
 #EXTINF:-1, UNIVISION
 http://89.105.194.59:25461/live/uss$$F10/uss$$F10/50.m3u8
 
+#EXTINF:-1, UNIVISION 2
+https://micine.club/272/fastcgi.m3u8
+
 #EXTINF:-1, TELEMUNDO 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
