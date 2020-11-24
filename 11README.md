@@ -43,6 +43,12 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zec
 #EXTINF:-1, LA SEXTA HD
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 
+#EXTINF:-1, TV GALICIA AMERICA HD
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, MOMENTOS GALICIA HD
+http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, CANAL SUR ANDALUCÍA HD
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8?PlaylistM3UCL
 
