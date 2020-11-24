@@ -7,6 +7,9 @@ https://micine.club/272/fastcgi.m3u8
 #EXTINF:-1, TELEMUNDO LOS ANGELES
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
 
+#EXTINF:-1, TELEMUNDO 51 HD
+http://145.239.2.125:32325/live/7d34346d5ae9443880984244efd4abe3/f93fb149ff9247c79f791f1add5c1bdb/91.m3u8
+
 #EXTINF:-1, TELEMUNDO 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
