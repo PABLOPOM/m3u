@@ -136,11 +136,17 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, CINEMAX HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=158&format=HLS&f=.m3u8
 
+#EXTINF:-1, SPACE HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=130&format=HLS&f=.m3u8
+
 #EXTINF:-1, CINE CANAL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=149&format=HLS&f=.m3u8
 
 #EXTINF:-1, GOURMET HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=74&format=HLS&f=.m3u8
+
+#EXTINF:-1, SONY HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=48&format=HLS&f=.m3u8
 
 #EXTINF:-1, TRAVEL HD MUSIC
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
