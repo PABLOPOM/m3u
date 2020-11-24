@@ -1,8 +1,8 @@
 #EXTINF:-1, UNIVISION
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1602.m3u8
 
-#EXTINF:-, UNIVISION MIAMI HD SIN COMERCIALES
-https://unidfpclnlds155.akamaized.net/linear/hls/pb/event/pa2-p-dKTaCqDOi0eFyHXw/stream/0dc96258-438e-4884-97a7-4270a68a5831:TPE2/master.m3u8?hdnea=st=1606230156~exp=1606230456~acl=*~id=faa130a8-31cc-4d96-bec4-ab21ee01f370~hmac=b571581acbb48c194a3634a5fd9451e1ac2d20d75a00c453f7feaa61c70b32ac
+#EXTINF:-, UNIVISION MIAMI 
+http://89.105.194.59:25461/live/uss$$F10/uss$$F10/50.m3u8
 
 #EXTINF:-1, UNIVISION PUERTO RICO
 https://micine.club/272/fastcgi.m3u8
