@@ -1,5 +1,5 @@
 #EXTINF:-1, UNIVISION HD
-http://cdn89.sportsbay.site:2052/live-2/231/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMCAyOjUxOjM2IEFNJmhhc2hfdmFsdWU9aWM1aG03VGZTN0xSVWxQdnVNQ1NvQT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+http://89.105.194.59:25461/live/mx4W!!B/mx4W!!B/50.m3u8
 
 #EXTINF:-1, UNIVISION
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1602.m3u8
