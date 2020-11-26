@@ -1,5 +1,5 @@
-#EXTINF:-1, UNIVISION HD
-http://89.105.194.59:25461/live/mx4W!!B/mx4W!!B/50.m3u8
+#EXTINF:-1, UNIVISION MIAMI HD
+http://156.96.44.13:8081/televall2021/59_.m3u8
 
 #EXTINF:-1, UNIVISION
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1602.m3u8
