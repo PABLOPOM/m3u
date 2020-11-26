@@ -172,6 +172,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, TRAVEL HD MUSIC
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
+#EXTINF:-1, TELEHIT
+http://156.96.44.13:8081/televall2021/126_.m3u8
+
 #EXTINF:-1, TELEHIT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=220&format=HLS&f=.m3u8
 
