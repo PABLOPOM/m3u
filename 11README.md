@@ -71,7 +71,7 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1, HOME & HEART 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+http://156.96.44.13:8081/televall2021/116_.m3u8
 
 #EXTINF:-1, HISTORY CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=89&format=HLS&f=.m3u8
