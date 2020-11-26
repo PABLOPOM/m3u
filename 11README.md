@@ -1,14 +1,14 @@
 #EXTINF:-1, UNIVISION MIAMI HD
 http://156.96.44.13:8081/televall2021/59_.m3u8
 
-#EXTINF:-1, UNIVISION
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1602.m3u8
+#EXTINF:-1, UNIVISION USA
+http://156.96.44.13:8081/televall2021/58_.m3u8
 
-#EXTINF:-1, UNIVISION MIAMI 
-http://89.105.194.59:25461/live/uss$$F10/uss$$F10/50.m3u8
+#EXTINF:-1, UNIVISION 1
+http://156.96.44.13:8081/televall2021/54_.m3u8
 
-#EXTINF:-1, UNIVISION PUERTO RICO
-https://micine.club/272/fastcgi.m3u8
+#EXTINF:-1, UNIVISION 2
+http://156.96.44.13:8081/televall2021/55_.m3u8
 
 #EXTINF:-1, TELEMUNDO LOS ANGELES
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
