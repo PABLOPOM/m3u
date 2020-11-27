@@ -13,6 +13,9 @@ http://156.96.44.13:8081/televall2021/55_.m3u8
 #EXTINF:-1, TELEMUNDO LOS ANGELES
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
 
+#EXTINF:-1, TELEMUNDO OPC
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1, TELEMUNDO 51 HD
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
