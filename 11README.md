@@ -16,6 +16,9 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
 #EXTINF:-1, TELEMUNDO 51 HD
 http://145.239.2.125:32325/live/97ea770e301742dfbe294f3243b18701/ecfb968b0f794e319cbc30616799dced/91.m3u8
 
+#EXTINF:-1, TELEMUNDO 51 HD 2
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
+
 #EXTINF:-1, TELEMUNDO 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
