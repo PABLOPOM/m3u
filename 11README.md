@@ -14,7 +14,7 @@ http://156.96.44.13:8081/televall2021/55_.m3u8
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
 
 #EXTINF:-1, TELEMUNDO 51 HD
-http://145.239.2.125:32325/live/97ea770e301742dfbe294f3243b18701/ecfb968b0f794e319cbc30616799dced/91.m3u8
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 #EXTINF:-1, TELEMUNDO 51 HD 2
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
