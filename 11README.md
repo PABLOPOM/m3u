@@ -13,6 +13,9 @@ http://156.96.44.13:8081/televall2021/54_.m3u8
 #EXTINF:-1, UNIVISION 2
 http://156.96.44.13:8081/televall2021/55_.m3u8
 
+#EXTINF:-1, UNIMAS HD
+http://156.96.44.13:8081/televall2021/62_.m3u8
+
 #EXTINF:-1, TELEMUNDO LOS ANGELES
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
 
