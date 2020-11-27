@@ -118,6 +118,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=187&f=HLSAD&s=zec
 #EXTINF:-1, TELEFORMULA
 https://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
+#EXTINF:-1, TELEFORMULA 2
+http://156.96.44.13:8081/televall2021/12_.m3u8
+
 #EXTINF:-1, FORO TV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=700&format=HLS&f=.m3u8
 
