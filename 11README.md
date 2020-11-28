@@ -85,6 +85,9 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1, LA SEXTA HD
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 
+#EXTINF:-1, ANTENA 3 HD
+https://livestartover.atresmedia.com/antena3/master.m3u8
+
 #EXTINF:-1, TV GALICIA AMERICA HD
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
