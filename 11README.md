@@ -214,6 +214,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, SONY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=48&format=HLS&f=.m3u8
 
+#EXTINF:-1, DISNEY CHANNEL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=113&format=HLS&f=.m3u8
+
 #EXTINF:-1, EXA TV
 http://156.96.44.13:8081/televall2021/278_.m3u8
 
