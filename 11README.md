@@ -220,6 +220,9 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1, FILMS & ARTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=137&format=HLS&f=.m3u8
 
+#EXTINF:-1, TELEHIT MUSICA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=218&format=HLS&f=.m3u8
+
 #EXTINF:-1, TELEHIT
 http://156.96.44.13:8081/televall2021/126_.m3u8
 
