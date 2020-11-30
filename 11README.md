@@ -247,6 +247,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&s=2b6
 #EXTINF:-1, TELEHIT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=220&format=HLS&f=.m3u8
 
+#EXTINF:-1, BANDAMAX HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=221&format=HLS&f=.m3u8
+
 #EXTINF:-1, TELENOVELAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=83&format=HLS&f=.m3u8
 
