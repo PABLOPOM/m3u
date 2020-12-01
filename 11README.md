@@ -8,7 +8,7 @@ http://156.96.44.13:8081/televall2021/317_.m3u8
 http://156.96.44.13:8081/televall2021/58_.m3u8
 
 #EXTINF:-1, UNIVISION 1
-http://156.96.44.13:8081/televall2021/54_.m3u8
+https://miap.xyz/152/serverkey.m3u8
 
 #EXTINF:-1, UNIVISION 2
 https://speedmindecv2.tecltda.club/123456789version2/35_.m3u8
