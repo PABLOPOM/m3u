@@ -11,7 +11,7 @@ http://156.96.44.13:8081/televall2021/58_.m3u8
 http://156.96.44.13:8081/televall2021/54_.m3u8
 
 #EXTINF:-1, UNIVISION 2
-http://156.96.44.13:8081/televall2021/55_.m3u8
+https://speedmindecv2.tecltda.club/123456789version2/35_.m3u8
 
 #EXTINF:-1, UNIMAS HD
 http://156.96.44.13:8081/televall2021/62_.m3u8
