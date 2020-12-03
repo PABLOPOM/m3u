@@ -94,7 +94,7 @@ http://156.96.44.13:8081/televall2021/138_.m3u8
 #EXTINF:-1, TVE LA 2 HD
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1, 24h HD TV ESPAÑOLA
+#EXTINF:-1, 24h NOTICIAS HD TV ESPAÑOLA
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
 #EXTINF:-1, LA SEXTA HD
