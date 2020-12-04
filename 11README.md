@@ -71,6 +71,9 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wms
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 #EXTINF:-1, MEXIQUENSE TELEVISIÓN HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=44&format=HLS&f=.m3u8
+
+#EXTINF:-1, MEXIQUENSE TELEVISIÓN HD 2
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, TV4 GUANAJUATO HD
