@@ -67,7 +67,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, CANAL ONCE HD
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1, CANAL ONCE HD OPC.2
+#EXTINF:-1, CANAL ONCE HD total OPC.2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=25&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL 22 HD
@@ -76,7 +76,7 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wms
 #EXTINF:-1, CORAZÓN DE LA CAPITAL HD
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
-#EXTINF:-1, MEXIQUENSE TELEVISIÓN HD
+#EXTINF:-1, MEXIQUENSE TELEVISIÓN total HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=44&format=HLS&f=.m3u8
 
 #EXTINF:-1, MEXIQUENSE TELEVISIÓN HD OPC. 2
@@ -97,7 +97,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zec
 #EXTINF:-1, HISPAN TV HD
 https://live1.presstv.com/live/hispan.m3u8
 
-#EXTINF:-1, TVE LA 1 HD
+#EXTINF:-1, TVE LA 1 Total HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=198&format=HLS&f=.m3u8
 
 #EXTINF:-1, TVE LA 1 HD 1
@@ -133,7 +133,7 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1, HOME & HEART 
 http://156.96.44.13:8081/televall2021/116_.m3u8
 
-#EXTINF:-1, HOME & HEART 2
+#EXTINF:-1, HOME & HEART total 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=96&format=HLS&f=.m3u8
 
 #EXTINF:-1, WORLD DISCOVERY HD
@@ -157,13 +157,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, RT NOTICIAS HD
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
-#EXTINF:-1, CNN ESPAÑOL HD
+#EXTINF:-1, CNN ESPAÑOL total HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=187&format=HLS&f=.m3u8
 
 #EXTINF:-1, CNN ESPAÑOL SD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=187&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1, TELEFORMULA HD
+#EXTINF:-1, TELEFORMULA total HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=32&format=HLS&f=.m3u8
 
 #EXTINF:-1, TELEFORMULA SD
