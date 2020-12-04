@@ -67,6 +67,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, CANAL ONCE HD
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
+#EXTINF:-1, CANAL ONCE HD OPC.2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=25&format=HLS&f=.m3u8
+
 #EXTINF:-1, CANAL 22 HD
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
@@ -76,7 +79,7 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1, MEXIQUENSE TELEVISIÓN HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=44&format=HLS&f=.m3u8
 
-#EXTINF:-1, MEXIQUENSE TELEVISIÓN HD 2
+#EXTINF:-1, MEXIQUENSE TELEVISIÓN HD OPC. 2
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, TV4 GUANAJUATO HD
