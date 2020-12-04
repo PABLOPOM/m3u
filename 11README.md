@@ -89,6 +89,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zec
 https://live1.presstv.com/live/hispan.m3u8
 
 #EXTINF:-1, TVE LA 1 HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=198&format=HLS&f=.m3u8
+
+#EXTINF:-1, TVE LA 1 HD 1
 http://156.96.44.13:8081/televall2021/138_.m3u8
 
 #EXTINF:-1, TVE LA 2 HD
