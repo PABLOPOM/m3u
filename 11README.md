@@ -1,3 +1,6 @@
+#EXTINF:-1, TOTALPLAY HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=02&format=HLS&f=.m3u8
+
 #EXTINF:-1, UNIVISION MIAMI HD
 http://156.96.44.13:8081/televall2021/59_.m3u8
 
