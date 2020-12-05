@@ -91,6 +91,9 @@ https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
 #EXTINF:-1, TV4.2 GUANAJUATO HD
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m3u8
 
+#EXTINF:-1, TV4.3 GUANAJUATO HD
+http://156.96.44.13:8081/televall2021/280_.m3u8
+
 #EXTINF:-1, ANIMAL PLANET HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=88&format=HLS&f=.m3u8
 
