@@ -127,9 +127,6 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, CANAL SUR ANDALUCÍA HD
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, AMERICA TV HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1607040214/ei/dijJX4jBBfGKir4Pt_CA0AE/ip/2806%3A103e%3A23%3A3646%3Af831%3A9483%3Ab5f%3A202c/id/2Vyx4ee2Tss.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/mx/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcA6NTQJKHbSli0dDdAzp4hOmvRg4DT8l30hOV7A70I8CIAVPZzhRD6ct2gS6lySpIaqyC94VMcHPX76now4IGeAx/file/index.m3u8
-
 #EXTINF:-1, TELE SUR VENEZUELA HD
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
