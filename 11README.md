@@ -286,6 +286,9 @@ http://156.96.44.13:8081/televall2021/46_.m3u8
 #EXTINF:-1, VH-1 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=217&format=HLS&f=.m3u8
 
+#EXTINF:-1, CONCERT HD
+http://156.96.44.13:8081/televall2021/307_.m3u8
+
 #EXTINF:-1, TELEHIT MUSICA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=218&format=HLS&f=.m3u8
 
