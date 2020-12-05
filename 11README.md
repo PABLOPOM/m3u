@@ -95,7 +95,7 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=88&format=HLS&f=.m3u8
 
 #EXTINF:-1, HOLA TV HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF:-1, HISPAN TV HD
 https://live1.presstv.com/live/hispan.m3u8
