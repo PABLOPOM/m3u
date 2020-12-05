@@ -94,6 +94,9 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m
 #EXTINF:-1, TV4.3 GUANAJUATO HD
 http://156.96.44.13:8081/televall2021/280_.m3u8
 
+#EXTINF:-1, CANAL 10 CANCÚN HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, ANIMAL PLANET HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=88&format=HLS&f=.m3u8
 
