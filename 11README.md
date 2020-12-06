@@ -181,7 +181,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, RT NOTICIAS HD
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
-#EXTINF:-1, CNN ESPAÑOL total HD
+#EXTINF:-1, CNN ESPAÑOL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=187&format=HLS&f=.m3u8
 
 #EXTINF:-1, CNN ESPAÑOL SD
