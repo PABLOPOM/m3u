@@ -112,6 +112,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, HISPAN TV HD
 https://live1.presstv.com/live/hispan.m3u8
 
+#ENTINF:-1, DW ALEMANIA EN ESPAÑOL SD
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
 #EXTINF:-1, TVE LA 1 Total HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=198&format=HLS&f=.m3u8
 
@@ -292,7 +295,7 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1, FILMS & ARTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=137&format=HLS&f=.m3u8
 
-#EXTINF:-1, MELODY CHANNEL.TV
+#EXTINF:-1, MELODY CHANNEL TV
 https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
 
 #EXTINF:-1, VH-1 HD
