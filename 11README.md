@@ -112,7 +112,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, HISPAN TV HD
 https://live1.presstv.com/live/hispan.m3u8
 
-#ENTINF:-1, DW ALEMANIA EN ESPAÑOL SD
+#EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1, TVE LA 1 Total HD
@@ -283,7 +283,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, MARIAVISION HD
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1, eE SD
+#EXTINF:-1, eE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=136&format=HLS&f=.m3u8
 
 #EXTINF:-1, EXA TV
