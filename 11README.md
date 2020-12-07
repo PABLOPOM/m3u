@@ -148,6 +148,9 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u
 #EXTINF:-1, TELE SUR VENEZUELA HD
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
+#EXTINF:-1, HOGAR PLUTO TV HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3&deviceVersion=4.0&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&deviceType=web&deviceMake=Android%2BBrowser&sid=7c6fbc85-38c3-11eb-a920-0242ac110002&advertisingId=&deviceLat=20.9192&deviceLon=-101.7886&deviceDNT=0&deviceModel=Android%2BBrowser&userId=&appName=web
+
 #EXTINF:-1, HOME & HEART 
 http://156.96.44.13:8081/televall2021/116_.m3u8
 
