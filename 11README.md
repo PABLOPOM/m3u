@@ -172,6 +172,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, NATIONAL GEOGRAFIC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=91&format=HLS&f=.m3u8
 
+#EXTINF:-1, PLUTO VIAJES HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3&deviceVersion=4.0&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&deviceType=web&deviceMake=Android%2BBrowser&sid=25cce8b2-38b6-11eb-8335-0242ac110002&advertisingId=&deviceLat=20.9192&deviceLon=-101.7886&deviceDNT=0&deviceModel=Android%2BBrowser&userId=&appName=web
+
 #EXTINF:-1, WODI HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=102&format=HLS&f=.m3u8
 
