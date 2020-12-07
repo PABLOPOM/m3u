@@ -280,6 +280,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, CINE CANAL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=149&format=HLS&f=.m3u8
 
+#EXTINF:-1, COCINA PLUTO TV HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3&deviceVersion=4.0&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&deviceType=web&deviceMake=Android%2BBrowser&sid=7c6fbc85-38c3-11eb-a920-0242ac110002&advertisingId=&deviceLat=20.9192&deviceLon=-101.7886&deviceDNT=0&deviceModel=Android%2BBrowser&userId=&appName=web
+
 #EXTINF:-1, GOURMET HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=74&format=HLS&f=.m3u8
 
