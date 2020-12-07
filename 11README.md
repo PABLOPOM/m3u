@@ -35,7 +35,7 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 #EXTINF:-1, TELEMUNDO 51 HD 2
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1712.m3u8
+https://miap.xyz/151/serverkey.m3u8
 
 #EXTINF:-1, TELEMUNDO 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
