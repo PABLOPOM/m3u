@@ -4,7 +4,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, UNIVISION MIAMI HD
 http://156.96.44.13:8081/televall2021/59_.m3u8
 
-#EXTINF:-1, UNIVISION CDGO
+#EXTINF:-1, UNIVISION 23
 https://miap.xyz/152/serverkey.m3u8
 
 #EXTINF:-1, UNIVISION SIN COMERCIALES HD
