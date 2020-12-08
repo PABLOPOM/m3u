@@ -104,7 +104,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=88&format=HLS&f=.m3u8
 
 #EXTINF:-1, FASHION HD
-http://156.96.44.13:8081/televall2021/65_.m3u8
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1, FASHION HD PLUTO TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=23f64a2d-d36d-4d78-bee8-f4ff3317a749&deviceLat=20.9192&deviceLon=-101.7886&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1260edd3-38a1-11eb-8335-0242ac110002&userId=&serverSideAds=true
