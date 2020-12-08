@@ -37,8 +37,8 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1, TELEMUNDO 51 HD
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
-#EXTINF:-1, TELEMUNDO 51 HD 2
-https://miap.xyz/151/serverkey.m3u8
+#EXTINF:-1, TELEMUNDO 51 HD COD
+https://miap.xyz/239/serverkey.m3u8
 
 #EXTINF:-1, TELEMUNDO 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
