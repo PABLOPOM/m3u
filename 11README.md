@@ -37,7 +37,7 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1, TELEMUNDO 51 HD
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
-#EXTINF:-1, TELEMUNDO 51 HD COD
+#EXTINF:-1, TELEMUNDO 51 HD PUERTO RICO
 https://miap.xyz/239/serverkey.m3u8
 
 #EXTINF:-1, TELEMUNDO 
