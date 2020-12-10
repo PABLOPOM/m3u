@@ -28,9 +28,6 @@ http://156.96.44.13:8081/televall2021/62_.m3u8
 #EXTINF:-1, GALAVISIÓN USA HD
 http://156.96.44.13:8081/televall2021/63_.m3u8
 
-#EXTINF:-1, TELEMUNDO 47 HD
-http://145.239.2.125:32325/live/012d6da53efd4018b14f9cbf0f3c6f51/e32d0e9269bf45b995c68ed1608f0e7d/96.m3u8
-
 #EXTINF:-1, TELEMUNDO OPC
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
@@ -40,7 +37,7 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1, TELEMUNDO 51 HD PUERTO RICO
 https://miap.xyz/239/serverkey.m3u8
 
-#EXTINF:-1, TELEMUNDO 
+#EXTINF:-1, TELEMUNDO CHICAGO
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
