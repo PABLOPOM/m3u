@@ -1,10 +1,10 @@
 #EXTINF:-1, TOTALPLAY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1, UNIVISION MIAMI HD
+#EXTINF:-1, UNIVISION 
 http://156.96.44.13:8081/televall2021/59_.m3u8
 
-#EXTINF:-1, UNIVISION 23
+#EXTINF:-1, UNIVISION MIAMI HD
 https://miap.xyz/152/serverkey.m3u8
 
 #EXTINF:-1, UNIVISION SIN COMERCIALES HD
@@ -28,13 +28,10 @@ http://156.96.44.13:8081/televall2021/62_.m3u8
 #EXTINF:-1, GALAVISIÓN USA HD
 http://156.96.44.13:8081/televall2021/63_.m3u8
 
-#EXTINF:-1, TELEMUNDO OPC
+#EXTINF:-1, TELEMUNDO 51
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
-#EXTINF:-1, TELEMUNDO 51 HD
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-
-#EXTINF:-1, TELEMUNDO 51 HD PUERTO RICO
+#EXTINF:-1, TELEMUNDO HD PUERTO RICO
 https://miap.xyz/239/serverkey.m3u8
 
 #EXTINF:-1, TELEMUNDO CHICAGO
