@@ -1,11 +1,11 @@
 #EXTINF:-1, TOTALPLAY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1, UNIVISION 
-http://156.96.44.13:8081/televall2021/59_.m3u8
-
 #EXTINF:-1, UNIVISION MIAMI HD
 https://miap.xyz/152/serverkey.m3u8
+
+#EXTINF:-1, UNIVISION 
+http://156.96.44.13:8081/televall2021/59_.m3u8
 
 #EXTINF:-1, UNIVISION SIN COMERCIALES HD
 http://156.96.44.13:8081/televall2021/317_.m3u8
@@ -13,20 +13,11 @@ http://156.96.44.13:8081/televall2021/317_.m3u8
 #EXTINF:-1, UNIVISION USA
 http://156.96.44.13:8081/televall2021/58_.m3u8
 
-#EXTINF:-1, UNIVISION 1
-https://miap.xyz/152/serverkey.m3u8
-
-#EXTINF:-1, UNIVISION 2
-https://speedmindecv2.tecltda.club/123456789version2/35_.m3u8
-
 #EXTINF:-1, UNIVISION D AMERICA
 http://156.96.44.13:8081/televall2021/57_.m3u8
 
 #EXTINF:-1, UNIMAS HD
 http://156.96.44.13:8081/televall2021/62_.m3u8
-
-#EXTINF:-1, GALAVISIÓN USA HD
-http://156.96.44.13:8081/televall2021/63_.m3u8
 
 #EXTINF:-1, TELEMUNDO 51
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
@@ -39,6 +30,9 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&reba
 
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+
+#EXTINF:-1, GALAVISIÓN USA HD
+http://156.96.44.13:8081/televall2021/63_.m3u8
 
 #EXTINF:-1, A3CINE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3112&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8 
