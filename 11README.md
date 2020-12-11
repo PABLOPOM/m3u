@@ -4,18 +4,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, UNIVISION MIAMI HD
 https://miap.xyz/152/serverkey.m3u8
 
-#EXTINF:-1, UNIVISION 
-http://156.96.44.13:8081/televall2021/59_.m3u8
-
-#EXTINF:-1, UNIVISION SIN COMERCIALES HD
-http://156.96.44.13:8081/televall2021/317_.m3u8
-
-#EXTINF:-1, UNIVISION USA
-http://156.96.44.13:8081/televall2021/58_.m3u8
-
-#EXTINF:-1, UNIVISION D AMERICA
-http://156.96.44.13:8081/televall2021/57_.m3u8
-
 #EXTINF:-1, TELEMUNDO 51 UHD
 https://miap.xyz/151/serverkey.m3u8
 
