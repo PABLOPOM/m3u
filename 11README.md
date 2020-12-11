@@ -18,8 +18,10 @@ http://156.96.44.13:8081/televall2021/57_.m3u8
 
 #EXTINF:-1, UNIMAS HD
 http://156.96.44.13:8081/televall2021/62_.m3u8
+
 #EXTINF:-1, TELEMUNDO 51
 https://miap.xyz/151/serverkey.m3u8
+
 #EXTINF:-1, TELEMUNDO 51
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
