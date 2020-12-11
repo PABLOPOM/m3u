@@ -16,10 +16,7 @@ http://156.96.44.13:8081/televall2021/58_.m3u8
 #EXTINF:-1, UNIVISION D AMERICA
 http://156.96.44.13:8081/televall2021/57_.m3u8
 
-#EXTINF:-1, UNIMAS HD
-http://156.96.44.13:8081/televall2021/62_.m3u8
-
-#EXTINF:-1, TELEMUNDO 51
+#EXTINF:-1, TELEMUNDO 51 UHD
 https://miap.xyz/151/serverkey.m3u8
 
 #EXTINF:-1, TELEMUNDO 51
@@ -33,6 +30,9 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&reba
 
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+
+#EXTINF:-1, UNIMAS HD
+http://156.96.44.13:8081/televall2021/62_.m3u8
 
 #EXTINF:-1, GALAVISIÓN USA HD
 http://156.96.44.13:8081/televall2021/63_.m3u8
