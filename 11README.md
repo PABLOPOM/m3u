@@ -25,6 +25,9 @@ http://156.96.44.13:8081/televall2021/62_.m3u8
 #EXTINF:-1, GALAVISIÓN USA HD
 http://156.96.44.13:8081/televall2021/63_.m3u8
 
+#EXTINF:-1, ZEE MUNDO HD
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1, A3CINE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3112&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8 
 
