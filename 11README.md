@@ -1,6 +1,9 @@
 #EXTINF:-1, TOTALPLAY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=02&format=HLS&f=.m3u8
 
+#EXTINF:-1, LAS ESTRELLAS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2328&format=HLS&f=.m3u8
+
 #EXTINF:-1, UNIVISION MIAMI HD
 https://miap.xyz/152/serverkey.m3u8
 
@@ -201,12 +204,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&s=zecpk
 
 #EXTINF:-1, ADN 40 HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-
-#EXTINF:-1, LAS ESTRELLAS HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2328&format=HLS&f=.m3u8
-
-#EXTINF:-1, LAS ESTRELLAS -1H
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1436.m3u8
 
 #EXTINF:-1, AZ CLIC HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
