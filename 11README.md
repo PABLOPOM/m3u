@@ -322,8 +322,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, VH-1 CLASSIC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=214&format=HLS&f=.m3u8
 
-#EXTINF:-1, CONCERT HD
-http://156.96.44.13:8081/televall2021/307_.m3u8
+#EXTINF:-1, EUROLATINA HD
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 
 #EXTINF:-1, NORTEvisión HD
 http://amaru.dyndns.org:8835/0.m3u8
