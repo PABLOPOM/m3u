@@ -202,12 +202,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, A+ HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2348&format=HLS&f=.m3u8
 
-#EXTINF:-1, FOX CHANNEL HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=46&format=HLS&f=.m3u8
-
-#EXTINF:-1, FOX LIFE
-https://miap.xyz/64/serverkey.m3u8
-
 #EXTINF:-1, CANAL 5 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2243&format=HLS&f=.m3u8
 
@@ -240,6 +234,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 
 #EXTINF:-1, DE PELICULA SD HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=335&format=HLS&f=.m3u8
+
+#EXTINF:-1, FOX CHANNEL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=46&format=HLS&f=.m3u8
+
+#EXTINF:-1, FOX LIFE
+https://miap.xyz/64/serverkey.m3u8
 
 #EXTINF:-1, TNT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=126&format=HLS&f=.m3u8
