@@ -205,8 +205,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, FOX CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=46&format=HLS&f=.m3u8
 
-#EXTINF:-1, FOX CLASSICS
-https://blackghost.live/play/darkplay-124.php?c=124
+#EXTINF:-1, FOX LIFE
+https://miap.xyz/64/serverkey.m3u8
 
 #EXTINF:-1, CANAL 5 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2243&format=HLS&f=.m3u8
