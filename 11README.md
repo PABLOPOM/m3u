@@ -301,6 +301,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1, eE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=136&format=HLS&f=.m3u8
 
+#EXTINF:-1, LATINOS UP HD
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+
 #EXTINF:-1, TOP LATINO HD
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 
