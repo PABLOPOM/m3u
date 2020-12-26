@@ -31,6 +31,12 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=2b6b
 #EXTINF:-1, NUEVE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=24&format=HLS&f=.m3u8
 
+#EXTINF:-1, CENTRAL COMEDIA HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=340&format=HLS&f=.m3u8
+
+#EXTINF:-1, DISTRITO COMEDIA HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=78&format=HLS&f=.m3u8
+
 #EXTINF:-1, JUSTICIA TV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=196&format=HLS&f=.m3u8
 
@@ -381,9 +387,3 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 
 #EXTINF:-1, ESPN HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=167&format=HLS&f=.m3u8
-
-#EXTINF:-1, CENTRAL COMEDIA HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=340&format=HLS&f=.m3u8
-
-#EXTINF:-1, DISTRITO COMEDIA HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=78&format=HLS&f=.m3u8
