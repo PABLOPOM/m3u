@@ -67,8 +67,8 @@ https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae5440
 #EXTINF:-1, CANAL 10 CANCÚN HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, TV UNAM HD
-https://playback2.akamaized.net/streams/27177136_8970901_lsi1pfe9n8erp8he42j_1/exp=1607567464~acl=%2f*~data=hdntl~hmac=1967b98e3e34d484077ab157bd149c813fdbcbd6e8f6536413692401a23a15f4/media/27177136_8970901_lsi1pfe9n8erp8he42j_1@1628000p.m3u8
+#EXTINF:-1, QUIERO TV HD
+https://quierotvlive.tk/httplive/playlist.m3u8
 
 #EXTINF:-1, ANIMAL PLANET HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=88&format=HLS&f=.m3u8
