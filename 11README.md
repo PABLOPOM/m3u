@@ -70,9 +70,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, QUIERO TV HD
 https://quierotvlive.tk/httplive/playlist.m3u8
 
-#EXTINF:-1, ANIMAL PLANET HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=88&format=HLS&f=.m3u8
-
 #EXTINF:-1, FASHION HD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
@@ -138,6 +135,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 
 #EXTINF:-1, HISTORY CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=89&format=HLS&f=.m3u8
+
+#EXTINF:-1, ANIMAL PLANET HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=88&format=HLS&f=.m3u8
 
 #EXTINF:-1, NAT WILD HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=92&format=HLS&f=.m3u8
