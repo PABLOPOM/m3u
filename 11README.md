@@ -151,20 +151,23 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb00009
 #EXTINF:-1, HOME & HEART SD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1, HOME & HEART HD
+#EXTINF:-1, DISCOVERY HOME & HEART HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=96&format=HLS&f=.m3u8
 
-#EXTINF:-1, WORLD DISCOVERY HD
+#EXTINF:-1,  DISCOVERY WORLD  HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=101&format=HLS&f=.m3u8
 
 #EXTINF:-1, DISCOVERY THEATER HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=95&format=HLS&f=.m3u8
 
-#EXTINF:-1, TLC HD
+#EXTINF:-1, DISCOVERY TLC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2380&format=HLS&f=.m3u8
 
 #EXTINF:-1, DISCOVERY SCIENCE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=98&format=HLS&f=.m3u8
+
+#EXTINF:-1, DISCOVERY TURBO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2379&format=HLS&f=.m3u8
 
 #EXTINF:-1, HISTORY CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=89&format=HLS&f=.m3u8
