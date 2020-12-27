@@ -121,6 +121,9 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1, MULTIVISION HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
+#EXTINF:-1, MICROVISIÓN HD
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
 #EXTINF:-1, ANTENA 3 HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -306,9 +309,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 
 #EXTINF:-1, DISNEY CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=113&format=HLS&f=.m3u8
-
-#EXTINF:-1, MICROVISIÓN HD
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1, TCM SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=128&format=HLS&f=.m3u8
