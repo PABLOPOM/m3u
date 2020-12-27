@@ -307,6 +307,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, DISNEY CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=113&format=HLS&f=.m3u8
 
+#EXTINF:-1, MICROVISIÓN HD
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
 #EXTINF:-1, TCM SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=128&format=HLS&f=.m3u8
 
