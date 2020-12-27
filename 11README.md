@@ -28,9 +28,6 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&reba
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 
-#EXTINF:-1, GALA TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=24&format=HLS&f=.m3u8
-
 #EXTINF:-1, NUEVE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=24&format=HLS&f=.m3u8
 
