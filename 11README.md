@@ -89,6 +89,9 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?Pl
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=401&format=HLS&f=.m3u8
 
 #EXTINF:-1, TV4 GUANAJUATO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2274&format=HLS&f=.m3u8
+
+#EXTINF:-1, TV4 GUANAJUATO HD OPC.2
 https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
 
 #EXTINF:-1, TV4.2 GUANAJUATO HD
