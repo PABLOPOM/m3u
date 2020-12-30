@@ -121,11 +121,8 @@ https://live1.presstv.com/live/hispan.m3u8
 #EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1, TVE LA 1 Total HD
+#EXTINF:-1, TVE LA 1 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=198&format=HLS&f=.m3u8
-
-#EXTINF:-1, TVE LA 1 HD 1
-http://156.96.44.13:8081/televall2021/138_.m3u8
 
 #EXTINF:-1, TVE LA 2 HD
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
@@ -140,7 +137,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1, ANTENA 3 HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=199&format=HLS&f=.m3u8
 
 #EXTINF:-1, TV GALICIA AMERICA HD
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
