@@ -50,7 +50,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1, TELEVISA DEL BAJÍO HD
-https://m.youtube.com/watch?v=iHewak_pmQg
+https://m.youtube.com/watch?v=iHewak_pmQg.m3u8
 
 #EXTINF:-1, CENTRAL COMEDIA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=340&format=HLS&f=.m3u8
@@ -417,6 +417,9 @@ http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 
 #EXTINF:-1, TRAVEL HD MUSIC
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
+#EXTINF:-1, CA MUSIC HD
+https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ARTS HD
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
