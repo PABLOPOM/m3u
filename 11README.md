@@ -476,6 +476,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=170&format=HLS&f=.m3u8
 
 #EXTINF:-1, ESPN HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=169&format=HLS&f=.m3u8
+
+
+
+#EXTINF:-1, ESPN EXTRA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=167&format=HLS&f=.m3u8
 
 #EXTINF:-1, TVC DEPORTES HD
