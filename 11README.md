@@ -13,6 +13,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&s=zecpk
 #EXTINF:-1, UNIVISION MIAMI HD
 https://miap.xyz/152/serverkey.m3u8
 
+#EXTINF:-1, UNIVISION PUERTO RICO HD
+https://miap.xyz/240/serverkey.m3u8
+
 #EXTINF:-1, TELEMUNDO 51 UHD
 https://miap.xyz/151/serverkey.m3u8
 
