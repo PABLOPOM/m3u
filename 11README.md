@@ -46,6 +46,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, NU9VE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=24&format=HLS&f=.m3u8
 
+#EXTINF:-1, MULTIMEDIOS BAJÍO HD
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
 #EXTINF:-1, TELEVISA DEL BAJÍO HD
 https://m.youtube.com/watch?v=iHewak_pmQg
 
