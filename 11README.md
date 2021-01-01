@@ -322,6 +322,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, DE PELICULA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=335&format=HLS&f=.m3u8
 
+#EXTINF:-1, PELÍCULAS CANTINFLAS
+zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/887.m3u8
+
+#EXTINF:-1, SERIES AÑOS MARAVILLOSOS
+http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/881.m3u8
+
 #EXTINF:-1, FOX CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=46&format=HLS&f=.m3u8
 
