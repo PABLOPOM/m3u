@@ -328,6 +328,9 @@ zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaed
 #EXTINF:-1, EL CHAPULÍN COLORADO
 http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/896.m3u8
 
+#EXTINF:-1, EL CHAVO DEL OCHO
+http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/897.m3u8
+
 #EXTINF:-1, SERIES AÑOS MARAVILLOSOS
 http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/881.m3u8
 
