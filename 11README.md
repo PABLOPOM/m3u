@@ -328,6 +328,9 @@ zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaed
 #EXTINF:-1, SERIES AÑOS MARAVILLOSOS
 http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/881.m3u8
 
+#EXTINF:-1, LOS SIMPSON
+http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/877.m3u8
+
 #EXTINF:-1, FOX CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=46&format=HLS&f=.m3u8
 
