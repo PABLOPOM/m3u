@@ -322,21 +322,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, DE PELICULA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=335&format=HLS&f=.m3u8
 
-#EXTINF:-1, PELÍCULAS CANTINFLAS
-https://blackghost.live/play/zufree-123.php?c=887
-
-#EXTINF:-1, EL CHAPULÍN COLORADO
-http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/896.m3u8
-
-#EXTINF:-1, EL CHAVO DEL OCHO
-http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/897.m3u8
-
-#EXTINF:-1, SERIES AÑOS MARAVILLOSOS
-http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/881.m3u8
-
-#EXTINF:-1, LOS SIMPSON
-http://zufreelist.net:8080/live/sdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdfsdgfaedrgssdvzdf/sdgfaedrgssdvzdfsdgfaedrgssdvzdf/877.m3u8
-
 #EXTINF:-1, FOX CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=46&format=HLS&f=.m3u8
 
