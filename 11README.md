@@ -64,6 +64,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, TELEVISA PUEBLA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2312&format=HLS&f=.m3u8
 
+#EXTINF:-1, TELEVISA MONTERREY CANAL 8 HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2307&format=HLS&f=.m3u8
+
 #EXTINF:-1, TVMÁS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2324&format=HLS&f=.m3u8
 
