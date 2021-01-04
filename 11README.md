@@ -95,7 +95,7 @@ http://156.96.44.13:8081/televall2021/12_.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=700&format=HLS&f=.m3u8
 
 #EXTINF:-1, ADN 40 HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=184&format=HLS&f=.m3u8
 
 #EXTINF:-1, MILENIO NOTICIAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=1252&format=HLS&f=.m3u8
