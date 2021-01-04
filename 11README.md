@@ -187,6 +187,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, 24h NOTICIAS HD TV ESPAÑOLA
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
+#EXTINF:-1, NET TV HD
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
 #EXTINF:-1, MULTIVISION HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
