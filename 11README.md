@@ -10,20 +10,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, UNIVISION MIAMI HD
 https://miap.xyz/152/serverkey.m3u8
 
-#EXTINF:-1, UNIVISION PUERTO RICO HD
-https://miap.xyz/240/serverkey.m3u8
-
 #EXTINF:-1, TELEMUNDO 51 UHD
 https://miap.xyz/151/serverkey.m3u8
-
-#EXTINF:-1, TELEMUNDO 51
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
-
-#EXTINF:-1, TELEMUNDO HD PUERTO RICO
-https://miap.xyz/239/serverkey.m3u8
-
-#EXTINF:-1, TELEMUNDO CHICAGO
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=85&format=HLS&f=.m3u8
@@ -171,6 +159,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007
 
 #EXTINF:-1, HOLA TV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=219&format=HLS&f=.m3u8
+
+#EXTINF:-1, UNIVISION PUERTO RICO HD
+https://miap.xyz/240/serverkey.m3u8
+
+#EXTINF:-1, TELEMUNDO 51
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
+
+#EXTINF:-1, TELEMUNDO HD PUERTO RICO
+https://miap.xyz/239/serverkey.m3u8
+
+#EXTINF:-1, TELEMUNDO CHICAGO
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, TVE LA 1 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=198&format=HLS&f=.m3u8
