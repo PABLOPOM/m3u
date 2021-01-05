@@ -214,6 +214,9 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u
 #EXTINF:-1, TELE SUR VENEZUELA HD
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
+#EXTINF:-1, TELE SUR COSTA RICA HD
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
 #EXTINF:-1, TVC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2156&format=HLS&f=.m3u8
 
