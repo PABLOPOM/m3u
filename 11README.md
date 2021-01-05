@@ -202,13 +202,13 @@ http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, MOMENTOS GALICIA HD
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, CANAL SUR ANDALUCÍA HD
+#EXTINF:-1, CANALSUR ANDALUCÍA HD
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, TELE SUR VENEZUELA HD
+#EXTINF:-1, TELESUR VENEZUELA HD
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1, TELE SUR COSTA RICA HD
+#EXTINF:-1, TELESUR COSTA RICA HD
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1, TVC HD
