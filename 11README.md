@@ -80,7 +80,7 @@ https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 https://live1.presstv.com/live/hispan.m3u8
 
 #EXTINF:-1, FRANCE24 HD
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
