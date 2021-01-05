@@ -82,6 +82,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, RT NOTICIAS HD
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
+#EXTINF:-1, HISPAN TV HD
+https://live1.presstv.com/live/hispan.m3u8
+
+#EXTINF:-1, FRANCE24 HD
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
 #EXTINF:-1, CNN ESPAÑOL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=187&format=HLS&f=.m3u8
 
@@ -171,12 +180,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007
 
 #EXTINF:-1, HOLA TV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=219&format=HLS&f=.m3u8
-
-#EXTINF:-1, HISPAN TV HD
-https://live1.presstv.com/live/hispan.m3u8
-
-#EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1, TVE LA 1 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=198&format=HLS&f=.m3u8
