@@ -488,7 +488,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 http://198.1.123.99:1935/live/myStream/.m3u8
 
 #EXTINF:-1, TELEHIT URBANO
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=218&format=HLS&f=.m3u8
 
 #EXTINF:-1, TELEHIT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=220&format=HLS&f=.m3u8
