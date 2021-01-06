@@ -10,7 +10,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, UNIVISION MIAMI HD
 https://miap.xyz/152/serverkey.m3u8
 
-#EXTINF:-1, TELEMUNDO 51 UHD
+#EXTINF:-1, TELEMUNDO 51 HD
 https://miap.xyz/151/serverkey.m3u8
 
 #EXTINF:-1, IMAGEN TELEVISION HD
