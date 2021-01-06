@@ -475,9 +475,6 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 #EXTINF:-1, NORTEvisión HD
 http://amaru.dyndns.org:8835/0.m3u8
 
-#EXTINF:-1, TELEHIT MUSICA
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=218&format=HLS&f=.m3u8
-
 #EXTINF:-1, KRONEHIT AUSTRIA 
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
