@@ -502,6 +502,9 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1, TUDN HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=174&format=HLS&f=.m3u8
 
+#EXTINF:-1, ADRENALINA HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2404&format=HLS&f=.m3u8
+
 #EXTINF:-1, FOX SPORTS 3 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=178&format=HLS&f=.m3u8
 
