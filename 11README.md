@@ -1,10 +1,7 @@
 #EXTINF:-1, TOTALPLAY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2328&format=HLS&f=.m3u8
-
-#EXTINF:-1, LAS ESTRELLAS HD OPC. 2
+#EXTINF:-1, LAS ESTRELLAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=17&format=HLS&f=.m3u8
 
 #EXTINF:-1, AZTECA UNO HD
