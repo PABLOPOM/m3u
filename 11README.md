@@ -79,6 +79,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, RT NOTICIAS HD
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
+#EXTINF:-1, PLUTO NOTICIAS HD
+https://telefe-latam-plutolive-vo.akamaized.net/hls/live/2019733/pluto/master-pluto.m3u8
+
 #EXTINF:-1, HISPAN TV HD
 https://live1.presstv.com/live/hispan.m3u8
 
