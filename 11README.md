@@ -439,7 +439,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, DISNEY JUNIOR HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=118&format=HLS&f=.m3u8
 
-#EXTINF:-1, DISNEY XD
+#EXTINF:-1, DISNEY XD HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=111&format=HLS&f=.m3u8
 
 #EXTINF:-1, CARTOON NETWORK HD
