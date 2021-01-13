@@ -265,7 +265,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, NAT WILD HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=92&format=HLS&f=.m3u8
 
-#EXTINF:-1, NAT WILD KIDS
+#EXTINF:-1, NAT GEO KIDS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2373&format=HLS&f=.m3u8
 
 #EXTINF:-1, NATIONAL GEOGRAFIC HD
