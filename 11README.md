@@ -439,7 +439,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, CARTOON NETWORK HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=112&format=HLS&f=.m3u8
 
-#EXTINF:-1, TOONCAST
+#EXTINF:-1, BOOMERANG HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=115&format=HLS&f=.m3u8
+
+#EXTINF:-1, TOONCAST HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=108&format=HLS&f=.m3u8
 
 #EXTINF:-1, NICK JR. HD
