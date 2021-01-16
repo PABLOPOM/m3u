@@ -190,6 +190,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, 24h NOTICIAS HD TV ESPAÑOLA
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
+#EXTINF:-1, COSMO TV HD
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
 #EXTINF:-1, NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
