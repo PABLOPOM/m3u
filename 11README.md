@@ -89,7 +89,7 @@ https://live1.presstv.com/live/hispan.m3u8
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
 #EXTINF:-1, CNN ESPAÑOL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=187&format=HLS&f=.m3u8
@@ -157,15 +157,6 @@ https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1, TELEMAX HD
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1, FASHION HD
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1, FASHION HD PLUTO TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=23f64a2d-d36d-4d78-bee8-f4ff3317a749&deviceLat=20.9192&deviceLon=-101.7886&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1260edd3-38a1-11eb-8335-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1, HOLA TV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=219&format=HLS&f=.m3u8
-
 #EXTINF:-1, UNIVISION PUERTO RICO HD
 https://miap.xyz/240/serverkey.m3u8
 
@@ -222,6 +213,15 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1, TVC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2156&format=HLS&f=.m3u8
+
+#EXTINF:-1, FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, FASHION HD PLUTO TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=23f64a2d-d36d-4d78-bee8-f4ff3317a749&deviceLat=20.9192&deviceLon=-101.7886&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1260edd3-38a1-11eb-8335-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1, HOLA TV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF:-1, HOGAR PLUTO TV HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3&deviceLat=20.9192&deviceLon=-101.7886&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=bc69e070-38fc-11eb-9da6-0242ac110002&userId=&serverSideAds=true
@@ -306,9 +306,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 
 #EXTINF:-1, E ENTRETEMIENT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=55&format=HLS&f=.m3u8 
-
-#EXTINF:-1, COSMO HD
-http://91.126.141.201:1935/live/cosmoHD/.m3u8
 
 #EXTINF:-1, ISAT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=135&format=HLS&f=.m3u8
