@@ -262,6 +262,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, DISCOVERY TURBO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2379&format=HLS&f=.m3u8
 
+#EXTINF:-1, DISCOVERY MAX HD
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
+
 #EXTINF:-1, HISTORY CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=89&format=HLS&f=.m3u8
 
