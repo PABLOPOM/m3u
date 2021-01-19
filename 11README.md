@@ -535,10 +535,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1, NEX TV HD
 http://198.1.123.99:1935/live/myStream/.m3u8
 
-#EXTINF:-1, TELEHIT URBANO
+#EXTINF:-1, TELEHIT MUSICA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=218&format=HLS&f=.m3u8
 
-#EXTINF:-1, TELEHIT HD
+#EXTINF:-1, TELEHIT MUSICA PLUS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=220&format=HLS&f=.m3u8
 
 #EXTINF:-1, BANDAMAX HD
