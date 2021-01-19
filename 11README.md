@@ -490,6 +490,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 #EXTINF:-1, MTV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=212&format=HLS&f=.m3u8
 
+#EXTINF:-1, LATIDO MUSIC
+https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1, LATINOS UP HD
 https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
 
