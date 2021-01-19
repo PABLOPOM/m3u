@@ -496,9 +496,6 @@ https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
 #EXTINF:-1, TOP LATINO HD
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 
-#EXTINF:-1, TELEMUSICA
-http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
-
 #EXTINF:-1, TRAVEL HD MUSIC
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
