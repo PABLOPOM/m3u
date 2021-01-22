@@ -17,7 +17,7 @@ https://miap.xyz/152/serverkey.m3u8
 https://miap.xyz/151/serverkey.m3u8
 
 #EXTINF:-1, IMAGEN TELEVISION HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2298&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1, AZTECA SIETE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=317&format=HLS&f=.m3u8
