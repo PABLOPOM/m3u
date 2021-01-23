@@ -101,10 +101,10 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=187&format=HLS&f=.m3u8
 
 #EXTINF:-1, TELEFORMULA HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=32&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=32&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL DEL CONGRESO HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2331&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=2331&format=HLS&f=.m3u8
 
 #EXTINF:-1, JUSTICIA TV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=196&format=HLS&f=.m3u8
