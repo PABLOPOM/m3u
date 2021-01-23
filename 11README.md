@@ -122,8 +122,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidyk
 https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
 
 #EXTINF:-1, CANAL ONCE NIÑOS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=3315&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=3315&format=HLS&f=.m3u8
 #EXTINF:-1, CANAL 22 HD
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
@@ -131,17 +130,14 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wms
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 #EXTINF:-1, MEXIQUENSE TELEVISIÓN total HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=44&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=44&format=HLS&f=.m3u8
 #EXTINF:-1, MEXIQUENSE TELEVISIÓN HD OPC. 2
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, INGENIO TV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=401&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=401&format=HLS&f=.m3u8
 #EXTINF:-1, TV4 GUANAJUATO HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2274&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=2274&format=HLS&f=.m3u8
 #EXTINF:-1, TV4 GUANAJUATO HD OPC.2
 https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
 
