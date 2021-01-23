@@ -26,16 +26,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidyk
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=3316&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL 5 HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2243&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=2243&format=HLS&f=.m3u8
 #EXTINF:-1, NU9VE HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=24&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=24&format=HLS&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS BAJÍO HD
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1, MULTIMEDIOS CDMX HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=1253&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=1253&format=HLS&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS MONTERREY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2305&format=HLS&f=.m3u8
