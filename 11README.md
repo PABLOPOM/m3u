@@ -284,7 +284,7 @@ http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=89&format=HLS&f=.m3u8
 
 #EXTINF:-1, ANIMAL PLANET HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=237&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=2378&format=HLS&f=.m3u8
 
 #EXTINF:-1, NAT WILD HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=92&format=HLS&f=.m3u8
