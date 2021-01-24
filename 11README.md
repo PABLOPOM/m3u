@@ -550,7 +550,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidyk
 #EXTINF:-1, BANDAMAX HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=221&format=HLS&f=.m3u8
 
-#EXTINF:-1, TELERITMO
+#EXTINF:-1, TELERITMO SD
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1, TUDN HD
