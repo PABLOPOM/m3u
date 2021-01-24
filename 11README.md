@@ -97,6 +97,9 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
+#EXTINF:-1, FORO TV HD
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+
 #EXTINF:-1, CNN ESPAÑOL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=187&format=HLS&f=.m3u8
 
