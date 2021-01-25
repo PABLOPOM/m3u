@@ -408,37 +408,52 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidyk
 
 #EXTINF:-1, GOLDEN HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=123&format=HLS&f=.m3u8
+
 #EXTINF:-1, GOLDEN PLUS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=122&format=HLS&f=.m3u8
+
 #EXTINF:-1, GOLDEN EDGE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=124&format=HLS&f=.m3u8
+
 #EXTINF:-1, CINEMAX HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=158&format=HLS&f=.m3u8
+
 #EXTINF:-1, PARAMOUNT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=1726&format=HLS&f=.m3u8
+
 #EXTINF:-1, SPACE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=129&format=HLS&f=.m3u8
+
 #EXTINF:-1, CINE CANAL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=149&format=HLS&f=.m3u8
+
 #EXTINF:-1, SONY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=48&format=HLS&f=.m3u8
+
 #EXTINF:-1, FX HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=60&format=HLS&f=.m3u8
+
 #EXTINF:-1, FXM HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=138&format=HLS&f=.m3u8
+
 #EXTINF:-1, WARNER HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=205&format=HLS&f=.m3u8
+
 #EXTINF:-1, SYFY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=59&format=HLS&f=.m3u8
+
 #EXTINF:-1, TCM SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=128&format=HLS&f=.m3u8
+
 #EXTINF:-1, BABY FIRST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=1984&format=HLS&f=.m3u8
+
 #EXTINF:-1, CACHIPUM TV HD
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
 #EXTINF:-1, DISNEY CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=113&format=HLS&f=.m3u8
+
 #EXTINF:-1, DISNEY JUNIOR HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=118&format=HLS&f=.m3u8
 
