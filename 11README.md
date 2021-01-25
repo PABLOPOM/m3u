@@ -349,21 +349,29 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, CANAL UNIVERSAL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=57&format=HLS&f=.m3u8
 
-#EXTINF:-1, STUDIO UNIVERSAL HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=132&format=HLS&f=.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=132&format=HLS&f=.m3u8
 
-#EXTINF:-1, AZ CINEMA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1787&format=HLS&f=.m3u8
+#EXTINF:-1, AZ CINEMA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1787&format=HLS&f=.m3u8
 
-#EXTINF:-1, DE PELICULA PLUS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=121&format=HLS&f=.m3u8
+#EXTINF:-1, DE PELICULA PLUS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=121&format=HLS&f=.m3u8
 
-#EXTINF:-1, DE PELICULA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=335&format=HLS&f=.m3u8
+#EXTINF:-1, DE PELICULA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=335&format=HLS&f=.m3u8
 
-#EXTINF:-1, CINE NOSTALGIA PLUTO TV https ://service-stitcher.clusters.pluto. 0 & ClientID = b2e8f62a-48c7-4efe-9c4e-7294acf9e404 y clientModelNumber = na y deviceDNT = false y deviceId = b2e8f62a-48c7-4efe-9c4e-7294acf9e404 y deviceLat = 21,1291 y deviceLon = -101.6781 y deviceMake = Android% 2BBrowser y DeviceModel = web & deviceType = web & deviceVersion = 4,0 y marketingRegion = VE y serverSideAds = true y Id.sesión = b8ff5c45- 4d8b-11eb-b866-0242ac110002 & sid = b8ff5c45-4d8b-11eb-b866-0242ac110002 & userId =
+#EXTINF:-1, CINE NOSTALGIA PLUTO TV 
+https ://service-stitcher.clusters.pluto. 0 & ClientID = b2e8f62a-48c7-4efe-9c4e-7294acf9e404 y clientModelNumber = na y deviceDNT = false y deviceId = b2e8f62a-48c7-4efe-9c4e-7294acf9e404 y deviceLat = 21,1291 y deviceLon = -101.6781 y deviceMake = Android% 2BBrowser y DeviceModel = web & deviceType = web & deviceVersion = 4,0 y marketingRegion = VE y serverSideAds = true y Id.sesión = b8ff5c45- 4d8b-11eb-b866-0242ac110002 & sid = b8ff5c45-4d8b-11eb-b866-0242ac110002 & userId =
 
-#EXTINF:-1, TBS https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=81&format=HLS&f=.m3u8
+#EXTINF:-1, TBS 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=81&format=HLS&f=.m3u8
 
-#EXTINF:-1, MORBIDO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=140&format=HLS&f=.m3u8
+#EXTINF:-1, MORBIDO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=140&format=HLS&f=.m3u8
 
-#EXTINF:-1, FOX CHANNEL HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=46&format=HLS&f=.m3u8
+#EXTINF:-1, FOX CHANNEL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=46&format=HLS&f=.m3u8
 
 #EXTINF:-1, FOX LIFE HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=77&format=HLS&f=.m3u8
 
