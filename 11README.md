@@ -7,37 +7,53 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, LAS ESTRELLAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=17&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS -2 HORAS https://blackghost.live/play/darkplay-104.php?c=2
+#EXTINF:-1, LAS ESTRELLAS -2 HORAS 
+https://blackghost.live/play/darkplay-104.php?c=2
 
-#EXTINF:-1, UNIVISION MIAMI HD https://miap.xyz/152/serverkey.m3u8
+#EXTINF:-1, UNIVISION MIAMI HD 
+https://miap.xyz/152/serverkey.m3u8
 
-#EXTINF:-1, TELEMUNDO 51 HD https://miap.xyz/151/serverkey.m3u8
+#EXTINF:-1, TELEMUNDO 51 HD 
+https://miap.xyz/151/serverkey.m3u8
 
-#EXTINF:-1, IMAGEN TELEVISION HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2298&format=HLS&f=.m3u8
+#EXTINF:-1, IMAGEN TELEVISION HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2298&format=HLS&f=.m3u8
 
-#EXTINF: -1, AZTECA SIETE HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=317&format=HLS&f=.m3u8
+#EXTINF:-1, AZTECA SIETE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=317&format=HLS&f=.m3u8
 
-#EXTINF: -1, AZTECA 7.3 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=3316&format=HLS&f=.m3u8
+#EXTINF:-1, AZTECA 7.3 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=3316&format=HLS&f=.m3u8
 
-#EXTINF: -1, CANAL 5 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2243&format=HLS&f=.m3u8
+#EXTINF:-1, CANAL 5 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2243&format=HLS&f=.m3u8
 
-#EXTINF: -1, NU9VE HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=24&format=HLS&f=.m3u8
+#EXTINF:-1, NU9VE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=24&format=HLS&f=.m3u8
 
-#EXTINF: -1, MULTIMEDIOS BAJÍO HD https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1, MULTIMEDIOS BAJÍO HD 
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
-#EXTINF: -1, MULTIMEDIOS CDMX HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1253&format=HLS&f=.m3u8
+#EXTINF:-1, MULTIMEDIOS CDMX HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1253&format=HLS&f=.m3u8
 
-#EXTINF: -1, MULTIMEDIOS MONTERREY HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2305&format=HLS&f=.m3u8
+#EXTINF:-1, MULTIMEDIOS MONTERREY HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2305&format=HLS&f=.m3u8
 
-#EXTINF: -1, TELEMUNDO INTERNACIONAL HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=85&format=HLS&f=.m3u8
+#EXTINF:-1, TELEMUNDO INTERNACIONAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=85&format=HLS&f=.m3u8
 
-#EXTINF: -1, CENTRAL COMEDIA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=340&format=HLS&f=.m3u8
+#EXTINF:-1, CENTRAL COMEDIA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=340&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISTRITO COMEDIA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=78&format=HLS&f=.m3u8
+#EXTINF:-1, DISTRITO COMEDIA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=78&format=HLS&f=.m3u8
 
-#EXTINF: -1, TELENOVELAS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=83&format=HLS&f=.m3u8
+#EXTINF:-1, TELENOVELAS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=83&format=HLS&f=.m3u8
 
-#EXTINF: -1, UNICABLE HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1499&format=HLS&f=.m3u8
+#EXTINF:-1, UNICABLE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1499&format=HLS&f=.m3u8
 
 #EXTINF: -1, TELEVISA PUEBLA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2312&format=HLS&f=.m3u8
 
