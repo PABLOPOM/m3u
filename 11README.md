@@ -1,16 +1,18 @@
-#EXTINF:-1, TOTALPLAY HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=02&format=HLS&f=.m3u8
+#EXTINF:-1, TOTALPLAY HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1, AZTECA UNO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=7&format=HLS&f=.m3u8
+#EXTINF:-1, 
+AZTECA UNO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=7&format=HLS&f=.m3u8
 
-#EXTINF: -1, LAS ESTRELLAS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=17&format=HLSAD&f=.m3u8
+#EXTINF:-1, LAS ESTRELLAS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=17&format=HLSAD&f=.m3u8
 
-#EXTINF: -1, LAS ESTRELLAS -2 HORAS https://blackghost.live/play/darkplay-104.php?c=2
+#EXTINF:-1, LAS ESTRELLAS -2 HORAS https://blackghost.live/play/darkplay-104.php?c=2
 
-#EXTINF: -1, UNIVISION MIAMI HD https://miap.xyz/152/serverkey.m3u8
+#EXTINF:-1, UNIVISION MIAMI HD https://miap.xyz/152/serverkey.m3u8
 
-#EXTINF: -1, TELEMUNDO 51 HD https://miap.xyz/151/serverkey.m3u8
+#EXTINF:-1, TELEMUNDO 51 HD https://miap.xyz/151/serverkey.m3u8
 
-#EXTINF: -1, IMAGEN TELEVISION HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2298&format=HLS&f=.m3u8
+#EXTINF:-1, IMAGEN TELEVISION HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF: -1, AZTECA SIETE HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=317&format=HLS&f=.m3u8
 
