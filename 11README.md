@@ -407,32 +407,23 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidyk
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=64&format=HLS&f=.m3u8
 
 #EXTINF:-1, GOLDEN HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=123&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=123&format=HLS&f=.m3u8
 #EXTINF:-1, GOLDEN PLUS HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=122&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=122&format=HLS&f=.m3u8
 #EXTINF:-1, GOLDEN EDGE HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=124&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=124&format=HLS&f=.m3u8
 #EXTINF:-1, CINEMAX HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=158&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=158&format=HLS&f=.m3u8
 #EXTINF:-1, PARAMOUNT HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=1726&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=1726&format=HLS&f=.m3u8
 #EXTINF:-1, SPACE HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=129&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=129&format=HLS&f=.m3u8
 #EXTINF:-1, CINE CANAL HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=149&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=149&format=HLS&f=.m3u8
 #EXTINF:-1, SONY HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=48&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=48&format=HLS&f=.m3u8
 #EXTINF:-1, FX HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=209&format=HLS&f=.m3u8
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=000&format=HLS&f=.m3u8
 #EXTINF:-1, FXM HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=138&format=HLS&f=.m3u8
 
