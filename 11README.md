@@ -159,7 +159,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 
 #EXTINF: -1, FASHION HD PLUTO TV https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66abaecture=buy5ed3. & clientTime = & deviceDNT = false & deviceId = 23f64a2d-d36d-4d78-bee8-f4ff3317a749 & deviceLat = 20.9192 & deviceLon = -101.7886 & deviceMake = Android% 2BBrowser & deviceModel = Android% 2BBrowser & device & device &d78-bee8-f4ff3317a749 & deviceLat = 20.9192 & deviceLon = -101.7886 & deviceMake = Android% 2BBrowser & deviceModel = Android% 2BBrowser & device & deviceTypeion = 4.011 & amp; & serverSideAds = verdadero
 
-#EXTINF: -1, HOLA TV HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=219&format=HLS&f=.m3u8
+#EXTINF:-1, HOLA TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF: -1, HOGAR PLUTO TV HD https ://service-stitcher.clusters.pluto. y clientTime = & deviceDNT = false y deviceId = d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3 y deviceLat = 20.9192 y deviceLon = -101.7886 y deviceMake = androide% 2BBrowser y DeviceModel = androide% 2BBrowser y deviceType = web & deviceVersion = 4.0 y includeExtendedEvents = false y marketingRegion = VE y sid = bc69e070-38fc-11eb-9da6-0242ac110002 y userid = & serverSideAds = verdadero
 
@@ -167,7 +168,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 
 #EXTINF: -1, CASA Y CORAZÓN SD https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF: -1, DISCOVERY HOME & HEART HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=96&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY HOME & HEART HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=96&format=HLS&f=.m3u8
 
 #EXTINF: -1, DISCOVERY CHANNEL HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=86&format=HLS&f=.m3u8
 
