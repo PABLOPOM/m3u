@@ -1,10 +1,11 @@
 #EXTINF:-1, TOTALPLAY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1, 
-AZTECA UNO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=7&format=HLS&f=.m3u8
+#EXTINF:-1, AZTECA UNO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=7&format=HLS&f=.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=17&format=HLSAD&f=.m3u8
+#EXTINF:-1, LAS ESTRELLAS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=17&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS -2 HORAS https://blackghost.live/play/darkplay-104.php?c=2
 
