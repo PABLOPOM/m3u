@@ -109,59 +109,83 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, TELEFORMULA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=32&format=HLS&f=.m3u8
 
-#EXTINF: -1, CANAL DEL CONGRESO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2331&format=HLS&f=.m3u8
+#EXTINF:-1, CANAL DEL CONGRESO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2331&format=HLS&f=.m3u8
 
-#EXTINF: -1, JUSTICIA TV HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=196&format=HLS&f=.m3u8
+#EXTINF:-1, JUSTICIA TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=196&format=HLS&f=.m3u8
 
-#EXTINF: -1, APRENDE TV HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=401&format=HLS&f=.m3u8
+#EXTINF:-1, APRENDE TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF: -1, CANAL UNA VEZ HD http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1, CANAL UNA VEZ HD 
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF: -1, CANAL UNA VEZ HD total OPC.2 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=25&format=HLS&f=.m3u8
+#EXTINF:-1, CANAL UNA VEZ HD total OPC.2 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=25&format=HLS&f=.m3u8
 
-#EXTINF: -1, CANAL ONCE INTERNACIONAL https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
+#EXTINF:-1, CANAL ONCE INTERNACIONAL 
+https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
 
-#EXTINF: -1, CANAL ONCE NIÑOS https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=3315&format=HLS&f=.m3u8
+#EXTINF:-1, CANAL ONCE NIÑOS 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=3315&format=HLS&f=.m3u8
 
-#EXTINF: -1, CANAL 22 HD https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1, CANAL 22 HD 
+https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF: -1, CORAZÓN DE LA CAPITAL HD https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1, CORAZÓN DE LA CAPITAL HD 
+https://video.cdmx.gob.mx/livestream/stream.m3u8
 
-#EXTINF: -1, MEXIQUENSE TELEVISIÓN total HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=44&format=HLS&f=.m3u8
+#EXTINF:-1, MEXIQUENSE TELEVISIÓN total HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=44&format=HLS&f=.m3u8
 
-#EXTINF: -1, MEXIQUENSE TELEVISIÓN HD OPC. 2 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, MEXIQUENSE TELEVISIÓN HD OPC. 2 
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: -1, INGENIO TV HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=401&format=HLS&f=.m3u8
+#EXTINF:-1, INGENIO TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF: -1, TV4 GUANAJUATO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2274&format=HLS&f=.m3u8
+#EXTINF:-1, TV4 GUANAJUATO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2274&format=HLS&f=.m3u8
 
-#EXTINF: -1, TV4 GUANAJUATO HD OPC.2 https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
+#EXTINF:-1, TV4 GUANAJUATO HD OPC.2 
+https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
 
-#EXTINF: -1, TV4.2 GUANAJUATO HD https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m3u8
+#EXTINF:-1, TV4.2 GUANAJUATO HD 
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m3u8
 
-#EXTINF: -1, TV4.3 GUANAJUATO HD https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
+#EXTINF:-1, TV4.3 GUANAJUATO HD 
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
 
-#EXTINF: -1, CANAL 14 HD https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+#EXTINF:-1, CANAL 14 HD 
+https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 
-#EXTINF: -1, CANAL 10 CANCÚN HD http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, CANAL 10 CANCÚN HD 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: -1, QUIERO TV HD https://quierotvlive.tk/httplive/playlist.m3u8
+#EXTINF:-1, QUIERO TV HD 
+https://quierotvlive.tk/httplive/playlist.m3u8
 
-#EXTINF: -1, TELEMAX HD http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1, TELEMAX HD 
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF: -1, UNIVISION PUERTO RICO HD https://miap.xyz/240/serverkey.m3u8
+#EXTINF:-1, UNIVISION PUERTO RICO HD 
+https://miap.xyz/240/serverkey.m3u8
 
-#EXTINF: -1, TELEMUNDO 51 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
+#EXTINF:-1, TELEMUNDO 51 
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
-#EXTINF: -1, TELEMUNDO HD PUERTO RICO https://miap.xyz/239/serverkey.m3u8
+#EXTINF:-1, TELEMUNDO HD PUERTO RICO 
+https://miap.xyz/239/serverkey.m3u8
 
-#EXTINF: -1, TELEMUNDO CHICAGO https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, TELEMUNDO CHICAGO 
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF: -1, TVE LA 1 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=198&format=HLS&f=.m3u8
+#EXTINF:-1, TVE LA 1 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=198&format=HLS&f=.m3u8
 
-#EXTINF: -1, TVE LA 2 HD https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1, TVE LA 2 HD https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF: -1, STAR TVE HD =2375&format=HLS&f=.m3u8
+#EXTINF:-1, STAR TVE HD =2375&format=HLS&f=.m3u8
 
 #EXTINF: -1, 24h NOTICIAS HD TV ESPAÑOLA https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
