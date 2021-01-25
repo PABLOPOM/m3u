@@ -55,41 +55,59 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, UNICABLE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1499&format=HLS&f=.m3u8
 
-#EXTINF: -1, TELEVISA PUEBLA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2312&format=HLS&f=.m3u8
+#EXTINF:-1, TELEVISA PUEBLA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2312&format=HLS&f=.m3u8
 
-#EXTINF: -1, TELEVISA MONTERREY CANAL 8 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2307&format=HLS&f=.m3u8
+#EXTINF:-1, TELEVISA MONTERREY CANAL 8 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2307&format=HLS&f=.m3u8
 
-#EXTINF: -1, CANAL 4 HD http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1, CANAL 4 HD 
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
-#EXTINF: -1, EXCELSIOR TV https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1449&format=HLS&f=.m3u8
+#EXTINF:-1, EXCELSIOR TV 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1449&format=HLS&f=.m3u8
 
-#EXTINF: -1, TVMÁS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2324&format=HLS&f=.m3u8
+#EXTINF:-1, TVMÁS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2324&format=HLS&f=.m3u8
 
-#EXTINF: -1, FORO TV HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=700&format=HLS&f=.m3u8
+#EXTINF:-1, FORO TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=700&format=HLS&f=.m3u8
 
-#EXTINF: -1, ADN 40 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=184&format=HLS&f=.m3u8
+#EXTINF:-1, ADN 40 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=184&format=HLS&f=.m3u8
 
-#EXTINF: -1, MILENIO NOTICIAS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1252&format=HLS&f=.m3u8
+#EXTINF:-1, MILENIO NOTICIAS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1252&format=HLS&f=.m3u8
 
-#EXTINF: -1, EL FINANCIERO BLOOMBERG https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1649&format=HLS&f=.m3u8
+#EXTINF:-1, EL FINANCIERO BLOOMBERG HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1649&format=HLS&f=.m3u8
 
-#EXTINF: -1, RT NOTICIAS HD https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
+#EXTINF:-1, RT NOTICIAS HD 
+https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
-#EXTINF: -1, PLUTO NOTICIAS HD https://telefe-latam-plutolive-vo.akamaized.net/hls/live/2019733/pluto/master-pluto.m3u8
+#EXTINF:-1, PLUTO NOTICIAS HD 
+https://telefe-latam-plutolive-vo.akamaized.net/hls/live/2019733/pluto/master-pluto.m3u8
 
-#EXTINF: -1, HISPAN TV HD https://live1.presstv.com/live/hispan.m3u8
+#EXTINF:-1, HISPAN TV HD 
+https://live1.presstv.com/live/hispan.m3u8
 
-#EXTINF: -1, FRANCE24 HD https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1, FRANCE24 HD 
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
-#EXTINF: -1, DW ALEMANIA EN ESPAÑOL SD http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD 
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF: -1, FORO TV HD https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+#EXTINF:-1, FORO TV HD 
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 
-#EXTINF: -1, MILENIO NOTICIAS HD http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, MILENIO NOTICIAS HD 
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF: -1, CNN ESPAÑOL HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=187&format=HLS&f=.m3u8
+#EXTINF:-1, CNN ESPAÑOL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=187&format=HLS&f=.m3u8
 
-#EXTINF: -1, TELEFORMULA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=32&format=HLS&f=.m3u8
+#EXTINF:-1, TELEFORMULA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=32&format=HLS&f=.m3u8
 
 #EXTINF: -1, CANAL DEL CONGRESO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2331&format=HLS&f=.m3u8
 
