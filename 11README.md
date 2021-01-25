@@ -250,65 +250,95 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecp
 #EXTINF:-1, DISCOVERY HOME & HEART HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=96&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY CHANNEL HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=86&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=86&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY WORLD HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=101&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY WORLD HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=101&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY THEATER HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=95&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY THEATER HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=95&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY TLC HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2380&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY TLC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2380&format=HLS&f=.m3u8
 
-#EXTINF: -1, DESCUBRIMIENTO DE LA CIVILIZACIÓN HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=98&format=HLS&f=.m3u8
+#EXTINF:-1, DESCUBRIMIENTO DE LA CIVILIZACIÓN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=98&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY SCIENCE HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=98&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=98&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY KIDS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=109&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY KIDS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=109&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY ID HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2376&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY ID HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2376&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY TURBO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2379&format=HLS&f=.m3u8
+#EXTINF:-1, DISCOVERY TURBO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2379&format=HLS&f=.m3u8
 
-#EXTINF: -1, DISCOVERY MAX HD http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
+#EXTINF:-1, DISCOVERY MAX HD 
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
-#EXTINF: -1, HISTORIA CANAL HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=89&format=HLS&f=.m3u8
+#EXTINF:-1, HISTORIA CANAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=89&format=HLS&f=.m3u8
 
-#EXTINF: -1, ANIMAL PLANET HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2378&format=HLS&f=.m3u8
+#EXTINF:-1, ANIMAL PLANET HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2378&format=HLS&f=.m3u8
 
-#EXTINF: -1, NAT WILD HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=92&format=HLS&f=.m3u8
+#EXTINF:-1, NAT WILD HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=92&format=HLS&f=.m3u8
 
-#EXTINF: -1, NAT GEO KIDS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2373&format=HLS&f=.m3u8
+#EXTINF:-1, NAT GEO KIDS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2373&format=HLS&f=.m3u8
 
-#EXTINF: -1, NATIONAL GEOGRAFIC HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=91&format=HLS&f=.m3u8
+#EXTINF:-1, NATIONAL GEOGRAFIC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=91&format=HLS&f=.m3u8
 
-#EXTINF: -1, TRU TV HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=215&format=HLS&f=.m3u8
+#EXTINF:-1, TRU TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=215&format=HLS&f=.m3u8
 
-#EXTINF: -1, PLUTO VIAJES HD https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66abae849cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66abaa4913105eddient9 = & deviceDNT = false & deviceid = d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3 y deviceLat = 20.9192 y deviceLon = -101.7886 y deviceMake = Android% 2BBrowser y DeviceModel = androide% 2BBrowser y deviceType = web & deviceVersion = 4.0 y includeExtendedEvents = false y marketingRegion = VE & sid = 101d8f04-390c-11eb-B13A-0242ac110002 y userid = & serverSideAds = verdadero
+#EXTINF:-1, PLUTO VIAJES HD 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66abae849cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66abaa4913105eddient9 = & deviceDNT = false & deviceid = d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3 y deviceLat = 20.9192 y deviceLon = -101.7886 y deviceMake = Android% 2BBrowser y DeviceModel = androide% 2BBrowser y deviceType = web & deviceVersion = 4.0 y includeExtendedEvents = false y marketingRegion = VE & sid = 101d8f04-390c-11eb-B13A-0242ac110002 y userid = & serverSideAds = verdadero
 
-#EXTINF: -1, OH, MI MASCOTA PLUTO HD https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66abae759c9ed3d6aaaaaaaaaaaa = & clientTime = & deviceDNT = false y deviceId = d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3 y deviceLat = 20.9192 y deviceLon = -101.7886 y deviceMake = androide% 2BBrowser y DeviceModel = androide% 2BBrowser y deviceType = web & deviceVersion = 4.0 y includeExtendedEvents = false y marketingRegion = VE y sid = bc69e070-38fc-11eb-9da6-0242ac110002 y ID de usuario = & serverSideAds = verdadero
+#EXTINF:-1, OH, MI MASCOTA PLUTO HD 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66abae759c9ed3d6aaaaaaaaaaaa = & clientTime = & deviceDNT = false y deviceId = d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3 y deviceLat = 20.9192 y deviceLon = -101.7886 y deviceMake = androide% 2BBrowser y DeviceModel = androide% 2BBrowser y deviceType = web & deviceVersion = 4.0 y includeExtendedEvents = false y marketingRegion = VE y sid = bc69e070-38fc-11eb-9da6-0242ac110002 y ID de usuario = & serverSideAds = verdadero
 
-#EXTINF: -1, WODI HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=102&format=HLS&f=.m3u8
+#EXTINF:-1, WODI HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=102&format=HLS&f=.m3u8
 
-#EXTINF: -1, NACIONES UNIDAS TV HD https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF:-1, NACIONES UNIDAS TV HD 
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
-#EXTINF: -1, AZ CLIC HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=11&format=HLS&f=.m3u8
+#EXTINF:-1, AZ CLIC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=11&format=HLS&f=.m3u8
 
-#EXTINF: -1, AZ CORAZON HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=70&format=HLS&f=.m3u8
+#EXTINF:-1, AZ CORAZON HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=70&format=HLS&f=.m3u8
 
-#EXTINF: -1, AZ MUNDO HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=84&format=HLS&f=.m3u8
+#EXTINF:-1, AZ MUNDO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=84&format=HLS&f=.m3u8
 
-#EXTINF: -1, A + HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2348&format=HLS&f=.m3u8
+#EXTINF:-1, A + HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2348&format=HLS&f=.m3u8
 
-#EXTINF: -1, E ENTRETEMIENT HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=55&format=HLS&f=.m3u8
+#EXTINF:-1, E ENTRETEMIENT HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=55&format=HLS&f=.m3u8
 
-#EXTINF: -1, ISAT HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=135&format=HLS&f=.m3u8
+#EXTINF:-1, ISAT HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=135&format=HLS&f=.m3u8
 
-#EXTINF: -1, LIFETIME HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=94&format=HLS&f=.m3u8
+#EXTINF:-1, LIFETIME HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=94&format=HLS&f=.m3u8
 
-#EXTINF: -1, BIT ME HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2591&format=HLS&f=.m3u8
+#EXTINF:-1, BIT ME HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2591&format=HLS&f=.m3u8
 
-#EXTINF: -1, GLITZ HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=76&format=HLS&f=.m3u8
+#EXTINF:-1, GLITZ HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=76&format=HLS&f=.m3u8
 
-#EXTINF: -1, ZEE MUNDO HD https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE MUNDO HD 
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF: -1, A3CINE https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=3112&format=HLS&f=.m3u8
 
