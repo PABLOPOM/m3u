@@ -188,7 +188,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1, STAR TVE HD 
-=2375&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2375&format=HLS&f=.m3u8
 
 #EXTINF:-1, 24h NOTICIAS HD TV ESPAÑOLA 
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
@@ -206,7 +206,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1, ANTENA 3 HD 
-=199&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=199&format=HLS&f=.m3u8
 
 #EXTINF:-1, TV GALICIA AMERICA HD 
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
@@ -239,7 +239,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF: -1, HOGAR PLUTO TV HD 
-https ://service-stitcher.clusters.pluto. y clientTime = & deviceDNT = false y deviceId = d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3 y deviceLat = 20.9192 y deviceLon = -101.7886 y deviceMake = androide% 2BBrowser y DeviceModel = androide% 2BBrowser y deviceType = web & deviceVersion = 4.0 y includeExtendedEvents = false y marketingRegion = VE y sid = bc69e070-38fc-11eb-9da6-0242ac110002 y userid = & serverSideAds = verdadero
+https ://service-stitcher.clusters.pluto.yclientTime=&deviceDNT=falseydeviceId=d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3ydeviceLat=20.9192ydeviceLon=-101.7886ydeviceMake=androide% 2BBrowseryDeviceModel=androide%2BBrowserydeviceType=web&deviceVersion=4.0yincludeExtendedEvents=falseymarketingRegion=VEysid=bc69e070-38fc-11eb-9da6-0242ac110002yuserid=&serverSideAds=verdadero
 
 #EXTINF:-1, MAS CHIC HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1842&format=HLS&f=.m3u8
