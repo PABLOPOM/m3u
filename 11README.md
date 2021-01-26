@@ -239,7 +239,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF: -1, HOGAR PLUTO TV HD 
-https://service-stitcher.clusters.pluto.yclientTime=&deviceDNT=falseydeviceId=d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3ydeviceLat=20.9192ydeviceLon=-101.7886ydeviceMake=androide%2BBrowseryDeviceModel=androide%2BBrowserydeviceType=web&deviceVersion=4.0yincludeExtendedEvents=falseymarketingRegion=VEysid=bc69e070-38fc-11eb-9da6-0242ac110002yuserid=&serverSideAds=verdadero
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&sid=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&userId=
 
 #EXTINF:-1, MAS CHIC HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1842&format=HLS&f=.m3u8
