@@ -86,7 +86,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
 #EXTINF:-1, PLUTO NOTICIAS HD 
-https://telefe-latam-plutolive-vo.akamaized.net/hls/live/2019733/pluto/master-pluto.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=95b91f7b-5fea-11eb-a30a-0242ac110002&sid=95b91f7b-5fea-11eb-a30a-0242ac110002&userId=
 
 #EXTINF:-1, HISPAN TV HD 
 https://live1.presstv.com/live/hispan.m3u8
