@@ -239,7 +239,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF: -1, HOGAR PLUTO TV HD 
-https ://service-stitcher.clusters.pluto.yclientTime=&deviceDNT=falseydeviceId=d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3ydeviceLat=20.9192ydeviceLon=-101.7886ydeviceMake=androide% 2BBrowseryDeviceModel=androide%2BBrowserydeviceType=web&deviceVersion=4.0yincludeExtendedEvents=falseymarketingRegion=VEysid=bc69e070-38fc-11eb-9da6-0242ac110002yuserid=&serverSideAds=verdadero
+https://service-stitcher.clusters.pluto.yclientTime=&deviceDNT=falseydeviceId=d2b84cd2-b6f0-44a1-bdb0-9c22bfe7abe3ydeviceLat=20.9192ydeviceLon=-101.7886ydeviceMake=androide%2BBrowseryDeviceModel=androide%2BBrowserydeviceType=web&deviceVersion=4.0yincludeExtendedEvents=falseymarketingRegion=VEysid=bc69e070-38fc-11eb-9da6-0242ac110002yuserid=&serverSideAds=verdadero
 
 #EXTINF:-1, MAS CHIC HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1842&format=HLS&f=.m3u8
