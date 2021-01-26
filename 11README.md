@@ -424,7 +424,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, SPACE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=129&format=HLS&f=.m3u8
 
-#EXTINF:-1, CINE CANAL HD 
+#EXTINF:-1, CINECANAL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=149&format=HLS&f=.m3u8
 
 #EXTINF:-1, SONY HD 
