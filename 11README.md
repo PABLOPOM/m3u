@@ -229,11 +229,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, RCN HD 
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf-smtyyoyzBj4ZNevvdluY)/dm/3/x7vyv0z/s/live-3.m3u8
 
-#EXTINF:-1, MODA HD 
+#EXTINF:-1, FASHION HD 
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1, FASHION HD PLUTO TV 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66abaecture=buy5ed3. & clientTime = & deviceDNT = false & deviceId = 23f64a2d-d36d-4d78-bee8-f4ff3317a749 & deviceLat = 20.9192 & deviceLon = -101.7886 & deviceMake = Android% 2BBrowser & deviceModel = Android% 2BBrowser & device & device &d78-bee8-f4ff3317a749 & deviceLat = 20.9192 & deviceLon = -101.7886 & deviceMake = Android% 2BBrowser & deviceModel = Android% 2BBrowser & device & deviceTypeion = 4.011 & amp; & serverSideAds = verdadero
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d6e39eac-5fe5-11eb-ac8e-0242ac110002&sid=d6e39eac-5fe5-11eb-ac8e-0242ac110002&userId=
 
 #EXTINF:-1, HOLA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=219&format=HLS&f=.m3u8
