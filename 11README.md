@@ -517,58 +517,86 @@ https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ARTS HD 
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
-#EXTINF: -1, PELÍCULAS Y ARTES https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=137&format=HLS&f=.m3u8
+#EXTINF:-1, PELÍCULAS Y ARTES 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=137&format=HLS&f=.m3u8
 
-#EXTINF: -1, CANAL DE MÚSICA DE CALIFORNIA HD https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1, CANAL DE MÚSICA DE CALIFORNIA HD 
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF: -1, MELODY CHANNEL TV https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
+#EXTINF:-1, MELODY CHANNEL TV 
+https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
 
-#EXTINF: -1, VH-1 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=334&format=HLS&f=.m3u8
+#EXTINF:-1, VH-1 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=334&format=HLS&f=.m3u8
 
-#EXTINF: -1, VH-1 CLASSIC HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=214&format=HLS&f=.m3u8
+#EXTINF:-1, VH-1 CLASSIC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=214&format=HLS&f=.m3u8
 
-#EXTINF: -1, EUROLATINA HD https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:-1, EUROLATINA HD 
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 
-#EXTINF: -1, NORTEvisión HD http://amaru.dyndns.org:8835/0.m3u8
+#EXTINF:-1, NORTEvisión HD 
+http://amaru.dyndns.org:8835/0.m3u8
 
-#EXTINF: -1, KRONEHIT AUSTRIA https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1, KRONEHIT AUSTRIA 
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF: -1, RETRO PLUS TV HD https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1, RETRO PLUS TV HD 
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF: -1, NEX TV HD http://198.1.123.99:1935/live/myStream/.m3u8
+#EXTINF:-1, NEX TV HD 
+http://198.1.123.99:1935/live/myStream/.m3u8
 
-#EXTINF: -1, TELEHIT MUSICA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=218&format=HLS&f=.m3u8
+#EXTINF:-1, TELEHIT MUSICA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=218&format=HLS&f=.m3u8
 
-#EXTINF: -1, TELEHIT MUSICA PLUS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=220&format=HLS&f=.m3u8
+#EXTINF:-1, TELEHIT MUSICA PLUS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=220&format=HLS&f=.m3u8
 
-#EXTINF: -1, BANDAMAX HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=221&format=HLS&f=.m3u8
+#EXTINF:-1, BANDAMAX HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=221&format=HLS&f=.m3u8
 
-#EXTINF: -1, TELERITMO SD https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1, TELERITMO SD 
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF: -1, TUDN HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=174&format=HLS&f=.m3u8
+#EXTINF:-1, TUDN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=174&format=HLS&f=.m3u8
 
-#EXTINF: -1, ADRENALINA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2404&format=HLS&f=.m3u8
+#EXTINF:-1, ADRENALINA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2404&format=HLS&f=.m3u8
 
-#EXTINF: -1, FOX SPORTS 3 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=178&format=HLS&f=.m3u8
+#EXTINF:-1, FOX SPORTS 3 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=178&format=HLS&f=.m3u8
 
-#EXTINF: -1, FOX SPORTS 2 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=172&format=HLS&f=.m3u8
+#EXTINF:-1, FOX SPORTS 2 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=172&format=HLS&f=.m3u8
 
-#EXTINF: -1, FOX SPORTS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=170&format=HLS&f=.m3u8
+#EXTINF:-1, FOX SPORTS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=170&format=HLS&f=.m3u8
 
-#EXTINF: -1, ESPN HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=169&format=HLS&f=.m3u8
+#EXTINF:-1, ESPN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=169&format=HLS&f=.m3u8
 
-#EXTINF: -1, ESPN 2 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=168&format=HLS&f=.m3u8
+#EXTINF:-1, ESPN 2 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=168&format=HLS&f=.m3u8
 
-#EXTINF: -1, ESPN 3 HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=345&format=HLS&f=.m3u8
+#EXTINF:-1, ESPN 3 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=345&format=HLS&f=.m3u8
 
-#EXTINF: -1, ESPN EXTRA HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=167&format=HLS&f=.m3u8
+#EXTINF:-1, ESPN EXTRA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=167&format=HLS&f=.m3u8
 
-#EXTINF: -1, TVC DEPORTES HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2157&format=HLS&f=.m3u8
+#EXTINF:-1, TVC DEPORTES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2157&format=HLS&f=.m3u8
 
-#EXTINF: -1, CLARO SPORTS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2564&format=HLS&f=.m3u8
+#EXTINF:-1, CLARO SPORTS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2564&format=HLS&f=.m3u8
 
-#EXTINF: -1, AYM SPORTS HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=180&format=HLS&f=.m3u8
+#EXTINF:-1, AYM SPORTS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=180&format=HLS&f=.m3u8
 
-#EXTINF: -1, FUEL TV HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2587&format=HLS&f=.m3u8
+#EXTINF:-1, FUEL TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2587&format=HLS&f=.m3u8
 
-#EXTINF: -1, GOLF HD https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=179&format=HLS&f=.m3u8
+#EXTINF:-1, GOLF HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=179&format=HLS&f=.m3u8
