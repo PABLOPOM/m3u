@@ -11,7 +11,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 https://blackghost.live/play/darkplay-104.php?c=2
 
 #EXTINF:-1, UNIVISION MIAMI HD 
-https://miap.xyz/152/serverkey.m3u8
+http://latvonlive.com:33612/Rico/1234/224
 
 #EXTINF:-1, TELEMUNDO 51 HD 
 https://miap.xyz/151/serverkey.m3u8
