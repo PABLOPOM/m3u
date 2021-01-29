@@ -7,8 +7,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, LAS ESTRELLAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1784&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS -2 HORAS 
-https://blackghost.live/play/darkplay-104.php?c=2
+#EXTINF:-1, ESTRELLA TV HD
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, UNIVISION MIAMI HD 
 http://latvonlive.com:33612/Rico/1234/224
@@ -52,7 +52,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, TELENOVELAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=83&format=HLS&f=.m3u8
 
-#EXTINF:-1, PLUTO TV NOVELAS HD
+#EXTINF:-1, TELEMUNDO NOVELAS HD
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
 
 #EXTINF:-1, UNICABLE HD 
