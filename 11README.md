@@ -103,13 +103,13 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1, FORO TV HD 
+#EXTINF:-1, FORO TV HD OPC. 2
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 
-#EXTINF:-1, ADN 40
+#EXTINF:-1, ADN 40 OPC. 2 
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1, MILENIO NOTICIAS HD 
+#EXTINF:-1, MILENIO NOTICIAS HD OPC. 2
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1, CNN ESPAÑOL HD 
