@@ -457,7 +457,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, TCM SD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=128&format=HLS&f=.m3u8
 
-#EXTINF:-1, BEBÉ PRIMERO 
+#EXTINF:-1, BEBÉ PRIMERO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1984&format=HLS&f=.m3u8
 
 #EXTINF:-1, CACHIPUM TV HD 
