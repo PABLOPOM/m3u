@@ -64,6 +64,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, TELEVISA MONTERREY CANAL 8 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2307&format=HLS&f=.m3u8
 
+#EXTINF:-1, LIFE TV HD
+http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
+
 #EXTINF:-1, CANAL 4 HD 
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
