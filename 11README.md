@@ -499,6 +499,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, NICK JR. HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=117&format=HLS&f=.m3u8
 
+#EXTINF:-1, TEEN NICK HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2147&format=HLS&f=.m3u8
+
 #EXTINF:-1, COCINA PLUTO TV HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9416dd-5feb-11eb-ad61-0242ac110002&sid=5d9416dd-5feb-11eb-ad61-0242ac110002&userId=
 
