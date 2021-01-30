@@ -106,6 +106,9 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
+#EXTINF:-1, AZTECA UNO SD OPC. 2
+https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
+
 #EXTINF:-1, FORO TV HD OPC. 2
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 
