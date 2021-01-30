@@ -253,8 +253,8 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1, TVC HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2156&format=HLS&f=.m3u8
 
-#EXTINF:-1, RCN HD 
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf-smtyyoyzBj4ZNevvdluY)/dm/3/x7vyv0z/s/live-3.m3u8
+#EXTINF:-1, CARACOL HD 
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1, FASHION HD 
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
