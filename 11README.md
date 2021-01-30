@@ -178,6 +178,9 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m
 #EXTINF:-1, TV4.3 GUANAJUATO HD 
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
 
+#EXTINF:-1, CANAL 26 AGUASCALIENTES HD
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
+
 #EXTINF:-1, CANAL 14 HD 
 https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 
