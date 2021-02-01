@@ -70,6 +70,9 @@ http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
 #EXTINF:-1, CANAL 4 HD 
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
+#EXTINF:-1, CANAL 13
+https://vkvsd54.mycdn.me:443/hls/1052309195449.m3u8/sig/apKD8OkECBg/expires/1612231719590/srcIp/189.253.143.46/clientType/13/srcAg/CHROME_ANDROID/mid/2834706082745/1052309195449_high/index.m3u8
+
 #EXTINF:-1, AZTECA 7 OPC 2
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
