@@ -367,7 +367,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, GLITZ HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=76&format=HLS&f=.m3u8
 
-#EXTINF:-1, ZEE MUNDO HD 
+#EXTINF:-1, ZEEMUNDO HD 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, A3CINE 
