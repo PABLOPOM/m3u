@@ -22,6 +22,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, AZTECA SIETE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=317&format=HLS&f=.m3u8
 
+#EXTINF:-1, CANAL 13 MÉXICO HD ALBAVISIÓN
+https://vkvsd51.mycdn.me:443/hls/1077217069623.m3u8/sig/c_UFLh288xU/expires/1612282044478/srcIp/189.253.143.46/clientType/13/srcAg/CHROME_ANDROID/mid/2148965755703/1077217069623_high/index.m3u8
+
 #EXTINF:-1, AZTECA 7.3 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=3316&format=HLS&f=.m3u8
 
@@ -69,9 +72,6 @@ http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
 
 #EXTINF:-1, CANAL 4 HD 
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1, CANAL 13 MÉXICO HD ALBAVISIÓN
-https://vkvsd51.mycdn.me:443/hls/1077217069623.m3u8/sig/c_UFLh288xU/expires/1612282044478/srcIp/189.253.143.46/clientType/13/srcAg/CHROME_ANDROID/mid/2148965755703/1077217069623_high/index.m3u8
 
 #EXTINF:-1, AZTECA 7 OPC 2
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
