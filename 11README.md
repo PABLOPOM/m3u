@@ -20,7 +20,7 @@ http://latvonlive.com:33612/Rico/1234/952
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL 13 MÉXICO HD ALBAVISIÓN
-https://vkvsd67.mycdn.me:443/hls/1138018749133.m3u8/sig/o8rSEy6CqJM/expires/1612316152166/srcIp/189.253.143.46/clientType/13/srcAg/CHROME_ANDROID/mid/2784532900813/1138018749133_fullhd/index.m3u8
+https://vkvsd67.mycdn.me:443/hls/1138018749133.m3u8/sig/xMyQSE0XUJA/expires/1612403033492/srcIp/189.253.143.46/clientType/13/srcAg/CHROME_ANDROID/mid/2784532900813/1138018749133_fullhd/index.m3u8
 
 #EXTINF:-1, AZTECA SIETE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=317&format=HLS&f=.m3u8
