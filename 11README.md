@@ -11,7 +11,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, UNIVISION MIAMI HD 
-http://latvonlive.com:33612/Rico/1234/224
+http://89.105.194.59:25461/live/uss$KT98/uss$KT98/50.m3u8
 
 #EXTINF:-1, TELEMUNDO 51 HD 
 http://latvonlive.com:33612/Rico/1234/952
