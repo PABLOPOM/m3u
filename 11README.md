@@ -172,7 +172,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?Pl
 #EXTINF:-1, INGENIO TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF:-1, TV4 GUANAJUATO HD 
+#EXTINF:-1, TV4 GUANAJUATO HD T.PLAY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2274&format=HLS&f=.m3u8
 
 #EXTINF:-1, TV4 GUANAJUATO HD OPC.2 
