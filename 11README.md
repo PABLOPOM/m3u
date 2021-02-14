@@ -211,8 +211,8 @@ https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1, TELEMAX HD 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1, UNIVISION PUERTO RICO HD 
-https://miap.xyz/240/serverkey.m3u8
+#EXTINF:-1, UNICANAL HD 
+http://45.55.127.106/live/unicanal_src.m3u8
 
 #EXTINF:-1, TELEMUNDO 51 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
