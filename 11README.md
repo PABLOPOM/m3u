@@ -421,7 +421,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 #EXTINF:-1, FOX CINEMA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1729&format=HLS&f=.m3u8
 
-#EXTINF:-1, FOX PREMIUM ACTION HD 
+#EXTINF:-1, STAR ACTION HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=336&format=HLS&f=.m3u8
 
 #EXTINF:-1, FOX CLASSICS HD 
