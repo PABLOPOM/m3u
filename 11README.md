@@ -26,7 +26,7 @@ http://nano.zappingtv.com:1935/13/13h.smil/chunklist_b3628000_sles.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL 13 MÉXICO HD ALBAVISIÓN
-https://vkvsd52.mycdn.me:443/hls/1209573903087.m3u8/sig/gPvcNfhYjJ0/expires/1613420000909/srcIp/189.253.143.46/clientType/13/srcAg/CHROME_ANDROID/mid/2501069777903/1209573903087_high/index.m3u8
+https://vkvsd70.mycdn.me:443/hls/1209573903087.m3u8/sig/_VqWICgxc6g/expires/1614003134062/srcIp/189.253.143.46/clientType/13/srcAg/CHROME_ANDROID/mid/2501069777903/1209573903087_high/index.m3u8
 
 #EXTINF:-1, AZTECA SIETE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=317&format=HLS&f=.m3u8
