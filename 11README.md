@@ -224,13 +224,13 @@ https://miap.xyz/239/serverkey.m3u8
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, TVE LA 1 HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=198&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=198&format=HLS&f=.m3u8
 
 #EXTINF:-1, TVE LA 2 HD 
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1, STAR TVE HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2375&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2375&format=HLS&f=.m3u8
 
 #EXTINF:-1, 24h NOTICIAS HD TV ESPAÑOLA 
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
@@ -248,7 +248,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1, ANTENA 3 HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=199&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=199&format=HLS&f=.m3u8
 
 #EXTINF:-1, TV GALICIA AMERICA HD 
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
@@ -266,7 +266,7 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1, TVC HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2156&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2156&format=HLS&f=.m3u8
 
 #EXTINF:-1, CARACOL HD 
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
@@ -287,7 +287,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zec
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&sid=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&userId=
 
 #EXTINF:-1, MAS CHIC HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1842&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1842&format=HLS&f=.m3u8
 
 #EXTINF:-1, CASA Y CORAZÓN SD 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -296,7 +296,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=96&format=HLS&f=.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=86&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=86&format=HLS&f=.m3u8
 
 #EXTINF:-1, DISCOVERY WORLD HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=101&format=HLS&f=.m3u8
@@ -398,13 +398,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=132&format=HLS&f=.m3u8
 
 #EXTINF:-1, AZ CINEMA HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1787&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1787&format=HLS&f=.m3u8
 
 #EXTINF:-1, DE PELICULA PLUS HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=121&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=121&format=HLS&f=.m3u8
 
 #EXTINF:-1, DE PELICULA HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=335&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=335&format=HLS&f=.m3u8
 
 #EXTINF:-1, CINE NOSTALGIA PLUTO TV 
 https ://service-stitcher.clusters.pluto. 0 & ClientID = b2e8f62a-48c7-4efe-9c4e-7294acf9e404 y clientModelNumber = na y deviceDNT = false y deviceId = b2e8f62a-48c7-4efe-9c4e-7294acf9e404 y deviceLat = 21,1291 y deviceLon = -101.6781 y deviceMake = Android% 2BBrowser y DeviceModel = web & deviceType = web & deviceVersion = 4,0 y marketingRegion = VE y serverSideAds = true y Id.sesión = b8ff5c45- 4d8b-11eb-b866-0242ac110002 & sid = b8ff5c45-4d8b-11eb-b866-0242ac110002 & userId =
@@ -416,7 +416,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=140&format=HLS&f=.m3u8
 
 #EXTINF:-1, STAR CHANNEL HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=46&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=46&format=HLS&f=.m3u8
 
 #EXTINF:-1, STAR LIFE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=77&format=HLS&f=.m3u8
@@ -425,13 +425,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6yb
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1729&format=HLS&f=.m3u8
 
 #EXTINF:-1, STAR ACTION HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=336&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=336&format=HLS&f=.m3u8
 
 #EXTINF:-1, STAR CLASSICS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=1732&format=HLS&f=.m3u8
 
 #EXTINF:-1, STAR PREMIUM MOVIES HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=146&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=146&format=HLS&f=.m3u8
 
 #EXTINF:-1, STAR PREMIUM SERIES HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=139&format=HLS&f=.m3u8
