@@ -145,6 +145,9 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1, MULTIMEDIOS LAGUNA HD
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
+#EXTINF:-1, MULTIMEDIOS PUEBLA HD
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
 #EXTINF:-1, CNN ESPAÑOL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=187&format=HLS&f=.m3u8
 
