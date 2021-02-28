@@ -175,9 +175,6 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wms
 #EXTINF:-1, CORAZÓN DE LA CAPITAL HD 
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
-#EXTINF:-1, CANAL CAPITAL HD
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
 #EXTINF:-1, MEXIQUENSE TELEVISIÓN total HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=44&format=HLS&f=.m3u8
 
@@ -279,6 +276,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 
 #EXTINF:-1, CARACOL HD 
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1, CANAL CAPITAL HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
 #EXTINF:-1, FASHION HD 
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
