@@ -217,8 +217,8 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1, UNICANAL HD 
 http://45.55.127.106/live/unicanal_src.m3u8
 
-#EXTINF:-1, CANAL 26 CHILE HD
-http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1, CANAL 26 ARGENTINA HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1, TELEMUNDO 51 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
