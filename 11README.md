@@ -223,6 +223,9 @@ http://45.55.127.106/live/unicanal_src.m3u8
 #EXTINF:-1, CANAL 26 ARGENTINA HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
+#EXTINF:-1, CANAL 13 CL HD
+http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/2
+
 #EXTINF:-1, TELEMUNDO 51 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
