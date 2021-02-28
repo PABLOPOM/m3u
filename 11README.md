@@ -151,6 +151,9 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1, MULTIMEDIOS CIUDAD JUÁREZ HD
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 
+#EXTINF:-1, MULTIMEDIOS SALTILLO HD
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
 #EXTINF:-1, CNN ESPAÑOL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=187&format=HLS&f=.m3u8
 
