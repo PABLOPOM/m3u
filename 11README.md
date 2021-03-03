@@ -17,10 +17,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, UNIVISION MIAMI HD 
-http://ipeteve.com/php/regio080220/smartv.php?c=62_&f=.m3u8
-
-#EXTINF:-1, TELEMUNDO 51 HD 
-http://nano.zappingtv.com:1935/13/13h.smil/chunklist_b3628000_sles.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=84_&f.m3u8
 
 #EXTINF:-1, IMAGEN TELEVISION HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2298&format=HLS&f=.m3u8
