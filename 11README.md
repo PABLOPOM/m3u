@@ -19,6 +19,9 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, UNIVISION MIAMI HD 
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=84_&f.m3u8
 
+#EXTINF:-1, TELEMUNDO MIAMI
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1751_&f.m3u8
+
 #EXTINF:-1, HOLA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=219&format=HLS&f=.m3u8
 
