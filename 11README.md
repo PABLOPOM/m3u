@@ -118,6 +118,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1, CBS NEWS HD
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+#EXTINF:-1, NASA HD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
 #EXTINF:-1, RT NOTICIAS HD 
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
