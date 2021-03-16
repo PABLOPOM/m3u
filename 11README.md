@@ -464,7 +464,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=335&format=HLS&f=.m3u8
 
 #EXTINF:-1, CINE NOSTALGIA PLUTO TV 
-https ://service-stitcher.clusters.pluto. 0 & ClientID = b2e8f62a-48c7-4efe-9c4e-7294acf9e404 y clientModelNumber = na y deviceDNT = false y deviceId = b2e8f62a-48c7-4efe-9c4e-7294acf9e404 y deviceLat = 21,1291 y deviceLon = -101.6781 y deviceMake = Android% 2BBrowser y DeviceModel = web & deviceType = web & deviceVersion = 4,0 y marketingRegion = VE y serverSideAds = true y Id.sesión = b8ff5c45- 4d8b-11eb-b866-0242ac110002 & sid = b8ff5c45-4d8b-11eb-b866-0242ac110002 & userId =
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=021906df-85ee-11eb-b4b0-0242ac110002&sid=021906df-85ee-11eb-b4b0-0242ac110002&userId=&already_redirected=true
 
 #EXTINF:-1, TBS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=81&format=HLS&f=.m3u8
