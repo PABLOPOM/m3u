@@ -154,6 +154,9 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1, ADN 40 OPC. 2 
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
+#EXTINF:-1, TELEFORMULA OPC. 2
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
 #EXTINF:-1, MILENIO NOTICIAS HD OPC. 2
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
