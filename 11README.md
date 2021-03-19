@@ -127,6 +127,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1, RT NOTICIAS HD 
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
+#EXTINF:-1, EURONEWS HD
+https://stream-01.sv4.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8XW7JxYEwMJ5n5ylsQ8KHU)/dm/3/x2j7hpf/s/live-3.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
+
 #EXTINF:-1, TELEFE ROSARIO HD
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
