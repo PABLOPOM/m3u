@@ -623,7 +623,7 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 https://streamer104.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8
 
 #EXTINF:-1, TRAVEL BULGARIA HD
-https://streamer103.neterra.tv:443/thisisbulgaria/community.smil/chunklist_w1922871742_b5128000_slbul.m3u8
+https://streamer103.neterra.tv:443/thisisbulgaria/community.smil/chunklist_w1922871742_b3628000_slbul.m3u8
 
 #EXTINF:-1, CA MUSIC HD 
 https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
