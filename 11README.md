@@ -20,7 +20,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=84_&f.m3u8
 
 #EXTINF:-1, TELEMUNDO MIAMI
-http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-b.m3u8
+https://xslmc.blogspot.com/2016/09/telemundo1-coi.html?m=1
 
 #EXTINF:-1, HOLA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=219&format=HLS&f=.m3u8
