@@ -17,7 +17,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, UNIVISION MIAMI HD 
-http://ipeteve.com/php/SR_REGIO231213/regio2.php?c=univisionhd&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=univisionhd&f=.m3u8
 
 #EXTINF:-1, TELEMUNDO MIAMI
 https://xslmc.blogspot.com/2016/09/telemundo1-coi.html?m=1
