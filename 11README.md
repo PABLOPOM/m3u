@@ -16,17 +16,17 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1, ESTRELLA TV HD
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, UNIVISION MIAMI HD 
-http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=univisionhd&f=.m3u8
-
-#EXTINF:-1, TELEMUNDO MIAMI
-https://xslmc.blogspot.com/2016/09/telemundo1-coi.html?m=1
-
 #EXTINF:-1, HOLA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF:-1, HOLA TV SD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1, UNIVISION MIAMI HD 
+http://38.18.238.35:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, TELEMUNDO MIAMI
+https://xslmc.blogspot.com/2016/09/telemundo1-coi.html?m=1
 
 #EXTINF:-1, DISCOVERY H&H HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=96&format=HLS&f=.m3u8
