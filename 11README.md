@@ -41,28 +41,28 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 https://vkvsd52.mycdn.me:443/hls/1209573903087.m3u8/sig/ZJogH7kRKI4/expires/1614267287259/srcIp/189.253.143.46/clientType/13/srcAg/CHROME_ANDROID/mid/2501069777903/1209573903087_high/index.m3u8
 
 #EXTINF:-1, AZTECA SIETE HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=317&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=317&format=HLS&f=.m3u8
 
 #EXTINF:-1, AZTECA 7.3 HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=3316&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=3316&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL 5 HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2243&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2243&format=HLS&f=.m3u8
 
 #EXTINF:-1, NU9VE HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=24&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=24&format=HLS&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS BAJÍO HD 
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1, MULTIMEDIOS CDMX HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1253&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1253&format=HLS&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS MONTERREY HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2305&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2305&format=HLS&f=.m3u8
 
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=85&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=85&format=HLS&f=.m3u8
 
 #EXTINF:-1, CENTRAL COMEDIA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=340&format=HLS&f=.m3u8
@@ -461,13 +461,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=132&format=HLS&f=.m3u8
 
 #EXTINF:-1, AZ CINEMA HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1787&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1787&format=HLS&f=.m3u8
 
 #EXTINF:-1, DE PELICULA PLUS HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=121&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=121&format=HLS&f=.m3u8
 
 #EXTINF:-1, DE PELICULA HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=335&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=335&format=HLS&f=.m3u8
 
 #EXTINF:-1, CINE NOSTALGIA PLUTO TV 
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=021906df-85ee-11eb-b4b0-0242ac110002&sid=021906df-85ee-11eb-b4b0-0242ac110002&userId=&already_redirected=true
