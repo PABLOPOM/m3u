@@ -1,5 +1,5 @@
 #EXTINF:-1, RT VIDEO 
-https://m.facebook.com/rtarabic.ru/videos/501491544594852/?app=fbl.m3u
+https://m.facebook.com/rtarabic.ru/videos/501491544594852/?app=fbl.m3u8
 
 #EXTINF:-1, TOTALPLAY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=02&format=HLS&f=.m3u8
