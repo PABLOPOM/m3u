@@ -1,5 +1,5 @@
 #EXTINF:-1, RT VIDEO 
-https://video.fbjx1-1.fna.fbcdn.net/v/t58.24163-29/10000000_856979885237293_3046475617233098509_n.mp4?_nc_cat=1&ccb=1-3&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfbGl2ZV9oZF9vaWxfZnJhZ18yX3ZpZGVvIn0%3D&_nc_ohc=dUuKhi7AfjUAX8rTK25&_nc_ht=video.fbjx1-1.fna&oh=ec9e31e49beaa391e675ebaab4c22e8a&oe=606A2B68&bytestart=0&byteend=926.m3u8
+https://m.facebook.com/rtarabic.ru/videos/501491544594852/?app=fbl.m3u
 
 #EXTINF:-1, TOTALPLAY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=02&format=HLS&f=.m3u8
