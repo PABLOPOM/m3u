@@ -101,25 +101,25 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1, EXCELSIOR TV 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1449&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1449&format=HLS&f=.m3u8
 
 #EXTINF:-1, TVMÁS HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2324&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2324&format=HLS&f=.m3u8
 
 #EXTINF:-1, VIBE TV HD
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 
 #EXTINF:-1, FORO TV HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=700&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=700&format=HLS&f=.m3u8
 
 #EXTINF:-1, ADN 40 HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=184&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=184&format=HLS&f=.m3u8
 
 #EXTINF:-1, MILENIO NOTICIAS HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1252&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1252&format=HLS&f=.m3u8
 
 #EXTINF:-1, EL FINANCIERO BLOOMBERG HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1649&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1649&format=HLS&f=.m3u8
 
 #EXTINF:-1, CBS NEWS HD
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -191,31 +191,31 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 #EXTINF:-1, CNN ESPAÑOL HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=187&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=187&format=HLS&f=.m3u8
 
 #EXTINF:-1, TELEFORMULA HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=32&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=32&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL DEL CONGRESO HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2331&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2331&format=HLS&f=.m3u8
 
 #EXTINF:-1, JUSTICIA TV HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=196&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=196&format=HLS&f=.m3u8
 
 #EXTINF:-1, APRENDE TV HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=401&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF:-1, CANAL UNA VEZ HD 
+#EXTINF:-1, CANAL ONCE HD 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1, CANAL UNA VEZ HD total OPC.2 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=25&format=HLS&f=.m3u8
+#EXTINF:-1, CANAL ONCE HD total OPC.2 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=25&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL ONCE INTERNACIONAL 
 https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
 
 #EXTINF:-1, CANAL ONCE NIÑOS 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=3315&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=3315&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL 22 HD 
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
