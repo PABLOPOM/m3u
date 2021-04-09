@@ -2,6 +2,9 @@
 #EXTINF:-1, TOTALPLAY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=02&format=HLS&f=.m3u8
 
+#EXTINF:-1, HOLA TV HD
+http://latvonlive.com:33612/Norma110/Latv9/543
+
 #EXTINF:-1, HOLA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=219&format=HLS&f=.m3u8
 
