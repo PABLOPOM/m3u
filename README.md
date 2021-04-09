@@ -733,3 +733,28 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 
 #EXTINF:-1, GOLF HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=179&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/814
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-plus.png",HBO + *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/812
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo2.png",HBO 2 *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/810
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_east_small.gif",HBO EAST *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/848
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbofamily.png",HBO FAMILY *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/811
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="http://i.imgur.com/RQa2ipx.png",HBO FAMILY WEST *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/847
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png",HBO MUNDI *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/27529
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-pop.png",HBO POP *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/815
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-xtreme.png",HBO XTREME *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/809
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpyNFd7cW1oieFX7ORDpf5c5uIUGFAjxxWx8wxvjb_mgMHb6j&s",HBO SIGNATURE *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/813
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/HBO/HBO%20WEST.jpg",HBO WEST *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/844
+#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO | SUBTITULADO *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/817
