@@ -23,6 +23,9 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, TELEVISA DEL BAJÍO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=2355&format=HLS&f=.m3u8
 
+#EXTINF:-1, TV4 GUANAJUATO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2274&format=HLS&f=.m3u8
+
 #EXTINF:-1, HOLA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=219&format=HLS&f=.m3u8
 
