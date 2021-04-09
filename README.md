@@ -20,6 +20,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1, ESTRELLA TV HD
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, TELEVISA DEL BAJÍO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=2355&format=HLS&f=.m3u8
+
 #EXTINF:-1, HOLA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=219&format=HLS&f=.m3u8
 
