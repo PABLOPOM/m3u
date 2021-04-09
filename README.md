@@ -288,7 +288,7 @@ http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/37
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
 #EXTINF:-1, AMERICA TV HD
-https://m.youtube.com/watch?v=2Vyx4ee2Tss
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, TELEMUNDO HD PUERTO RICO 
 https://miap.xyz/239/serverkey.m3u8
