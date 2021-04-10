@@ -155,9 +155,6 @@ https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 #EXTINF:-1, EURONEWS HD
 https://stream-04.sv4.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa0So_jtELcZP2PY2aUQq1Ko)/dm/3/x2j7hpf/s/live-3.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
 
-#EXTINF:-1, EURONEWS HD
-https://www.dailymotion.com/cdn/live/video/x2j7hpf.m3u8?sec=EmxAxFpnc3D070_wVytHwRQGSdDTZ616XDKGAlNEacF2fU9fpopmM8eYKJD9JjDW
-
 #EXTINF:-1, TELEFE ROSARIO HD
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
