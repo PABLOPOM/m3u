@@ -134,6 +134,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1, MILENIO NOTICIAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1252&format=HLS&f=.m3u8
 
+#EXTINF:-1, BBC NEWS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=191&format=HLS&f=.m3u8
+
 #EXTINF:-1, EL FINANCIERO BLOOMBERG HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1649&format=HLS&f=.m3u8
 
