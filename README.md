@@ -23,7 +23,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=ze
 #EXTINF:-1, LAS ESTRELLAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1784&format=HLS&f=.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS HD 
+#EXTINF:-1, LAS ESTRELLAS HD -1 HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2047&format=HLS&f=.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS HD 2
