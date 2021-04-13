@@ -234,7 +234,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=401&format=HLS&f=.m3u8
 
 #EXTINF:-1, TV UNAM HD
-https://tv.unam.mx/en-vivo/
+https://tv.unam.mx/en-vivo/.m3u
 
 #EXTINF:-1, CANAL ONCE HD 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
