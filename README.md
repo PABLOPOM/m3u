@@ -233,8 +233,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1, APRENDE TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF:-1, TV UNAM HD
+#EXTINF:-1, TV UNAM 
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+
+#EXTINF:-1, TV UNAM HD
+https://5e50264bd6766.streamlock.net:443/tvunam/videotvunam/chunklist_w2090938446_DVR.m3u8
 
 #EXTINF:-1, CANAL ONCE HD 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
