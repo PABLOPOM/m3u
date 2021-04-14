@@ -168,7 +168,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
 #EXTINF:-1, EURONEWS HD
-https://stream-04.sv4.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa0So_jtELcZP2PY2aUQq1Ko)/dm/3/x2j7hpf/s/live-3.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1618433885/ei/_QJ3YJWrDtWV2_gP7N6l4AI/ip/2806:103e:23:215f:15f:7392:9746:e312/id/JbKgQhFlMdU.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-0opoxu-cwmz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3570/mh/KY/mm/44/mn/sn-0opoxu-cwmz/ms/lva/mv/m/mvi/1/pl/50/usequic/no/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466587/mt/1618412201/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANMUIoq9fzNJBOvcyopB82cXT4GyiyxoQNDI9n21ur10AiEAuN2Qkswk_sp-3zBg03ChK7Q_5L2p0QWpMz8U7GFAEF4%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,usequic/lsig/AG3C_xAwRAIgf_wQNAx8ATavtP8N04Q9FS_dgUUNF2gtADdey2G9GBACIGs4YAPcP06eilUc6dU1PDSeAveBgx08wzU32HBUJ9gt/playlist/index.m3u8
 
 #EXTINF:-1, TELEFE ROSARIO HD
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
