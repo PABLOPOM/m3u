@@ -29,11 +29,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1, LAS ESTRELLAS HD -1HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2047&format=HLS&f=.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS HD -2HORAS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2264&format=HLS&f=.m3u8
+#EXTINF:-1, LAS ESTRELLAS HD -1HORAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2037&format=HLS&f=.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS HD -2HORAS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2037&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2264&format=HLS&f=.m3u8
 
 #EXTINF:-1, ESTRELLA TV HD
 https://estrellatv-roku.amagi.tv/playlist.m3u8
