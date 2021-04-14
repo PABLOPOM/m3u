@@ -372,7 +372,7 @@ http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, CANALSUR ANDALUCÍA HD 
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8?PlaylistM3UCL
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1, TELESUR VENEZUELA HD 
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
