@@ -227,6 +227,9 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1, CNN ESPAÑOL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=187&format=HLS&f=.m3u8
 
+#EXTINF:-1, CNN ESPAÑOL HD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29619
+
 #EXTINF:-1, TELEFORMULA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=32&format=HLS&f=.m3u8
 
