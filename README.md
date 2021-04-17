@@ -51,7 +51,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1, UNIVISION MIAMI HD 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=univisionhd&f=.m3u8
 
 #EXTINF:-1, TELEMUNDO MIAMI
 http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=telemundo&f=.m3u8
