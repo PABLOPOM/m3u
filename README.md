@@ -54,7 +54,7 @@ https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 
 #EXTINF:-1, TELEMUNDO MIAMI
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=telemundo&f=.m3u8
 
 #EXTINF:-1, TELEMUNDO MIAMI OPC. 2
 http://saypopular.com:25461/oscar/20gar/52256
