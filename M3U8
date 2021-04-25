@@ -54,15 +54,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1, UNIVISION MIAMI HD 
-http://185.71.64.167:80/8005402280/1903686316/87017
+http://200.115.190.211:8000/play/TR65WqDLpEby8nmy/index.m3u8
 
 #EXTINF:-1, TELEMUNDO MIAMI
 http://200.115.190.211:8000/play/NnnBAHA2yQc4AG82/index.m3u8
-#EXTINF:-1, TELEMUNDO MIAMI OPC. 2
-http://saypopular.com:25461/oscar/20gar/52256
-
-#EXTINF:-1, TELEMUNDO NUEVA YORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
 
 #EXTINF:-1, DISCOVERY H&H HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=96&format=HLS&f=.m3u8
