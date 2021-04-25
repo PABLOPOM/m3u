@@ -59,6 +59,9 @@ http://200.115.190.211:8000/play/TR65WqDLpEby8nmy/index.m3u8
 #EXTINF:-1, TELEMUNDO MIAMI
 http://200.115.190.211:8000/play/NnnBAHA2yQc4AG82/index.m3u8
 
+#EXTINF:-1, HGTV HD
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8
+
 #EXTINF:-1, DISCOVERY H&H HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=96&format=HLS&f=.m3u8
 
