@@ -1,4 +1,6 @@
 # m3u8
+#EXTINF:-1 tvg-name="************** MEXICO *********" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *******
+
 #EXTINF:-1, TOTALPLAY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=02&format=HLS&f=.m3u8
 
@@ -14,34 +16,34 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29660
 #EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV HD
 http://latvonlive.com:33612/Norma110/Latv9/543
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZTECA UNO SD
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO SD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZTECA UNO HD
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=7&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZTECA UNO HD -2HORAS
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2195&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS SD
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS SD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS HD
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2362&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS HD -1HORAS
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -1HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2047&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS HD -1HORAS
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -1HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2037&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS HD -2HORAS
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2264&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", ESTRELLA TV HD
+#EXTINF:-1 group-title="LATINO", ESTRELLA TV HD
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS ESTRELLAS HD OPC. 2
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD OPC. 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1784&format=HLS&f=.m3u8
 
 #EXTINF:-1, TELEVISA DEL BAJÍO HD
@@ -802,8 +804,8 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/844
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/817
 
 #EXTM3U
-#EXTINF:-1 tvg-name="************** MEXICO *********" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *********
-https://
+#EXTINF:-1 tvg-name="************** MEXICO *********" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *******
+
 #EXTINF:-1 tvg-id="" tvg-name="adn40 (Partly GEO-Blocked outside MX)" tvg-logo="https://i.imgur.com/VCLWgAY.jpg" group-title="MEXICO",adn40 (Partly GEO-Blocked outside MX)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="MEXICO",Alcarria TV
