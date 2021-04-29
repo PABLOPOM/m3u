@@ -104,25 +104,25 @@ https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS CDMX HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1253&format=HLS&f=.m3u8
 
-#EXTINF:-1, MULTIMEDIOS MONTERREY HD 
+#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS MONTERREY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2305&format=HLS&f=.m3u8
 
-#EXTINF:-1, TELEMUNDO INTERNACIONAL HD 
+#EXTINF:-1 group-title="LATINO", TELEMUNDO INTERNACIONAL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=85&format=HLS&f=.m3u8
 
-#EXTINF:-1, CENTRAL COMEDIA HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", CENTRAL COMEDIA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=340&format=HLS&f=.m3u8
 
-#EXTINF:-1, DISTRITO COMEDIA HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", DISTRITO COMEDIA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=78&format=HLS&f=.m3u8
 
-#EXTINF:-1, TELENOVELAS HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TELENOVELAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=83&format=HLS&f=.m3u8
 
-#EXTINF:-1, TELEMUNDO NOVELAS HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO NOVELAS HD
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
 
-#EXTINF:-1, UNICABLE HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1499&format=HLS&f=.m3u8
 
 #EXTINF:-1, TELEVISA PUEBLA HD 
