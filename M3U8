@@ -248,70 +248,70 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1, JUSTICIA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=196&format=HLS&f=.m3u8
 
-#EXTINF:-1, APRENDE TV HD 
+#EXTINF:-1 group-title="NACIONALES", APRENDE TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF:-1, TV UNAM 
+#EXTINF:-1 group-title="NACIONALES", TV UNAM 
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-1, CANAL ONCE HD 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1, CANAL ONCE HD total OPC.2 
+#EXTINF:-1 group-title="NACIONALES", CANAL ONCE HDT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=25&format=HLS&f=.m3u8
 
-#EXTINF:-1, CANAL ONCE INTERNACIONAL 
+#EXTINF:-1 group-title="NACIONALES", CANAL ONCE INTERNACIONAL 
 https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
 
-#EXTINF:-1, CANAL ONCE NIÑOS 
+#EXTINF:-1 group-title="NACIONALES", CANAL ONCE NIÑOS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=3315&format=HLS&f=.m3u8
 
-#EXTINF:-1, CANAL 22 HD 
+#EXTINF:-1 group-title="NACIONALES", CANAL 22 HD 
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
-#EXTINF:-1, JALISCO TV HD
+#EXTINF:-1 group-title="NACIONALES", JALISCO TV HD
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, CORAZÓN DE LA CAPITAL HD 
+#EXTINF:-1 group-title="NACIONALES", CORAZÓN DE LA CAPITAL HD 
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
-#EXTINF:-1, MEXIQUENSE TELEVISIÓN total HD 
+#EXTINF:-1 group-title="NACIONALES", MEXIQUENSE TELEVISIÓN HDT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=44&format=HLS&f=.m3u8
 
 #EXTINF:-1, MEXIQUENSE TELEVISIÓN HD OPC. 2 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, INGENIO TV HD 
+#EXTINF:-1 group-title="NACIONALES", INGENIO TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF:-1, CANAL 10 QUERÉTARO HD
+#EXTINF:-1 group-title="NACIONALES", CANAL 10 QUERÉTARO HD
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1, TV4 GUANAJUATO HD T.PLAY
+#EXTINF:-1 group-title="NACIONALES", TV4 GUANAJUATO HDT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2274&format=HLS&f=.m3u8
 
 #EXTINF:-1, TV4 GUANAJUATO HD OPC.2 
 https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
 
-#EXTINF:-1, TV4.2 GUANAJUATO HD 
+#EXTINF:-1 group-title="NACIONALES", TV4.2 GUANAJUATO HD 
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m3u8
 
-#EXTINF:-1, TV4.3 GUANAJUATO HD 
+#EXTINF:-1 group-title="NACIONALES", TV4.3 GUANAJUATO HD 
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
 
-#EXTINF:-1, CANAL 26 AGUASCALIENTES HD
+#EXTINF:-1 group-title="NACIONALES", CANAL 26 AGUASCALIENTES HD
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 
-#EXTINF:-1, CANAL 14 HD 
+#EXTINF:-1 group-title="NACIONALES", CANAL 14 HD 
 https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 
-#EXTINF:-1, CANAL 10 CANCÚN HD 
+#EXTINF:-1 group-title="NACIONALES", CANAL 10 CANCÚN HD 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, QUIERO TV HD 
+#EXTINF:-1 group-title="NACIONALES", QUIERO TV HD 
 https://quierotvlive.tk/httplive/playlist.m3u8
 
-#EXTINF:-1, TELEMAX HD 
+#EXTINF:-1 group-title="NACIONALES", TELEMAX HD 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1, UNICANAL HD 
@@ -320,32 +320,8 @@ http://45.55.127.106/live/unicanal_src.m3u8
 #EXTINF:-1, CANAL 26 ARGENTINA HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1, CANAL 13 CL HD
-http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/2
-
-#EXTINF:-1, MEGA CL HD
-http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/37
-
-#EXTINF:-1, TELEMUNDO 51 
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
-
 #EXTINF:-1, AMERICA TV HD
 http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TELEMUNDO HD PUERTO RICO 
-https://miap.xyz/239/serverkey.m3u8
-
-#EXTINF:-1, TELEMUNDO CHICAGO 
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, LA SEXTA HD
-http://209.188.21.66:8080/Faucontv@local/Faucontv@local/14135?token=QxNYV0FfFVgUAlRSBlEGUAcCV19WVABTWwNUUwACDwNaCVRSCgACWwNDGxNDQEdRBVk5D1cSAlNWU1UCSRJNQF1Db19WFQ1AAVkGAxIYF0ANWQNECQEOU1ZUUwddBQofGkFZUhANFVYHUAETHBZQTBBRFAhSXGcGBxQPVAASAl1NXVwaEFhZPVIEWlBeUBcORgREShFZSxJAWAhCCVwUEVpYRERTQ1JADEMFCAICFxhGVwkTXURKG0BYRHo9EhQRXUlEU1xEXg1YQw0TREcXGEZdFTlBVUsWEAcHWgBCGgkaARIaEFpWGmkCWF9eUVZADVsIFREKGlNSUkQbR11XXVFFX0RtR14GFFsVAgMDBRYZ
-
-#EXTINF:-1, TELECINCO HD
-http://209.188.21.66:8080/Faucontv@local/Faucontv@local/14134?token=QxNYV0FfFVgUWQABVAcCBwIEAwUEBFxQBlADUQYJWQIJBFJUVgEGWgBDGxNDQEdRBVk5D1cSAlNWU1UDSRJNQF1Db19WFQ1AAVkGAxIYF0ANWQNECQEOU1ZUUwZUCQAfGkFZUhANFVMOUgMGEhgXURxAAxRdUVQ9BgcQXgZVGglWRFxaHhVYDGkFUlxRWlEWXhZWRB8SURESQFxZEFxUHxpTWUJAVkMHFFsVAwkGBBZIFgUJRl5MEBtAXBUoaBofGlRIQldZRAtZDxULEkBGFkgWDxVsQl0RFhADVghVShECEwAUHhVaA04+VF5eWlBXEF0JCEASAkBTUlYVSRJVXFZYRFlAaEcLUkMNEwMHAABGSQ==
-
-#EXTINF:-1, CUATRO HD
-http://209.188.21.66:8080/Faucontv@local/Faucontv@local/14133?token=QxNYV0FfFVgUBVUEVVEAUVAFXl4HAgkGAFJQBVAJAVAIAgQHVgZSUQ9DGxNDQEdRBVk5D1cSAlNWU1UESRJNQF1Db19WFQ1AAVkGAxIYF0ANWQNECQEOU1ZUUwVVBg4fGkFZUhANFVAEWA8AEhgXURxAAxRdUVQ9BgcQXgZVGglWRFxaHhVYDGkFUlxRWlEWXhZWRB8SURESQFxZEFxUHxpTWUJAVkMHFFsVAwgHDRZIFgUJRl5MEBtAXBUoaBofGlRIQldZRAtZDxULEkBGFkgWDxVsQl0RFhADVghVShECEwAUHhVaA04+VF5eWlBXEF0JCEASAkBTUlYVSRJVXFZYRFlAaEcLUkMNEwMHBgxGSQ==
 
 #EXTINF:-1, LIVESTARLOVER HD
 https://livestartover.atresmedia.com/eventos37/master.m3u8
