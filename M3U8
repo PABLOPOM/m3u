@@ -253,7 +253,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 
 #EXTINF:-1 group-title="NACIONALES", TV UNAM 
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
-
+El
 #EXTINF:-1, CANAL ONCE HD 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
@@ -267,7 +267,7 @@ https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=3315&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", CANAL 22 HD 
-https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
+https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/chunklist_w918227975_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjEgODoxMjozMCBQTSZoYXNoX3ZhbHVlPWpidDFyVXR5cml2YktuZzFXbG84a1E9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
 
 #EXTINF:-1 group-title="NACIONALES", JALISCO TV HD
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
