@@ -140,7 +140,7 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1, AZTECA 7 OPC 2
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1, EXCELSIOR TV 
+#EXTINF:-1 group-title="INFORMATIVOS", EXCELSIOR TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1449&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", TVMÁS HD 
@@ -149,52 +149,49 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1, VIBE TV HD
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 
-#EXTINF:-1, FORO TV HD 
+#EXTINF:-1 group-title="INFORMATIVOS", FORO TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=700&format=HLS&f=.m3u8
 
-#EXTINF:-1, ADN 40 HD 
+#EXTINF:-1 group-title="INFORMATIVOS", ADN 40 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=184&format=HLS&f=.m3u8
 
-#EXTINF:-1, MILENIO NOTICIAS HD 
+#EXTINF:-1 group-title="INFORMATIVOS", MILENIO NOTICIAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1252&format=HLS&f=.m3u8
 
-#EXTINF:-1, BBC NEWS HD
+#EXTINF:-1 group-title="INFORMATIVOS", BBC NEWS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=191&format=HLS&f=.m3u8
 
-#EXTINF:-1, EL FINANCIERO BLOOMBERG HD
+#EXTINF:-1 group-title="INFORMATIVOS", EL FINANCIERO BLOOMBERG HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1649&format=HLS&f=.m3u8
 
-#EXTINF:-1, CBS NEWS HD
+#EXTINF:-1 group-title="INFORMATIVOS", CBS NEWS HD
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1, CBS NEWS HD 2
+#EXTINF:-1 group-title="INFORMATIVOS", CBS NEWS HD 
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, NASA HD
+#EXTINF:-1 group-title="INFORMATIVOS", NASA HD
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1, RT NOTICIAS HD 
+#EXTINF:-1 group-title="INFORMATIVOS", RT NOTICIAS HD 
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
-#EXTINF:-1, EURONEWS HD
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1618433885/ei/_QJ3YJWrDtWV2_gP7N6l4AI/ip/2806:103e:23:215f:15f:7392:9746:e312/id/JbKgQhFlMdU.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-0opoxu-cwmz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3570/mh/KY/mm/44/mn/sn-0opoxu-cwmz/ms/lva/mv/m/mvi/1/pl/50/usequic/no/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466587/mt/1618412201/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANMUIoq9fzNJBOvcyopB82cXT4GyiyxoQNDI9n21ur10AiEAuN2Qkswk_sp-3zBg03ChK7Q_5L2p0QWpMz8U7GFAEF4%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,usequic/lsig/AG3C_xAwRAIgf_wQNAx8ATavtP8N04Q9FS_dgUUNF2gtADdey2G9GBACIGs4YAPcP06eilUc6dU1PDSeAveBgx08wzU32HBUJ9gt/playlist/index.m3u8
-
-#EXTINF:-1, TELEFE ROSARIO HD
+#EXTINF:-1 group-title="INFORMATIVOS", TELEFE ROSARIO HD
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, PLUTO NOTICIAS HD 
+#EXTINF:-1 group-title="INFORMATIVOS", PLUTO NOTICIAS HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=95b91f7b-5fea-11eb-a30a-0242ac110002&sid=95b91f7b-5fea-11eb-a30a-0242ac110002&userId=
 
-#EXTINF:-1, HISPAN TV HD 
+#EXTINF:-1 group-title="INFORMATIVOS", HISPAN TV HD 
 https://live1.presstv.com/live/hispan.m3u8
 
-#EXTINF:-1, FRANCE24 HD 
+#EXTINF:-1 group-title="INFORMATIVOS", FRANCE24 HD 
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
-#EXTINF:-1, DW ALEMANIA EN ESPAÑOL SD 
+#EXTINF:-1 group-title="INFORMATIVOS", DW ALEMANIA EN ESPAÑOL SD 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1, NEGOCIOS TV HD
+#EXTINF:-1 group-title="INFORMATIVOS", NEGOCIOS TV HD
 https://play01.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 
 #EXTINF:-1, AZTECA UNO SD OPC. 2
@@ -335,7 +332,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1, STAR TVE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2375&format=HLS&f=.m3u8
 
-#EXTINF:-1, 24h NOTICIAS HD TV ESPAÑOLA 
+#EXTINF:-1group-title="INFORMATIVOS", 24h NOTICIAS HD TV ESPAÑOLA 
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
 #EXTINF:-1, COSMO TV HD 
@@ -362,7 +359,7 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, CANALSUR ANDALUCÍA HD 
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
-#EXTINF:-1, TELESUR VENEZUELA HD 
+#EXTINF:-1 group-title="INFORMATIVOS", TELESUR VENEZUELA HD 
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1, TELESUR COSTA RICA HD 
@@ -383,10 +380,10 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, FASHION HD PLUTO TV 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=00ea8f20-5fe7-11eb-b7f1-0242ac110002&sid=00ea8f20-5fe7-11eb-b7f1-0242ac110002&userId=
 
-#EXTINF: -1, HOGAR PLUTO TV HD 
+#EXTINF: -1 group-title="ENTRETENIMIENTO", HOGAR PLUTO TV HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&sid=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&userId=
 
-#EXTINF:-1, MAS CHIC HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", MAS CHIC HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1842&format=HLS&f=.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL HD 
@@ -434,13 +431,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1, NATIONAL GEOGRAFIC HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=91&format=HLS&f=.m3u8
 
-#EXTINF:-1, TRU TV HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TRU TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=215&format=HLS&f=.m3u8
 
-#EXTINF:-1, PLUTO VIAJES HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", PLUTO VIAJES HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=727fd000-5fe9-11eb-affa-0242ac110002&sid=727fd000-5fe9-11eb-affa-0242ac110002&userId=
 
-#EXTINF:-1, OH, MI MASCOTA PLUTO HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", OH, MI MASCOTA PLUTO HD 
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9416dd-5feb-11eb-ad61-0242ac110002&sid=5d9416dd-5feb-11eb-ad61-0242ac110002&userId=&already_redirected=true
 
 #EXTINF:-1, WODI HD 
@@ -458,7 +455,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1, AZ MUNDO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=84&format=HLS&f=.m3u8
 
-#EXTINF:-1, A + HD 
+#EXTINF:-1 group-title="TV ABIERTA", A + HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2348&format=HLS&f=.m3u8
 
 #EXTINF:-1, E ENTRETEMIENT HD 
