@@ -65,19 +65,19 @@ http://200.115.190.211:8000/play/NnnBAHA2yQc4AG82/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", HGTV HD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES, DISCOVERY H&H HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=96&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES, DISCOVERY H&H HD
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29528
 
-#EXTINF:-1 group-title="DOCUMENTALES, DISCOVERY H&H SD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H SD 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES, DISCOVERY H&H HD
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES, DISCOVERY H&H HD
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/20-hls/live-media.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", IMAGEN TELEVISION HD 
