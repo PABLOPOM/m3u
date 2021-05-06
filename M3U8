@@ -56,7 +56,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cx
 #EXTINF:-1 group-title="TV ABIERTA", TV4 GUANAJUATO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2274&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS BAJÍO HD 
+#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS BAJÍO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2352&format=HLS&f=.m3u8
+
+#EXTINF:-1, MULTIMEDIOS BAJÍO HD 
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TURISTIK TV
