@@ -41,8 +41,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 group-title="LATINO", ESTRELLA TV HD
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD OPC. 2
+#EXTINF:-1, LAS ESTRELLAS HD OPC. 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1784&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2220&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA BAJÍO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2356&format=HLS&f=.m3u8
