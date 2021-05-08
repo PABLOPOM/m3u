@@ -488,71 +488,74 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1, ZEEMUNDO HD 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, A3CINE 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=3112&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", A3CINE 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=3112&format=HLS&f=.m3u8
 
-#EXTINF:-1, A3SERIES 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2113&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", A3SERIES 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2113&format=HLS&f=.m3u8
 
-#EXTINF:-1, CANAL UNIVERSAL HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=57&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", CANAL UNIVERSAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=57&format=HLS&f=.m3u8
 
-#EXTINF:-1, STUDIO UNIVERSAL HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=132&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STUDIO UNIVERSAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=132&format=HLS&f=.m3u8
 
-#EXTINF:-1, AZ CINEMA HD 
+#EXTINF:-1 group-title="CINEMA", AZ CINEMA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1787&format=HLS&f=.m3u8
 
-#EXTINF:-1, DE PELICULA PLUS HD 
+#EXTINF:-1 group-title="CINEMA", DE PELICULA PLUS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=121&format=HLS&f=.m3u8
 
-#EXTINF:-1, DE PELICULA HD 
+#EXTINF:-1 group-title="CINEMA", DE PELICULA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=335&format=HLS&f=.m3u8
 
-#EXTINF:-1, CINE NOSTALGIA PLUTO TV 
+#EXTINF:-1 group-title="CINEMA", CINE NOSTALGIA PLUTO TV 
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=021906df-85ee-11eb-b4b0-0242ac110002&sid=021906df-85ee-11eb-b4b0-0242ac110002&userId=&already_redirected=true
 
-#EXTINF:-1, TBS 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=81&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", TBS 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=81&format=HLS&f=.m3u8
 
-#EXTINF:-1, MORBIDO HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=140&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", MORBIDO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=140&format=HLS&f=.m3u8
 
-#EXTINF:-1, STAR CHANNEL HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=46&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STAR CHANNEL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=46&format=HLS&f=.m3u8
 
-#EXTINF:-1, STAR LIFE HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=77&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STAR LIFE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=77&format=HLS&f=.m3u8
 
-#EXTINF:-1, STAR CINEMA HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1729&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STAR CINEMA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1729&format=HLS&f=.m3u8
 
-#EXTINF:-1, STAR ACTION HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=336&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STAR ACTION HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=336&format=HLS&f=.m3u8
 
-#EXTINF:-1, STAR CLASSICS HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1732&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STAR CLASSICS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1732&format=HLS&f=.m3u8
 
-#EXTINF:-1, STAR PREMIUM MOVIES HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=146&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STAR FUN HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1724&format=HLS&f=.m3u8
 
-#EXTINF:-1, STAR PREMIUM SERIES HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=139&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STAR PREMIUM MOVIES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=146&format=HLS&f=.m3u8
 
-#EXTINF:-1, TNT HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=126&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", STAR PREMIUM SERIES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=139&format=HLS&f=.m3u8
 
-#EXTINF:-1, TNT SERIES HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=71&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", TNT HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=126&format=HLS&f=.m3u8
 
-#EXTINF:-1, A&E HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=62&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", TNT SERIES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=71&format=HLS&f=.m3u8
 
-#EXTINF:-1, AMC HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=328&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", A&E HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=62&format=HLS&f=.m3u8
 
-#EXTINF:-1, AXN HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=64&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", AMC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=328&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", AXN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=64&format=HLS&f=.m3u8
 
 #EXTINF:-1, GOLDEN HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=123&format=HLS&f=.m3u8
