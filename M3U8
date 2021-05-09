@@ -632,7 +632,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1, TEEN NICK HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2147&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA HBO| FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO *FHD
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/814
 #EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-plus.png",HBO + *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/812
