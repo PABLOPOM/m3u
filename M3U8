@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="************** MEXICO *********" group-title="TV MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *******
+#EXTINF:-1 tvg-name="************** TV MEXICO *********" group-title="TV MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *******
 https://
 
 #EXTINF:-1 group-title="TOTALPLAY", CANAL TOTALPLAY HD
@@ -632,6 +632,31 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1, TEEN NICK HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2147&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="CINEMA HBO| FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/814
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-plus.png",HBO + *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/812
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo2.png",HBO 2 *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/810
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_east_small.gif",HBO EAST *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/848
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbofamily.png",HBO FAMILY *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/811
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="http://i.imgur.com/RQa2ipx.png",HBO FAMILY WEST *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/847
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png",HBO MUNDI *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/27529
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-pop.png",HBO POP *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/815
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-xtreme.png",HBO XTREME *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/809
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpyNFd7cW1oieFX7ORDpf5c5uIUGFAjxxWx8wxvjb_mgMHb6j&s",HBO SIGNATURE *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/813
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/HBO/HBO%20WEST.jpg",HBO WEST *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/844
+#EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO | SUBTITULADO *FHD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/817
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", COCINA PLUTO TV HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9416dd-5feb-11eb-ad61-0242ac110002&sid=5d9416dd-5feb-11eb-ad61-0242ac110002&userId=
 
@@ -766,31 +791,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 
 #EXTINF:-1, GOLF HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=179&format=HLS&f=.m3u8
-
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/814
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-plus.png",HBO + *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/812
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo2.png",HBO 2 *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/810
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_east_small.gif",HBO EAST *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/848
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbofamily.png",HBO FAMILY *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/811
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="http://i.imgur.com/RQa2ipx.png",HBO FAMILY WEST *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/847
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png",HBO MUNDI *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/27529
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-pop.png",HBO POP *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/815
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-xtreme.png",HBO XTREME *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/809
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpyNFd7cW1oieFX7ORDpf5c5uIUGFAjxxWx8wxvjb_mgMHb6j&s",HBO SIGNATURE *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/813
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/HBO/HBO%20WEST.jpg",HBO WEST *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/844
-#EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO | SUBTITULADO *FHD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/817
 
 #EXTINF:-1 tvg-id="" tvg-name="adn40 (Partly GEO-Blocked outside MX)" tvg-logo="https://i.imgur.com/VCLWgAY.jpg" group-title="MEXICO",adn40 (Partly GEO-Blocked outside MX)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
