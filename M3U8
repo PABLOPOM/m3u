@@ -1,4 +1,4 @@
-#m3u8
+#EXTM3U
 #EXTINF:-1 tvg-name="************** MEXICO *********" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *******
 https://
 
@@ -792,9 +792,6 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/844
 #EXTINF:-1 group-title="CINEMA | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO | SUBTITULADO *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/817
 
-#EXTM3U
-#EXTINF:-1 tvg-name="************** MEXICO *********" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *******
-https://
 #EXTINF:-1 tvg-id="" tvg-name="adn40 (Partly GEO-Blocked outside MX)" tvg-logo="https://i.imgur.com/VCLWgAY.jpg" group-title="MEXICO",adn40 (Partly GEO-Blocked outside MX)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="MEXICO",Alcarria TV
