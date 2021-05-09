@@ -1,8 +1,10 @@
 # m3u8
-#EXTINF:-1, CANAL TOTALPLAY HD
+#EXTINF:-1 tvg-name="************** MEXICO *********" group-title="MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MEXICO *******
+
+#EXTINF:-1 group-title="TOTALPLAY", CANAL TOTALPLAY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1973&format=HLS&f=.m3u8
 
-#EXTINF:-1, TOTALPLAY HD 
+#EXTINF:-1 group-title="TOTALPLAY", TOTALPLAY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=02&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO SD
@@ -471,7 +473,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2348&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E ENTRETEMIENT HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=55&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=55&format=HLS&f=.m3u8
 
 #EXTINF:-1, ISAT HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=135&format=HLS&f=.m3u8
