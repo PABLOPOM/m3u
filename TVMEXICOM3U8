@@ -200,9 +200,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 group-title="NACIONALES", TV UNAM 
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
-#EXTINF:-1, CANAL ONCE HD 
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="NACIONALES", CANAL ONCE HDT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=25&format=HLS&f=.m3u8
 
@@ -224,9 +221,6 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 group-title="NACIONALES", MEXIQUENSE TELEVISIÓN HDT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=44&format=HLS&f=.m3u8
 
-#EXTINF:-1, MEXIQUENSE TELEVISIÓN HD OPC. 2 
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="NACIONALES", INGENIO TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=401&format=HLS&f=.m3u8
 
@@ -235,9 +229,6 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", TV4 GUANAJUATO HDT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2274&format=HLS&f=.m3u8
-
-#EXTINF:-1, TV4 GUANAJUATO HD OPC.2 
-https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", TV4.2 GUANAJUATO HD 
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m3u8
@@ -328,6 +319,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 
 #EXTINF:-1 group-title="CINEMA", AXN HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=64&format=HLS&f=.m3u8
+
+#EXTINF:-1, MEXIQUENSE TELEVISIÓN HD OPC. 2 
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CANAL ONCE HD 
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1, TV4 GUANAJUATO HD OPC.2 
+https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
 
 #EXTINF:-1, CNN ESPAÑOL HD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29619
