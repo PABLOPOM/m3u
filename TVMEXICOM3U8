@@ -182,65 +182,8 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 group-title="INFORMATIVOS", NEGOCIOS TV HD
 https://play01.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 
-#EXTINF:-1, VIBE TV HD
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-
-#EXTINF:-1, LAS ESTRELLAS HD OPC. 2
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1784&format=HLS&f=.m3u8
-
-#EXTINF:-1, MULTIMEDIOS BAJÍO HD 
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-
-#EXTINF:-1, LIFE TV HD
-http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
-
-#EXTINF:-1, CANAL 4 HD 
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1, AZTECA 7 OPC 2
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-#EXTINF:-1, AZTECA UNO SD OPC. 2
-https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
-
-#EXTINF:-1, FORO TV HD OPC. 2
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-
-#EXTINF:-1, ADN 40 OPC. 2 
-https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-
-#EXTINF:-1, TELEFORMULA OPC. 2
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:-1, MILENIO NOTICIAS HD OPC. 2
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1, MULTIMEDIOS MONTERREY HD OPC. 2
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1, MULTIMEDIOS CDMX HD OPC. 2
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-
-#EXTINF:-1, MULTIMEDIOS GUADALAJARA HD
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-
-#EXTINF:-1, MULTIMEDIOS LAGUNA HD
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1, MULTIMEDIOS PUEBLA HD
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-
-#EXTINF:-1, MULTIMEDIOS CIUDAD JUÁREZ HD
-https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-
-#EXTINF:-1, MULTIMEDIOS SALTILLO HD
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-
 #EXTINF:-1 group-title="INFORMATIVOS", CNN ESPAÑOL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=187&format=HLS&f=.m3u8
-
-#EXTINF:-1, CNN ESPAÑOL HD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29619
 
 #EXTINF:-1 group-title="INFORMATIVOS", TELEFORMULA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=32&format=HLS&f=.m3u8
@@ -385,6 +328,64 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 
 #EXTINF:-1 group-title="CINEMA", AXN HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=64&format=HLS&f=.m3u8
+
+#EXTINF:-1, CNN ESPAÑOL HD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29619
+
+#EXTINF:-1, VIBE TV HD
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+
+#EXTINF:-1, LAS ESTRELLAS HD OPC. 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1784&format=HLS&f=.m3u8
+
+#EXTINF:-1, MULTIMEDIOS BAJÍO HD 
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
+#EXTINF:-1, LIFE TV HD
+http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
+
+#EXTINF:-1, CANAL 4 HD 
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1, AZTECA 7 OPC 2
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1, AZTECA UNO SD OPC. 2
+https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
+
+#EXTINF:-1, FORO TV HD OPC. 2
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+
+#EXTINF:-1, ADN 40 OPC. 2 
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1, TELEFORMULA OPC. 2
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1, MILENIO NOTICIAS HD OPC. 2
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1, MULTIMEDIOS MONTERREY HD OPC. 2
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1, MULTIMEDIOS CDMX HD OPC. 2
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1, MULTIMEDIOS GUADALAJARA HD
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1, MULTIMEDIOS LAGUNA HD
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1, MULTIMEDIOS PUEBLA HD
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+#EXTINF:-1, MULTIMEDIOS CIUDAD JUÁREZ HD
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+
+#EXTINF:-1, MULTIMEDIOS SALTILLO HD
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
 
 #EXTINF:-1, UNICANAL HD 
 http://45.55.127.106/live/unicanal_src.m3u8
