@@ -29,6 +29,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 group-title="ENTRETENIMIENTO", ADRENALINA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2404&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HAVOC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2148&format=HLS&f=.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=7&format=HLS&f=.m3u8
 
@@ -161,6 +164,12 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/maste
 #EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1499&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2089&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FOOD NETWORT HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2145&format=HLS&f=.m3u8
+
 #EXTINF:-1 group-title="NACIONALES", TELEVISA PUEBLA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2312&format=HLS&f=.m3u8
 
@@ -181,6 +190,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 
 #EXTINF:-1 group-title="INFORMATIVOS", MILENIO NOTICIAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1252&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", LA OCTAVA HD
+https://stream-04.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2uL-2s21tQEKhcyCP2ubH7M)/dm/3/x80mow9/d/live-4.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
+
+#EXTINF:-1 group-title="INFORMATIVOS", TVC HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=2156&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", NTN24 HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=124&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", BBC NEWS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=191&format=HLS&f=.m3u8
@@ -361,6 +379,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 
 #EXTINF:-1 group-title="DEPORTES", TUDN HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=174&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2157&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=178&format=HLS&f=.m3u8
