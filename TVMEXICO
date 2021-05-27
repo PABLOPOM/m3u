@@ -195,13 +195,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 https://stream-04.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2uL-2s21tQEKhcyCP2ubH7M)/dm/3/x80mow9/d/live-4.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 #EXTINF:-1 group-title="INFORMATIVOS", TVC HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=2156&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2156&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", NTN24 HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=124&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=124&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", BBC NEWS HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7tbl5cxb73ssv0i&lchId=191&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=191&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", EL FINANCIERO BLOOMBERG HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1649&format=HLS&f=.m3u8
