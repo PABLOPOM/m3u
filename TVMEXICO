@@ -648,46 +648,46 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/844
 #EXTINF:-1 group-title="CINEMA HBO | FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png",HBO SUBTITULADO FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/817
 
-#EXTINF:-1, GOLDEN HD 
+#EXTINF:-1 group-title = "CINEMA", GOLDEN HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=123&format=HLS&f=.m3u8
 
-#EXTINF:-1, GOLDEN PLUS HD 
+#EXTINF:-1 group-title = "CINEMA", GOLDEN PLUS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=122&format=HLS&f=.m3u8
 
-#EXTINF:-1, GOLDEN EDGE HD 
+#EXTINF:-1 group-title = "CINEMA", GOLDEN EDGE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=124&format=HLS&f=.m3u8
 
-#EXTINF:-1, CINEMAX HD 
+#EXTINF:-1 group-title = "CINEMA", CINEMAX HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=158&format=HLS&f=.m3u8
 
-#EXTINF:-1, PARAMOUNT HD 
+#EXTINF:-1 group-title = "CINEMA", PARAMOUNT HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=1726&format=HLS&f=.m3u8
 
-#EXTINF:-1, PARAMOUNT PLUTO TV HD
+#EXTINF:-1 group-title = "CINEMA", PARAMOUNT PLUTO TV HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=6651e862-860e-11eb-a0f0-0242ac110002&sid=6651e862-860e-11eb-a0f0-0242ac110002&userId=
 
-#EXTINF:-1, SPACE HD 
+#EXTINF:-1 group-title = "CINEMA", SPACE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=129&format=HLS&f=.m3u8
 
-#EXTINF:-1, CINECANAL HD 
+#EXTINF:-1 group-title = "CINEMA", CINECANAL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=149&format=HLS&f=.m3u8
 
-#EXTINF:-1, SONY HD 
+#EXTINF:-1 group-title = "CINEMA", SONY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=48&format=HLS&f=.m3u8
 
-#EXTINF:-1, FX HD 
+#EXTINF:-1 group-title = "CINEMA", FX HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=60&format=HLS&f=.m3u8
 
-#EXTINF:-1, FXM HD 
+#EXTINF:-1 group-title = "CINEMA", FXM HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=138&format=HLS&f=.m3u8
 
-#EXTINF:-1, WARNER HD 
+#EXTINF:-1 group-title = "CINEMA", WARNER HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=205&format=HLS&f=.m3u8
 
-#EXTINF:-1, SYFY HD 
+#EXTINF:-1 group-title = "CINEMA", SYFY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=59&format=HLS&f=.m3u8
 
-#EXTINF:-1, TCM SD 
+#EXTINF:-1 group-title = "CINEMA", TCM SD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=128&format=HLS&f=.m3u8
 
 #EXTINF:-1, BEBÉ PRIMERO HD
@@ -741,7 +741,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m
 #EXTINF:-1, CBN EN ESPAÑOL HD 
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
-#EXTINF:-1, eE HD 
+#EXTINF:-1 group-title = "CINEMA", eE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=136&format=HLS&f=.m3u8
 
 #EXTINF:-1, MTV HD 
@@ -768,7 +768,7 @@ https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ARTS HD 
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
-#EXTINF:-1, PELÍCULAS Y ARTES 
+#EXTINF:-1 group-title = "CINEMA", PELÍCULAS Y ARTES 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=137&format=HLS&f=.m3u8
 
 #EXTINF:-1, CANAL DE MÚSICA DE CALIFORNIA HD 
