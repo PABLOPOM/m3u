@@ -195,7 +195,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 https://stream-04.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2uL-2s21tQEKhcyCP2ubH7M)/dm/3/x80mow9/d/live-4.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 #EXTINF:-1 group-title="INFORMATIVOS", TVC HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2156&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2156&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", NTN24 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=194&format=HLS&f=.m3u8
@@ -261,13 +261,16 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=25&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", CANAL ONCE INTERNACIONAL 
-https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
+https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", CANAL ONCE NIÑOS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=3315&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", CANAL 22 HD 
 https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/chunklist_w918227975_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjEgODoxMjozMCBQTSZoYXNoX3ZhbHVlPWpidDFyVXR5cml2YktuZzFXbG84a1E9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
+
+#EXTINF:-1 group-title="NACIONALES", CANAL 22.2 HD
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", JALISCO TV HD
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
