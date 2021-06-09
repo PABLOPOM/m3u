@@ -123,7 +123,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 13 MÉXICO HD ALBAVISIÓN
-https://vkvsd32.mycdn.me/hls/1130226387491.m3u8/sig/94fZJu6vy_g/expires/1619373111511/srcIp/189.162.215.139/clientType/13/srcAg/CHROME_ANDROID/mid/2154693602083/video.m3u8?p
+https://vkvsd26.mycdn.me:443/hls/1253905599011.m3u8/sig/BdHa14WKmNg/expires/1623365553702/srcIp/187.211.5.254/clientType/13/srcAg/CHROME_ANDROID/mid/2260795861795/1253905599011_high/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA 7 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=317&format=HLS&f=.m3u8
