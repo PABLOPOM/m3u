@@ -62,7 +62,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4p
 #EXTINF:-1 group-title="TV ABIERTA", TELEVISA DEL BAJÍO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2355&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TV4 GUANAJUATO HD 
+#EXTINF:-1 group-title="TV ABIERTA", TV4.1 GUANAJUATO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2274&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TVGUANAJUATO 
@@ -192,7 +192,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4p
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1253&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", LA OCTAVA HD
-https://stream-04.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ohWVGTZtamZxlK5CMN-TWQ)/dm/3/x80mow9/d/live-4.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
+https://stream-01.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ic1DOHiAW_71PaNPQc-WU0)/dm/3/x80mow9/d/live-4.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 #EXTINF:-1 group-title="INFORMATIVOS", TVC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2156&format=HLS&f=.m3u8
@@ -287,7 +287,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4p
 #EXTINF:-1 group-title="NACIONALES", CANAL 10 QUERÉTARO HD
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TV4 GUANAJUATO HDT
+#EXTINF:-1 group-title="NACIONALES", TV4.1 GUANAJUATO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2274&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", TV4.2 GUANAJUATO HD 
