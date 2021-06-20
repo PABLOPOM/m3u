@@ -1,0 +1,903 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="************** TV MEXICO *********" group-title="TV MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** TV MEXICO *******
+https://
+
+#EXTINF:-1 group-title="TOTALPLAY", CANAL TOTALPLAY HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1973&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TOTALPLAY", TOTALPLAY HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=02&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO SD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=219&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV SD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1734&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", PX SPORTS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=950&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ADRENALINA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2404&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HAVOC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2148&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=7&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD -2HORAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2195&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS SD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2362&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -1HORAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2047&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -1HORAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2037&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -2HORAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2264&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="LATINO", ESTRELLA TV HD
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2220&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA BAJÍO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2356&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TELEVISA DEL BAJÍO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2355&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TV4.1 GUANAJUATO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2274&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TVGUANAJUATO 
+https://stream.oursnetworktv.com/latin/encoder55/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS BAJÍO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2352&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TURISTIK TV
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
+
+#EXTINF:-1 group-title="LATINO", UNIVISION MIAMI HD 
+http://ultrontv.xyz:80/ford/ford123/58485
+
+#EXTINF:-1 group-title="LATINO", TELEMUNDO MIAMI
+http://ultrontv.xyz:80/ford/ford123/58481
+
+#EXTINF:-1 group-title="DOCUMENTALES", HGTV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3105&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=96&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H SD 
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY CHANNEL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=86&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY WORLD HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=101&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY THEATER HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=95&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TLC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2380&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DESCUBRIMIENTO DE LA CIVILIZACIÓN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY SCIENCE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY KIDS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=109&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY ID HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2376&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TURBO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2379&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", IMAGEN TELEVISION HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2298&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CANAL 13 MÉXICO HD ALBAVISIÓN
+https://vkvsd26.mycdn.me:443/hls/1253905599011.m3u8/sig/BdHa14WKmNg/expires/1623365553702/srcIp/187.211.5.254/clientType/13/srcAg/CHROME_ANDROID/mid/2260795861795/1253905599011_high/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA 7 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA 7.3 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=3316&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CANAL 5 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2218&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", NU9VE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS BAJÍO HD 
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS CDMX HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1253&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS MONTERREY HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2305&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="LATINO", TELEMUNDO INTERNACIONAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=85&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", CENTRAL COMEDIA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=340&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", DISTRITO COMEDIA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=78&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TELENOVELAS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=83&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="LATINO", TELEMUNDO NOVELAS HD
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1499&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", LAS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2089&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FOOD NETWORK HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2145&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TELEVISA PUEBLA CANAL 4 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2312&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TELEVISA MONTERREY CANAL 8 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2307&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", EXCELSIOR TV 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1449&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TVMÁS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2324&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", FORO TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=700&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", ADN 40 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=184&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", MILENIO NOTICIAS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1252&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", MULTIMEDIOS PLUS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1253&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", LA OCTAVA HD
+https://stream-01.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ic1DOHiAW_71PaNPQc-WU0)/dm/3/x80mow9/d/live-4.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
+
+#EXTINF:-1 group-title="INFORMATIVOS", TVC HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2156&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", NTN24 HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=194&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", BBC NEWS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=191&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", EL FINANCIERO BLOOMBERG HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1649&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", CBS NEWS HD
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", CBS NEWS HD 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="INFORMATIVOS", NASA HD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", RT NOTICIAS HD 
+https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", AL JAZEERA HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=192&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", TELEFE ROSARIO HD
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="INFORMATIVOS", PLUTO NOTICIAS HD 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=95b91f7b-5fea-11eb-a30a-0242ac110002&sid=95b91f7b-5fea-11eb-a30a-0242ac110002&userId=
+
+#EXTINF:-1 group-title="INFORMATIVOS", HISPAN TV HD 
+https://live1.presstv.com/live/hispan.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", FRANCE24 HD 
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", DW ALEMANIA EN ESPAÑOL SD 
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", NEGOCIOS TV HD
+https://play01.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", CNN ESPAÑOL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=187&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", TELEFORMULA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=32&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", CANAL DEL CONGRESO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2331&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", JUSTICIA TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=196&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", APRENDE TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=401&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TV UNAM 
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL ONCE HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=25&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL ONCE INTERNACIONAL 
+https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL ONCE NIÑOS 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3315&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL 22 HD 
+https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/chunklist_w918227975_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjEgODoxMjozMCBQTSZoYXNoX3ZhbHVlPWpidDFyVXR5cml2YktuZzFXbG84a1E9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
+
+#EXTINF:-1 group-title="NACIONALES", CANAL 22.2 HD
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", JALISCO TV HD
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="NACIONALES", CAPITAL21 HD 
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", MEXIQUENSE TELEVISIÓN HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=44&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", INGENIO TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=401&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL 10 QUERÉTARO HD
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TV4.1 GUANAJUATO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2274&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TV4.2 GUANAJUATO HD 
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TV4.3 GUANAJUATO HD 
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL 26 AGUASCALIENTES HD
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL 14 HD 
+https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TV MAR VALLARTA HD
+https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w1713845825_b3428000_sleng.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL 10 CANCÚN HD 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="NACIONALES", QUIERO TV HD 
+https://quierotvlive.tk/httplive/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TELEMAX HD 
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 group-title="CINEMA", A3CINE 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=3112&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", A3SERIES 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2113&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", CANAL UNIVERSAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=57&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STUDIO UNIVERSAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=132&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", AZ CINEMA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1787&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", DE PELICULA PLUS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=121&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", DE PELICULA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=335&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", CINE NOSTALGIA PLUTO TV 
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=021906df-85ee-11eb-b4b0-0242ac110002&sid=021906df-85ee-11eb-b4b0-0242ac110002&userId=&already_redirected=true
+
+#EXTINF:-1 group-title="CINEMA", TBS 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=81&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", MORBIDO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=140&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STAR CHANNEL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=46&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STAR LIFE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=77&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STAR CINEMA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1729&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STAR ACTION HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=336&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STAR CLASSICS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1732&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STAR FUN HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1724&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STAR PREMIUM MOVIES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=146&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STAR PREMIUM SERIES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=139&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", TNT HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=126&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", TNT SERIES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=71&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", A&E HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=62&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", AMC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=328&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", AXN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=64&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TUDN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=174&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2157&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=178&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=172&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=170&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ESPN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=169&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=168&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=345&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=167&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2157&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2564&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", AYM SPORTS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=180&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", LMB TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2090&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", FUEL TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2587&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", GOLF HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=179&format=HLS&f=.m3u8
+
+#EXTINF:-1, MEXIQUENSE TELEVISIÓN HD OPC. 2 
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CANAL ONCE HD 
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1, TV4 GUANAJUATO HD OPC.2 
+https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
+
+#EXTINF:-1, CNN ESPAÑOL HD
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29619
+
+#EXTINF:-1, VIBE TV HD
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+
+#EXTINF:-1, LAS ESTRELLAS HD OPC. 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1784&format=HLS&f=.m3u8
+
+#EXTINF:-1, MULTIMEDIOS BAJÍO HD 
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
+#EXTINF:-1, LIFE TV HD
+http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
+
+#EXTINF:-1, CANAL 4 HD 
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1, AZTECA 7 OPC 2
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1, AZTECA UNO SD OPC. 2
+https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
+
+#EXTINF:-1, FORO TV HD OPC. 2
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+
+#EXTINF:-1, ADN 40 OPC. 2 
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1, TELEFORMULA OPC. 2
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1, MILENIO NOTICIAS HD OPC. 2
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1, MULTIMEDIOS MONTERREY HD OPC. 2
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1, MULTIMEDIOS CDMX HD OPC. 2
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1, MULTIMEDIOS GUADALAJARA HD
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1, MULTIMEDIOS LAGUNA HD
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1, MULTIMEDIOS PUEBLA HD
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+#EXTINF:-1, MULTIMEDIOS CIUDAD JUÁREZ HD
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+
+#EXTINF:-1, MULTIMEDIOS SALTILLO HD
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
+#EXTINF:-1, UNICANAL HD 
+http://45.55.127.106/live/unicanal_src.m3u8
+
+#EXTINF:-1, CANAL 26 ARGENTINA HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1, AMERICA TV HD
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, LIVESTARLOVER HD
+https://livestartover.atresmedia.com/eventos37/master.m3u8
+
+#EXTINF:-1, TVE LA 1 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=198&format=HLS&f=.m3u8
+
+#EXTINF:-1, TVE LA 2 HD 
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1, STAR TVE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2375&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", 24h NOTICIAS HD TV ESPAÑOLA 
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+
+#EXTINF:-1, COSMO TV HD 
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1, NET TV HD 
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1, MULTIVISION HD 
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1, MICROVISIÓN HD 
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1, ANTENA 3 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=199&format=HLS&f=.m3u8
+
+#EXTINF:-1, TV GALICIA AMERICA HD 
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, MOMENTOS GALICIA HD 
+http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CANALSUR ANDALUCÍA HD 
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVOS", TELESUR VENEZUELA HD 
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1, TELESUR COSTA RICA HD 
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1, TVC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2156&format=HLS&f=.m3u8
+
+#EXTINF:-1, CARACOL HD 
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1, CANAL CAPITAL HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION HD 
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION HD PLUTO TV 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=00ea8f20-5fe7-11eb-b7f1-0242ac110002&sid=00ea8f20-5fe7-11eb-b7f1-0242ac110002&userId=
+
+#EXTINF: -1 group-title="ENTRETENIMIENTO", HOGAR PLUTO TV HD 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&sid=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&userId=
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", MAS CHIC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1842&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY MAX HD 
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", HISTORIA CANAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=89&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", ANIMAL PLANET HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2378&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", NAT WILD HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=92&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", NAT GEO KIDS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2373&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", NATIONAL GEOGRAFIC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=91&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TRU TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=215&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", PLUTO VIAJES HD 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=727fd000-5fe9-11eb-affa-0242ac110002&sid=727fd000-5fe9-11eb-affa-0242ac110002&userId=
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", OH, MI MASCOTA PLUTO HD 
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9416dd-5feb-11eb-ad61-0242ac110002&sid=5d9416dd-5feb-11eb-ad61-0242ac110002&userId=&already_redirected=true
+
+#EXTINF:-1 group-title="DOCUMENTALES", WODI HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=102&format=HLS&f=.m3u8
+
+#EXTINF:-1, NACIONES UNIDAS TV HD 
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CLIC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=11&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CORAZON HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=70&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ MUNDO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=84&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", A + 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2348&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", A + HD
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", E ENTRETEMIENT HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=55&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ISAT HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=135&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", LIFETIME HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=94&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", BIT ME HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2591&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", GLITZ HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=76&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ZEEMUNDO HD 
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA", GOLDEN HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=123&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", GOLDEN PLUS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=122&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", GOLDEN EDGE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=124&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", CINEMAX HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=158&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", PARAMOUNT HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1726&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", PARAMOUNT PLUTO TV HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=6651e862-860e-11eb-a0f0-0242ac110002&sid=6651e862-860e-11eb-a0f0-0242ac110002&userId=
+
+#EXTINF:-1 group-title="CINEMA", SPACE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=129&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", CINECANAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=149&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", SONY HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=48&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", FX HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=60&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", FXM HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=138&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", WARNER HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=205&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", SYFY HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=59&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", TCM SD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=128&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", BEBÉ PRIMERO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1984&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", CACHIPUM TV HD 
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", DISNEY CHANNEL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=113&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=118&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", DISNEY XD HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=111&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", RED DE DIBUJOS ANIMADOS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=112&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", BOOMERANG HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=115&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", TOONCAST HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=108&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", NICK JR. HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=117&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="INFANTILES", TEEN NICK HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2147&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", COCINA PLUTO TV HD 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9416dd-5feb-11eb-ad61-0242ac110002&sid=5d9416dd-5feb-11eb-ad61-0242ac110002&userId=
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", RED DE ALIMENTOS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=2145&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", GOURMET HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=74&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", GARAGE TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=75&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", MARIAVISION HD 
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", EWTN HD 
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
+
+#EXTINF:-1, CBN EN ESPAÑOL HD 
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+#EXTINF:-1 group-title="CINEMA", eE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=136&format=HLS&f=.m3u8
+
+#EXTINF:-1, MTV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=212&format=HLS&f=.m3u8
+
+#EXTINF:-1, LATIDO MUSIC 
+https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1, LATINOS UP HD 
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+
+#EXTINF:-1, TOP LATINO HD 
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
+#EXTINF:-1, TRAVEL HD 
+https://streamer104.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8
+
+#EXTINF:-1, TRAVEL BULGARIA HD
+https://streamer103.neterra.tv:443/thisisbulgaria/community.smil/chunklist_w1922871742_b5128000_slbul.m3u8
+
+#EXTINF:-1, CA MUSIC HD 
+https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ARTS HD 
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 group-title = "CINEMA", PELÍCULAS Y ARTES 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=137&format=HLS&f=.m3u8
+
+#EXTINF:-1, CANAL DE MÚSICA DE CALIFORNIA HD 
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1, MELODY CHANNEL TV 
+https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
+
+#EXTINF:-1, VH-1 HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=334&format=HLS&f=.m3u8
+
+#EXTINF:-1, VH-1 CLASSIC HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=214&format=HLS&f=.m3u8
+
+#EXTINF:-1, EUROLATINA HD 
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+
+#EXTINF:-1, NORTEvisión HD 
+http://amaru.dyndns.org:8835/0.m3u8
+
+#EXTINF:-1, KRONEHIT AUSTRIA 
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1, RETRO PLUS TV HD 
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1, NEX TV HD 
+http://198.1.123.99:1935/live/myStream/.m3u8
+
+#EXTINF:-1, NICK MUSIC HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1708&format=HLS&f=.m3u8
+
+#EXTINF:-1, TELEHIT MUSICA HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=218&format=HLS&f=.m3u8
+
+#EXTINF:-1, TELEHIT MUSICA PLUS HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=220&format=HLS&f=.m3u8
+
+#EXTINF:-1, BANDAMAX HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=221&format=HLS&f=.m3u8
+
+#EXTINF:-1, TELERITMO SD 
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="adn40 (Partly GEO-Blocked outside MX)" tvg-logo="https://i.imgur.com/VCLWgAY.jpg" group-title="MEXICO",adn40 (Partly GEO-Blocked outside MX)
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="MEXICO",Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/3vv7aoM.jpg" group-title="MEXICO",Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Catorce" tvg-logo="https://i.imgur.com/g46GRL2.jpg" group-title="MEXICO",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once Internacional" tvg-logo="https://i.imgur.com/VdLvmDt.png" group-title="MEXICO",Canal Once Internacional
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/cRXD0YD.png" group-title="MEXICO",Claro Sports
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hipodromo de las Americas" tvg-logo="https://i.imgur.com/wc8MlGw.png" group-title="MEXICO",Hipodromo de las Americas
+http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV" tvg-logo="https://i.imgur.com/R9szRua.png" group-title="MEXICO",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Guadalajara" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Laguna" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Monterrey" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MVM Noticias" tvg-logo="https://i.imgur.com/dhLXN9n.png" group-title="MEXICO",MVM Noticias
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCG 2 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="MEXICO",RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCG 3 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="MEXICO",RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTQ Queretaro" tvg-logo="https://i.imgur.com/x9jcMwu.png" group-title="MEXICO",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sipse TV Cancun" tvg-logo="https://i.imgur.com/WYwlaK4.png" group-title="MEXICO",Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="MEXICO",TeleFormula
+https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://i.imgur.com/H716og6.jpg" group-title="MEXICO",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVMAS" tvg-logo="https://i.imgur.com/h8Fv80L.png" group-title="MEXICO",TVMAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg",Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png",Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png",Quiero TV | SD
+https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg",RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg",RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 MONTERREY
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 CDMX
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 LAGUNA
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 GUADALAJARA
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 PUEBLA
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 BAJÍO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 SALTILLO
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",CANAL 6 JUAREZ
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png",TELERITMO
+http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png",A+ METROPOLITANO
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png",CANAL CATORCE
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png",CANAL CATORCE
+https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg",CANAL 22
+https://5fe2654d6127d.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png",CANAL 22.2 (ESPEJO 3.2/20.1 NAL/45.3 VM DIF.)
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg",AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png",SET TELEVISIÓN PUEBLA
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png",TV CUATRO
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png",TV CUATRO MEDIA
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png",TV CUATRO EXPRESA (ESPEJO 14.2/22.1 NAL)
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png",IMRyT
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png",C21 CDMX
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg",TV MAS 26.1 (ESPEJO 3.2/20.1 NAL/45.3 VM)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png",SIZART CANAL 24 (ESPEJO 3.2/20.1 NAL/45.3 VM DIF.)
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png",RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png",RT (ESPAÑOL)
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png",TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
