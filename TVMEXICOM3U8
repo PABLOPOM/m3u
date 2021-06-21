@@ -428,67 +428,64 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DEPORTES", GOLF HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=179&format=HLS&f=.m3u8
 
-#EXTINF:-1, UNICANAL HD 
+#EXTINF:-1 group-title="INTERNACIONALES", UNICANAL HD 
 http://45.55.127.106/live/unicanal_src.m3u8
 
-#EXTINF:-1, CANAL 26 ARGENTINA HD
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 26 ARGENTINA HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1, AMERICA TV HD
+#EXTINF:-1 group-title="INTERNACIONALES", AMERICA TV HD
 http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, LIVESTARLOVER HD
+#EXTINF:-1 group-title="INTERNACIONALES", LIVESTARLOVER HD
 https://livestartover.atresmedia.com/eventos37/master.m3u8
 
-#EXTINF:-1, TVE LA 1 HD 
+#EXTINF:-1 group-title="INTERNACIONALES", TVE LA 1 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=198&format=HLS&f=.m3u8
 
-#EXTINF:-1, TVE LA 2 HD 
+#EXTINF:-1 group-title="INTERNACIONALES", TVE LA 2 HD 
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1, STAR TVE HD 
+#EXTINF:-1 group-title="INTERNACIONALES", STAR TVE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2375&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", 24h NOTICIAS HD TV ESPAÑOLA 
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
-#EXTINF:-1, COSMO TV HD 
+#EXTINF:-1 group-title="INTERNACIONALES", COSMO TV HD 
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
-#EXTINF:-1, NET TV HD 
+#EXTINF:-1 group-title="INTERNACIONALES", NET TV HD 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1, MULTIVISION HD 
+#EXTINF:-1 group-title="INTERNACIONALES", MULTIVISION HD 
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1, MICROVISIÓN HD 
+#EXTINF:-1 group-title="INTERNACIONALES", MICROVISIÓN HD 
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
-#EXTINF:-1, ANTENA 3 HD 
+#EXTINF:-1 group-title="INTERNACIONALES", ANTENA 3 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=199&format=HLS&f=.m3u8
 
-#EXTINF:-1, TV GALICIA AMERICA HD 
+#EXTINF:-1 group-title="INTERNACIONALES", TV GALICIA AMERICA HD 
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, MOMENTOS GALICIA HD 
+#EXTINF:-1 group-title="INTERNACIONALES", MOMENTOS GALICIA HD 
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, CANALSUR ANDALUCÍA HD 
+#EXTINF:-1 group-title="INTERNACIONALES", CANALSUR ANDALUCÍA HD 
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", TELESUR VENEZUELA HD 
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1, TELESUR COSTA RICA HD 
+#EXTINF:-1 group-title="INTERNACIONALES", TELESUR COSTA RICA HD 
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1, TVC HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2156&format=HLS&f=.m3u8
-
-#EXTINF:-1, CARACOL HD 
+#EXTINF:-1 group-title="INTERNACIONALES", CARACOL HD 
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1, CANAL CAPITAL HD
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL CAPITAL HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION HD 
