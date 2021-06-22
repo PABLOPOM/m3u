@@ -428,6 +428,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DEPORTES", GOLF HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=179&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="INTERNACIONALES", MULTIMEDIOS COSTA RICA HD
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
 #EXTINF:-1 group-title="INTERNACIONALES", UNICANAL HD 
 http://45.55.127.106/live/unicanal_src.m3u8
 
