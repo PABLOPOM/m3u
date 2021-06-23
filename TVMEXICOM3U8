@@ -173,6 +173,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="NACIONALES", TELEVISA MONTERREY CANAL 8 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2307&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="INFORMATIVOS", MVS TV HD
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
+
 #EXTINF:-1 group-title="INFORMATIVOS", EXCELSIOR TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1449&format=HLS&f=.m3u8
 
@@ -862,6 +865,9 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29619
 
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)", VIBE TV HD
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)", MVS TVOPC. 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2149&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)", LAS ESTRELLAS HD OPC. 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1784&format=HLS&f=.m3u8
