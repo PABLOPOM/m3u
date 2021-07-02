@@ -240,7 +240,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 https://play01.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", ESTRELLA NEWS HD
-https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", VOA HD
 https://voavvideo-i.akamaihd.net/hls/live/850895-b/VOAV_TVMC2_MRG/master_1.m3u8
