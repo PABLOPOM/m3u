@@ -8,6 +8,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="TOTALPLAY", TOTALPLAY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=02&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=7&format=HLS&f=.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=219&format=HLS&f=.m3u8
 
@@ -22,9 +25,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", HAVOC HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2148&format=HLS&f=.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=7&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2195&format=HLS&f=.m3u8
