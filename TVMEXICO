@@ -206,9 +206,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INFORMATIVOS", CBS NEWS HD
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", CBS NEWS HD 
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 group-title="INFORMATIVOS", NASA HD
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
@@ -449,11 +446,11 @@ http://45.55.127.106/live/unicanal_src.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 26 ARGENTINA HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", AMERICA TV HD
+#EXTINF:-1 group-title="INTERNACIONALES", AMERICA TUC HD
 http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INTERNACIONALES", CUATRO HD
-http://gratuita.mrzutv.net:8080/Jb86AYQZy1/kKW3IDBxzk/41057
+#EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", TVE LA 1 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=198&format=HLS&f=.m3u8
