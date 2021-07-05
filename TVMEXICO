@@ -326,9 +326,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="CINEMA", A3SERIES 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2113&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", HOLLYWOOD
-http://gratuita.mrzutv.net:8080/Jb86AYQZy1/kKW3IDBxzk/41104
-
 #EXTINF:-1 group-title="CINEMA", UNIVERSAL TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=57&format=HLS&f=.m3u8
 
@@ -862,6 +859,9 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)", TV4 GUANAJUATO HD OPC.2 
 https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
+
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)", CNN HD OPC.2 
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)", CNN ESPAÑOL HD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29619
