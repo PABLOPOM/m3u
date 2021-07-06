@@ -749,30 +749,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 #EXTINF:-1 group-title="MUSICALES", TELERITMO SD 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MUNDO", FASHION TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="MUNDO", HOLA TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="MUNDO", CHIC MAGAZINE
-https://paneltv.online:1936/8056/8056/playlist.m3u8  
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/140264_032cb4f22381422ebf36e8811cc96a68~mv2.png" group-title="MUNDO", MILENNIO LOS CONDORES
-https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="MUNDO", Estrella TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="MUNDO", HD FASHION
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png" group-title="MUNDO", TV SALUD
-https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct7d60SEIxHlgbGr4904_mLl2yDhoauli-yKNiEOTrrOFKmTe1n8KJNuZF_BAUlOl5pBAiVNDgu9TQ-DkQpWNydOMBxi5-w1Adg&usqp=CAU&ec=45750088" group-title="MUNDO", VE PLUS
-http://190.122.96.187:8888/http/006
-
 EXTINF:-1 tvg-id="" tvg-name="adn40 (Partly GEO-Blocked outside MX)" tvg-logo="https://i.imgur.com/VCLWgAY.jpg" group-title="MEXICO",adn40 (Partly GEO-Blocked outside MX)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="MEXICO",Alcarria TV
