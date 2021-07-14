@@ -401,6 +401,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 #EXTINF:-1 group-title="DEPORTES", TUDN HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=174&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS HD
+http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", TVC DEPORTES HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2157&format=HLS&f=.m3u8
 
