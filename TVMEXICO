@@ -1432,3 +1432,72 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,MX | ESPN 1 NORTE
+#EXTGRP:Deportes
+http://51.222.105.5:8081/tecno/Espn1.BKR/chunks.m3u8
+#EXTINF:-1,MX | ESPN 2 NORTE
+#EXTGRP:Deportes
+http://51.222.105.5:8081/tecno/Espn2.BKR/chunks.m3u8
+#EXTINF:-1,MX | ESPN 3 NORTE
+#EXTGRP:Deportes
+http://51.222.105.5:8081/tecno/Espn3.BKR/chunks.m3u8
+#EXTINF:-1,MX | ESPN EXTRA NORTE
+#EXTGRP:Deportes
+http://51.222.105.5:8081/tecno/Espn+.BKR/chunks.m3u8
+#EXTINF:-1,MX | FOX SPORTS 1 NORTE
+#EXTGRP:Deportes
+http://51.222.105.5:8081/tecno/FoxSports1.BKR/chunks.m3u8
+#EXTINF:-1,MX | FOX SPORTS 2 NORTE
+#EXTGRP:Deportes
+http://51.222.105.5:8081/tecno/FoxSports2.BKR/chunks.m3u8
+#EXTINF:-1,MX | FOX SPORTS 3 NORTE
+#EXTGRP:Deportes
+http://51.222.105.5:8081/tecno/FoxSports3.BKR/chunks.m3u8
+#EXTINF:-1,MX | AFIZZIONADOS
+#EXTGRP:Deportes
+http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1,Claro Sports MX
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png",STAR LIFE
+http://51.222.105.5:8081/tecno/Foxlife.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
+http://51.222.105.5:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",MX | TELEMUNDO INTERNACIONAL
+http://51.222.105.5:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",STAR CHANNEL
+http://51.222.105.5:8081/tecno/Fox.BKR/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png",TNT SERIES
+http://51.222.105.5:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png",TNT
+http://51.222.105.5:8081/tecno/Tnt.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO
+http://51.222.105.5:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png",HBO 2
+http://51.222.105.5:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es",HBO PLUS
+http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE
+http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY
+http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/340?cb=20201202010915&path-prefix=es",GOLDEN PREMIER
+http://51.222.105.5:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
+http://51.222.105.5:8081/tecno/HGTV.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET
+http://51.222.105.5:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8.png",DISCOVERY CHANNEL
+http://51.222.105.5:8081/tecno/DiscoveryChannel.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png",DISCOVERY HOME & HEALTH
+http://51.222.105.5:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HISTORY CHANNEL
+http://51.222.105.5:8081/tecno/HistoryChann.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATER
+http://51.222.105.5:8081/tecno/Discovery_Theater.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg",DISCOVERY SCIENCE
+http://51.222.105.5:8081/tecno/DiscoverySci.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO
+http://51.222.105.5:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD
+http://51.222.105.5:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
+
