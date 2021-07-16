@@ -11,9 +11,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=7&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=219&format=HLS&f=.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=1734&format=HLS&f=.m3u8
 
@@ -40,6 +37,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 
 #EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2264&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="LATINO", HOLA TV HD
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 group-title="LATINO", ESTRELLA TV HD
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -448,6 +448,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 
 #EXTINF:-1 group-title="INTERNACIONALES", MULTIMEDIOS COSTA RICA HD
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONALES", HOLA TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", UNICANAL HD 
 http://45.55.127.106/live/unicanal_src.m3u8
