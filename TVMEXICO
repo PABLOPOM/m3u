@@ -530,8 +530,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY MAX HD 
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", HISTORIA CANAL HD 
+#EXTINF:-1 group-title="DOCUMENTALES", HISTORY HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=89&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", HISTORY2 HD 
+http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/15973
 
 #EXTINF:-1 group-title="DOCUMENTALES", ANIMAL PLANET HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2378&format=HLS&f=.m3u8
