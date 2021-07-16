@@ -1095,7 +1095,7 @@ https://5f1af61612fb5.streamlock.net/tv4/videotv4/chunklist_w1454166464.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)", CNN ESPAÑOL HD
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29619
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
 
 #EXTINF:-1 group-title="FTA (LOCALES LIBRES)", VIBE TV HD
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
