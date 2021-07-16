@@ -743,6 +743,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="MUSICALES", RETRO PLUS TV HD 
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSICALES", RETRO RADIO TV HD 
+https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="MUSICALES", NEX TV HD 
 http://198.1.123.99:1935/live/myStream/.m3u8
 
