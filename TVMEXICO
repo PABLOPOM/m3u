@@ -80,6 +80,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=96&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD 
+http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/16022
+
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY CHANNEL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=86&format=HLS&f=.m3u8
 
