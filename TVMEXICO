@@ -314,6 +314,9 @@ https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES", NTV TEPIC HD
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="NACIONALES", CANAL 7 SLP
+https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="NACIONALES", CANAL 26 AGUASCALIENTES HD
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 
