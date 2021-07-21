@@ -332,18 +332,6 @@ https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES", TELEMAX HD 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1 group-title="CINEMA", A3CINE 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3112&format=HLS&f=.m3u8
-
-#EXTINF:-1 group-title="CINEMA", A3SERIES 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2113&format=HLS&f=.m3u8
-
-#EXTINF:-1 group-title="CINEMA", UNIVERSAL TV HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=57&format=HLS&f=.m3u8
-
-#EXTINF:-1 group-title="CINEMA", STUDIO UNIVERSAL HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=132&format=HLS&f=.m3u8
-
 #EXTINF:-1 group-title="CINEMA", AZ CINEMA HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1787&format=HLS&f=.m3u8
 
@@ -365,11 +353,17 @@ https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA", CANELA TV 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 
-#EXTINF:-1 group-title="CINEMA", TBS 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=81&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", A3CINE 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3112&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", MORBIDO HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=140&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="CINEMA", A3SERIES 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2113&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", UNIVERSAL TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=57&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", STUDIO UNIVERSAL HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=132&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", STAR CHANNEL HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=46&format=HLS&f=.m3u8
@@ -655,6 +649,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 
 #EXTINF:-1 group-title="CINEMA", TCM SD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=128&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", TBS 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=81&format=HLS&f=.m3u8
+
+#EXTINF:-1 group-title="CINEMA", MORBIDO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=140&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", BEBÉ PRIMERO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1984&format=HLS&f=.m3u8
