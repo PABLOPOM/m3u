@@ -365,9 +365,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="CINEMA", A3SERIES 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2113&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", RETRO PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
 #EXTINF:-1 group-title="CINEMA", UNIVERSAL TV HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=57&format=HLS&f=.m3u8
 
