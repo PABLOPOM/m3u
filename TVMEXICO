@@ -1034,7 +1034,7 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 #EXTINF:-1 tvg-id="" tvg-name="Hipodromo de las Americas" tvg-logo="https://i.imgur.com/wc8MlGw.png" group-title="MEXICO",Hipodromo de las Americas
 http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Milenio TV" tvg-logo="https://i.imgur.com/R9szRua.png" group-title="MEXICO",Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+https://mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Multimedios Guadalajara" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Guadalajara
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multimedios Laguna" tvg-logo="https://i.imgur.com/i4I18Tj.jpg" group-title="MEXICO",Multimedios Laguna
