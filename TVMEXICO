@@ -110,6 +110,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TURBO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2379&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTALES", UCV TV HD 
+https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", IMAGEN TELEVISION HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2298&format=HLS&f=.m3u8
 
