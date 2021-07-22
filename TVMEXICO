@@ -167,6 +167,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="NACIONALES", TELEVISA MONTERREY CANAL 8 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2307&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="NACIONALES", TELEVISA DEL BAJÍO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2355&format=HLS&f=.m3u8
+
 #EXTINF:-1 group-title="NACIONALES", MVS TV HD
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 
