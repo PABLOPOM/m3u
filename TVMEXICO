@@ -131,6 +131,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 6 MONTERREY 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2305&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", TELERITMO 
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-1 group-title="LATINO", TELEMUNDO INTERNACIONAL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=85&format=HLS&f=.m3u8
 
@@ -428,385 +431,379 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="CINEMA", AXN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=64&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", TUDN HD 
+#EXTINF:-1 group-title="DEPORTES", TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS HD
+#EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS 
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES HD 
+#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 HD 
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 HD 
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=172&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS HD 
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=170&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN HD 
+#EXTINF:-1 group-title="DEPORTES", ESPN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD 
+#EXTINF:-1 group-title="DEPORTES", ESPN 2  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 HD 
+#EXTINF:-1 group-title="DEPORTES", ESPN 3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=345&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA HD 
+#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES HD 
+#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS HD 
+#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", AYM SPORTS HD 
+#EXTINF:-1 group-title="DEPORTES", AYM SPORTS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=180&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", LMB TV HD 
+#EXTINF:-1 group-title="DEPORTES", LMB TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2090&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FUEL TV HD 
+#EXTINF:-1 group-title="DEPORTES", FUEL TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2587&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", GOLF HD 
+#EXTINF:-1 group-title="DEPORTES", GOLF  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=179&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 COSTA RICA 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", HOLA TV HD 
+#EXTINF:-1 group-title="INTERNACIONALES", HOLA TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=219&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", UNICANAL HD 
+#EXTINF:-1 group-title="INTERNACIONALES", UNICANAL 
 http://45.55.127.106/live/unicanal_src.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", CANAL 26 ARGENTINA HD
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 26 ARGENTINA 
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", AMERICA TUC HD
+#EXTINF:-1 group-title="INTERNACIONALES", AMERICA TUC 
 http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV HD
+#EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", TVE LA 1 HD 
+#EXTINF:-1 group-title="INTERNACIONALES", TVE LA 1  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=198&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", TVE LA 2 HD 
+#EXTINF:-1 group-title="INTERNACIONALES", TVE LA 2  
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", STAR TVE HD 
+#EXTINF:-1 group-title="INTERNACIONALES", STAR TVE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2375&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", 24h NOTICIAS HD TV ESPAÑOLA 
+#EXTINF:-1 group-title="INFORMATIVOS", 24h NOTICIAS TVE 
 https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", COSMO TV HD 
+#EXTINF:-1 group-title="INTERNACIONALES", COSMO   
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", NET TV HD 
+#EXTINF:-1 group-title="INTERNACIONALES", NET TV  
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", MULTIVISION HD 
+#EXTINF:-1 group-title="INTERNACIONALES", MULTIVISION  
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", MICROVISIÓN HD 
+#EXTINF:-1 group-title="INTERNACIONALES", MICROVISIÓN  
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", ANTENA 3 HD 
+#EXTINF:-1 group-title="INTERNACIONALES", ANTENA 3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=199&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", TV GALICIA AMERICA HD 
+#EXTINF:-1 group-title="INTERNACIONALES", TV GALICIA AMERICA  
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INTERNACIONALES", MOMENTOS GALICIA HD 
+#EXTINF:-1 group-title="INTERNACIONALES", MOMENTOS GALICIA 
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INTERNACIONALES", CANALSUR ANDALUCÍA HD 
+#EXTINF:-1 group-title="INTERNACIONALES", CANALSUR ANDALUCÍA  
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", UHDSPAIN HD 
+#EXTINF:-1 group-title="INTERNACIONALES", UHDSPAIN  
 http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", 101TV MÁLAGA HD
+#EXTINF:-1 group-title="INTERNACIONALES", 101TV MÁLAGA 
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", 7TV ANDALUCÍA HD
+#EXTINF:-1 group-title="INTERNACIONALES", 7TV ANDALUCÍA 
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", TELESUR VENEZUELA HD 
+#EXTINF:-1 group-title="INFORMATIVOS", TELESUR VENEZUELA  
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", TELESUR COSTA RICA HD 
+#EXTINF:-1 group-title="INTERNACIONALES", TELESUR COSTA RICA  
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", CARACOL HD 
+#EXTINF:-1 group-title="INTERNACIONALES", CARACOL 
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", CANAL CAPITAL HD
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL CAPITAL 
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION  
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION HD PLUTO TV 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION HD PLUTO  
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=00ea8f20-5fe7-11eb-b7f1-0242ac110002&sid=00ea8f20-5fe7-11eb-b7f1-0242ac110002&userId=
 
-#EXTINF: -1 group-title="ENTRETENIMIENTO", HOGAR PLUTO TV HD 
+#EXTINF: -1 group-title="ENTRETENIMIENTO", HOGAR PLUTO TV  
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&sid=f6ccb55c-5fe7-11eb-b7f1-0242ac110002&userId=
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", MAS CHIC HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", MAS CHIC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1842&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", HISTORY HD 
+#EXTINF:-1 group-title="DOCUMENTALES", HISTORY  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=89&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", HISTORY2 HD 
-http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/15973
-
-#EXTINF:-1 group-title="DOCUMENTALES", ANIMAL PLANET HD 
+#EXTINF:-1 group-title="DOCUMENTALES", ANIMAL PLANET 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2378&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", NAT WILD HD 
+#EXTINF:-1 group-title="DOCUMENTALES", NAT WILD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=92&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", NAT GEO KIDS HD 
+#EXTINF:-1 group-title="DOCUMENTALES", NAT GEO KIDS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2373&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", NATIONAL GEOGRAFIC HD 
+#EXTINF:-1 group-title="DOCUMENTALES", NATIONAL GEOGRAFIC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=91&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TRU TV HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TRU TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=215&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", PLUTO VIAJES HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", PLUTO VIAJES  
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=727fd000-5fe9-11eb-affa-0242ac110002&sid=727fd000-5fe9-11eb-affa-0242ac110002&userId=
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", OH, MI MASCOTA PLUTO HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", OH, MI MASCOTA PLUTO 
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9416dd-5feb-11eb-ad61-0242ac110002&sid=5d9416dd-5feb-11eb-ad61-0242ac110002&userId=&already_redirected=true
 
-#EXTINF:-1 group-title="DOCUMENTALES", WODI HD 
+#EXTINF:-1 group-title="DOCUMENTALES", WODI  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=102&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", NACIONES UNIDAS TV HD 
+#EXTINF:-1 group-title="INTERNACIONALES", NACIONES UNIDAS TV  
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CLIC HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CLIC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=11&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CORAZON HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CORAZON  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=70&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ MUNDO HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ MUNDO  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=84&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", A + 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2348&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", A + HD
+#EXTINF:-1 group-title="TV ABIERTA", A + 
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", E ENTRETEMIENT HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", E ENTRETEMIENT 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=55&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", ISAT HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ISAT 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=135&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", LIFETIME HD 
+#EXTINF:-1 group-title="CINEMA", LIFETIME  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=94&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", BIT ME HD 
+#EXTINF:-1 group-title="INFANTILES", BIT ME  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2591&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", GLITZ HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", GLITZ  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=76&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", ZEEMUNDO (INDIA) HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ZEEMUNDO (INDIA)  
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="CINEMA", GOLDEN HD 
+#EXTINF:-1 group-title="CINEMA", GOLDEN  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=123&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", GOLDEN PLUS HD 
+#EXTINF:-1 group-title="CINEMA", GOLDEN PLUS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=122&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", GOLDEN EDGE HD 
+#EXTINF:-1 group-title="CINEMA", GOLDEN EDGE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=124&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", CINEMAX HD 
+#EXTINF:-1 group-title="CINEMA", CINEMAX 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=158&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", PARAMOUNT HD 
+#EXTINF:-1 group-title="CINEMA", PARAMOUNT 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1726&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", PARAMOUNT PLUTO TV HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=6651e862-860e-11eb-a0f0-0242ac110002&sid=6651e862-860e-11eb-a0f0-0242ac110002&userId=
-
-#EXTINF:-1 group-title="CINEMA", SPACE HD 
+#EXTINF:-1 group-title="CINEMA", SPACE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=129&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", CINECANAL HD 
+#EXTINF:-1 group-title="CINEMA", CINECANAL  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=149&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", SONY HD 
+#EXTINF:-1 group-title="CINEMA", SONY  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=48&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", FX HD 
+#EXTINF:-1 group-title="CINEMA", FX  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=60&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", FXM HD 
+#EXTINF:-1 group-title="CINEMA", FXM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=138&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", WARNER HD 
+#EXTINF:-1 group-title="CINEMA", WARNER  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=205&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", SYFY HD 
+#EXTINF:-1 group-title="CINEMA", SYFY  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=59&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", TCM SD 
+#EXTINF:-1 group-title="CINEMA", TCM  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=128&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", TBS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=81&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", MORBIDO HD 
+#EXTINF:-1 group-title="CINEMA", MORBIDO  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=140&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", BEBÉ PRIMERO HD
+#EXTINF:-1 group-title="INFANTILES", BEBÉ PRIMERO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1984&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", CACHIPUM TV HD 
+#EXTINF:-1 group-title="INFANTILES", CACHIPUM TV  
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", TV GALICIA XABADÍN HD
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", DISNEY CHANNEL HD 
+#EXTINF:-1 group-title="INFANTILES", DISNEY CHANNEL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=113&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR HD 
+#EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=118&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", DISNEY XD HD 
+#EXTINF:-1 group-title="INFANTILES", DISNEY XD  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=111&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", RED DE DIBUJOS ANIMADOS HD 
+#EXTINF:-1 group-title="INFANTILES", RED DE DIBUJOS ANIMADOS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=112&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", BOOMERANG HD 
+#EXTINF:-1 group-title="INFANTILES", BOOMERANG  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=115&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", TOONCAST HD 
+#EXTINF:-1 group-title="INFANTILES", TOONCAST 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=108&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", NICK JR. HD 
+#EXTINF:-1 group-title="INFANTILES", NICK JR.  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=117&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", TEEN NICK HD
+#EXTINF:-1 group-title="INFANTILES", TEEN NICK 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2147&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", COCINA PLUTO TV HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", COCINA PLUTO TV  
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9416dd-5feb-11eb-ad61-0242ac110002&sid=5d9416dd-5feb-11eb-ad61-0242ac110002&userId=
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", RED DE ALIMENTOS HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", RED DE ALIMENTOS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2145&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", GOURMET HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", GOURMET  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=74&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", GARAGE TV HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", GARAGE TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=75&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", MARIAVISION HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", MARIAVISION  
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", EWTN HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", EWTN  
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", CBN EN ESPAÑOL HD 
+#EXTINF:-1 group-title="INTERNACIONALES", CBN EN ESPAÑOL  
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
-#EXTINF:-1 group-title="CINEMA", eE HD 
+#EXTINF:-1 group-title="CINEMA", eE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=136&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", MTV HD 
+#EXTINF:-1 group-title="MUSICALES", MTV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=212&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="MUSICALES", LATIDO MUSIC 
 https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", LATINOS UP HD 
+#EXTINF:-1 group-title="MUSICALES", LATINOS UP  
 https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", TOP LATINO HD 
+#EXTINF:-1 group-title="MUSICALES", TOP LATINO  
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", TRAVEL HD 
+#EXTINF:-1 group-title="MUSICALES", TRAVEL 
 https://streamer104.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", TRAVEL BULGARIA HD
+#EXTINF:-1 group-title="MUSICALES", TRAVEL BULGARIA 
 https://streamer103.neterra.tv:443/thisisbulgaria/community.smil/chunklist_w1922871742_b5128000_slbul.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", CA MUSIC HD 
+#EXTINF:-1 group-title="MUSICALES", CA MUSIC 
 https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", CLASSIC ARTS SHOWCASE HD 
+#EXTINF:-1 group-title="MUSICALES", CLASSIC ARTS SHOWCASE  
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
 #EXTINF:-1 group-title="CINEMA", FILMS & ARTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=137&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", CANAL DE MÚSICA DE CALIFORNIA HD 
+#EXTINF:-1 group-title="MUSICALES", CANAL DE MÚSICA DE CALIFORNIA  
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICALES", MELODY CHANNEL TV 
 https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", VH-1 HD 
+#EXTINF:-1 group-title="MUSICALES", VH-1  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=334&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", VH-1 CLASSIC HD 
+#EXTINF:-1 group-title="MUSICALES", VH-1 CLASSIC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=214&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", EUROLATINA HD 
+#EXTINF:-1 group-title="MUSICALES", EUROLATINA  
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", NORTEvisión HD 
+#EXTINF:-1 group-title="MUSICALES", NORTEvisión  
 http://amaru.dyndns.org:8835/0.m3u8
 
 #EXTINF:-1 group-title="MUSICALES", KRONEHIT AUSTRIA 
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", RETRO PLUS TV HD 
+#EXTINF:-1 group-title="MUSICALES", RETRO PLUS TV 
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", RECUERDOS RETRO RADIO TV HD 
+#EXTINF:-1 group-title="MUSICALES", RECUERDOS RETRO RADIO TV
 https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICALES", NEX TV HD 
+#EXTINF:-1 group-title="MUSICALES", NEX TV  
 http://198.1.123.99:1935/live/myStream/.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", NICK MUSIC HD
+#EXTINF:-1 group-title="MUSICALES", NICK MUSIC 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1708&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", TELEHIT MUSICA HD 
+#EXTINF:-1 group-title="MUSICALES", TELEHIT MUSICA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=218&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", TELEHIT MUSICA PLUS HD 
+#EXTINF:-1 group-title="MUSICALES", TELEHIT MUSICA PLUS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=220&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", KPOPTV HD
+#EXTINF:-1 group-title="MUSICALES", KPOPTV 
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", BANDAMAX HD 
+#EXTINF:-1 group-title="MUSICALES", BANDAMAX 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=221&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", TELERITMO SD 
+#EXTINF:-1 group-title="MUSICALES", TELERITMO 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR  22.4
