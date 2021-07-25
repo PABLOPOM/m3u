@@ -62,7 +62,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="TV ABIERTA", TVGUANAJUATO 
 https://stream.oursnetworktv.com/latin/encoder55/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS BAJÍO HD
+#EXTINF:-1 group-title="TV ABIERTA", CANAL 6 BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2352&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TURISTIK TV
@@ -122,13 +122,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="TV ABIERTA", NU9VE HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS BAJÍO HD 
+#EXTINF:-1 group-title="TV ABIERTA", CANAL 6 BAJÍO
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS CDMX HD 
+#EXTINF:-1 group-title="TV ABIERTA", CANAL 6 CDMX 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1253&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", MULTIMEDIOS MONTERREY HD 
+#EXTINF:-1 group-title="TV ABIERTA", CANAL 6 MONTERREY 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2305&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="LATINO", TELEMUNDO INTERNACIONAL HD 
@@ -182,7 +182,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INFORMATIVOS", MILENIO NOTICIAS HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1252&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", MULTIMEDIOS PLUS HD 
+#EXTINF:-1 group-title="INFORMATIVOS", CANAL 6 CDMX HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1253&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", LA OCTAVA HD
@@ -476,7 +476,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DEPORTES", GOLF HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=179&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", MULTIMEDIOS COSTA RICA HD
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 COSTA RICA 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", HOLA TV HD 
@@ -639,7 +639,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=124&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", CINEMAX HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=158&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=158&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", PARAMOUNT HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1726&format=HLS&f=.m3u8
