@@ -2,61 +2,61 @@
 #EXTINF:-1 tvg-name="************** TV MEXICO *********" group-title="TV MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** TV MEXICO *******
 https://
 
-#EXTINF:-1 group-title="TOTALPLAY", CANAL TOTALPLAY HD
+#EXTINF:-1 group-title="TOTALPLAY", CANAL TOTALPLAY 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1973&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TOTALPLAY", TOTALPLAY HD 
+#EXTINF:-1 group-title="TOTALPLAY", TOTALPLAY  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=7&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HOLA TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1734&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", PX SPORTS HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO", PX SPORTS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=950&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", ADRENALINA HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ADRENALINA  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2404&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", HAVOC HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HAVOC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2148&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO HD -2HORAS
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2195&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2362&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -1HORAS
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS -1HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2047&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -1HORAS
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS -1HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2037&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS HD -2HORAS
+#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2264&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="LATINO", HOLA TV HD
+#EXTINF:-1 group-title="LATINO", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-1 group-title="LATINO", ESTRELLA TV HD
+#EXTINF:-1 group-title="LATINO", ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="LATINO", ESTRELLA NEWS HD
+#EXTINF:-1 group-title="LATINO", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS HD
+#EXTINF:-1 group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2220&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA BAJÍO HD
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2356&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TELEVISA DEL BAJÍO HD
+#EXTINF:-1 group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2355&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TV4.1 GUANAJUATO HD 
+#EXTINF:-1 group-title="TV ABIERTA", TV4.1 GUANAJUATO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2274&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TVGUANAJUATO 
@@ -68,58 +68,58 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="TV ABIERTA", TURISTIK TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", HGTV HD
+#EXTINF:-1 group-title="DOCUMENTALES", HGTV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3105&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=96&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H
 http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/16022
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY CHANNEL HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY CHANNEL  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=86&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY WORLD HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY WORLD  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=101&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY THEATER HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY THEATER  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=95&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TLC HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TLC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2380&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DESCUBRIMIENTO DE LA CIVILIZACIÓN HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DESCUBRIMIENTO DE LA CIVILIZACIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY SCIENCE HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY SCIENCE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY KIDS HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY KIDS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=109&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY ID HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY ID  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2376&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TURBO HD 
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TURBO  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2379&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", IMAGEN TELEVISION HD 
+#EXTINF:-1 group-title="TV ABIERTA", IMAGEN TELEVISION  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 13 MÉXICO HD ALBAVISIÓN
 https://vkvsd26.mycdn.me:443/hls/1253905599011.m3u8/sig/BdHa14WKmNg/expires/1623365553702/srcIp/187.211.5.254/clientType/13/srcAg/CHROME_ANDROID/mid/2260795861795/1253905599011_high/index.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA 7 HD 
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA 7  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA 7.3 HD 
+#EXTINF:-1 group-title="TV ABIERTA", AZTECA 7.3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3316&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", CANAL 5 HD 
+#EXTINF:-1 group-title="TV ABIERTA", CANAL 5 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2218&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", NU9VE HD 
+#EXTINF:-1 group-title="TV ABIERTA", NU9VE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 6 BAJÍO
@@ -131,7 +131,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 6 MONTERREY 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2305&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="LATINO", TELEMUNDO INTERNACIONAL HD 
+#EXTINF:-1 group-title="LATINO", TELEMUNDO INTERNACIONAL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=85&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", CENTRAL COMEDIA HD 
