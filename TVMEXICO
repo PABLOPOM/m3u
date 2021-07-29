@@ -26,7 +26,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2195&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS 
+#EXTINF:-1 group-title="TV ABIERTA"tvg-logo = "https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png", LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2362&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS -1HORAS
