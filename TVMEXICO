@@ -566,6 +566,9 @@ http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONALES", MOMENTOS GALICIA 
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="INTERNACIONALES", TELESUR MADRID 
+https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
+
 #EXTINF:-1 group-title="INTERNACIONALES", CANALSUR ANDALUCÍA  
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
