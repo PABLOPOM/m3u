@@ -575,9 +575,6 @@ https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", UHDSPAIN  
 http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", 101TV MÁLAGA 
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-
 #EXTINF:-1 group-title="INTERNACIONALES", 7TV ANDALUCÍA 
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
 
