@@ -197,8 +197,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INFORMATIVOS", CANAL 6 CDMX  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1253&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", LA OCTAVA 
-https://stream-01.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ic1DOHiAW_71PaNPQc-WU0)/dm/3/x80mow9/d/live-4.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
+#EXTINF:-1 group-title="INFORMATIVOS", 3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", TVC 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2156&format=HLS&f=.m3u8
