@@ -227,6 +227,9 @@ https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 #EXTINF:-1 group-title="INFORMATIVOS", AL JAZEERA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=192&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 group-title="INFORMATIVOS", TODO NOTICIAS
+http://grcts.velkas.net:2082/fas88_3 87389/YZXFBDJ1/73237
+
 #EXTINF:-1 group-title="INFORMATIVOS", TELEFE ROSARIO 
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
