@@ -476,6 +476,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS 
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", DEPORT TV 1.24
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", TVC DEPORTES  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
 
