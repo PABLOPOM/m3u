@@ -473,6 +473,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DEPORTES", TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", UNIVISION DEPORTES
+http://rv.imax.re:80/307210510160/307210510160/86934
+
 #EXTINF:-1 group-title="DEPORTES", AFIZZIONADOS 
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 
