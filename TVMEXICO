@@ -1603,3 +1603,39 @@ http://51.222.105.5:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD
 http://51.222.105.5:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
 
+#EXTINF:-1,TELEMUNDO
+#EXTGRP:Locales
+http://71.187.29.220:8000/play/a07a/index.m3u8
+#EXTINF:-1,Telemundo (op2)
+#EXTGRP:Locales
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Telemundo (op3)
+#EXTGRP:Locales
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/ksts-dt1.m3u8
+#EXTINF:-1,Telemundo (op4)
+#EXTGRP:Locales
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
+#EXTINF:-1,Telemundo AZ (op5)
+#EXTGRP:Locales
+https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktaz-dt1.m3u8
+#EXTINF:-1,Azteca America
+#EXTGRP:Locales
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
+
+#EXTINF:-1,UNIMAS
+#EXTGRP:Locales
+http://71.187.29.220:8000/play/a08b/index.m3u8
+
+#EXTINF:-1,UNIMAS (op2)
+#EXTGRP:Locales
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
+#EXTINF:-1,UNIVISION
+#EXTGRP:Locales
+http://71.187.29.220:8000/play/a07t/index.m3u8
+#EXTINF:-1,UNIVISION (op2)
+#EXTGRP:Locales
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+
+#EXTINF:-1,UNIVISION (op4)
+#EXTGRP:Locales
+https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/.m3u8
