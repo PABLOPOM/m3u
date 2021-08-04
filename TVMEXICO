@@ -23,7 +23,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="ENTRETENIMIENTO", HAVOC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2148&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO -2HORAS
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2195&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", LAS ESTRELLAS 
@@ -50,7 +50,7 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2220&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA BAJÍO 
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2356&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
