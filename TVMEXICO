@@ -170,13 +170,13 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", FOOD NETWORK  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2145&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TELEVISA PUEBLA CANAL 4  
+#EXTINF:-1 tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA PUEBLA" tvg-logo="https://germenex.com.mx/wp-content/uploads/2019/02/telerisa.png" group-title="NACIONALES", TELEVISA PUEBLA CANAL 4  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2312&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TELEVISA MONTERREY CANAL 8
+#EXTINF:-1 tvg-id="TELEVISAMONTERREY" tvg-name="TELEVISA MONTERREY" tvg-logo="https://germenex.com.mx/wp-content/uploads/2019/02/telerisa.png" group-title="NACIONALES", TELEVISA MONTERREY CANAL 8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2307&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TELEVISA DEL BAJÍO 
+#EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://germenex.com.mx/wp-content/uploads/2019/02/telerisa.png" group-title="NACIONALES", TELEVISA DEL BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2355&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", MVS TV 
