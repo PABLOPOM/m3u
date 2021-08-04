@@ -104,19 +104,19 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TURBO  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2379&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", IMAGEN TELEVISION  
+#EXTINF:-1 tvg-id="IMAGENTV" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/212px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV ABIERTA", IMAGEN TELEVISION  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 13 MÉXICO ALBAVISIÓN
 https://vkvsd26.mycdn.me:443/hls/1253905599011.m3u8/sig/BdHa14WKmNg/expires/1623365553702/srcIp/187.211.5.254/clientType/13/srcAg/CHROME_ANDROID/mid/2260795861795/1253905599011_high/index.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA 7  
+#EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA 7.3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3316&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", CANAL 5 
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="CANAL 5" group-title="" audio-track="spa,eng",  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" group-title="TV ABIERTA", CANAL 5 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2218&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", NU9VE 
@@ -197,7 +197,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INFORMATIVOS", MILENIO NOTICIAS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1252&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", CANAL 6 CDMX  
+#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="INFORMATIVOS", CANA 6 PLUS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1253&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", 3/24
