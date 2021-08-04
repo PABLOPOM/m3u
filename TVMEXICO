@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="************** TV MEXICO *********" group-title="TV MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** TV MEXICO *******
 https://
 
-#EXTINF:-1 group-title="TOTALPLAY", CANAL TOTALPLAY 
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",group-title="TOTALPLAY", CANAL TOTALPLAY 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1973&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TOTALPLAY", TOTALPLAY  
