@@ -38,7 +38,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="TV ABIERTA", LAS ESTRELLAS -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2264&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="LATINO", HOLA TV 
+#EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="LATINO", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 group-title="LATINO", ESTRELLA TV 
@@ -140,7 +140,7 @@ https://mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8?
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=700&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", ADN 40 
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=184&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="LATINO", TELEMUNDO INTERNACIONAL 
@@ -191,7 +191,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="INFORMATIVOS", FORO TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=700&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", ADN 40 
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png"  group-title="INFORMATIVOS", ADN 40 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=184&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="INFORMATIVOS", MILENIO NOTICIAS  
@@ -530,7 +530,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 COSTA RICA 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", HOLA TV  
+#EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="INTERNACIONALES", HOLA TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=219&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", UNICANAL 
