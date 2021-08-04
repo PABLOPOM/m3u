@@ -113,13 +113,13 @@ https://vkvsd26.mycdn.me:443/hls/1253905599011.m3u8/sig/BdHa14WKmNg/expires/1623
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AZTECA 7.3  
+#EXTINF:-1 tvg-id="APRENDETV" tvg-name="APRENDE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="TV ABIERTA", AZTECA 7.3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3316&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CANAL5" tvg-name="CANAL 5" group-title="" audio-track="spa,eng",  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" group-title="TV ABIERTA", CANAL 5 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2218&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", NU9VE 
+#EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO
@@ -860,7 +860,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="MUSICALES", KPOPTV 
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICALES", BANDAMAX 
+#EXTINF:-1 tvg-id="BANDAMAX" tvg-name="BANDAMAX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" group-title="MUSICALES", BANDAMAX 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=221&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="MUSICALES", TELERITMO 
