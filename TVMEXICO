@@ -65,7 +65,7 @@ https://stream.oursnetworktv.com/latin/encoder55/playlist.m3u8
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2352&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TURISTIK TV
+#EXTINF:-1 group-title="NACIONALES", TURISTIK TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", HGTV 
