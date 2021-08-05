@@ -44,14 +44,14 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 group-title="LATINO", ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="LATINO", ESTRELLA NEWS 
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="LATINO", TELEMUNDO 
 http://71.187.29.220:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 group-title="LATINO", UNIVISION 
 http://71.187.29.220:8000/play/a07t/index.m3u8
-
-#EXTINF:-1 group-title="LATINO", ESTRELLA NEWS 
-https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2220&format=HLS&f=.m3u8
