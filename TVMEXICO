@@ -287,10 +287,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="NACIONALES", TV UNAM 
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", CANAL ONCE 
+#EXTINF:-1 tvg-id="ONCETV" tvg-name="ONCE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="NACIONALES", CANAL ONCE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=25&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", CANAL ONCE INTERNACIONAL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="NACIONALES", CANAL ONCE INTERNACIONAL 
 https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", CANAL ONCE NIÑOS 
