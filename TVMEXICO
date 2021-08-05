@@ -665,10 +665,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AZ MUNDO  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=84&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZMAS" tvg-name="A+" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png group-title="TV ABIERTA", A + 
+#EXTINF:-1 tvg-id="AZMAS" tvg-name="A+" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="TV ABIERTA", A + 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2348&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZMAS" tvg-name="A+" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png group-title="TV ABIERTA", A + 
+#EXTINF:-1 tvg-id="AZMAS" tvg-name="A+" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="TV ABIERTA", A + 
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", E ENTRETEMIENT 
