@@ -41,10 +41,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="LATINO", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-1 group-title="LATINO", ESTRELLA TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="LATINO", ESTRELLA NEWS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="LATINO", TELEMUNDO 
@@ -71,7 +71,7 @@ https://stream.oursnetworktv.com/latin/encoder55/playlist.m3u8
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2352&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TURISTIK TV
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="NACIONALES", TURISTIK TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", HGTV 
