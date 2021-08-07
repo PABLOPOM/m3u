@@ -173,7 +173,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="ENTRETENIMIENTO", LAS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2089&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", GOURMET 
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="ENTRETENIMIENTO", GOURMET 
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", FOOD NETWORK  
@@ -779,7 +779,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009
 #EXTINF:-1 group-title="ENTRETENIMIENTO", RED DE ALIMENTOS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2145&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", GOURMET  
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="ENTRETENIMIENTO", GOURMET  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=74&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", GARAGE TV  
