@@ -191,7 +191,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="NACIONALES", MVS TV 
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", EXCELSIOR  
+#EXTINF:-1 tvg-name="EXCELSIOR TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/excelsior_tv-mediano.png" group-title="INFORMATIVOS", EXCELSIOR  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1449&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="NACIONALES", TVMÁS 
@@ -212,7 +212,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INFORMATIVOS", 3/24
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", TVC 
+#EXTINF:-1 tvg-id="TVC" tvg-name="TVC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_mexico-mediano.png" group-title="INFORMATIVOS", TVC 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2156&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", NTN24 
@@ -221,7 +221,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INFORMATIVOS", BBC NEWS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=191&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", EL FINANCIERO BLOOMBERG 
+#EXTINF:-1 tvg-id="ELFINANCIERO" tvg-name="EL FINANCIERO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg-mediano.png" group-title="INFORMATIVOS", EL FINANCIERO BLOOMBERG 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1649&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", CBS NEWS 
@@ -317,7 +317,7 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="NACIONALES", CAPITAL21 
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", MEXIQUENSE TELEVISIÓN 
+#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" group-title="NACIONALES", MEXIQUENSE TELEVISIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=44&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", INGENIO TV 
