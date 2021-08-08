@@ -302,7 +302,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="NACIONALES", CANAL ONCE INTERNACIONAL 
 https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", CANAL ONCE NIÑOS 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="NACIONALES", CANAL ONCE NIÑOS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3315&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="NACIONALES", CANAL 22 
@@ -344,7 +344,7 @@ https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES", CANAL 26 AGUASCALIENTES 
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", CANAL 14  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="NACIONALES", CANAL 14  
 https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", TV MAR VALLARTA 
