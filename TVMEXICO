@@ -233,7 +233,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="INFORMATIVOS", EURONEWS 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", RT NOTICIAS 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMATIVOS", RT NOTICIAS 
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", AL JAZEERA 
@@ -290,7 +290,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INFORMATIVOS", JUSTICIA TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=196&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", APRENDE TV  
+#EXTINF:-1 tvg-id="APRENDETV" tvg-name="APRENDE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="NACIONALES", APRENDE TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=401&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", TV UNAM 
@@ -314,7 +314,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES", JALISCO TV 
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="NACIONALES", CAPITAL21 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="NACIONALES", CAPITAL21 
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", MEXIQUENSE TELEVISIÓN 
