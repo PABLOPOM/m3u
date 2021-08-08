@@ -266,19 +266,19 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="INFORMATIVOS", VOA 
 https://voavvideo-i.akamaihd.net/hls/live/850895-b/VOAV_TVMC2_MRG/master_1.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", CNN 
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" group-title="INFORMATIVOS", CNN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=185&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", CNN LIVE  
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" group-title="INFORMATIVOS", CNN LIVE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=186&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", CNN ESPAÑOL 
+#EXTINF:-1 tvg-name="CNN ESPANOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="INFORMATIVOS", CNN ESPAÑOL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=187&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", CNN CHILE 
+#EXTINF:-1 tvg-name="CNN ESPANOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="INFORMATIVOS", CNN CHILE 
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INFORMATIVOS", FOX NEWS
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png" group-title="INFORMATIVOS", FOX NEWS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=188&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", TELEFORMULA 
