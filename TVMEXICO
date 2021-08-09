@@ -56,13 +56,13 @@ http://71.187.29.220:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="UNIVISION" tvg-name="UNIVISION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png" group-title="LATINO", UNIVISION 
 http://71.187.29.220:8000/play/a07t/index.m3u8
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS 
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS B" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2220&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA BAJÍO 
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO B" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2356&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA PUEBLA" tvg-logo="https://germenex.com.mx/wp-content/uploads/2019/02/telerisa.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
+#EXTINF:-1 tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://germenex.com.mx/wp-content/uploads/2019/02/telerisa.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2355&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="TV ABIERTA", TV4.1 GUANAJUATO 
@@ -71,7 +71,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="TV ABIERTA", TVGUANAJUATO 
 https://stream.oursnetworktv.com/latin/encoder55/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO 
+#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJÍO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2352&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="NACIONALES", TURISTIK TV
@@ -131,13 +131,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO
+#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 CDMX 
+#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 CDMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 CDMX 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1253&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 MONTERREY 
+#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 MONTERREY 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2305&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 
