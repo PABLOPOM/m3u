@@ -107,7 +107,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY KIDS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=109&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY ID  
+#EXTINF:-1 tvg-id="ID" tvg-name="INVESTIGATION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="DOCUMENTALES", DISCOVERY ID  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2376&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY TURBO  
@@ -635,13 +635,13 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", UNEARTH 
 https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", NAT WILD 
+#EXTINF:-1 tvg-id="NATGEOWILD" tvg-name="NAT GEO WILD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_wild-mediano.png" group-title="DOCUMENTALES", NAT WILD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=92&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", NAT GEO KIDS  
+#EXTINF:-1 tvg-id="NATGEOKIDS" tvg-name="NATGEO KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_kids-mediano.png" group-title="DOCUMENTALES", NAT GEO KIDS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2373&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", NATIONAL GEOGRAFIC  
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png" group-title="DOCUMENTALES", NATIONAL GEOGRAFIC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=91&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TRU TV  
