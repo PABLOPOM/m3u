@@ -95,13 +95,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY THEATER  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=95&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY TLC  
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="DOCUMENTALES", DISCOVERY TLC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2380&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DESCUBRIMIENTO DE LA CIVILIZACIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="DOCUMENTALES", DISCOVERY SCIENCE  
+#EXTINF:-1 tvg-id="SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="" audio-track="spa,eng" group-title="DOCUMENTALES", DISCOVERY SCIENCE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY KIDS  
