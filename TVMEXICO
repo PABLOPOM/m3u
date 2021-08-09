@@ -101,7 +101,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DOCUMENTALES", DESCUBRIMIENTO DE LA CIVILIZACIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="" audio-track="spa,eng" group-title="DOCUMENTALES", DISCOVERY SCIENCE  
+#EXTINF:-1 tvg-id="SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="DOCUMENTALES", DISCOVERY SCIENCE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY KIDS  
