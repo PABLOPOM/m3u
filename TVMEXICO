@@ -83,13 +83,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png" group-title="DOCUMENTALES", DISCOVERY H&H  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=96&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY H&H
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png" group-title="DOCUMENTALES", DISCOVERY H&H
 http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/16022
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY CHANNEL  
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8.png" group-title="DOCUMENTALES", DISCOVERY CHANNEL  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=86&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY WORLD  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY WORLD  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=101&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY THEATER  
