@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-name="************** TV MEXICO *********" group-title="TV MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** TV MEXICO *******
 https://
 
-#EXTINF:-1 group-title="TOTALPLAY", CANAL TOTALPLAY 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8x5LLR.jpg" group-title="TOTALPLAY", CANAL TOTALPLAY 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1973&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TOTALPLAY", TOTALPLAY  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8x5LLR.jpg" group-title="TOTALPLAY", TOTALPLAY  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=02&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
@@ -293,7 +293,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="APRENDETV" tvg-name="APRENDE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="NACIONALES", APRENDE TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TV UNAM 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8x5LLR.jpg" group-title="NACIONALES", TV UNAM 
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ONCETV" tvg-name="ONCE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="NACIONALES", CANAL ONCE 
