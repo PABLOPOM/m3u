@@ -122,7 +122,7 @@ https://vkvsd26.mycdn.me:443/hls/1253905599011.m3u8/sig/BdHa14WKmNg/expires/1623
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="APRENDETV" tvg-name="APRENDE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="TV ABIERTA", AZTECA 7.3  
+#EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.3" tvg-logo="https://images.app.goo.gl/nM2JFHtwi92VPSii9" group-title="TV ABIERTA", AZTECA 7.3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3316&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV ABIERTA", CANAL 5 
