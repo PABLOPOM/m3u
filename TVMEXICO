@@ -98,10 +98,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="DOCUMENTALES", DISCOVERY TLC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2380&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", DESCUBRIMIENTO DE LA CIVILIZACIÓN 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="DOCUMENTALES", DISCOVERY SCIENCE  
+#EXTINF:-1 tvg-id="SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest?cb=20190925153556&path-prefix=es" group-title="DOCUMENTALES", DISCOVERY SCIENCE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY KIDS  
