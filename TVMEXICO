@@ -68,7 +68,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="TV ABIERTA", TV4.1 GUANAJUATO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2274&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TVGUANAJUATO 
+#EXTINF:-1 tvg-logo="https://tvguanajuato.com/wp-content/uploads/2016/04/LOGO-300x120.png" group-title="TV ABIERTA", TVGUANAJUATO 
 https://stream.oursnetworktv.com/latin/encoder55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJÍO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO 
