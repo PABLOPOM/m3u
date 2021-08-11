@@ -335,6 +335,9 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV4.3 GUANAJUATO  
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV4.4 GUANAJUATO  
+https://5ca3e84a76d30.streamlock.net/tv44/videotv44_240p/playlist.m3u8
+
 #EXTINF:-1 group-title="NACIONALES", NTV TEPIC 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 
