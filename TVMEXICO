@@ -278,7 +278,7 @@ https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png" group-title="INFORMATIVOS", FOX NEWS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=188&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", TELEFORMULA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="INFORMATIVOS", TELEFORMULA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=32&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", CANAL DEL CONGRESO  
@@ -320,7 +320,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ingenio_tv_logo.png" group-title="NACIONALES", INGENIO TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=401&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", CANAL 10 QUERÉTARO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9jcMwu.png" group-title="NACIONALES", CANAL 10 QUERÉTARO 
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV4.1 GUANAJUATO 
