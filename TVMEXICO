@@ -317,7 +317,7 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" group-title="NACIONALES", MEXIQUENSE TELEVISIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=44&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", INGENIO TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ingenio_tv_logo.png" group-title="NACIONALES", INGENIO TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=401&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", CANAL 10 QUERÉTARO 
