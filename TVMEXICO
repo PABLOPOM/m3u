@@ -116,7 +116,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="IMAGENTV" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/212px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV ABIERTA", IMAGEN TELEVISION  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2298&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", CANAL 13 MÉXICO ALBAVISIÓN
+#EXTINF:-1 tvg-name="CANAL 13 MÉXICO ALBAVISIÓN" tvg-id="https://canal13mexico.com/wp-content/uploads/2021/03/cropped-c13-300x257.png" group-title="TV ABIERTA", CANAL 13 MÉXICO ALBAVISIÓN
 https://vkvsd26.mycdn.me:443/hls/1253905599011.m3u8/sig/BdHa14WKmNg/expires/1623365553702/srcIp/187.211.5.254/clientType/13/srcAg/CHROME_ANDROID/mid/2260795861795/1253905599011_high/index.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7  
