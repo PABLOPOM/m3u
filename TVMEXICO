@@ -350,13 +350,13 @@ https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae5440
 #EXTINF:-1 group-title="NACIONALES", TV MAR VALLARTA 
 https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w1713845825_b3428000_sleng.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", CANAL 10 CANCÚN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vv7aoM.jpg" group-title="NACIONALES", CANAL 10 CANCÚN 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="NACIONALES", QUIERO TV  
 https://quierotvlive.tk/httplive/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TELEMAX 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H716og6.jpg" group-title="NACIONALES", TELEMAX 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="NACIONALES", CANAL 6 MONTERREY
