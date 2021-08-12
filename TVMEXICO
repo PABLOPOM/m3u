@@ -353,7 +353,7 @@ https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/smil:tvmarvallarta.smil/c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vv7aoM.jpg" group-title="NACIONALES", CANAL 10 CANCÚN 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="NACIONALES", QUIERO TV  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="NACIONALES", QUIERO TV  
 https://quierotvlive.tk/httplive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H716og6.jpg" group-title="NACIONALES", TELEMAX 
