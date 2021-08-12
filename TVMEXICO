@@ -80,10 +80,10 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTALES", HGTV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3105&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png" group-title="DOCUMENTALES", DISCOVERY H&H  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest?cb=20190926042803&path-prefix=es" group-title="DOCUMENTALES", DISCOVERY H&H  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=96&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png" group-title="DOCUMENTALES", DISCOVERY H&H
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest?cb=20190926042803&path-prefix=es" group-title="DOCUMENTALES", DISCOVERY H&H
 http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/16022
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8.png" group-title="DOCUMENTALES", DISCOVERY CHANNEL  
