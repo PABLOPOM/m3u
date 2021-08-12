@@ -338,7 +338,7 @@ https://5ca3e84a76d30.streamlock.net/tv44/videotv44_240p/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES", NTV TEPIC 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="NACIONALES", CANAL 7 SLP
+#EXTINF:-1 tvg-logo="https://canal7slp.tv/2021/wp-content/uploads/2021/05/logo-c7.png" group-title="NACIONALES", CANAL 7 SLP
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2021/06/Canal26.jpg" group-title="NACIONALES", CANAL 26 AGUASCALIENTES 
