@@ -341,7 +341,7 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES", CANAL 7 SLP
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="NACIONALES", CANAL 26 AGUASCALIENTES 
+#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2021/06/Canal26.jpg" group-title="NACIONALES", CANAL 26 AGUASCALIENTES 
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="NACIONALES", CANAL 14  
