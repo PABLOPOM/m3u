@@ -386,7 +386,7 @@ http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="NACIONALES", TELERITMO
 http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 group-title="CINEMA", AZ CINEMA  
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/TV_Azteca_Cinema?file=TVAztecaCinema.png" group-title="CINEMA", AZ CINEMA  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1787&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", DE PELICULA PLUS 
