@@ -707,13 +707,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="CINEMA", CINEMAX 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=158&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", PARAMOUNT 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="CINEMA", PARAMOUNT 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1726&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", SPACE  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" group-title="CINEMA", SPACE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=129&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", CINECANAL  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="CINEMA", CINECANAL  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=149&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", SONY  
