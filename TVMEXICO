@@ -449,7 +449,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CINEMA", STAR LIFE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=77&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", STAR CINEMA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Cinema_2020.svg" group-title="CINEMA", STAR CINEMA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", STAR ACTION 
