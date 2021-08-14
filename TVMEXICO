@@ -479,7 +479,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" group-title="CINEMA", AMC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=328&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", AXN 
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="CINEMA", AXN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=64&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", TUDN
