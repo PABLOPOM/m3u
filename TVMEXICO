@@ -458,7 +458,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1024px-Star_Classics_2020.svg.png" group-title="CINEMA", STAR CLASSICS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1732&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", STAR FUN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1024px-Star_Fun_2020.svg.png" group-title="CINEMA", STAR FUN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1724&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", STAR PREMIUM MOVIES  
