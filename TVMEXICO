@@ -323,16 +323,16 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="NACIONALES", CANAL 10 QUERÉTARO 
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV4.1 GUANAJUATO 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="NACIONALES", TV4.1 GUANAJUATO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2274&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV4.2 GUANAJUATO  
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online-218x150.png" group-title="NACIONALES", TV4.2 GUANAJUATO  
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/chunklist_w1348396758.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV4.3 GUANAJUATO  
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online-218x150.png" group-title="NACIONALES", TV4.3 GUANAJUATO  
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV4.4 GUANAJUATO  
+#EXTINF:-1 tvg-logo=https://directostv.teleame.com/wp-content/uploads/2020/10/TV-Cuatro-Canal-4.4-Guanajuato-en-vivo-Online-218x150.png" group-title="NACIONALES", TV4.4 GUANAJUATO  
 https://5ca3e84a76d30.streamlock.net/tv44/videotv44_240p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntv.com.mx/wp-content/uploads/2020/05/logo-ntv-300x100.png" group-title="NACIONALES", NTV TEPIC 
@@ -350,7 +350,7 @@ https://d3nljkrx6mjqra.cloudfront.net:443/out/v1/1b9d9efd27814b3b8dc570113ae5440
 #EXTINF:-1 tvg-logo="https://tvmar.s3.us-west-2.amazonaws.com/2021/04/tvmar-logo-blanco.png" group-title="NACIONALES", TV MAR VALLARTA 
 https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w1713845825_b3428000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3vv7aoM.jpg" group-title="NACIONALES", CANAL 10 CANCÚN 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online-218x150.png" group-title="NACIONALES", CANAL 10 CANCÚN 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="NACIONALES", QUIERO TV  
