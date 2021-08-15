@@ -356,7 +356,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="NACIONALES", QUIERO TV  
 https://quierotvlive.tk/httplive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H716og6.jpg" group-title="NACIONALES", TELEMAX 
+#EXTINF:-1 tvg-logo="https://www.telemax.com.mx/wp-content/themes/multinews/images/logo.png" group-title="NACIONALES", TELEMAX 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="NACIONALES", CANAL 6 MONTERREY
