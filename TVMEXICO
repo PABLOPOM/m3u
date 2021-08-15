@@ -725,13 +725,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fxm-mediano.png" group-title="CINEMA", FXM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=138&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", WARNER  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="CINEMA", WARNER TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=205&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", SYFY  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png" group-title="CINEMA", SYFY  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=59&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="CINEMA", TCM  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png" group-title="CINEMA", TCM  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=128&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="CINEMA", TBS 
