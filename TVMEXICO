@@ -176,13 +176,13 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", FOOD NETWORK  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2145&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA PUEBLA" tvg-logo="https://germenex.com.mx/wp-content/uploads/2019/02/telerisa.png" group-title="NACIONALES", TELEVISA PUEBLA CANAL 4  
+#EXTINF:-1 tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA PUEBLA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Puebla-en-vivo-Online-218x150.png" group-title="NACIONALES", TELEVISA PUEBLA CANAL 4  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2312&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="TELEVISAMONTERREY" tvg-name="TELEVISA MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logotipo_de_Televisa_%282001-2016%29.png/774px-Logotipo_de_Televisa_%282001-2016%29.png" group-title="NACIONALES", TELEVISA MONTERREY CANAL 8
+#EXTINF:-1 tvg-id="TELEVISAMONTERREY" tvg-name="TELEVISA MONTERREY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online-218x150.png" group-title="NACIONALES", TELEVISA MONTERREY CANAL 8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2307&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logotipo_de_Televisa_%282001-2016%29.png/774px-Logotipo_de_Televisa_%282001-2016%29.png" group-title="NACIONALES", TELEVISA DEL BAJÍO 
+#EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-del-Bajio-en-vivo-Online-218x150.png" group-title="NACIONALES", TELEVISA DEL BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2355&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="NACIONALES", MVS TV 
@@ -341,7 +341,7 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://canal7slp.tv/2021/wp-content/uploads/2021/05/logo-c7.png" group-title="NACIONALES", CANAL 7 SLP
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2021/06/Canal26.jpg" group-title="NACIONALES", CANAL 26 AGUASCALIENTES 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-218x150.png" group-title="NACIONALES", CANAL 26 AGUASCALIENTES 
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="NACIONALES", CANAL 14  
