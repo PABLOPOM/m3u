@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-name="************** TV MEXICO *********" group-title="TV MEXICO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** TV MEXICO *******
 https://
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_TotalPlay.svg/1024px-Logo_TotalPlay.svg.png" group-title="TOTALPLAY", CANAL TOTALPLAY 
+#EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TOTALPLAY", CANAL TOTALPLAY 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1973&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_TotalPlay.svg/1024px-Logo_TotalPlay.svg.png" group-title="TOTALPLAY", TOTALPLAY  
+#EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TOTALPLAY", TOTALPLAY  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=02&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
