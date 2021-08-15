@@ -185,7 +185,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logotipo_de_Televisa_%282001-2016%29.png/774px-Logotipo_de_Televisa_%282001-2016%29.png" group-title="NACIONALES", TELEVISA DEL BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2355&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="NACIONALES", MVS TV 
+#EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="NACIONALES", MVS TV 
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 
 #EXTINF:-1 tvg-name="EXCELSIOR TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/excelsior_tv-mediano.png" group-title="INFORMATIVOS", EXCELSIOR  
