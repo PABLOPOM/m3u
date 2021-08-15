@@ -317,7 +317,7 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="NACIONALES", MEXIQUENSE TELEVISIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=44&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ingenio_tv_logo.png" group-title="NACIONALES", INGENIO TV 
+#EXTINF:-1 tvg-logo="https://lichomeroacostalopez.edu.mx/test2/images/ingenio2.png" group-title="NACIONALES", INGENIO TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=401&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="NACIONALES", CANAL 10 QUERÉTARO 
