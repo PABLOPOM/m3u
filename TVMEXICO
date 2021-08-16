@@ -62,7 +62,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO B" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2356&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logotipo_de_Televisa_%282001-2016%29.png/774px-Logotipo_de_Televisa_%282001-2016%29.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
+#EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-del-Bajio-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2355&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TV4.1 GUANAJUATO 
