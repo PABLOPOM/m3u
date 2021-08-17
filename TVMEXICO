@@ -281,7 +281,7 @@ https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png" group-title="INFORMATIVOS", FOX NEWS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=188&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="INFORMATIVOS", TELEFORMULA 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="INFORMATIVOS", TELEFORMULA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=32&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", CANAL DEL CONGRESO  
