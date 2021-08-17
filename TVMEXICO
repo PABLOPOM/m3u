@@ -239,22 +239,22 @@ https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 #EXTINF:-1 group-title="INFORMATIVOS", AL JAZEERA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=192&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", CANAL 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="INFORMATIVOS", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", TELEFE ROSARIO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="INFORMATIVOS", TELEFE ROSARIO 
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INFORMATIVOS", PLUTO NOTICIAS  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="INFORMATIVOS", PLUTO NOTICIAS  
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=95b91f7b-5fea-11eb-a30a-0242ac110002&sid=95b91f7b-5fea-11eb-a30a-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="INFORMATIVOS", HISPAN TV  
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", FRANCE24 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INFORMATIVOS", FRANCE24 
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", DW ALEMANIA EN ESPAÑOL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="INFORMATIVOS", DW ALEMANIA EN ESPAÑOL 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", NEGOCIOS TV 
@@ -602,7 +602,7 @@ http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", 7TV ANDALUCÍA 
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", TELESUR VENEZUELA  
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INFORMATIVOS", TELESUR VENEZUELA  
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", TELESUR COSTA RICA  
