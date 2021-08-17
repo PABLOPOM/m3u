@@ -215,10 +215,10 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-id="TVC" tvg-name="TVC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_mexico-mediano.png" group-title="INFORMATIVOS", TVC 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2156&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", NTN24 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="INFORMATIVOS", NTN24 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=194&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", BBC NEWS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1023px-BBC_News.svg.png" group-title="INFORMATIVOS", BBC NEWS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=191&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ELFINANCIERO" tvg-name="EL FINANCIERO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg-mediano.png" group-title="INFORMATIVOS", EL FINANCIERO BLOOMBERG 
