@@ -248,7 +248,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?Playlis
 #EXTINF:-1 group-title="INFORMATIVOS", PLUTO NOTICIAS  
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=95b91f7b-5fea-11eb-a30a-0242ac110002&sid=95b91f7b-5fea-11eb-a30a-0242ac110002&userId=
 
-#EXTINF:-1 group-title="INFORMATIVOS", HISPAN TV  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="INFORMATIVOS", HISPAN TV  
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", FRANCE24 
@@ -263,7 +263,7 @@ https://play01.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="INFORMATIVOS", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", VOA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/VOA_logo.png/1024px-VOA_logo.png" group-title="INFORMATIVOS", VOA 
 https://voavvideo-i.akamaihd.net/hls/live/850895-b/VOAV_TVMC2_MRG/master_1.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" group-title="INFORMATIVOS", CNN 
