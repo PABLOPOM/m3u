@@ -284,7 +284,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="INFORMATIVOS", TELEFORMULA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=32&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", CANAL DEL CONGRESO  
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-del-Congreso-Mexico-en-vivo-Online-218x150.png" group-title="INFORMATIVOS", CANAL DEL CONGRESO  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2331&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVOS", JUSTICIA TV  
