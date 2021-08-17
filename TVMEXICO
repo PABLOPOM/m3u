@@ -236,7 +236,7 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMATIVOS", RT NOTICIAS 
 https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
-#EXTINF:-1 group-title="INFORMATIVOS", AL JAZEERA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1229px-Al_Jazeera.svg.png" group-title="INFORMATIVOS", AL JAZEERA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=192&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="INFORMATIVOS", CANAL 26
