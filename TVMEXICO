@@ -518,10 +518,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png" group-title="DEPORTES", ESPN EXTRA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes-mediano.png" group-title="DEPORTES", TVC DEPORTES  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="DEPORTES", CLARO SPORTS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", AYM SPORTS 
@@ -533,7 +533,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="DEPORTES", FUEL TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2587&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", GOLF  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png" group-title="DEPORTES", GOLF  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=179&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 COSTA RICA 
