@@ -524,7 +524,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://www.thematv.us/images/channels/aym-sports.png" group-title="DEPORTES", AYM SPORTS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=180&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thematv.com/images/channels/basket-americas-tv.png" group-title="DEPORTES", BASKET AMERICAS TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/BCL_Americas_logo.png" group-title="DEPORTES", BASKET AMERICAS TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2090&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1280px-Fuel_TV.svg.png" group-title="DEPORTES", FUEL TV 
