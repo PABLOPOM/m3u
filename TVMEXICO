@@ -491,7 +491,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1280px-Afizzionados_Logo.svg.png" group-title="DEPORTES", AFIZZIONADOS 
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", DEPORT TV 1.24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="DEPORTES", DEPORT TV 1.24
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" group-title="DEPORTES", FOX SPORTS 3  
