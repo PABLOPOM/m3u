@@ -255,7 +255,7 @@ https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="INFORMATIVOS", DW ALEMANIA EN ESPAÑOL 
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.negocios.com/wp-content/uploads/2021/01/logoblanco_transparente-300x80-1.png" group-title="INFORMATIVOS", NEGOCIOS TV 
 https://play01.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
