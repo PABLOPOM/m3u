@@ -194,7 +194,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="NACIONALES", MVS TV 
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 
-#EXTINF:-1 tvg-name="EXCELSIOR TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/excelsior_tv-mediano.png" group-title="INFORMATIVOS", EXCELSIOR  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" group-title="INFORMATIVOS", IMAGEN MULTICAST 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1449&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="NACIONALES", TVMÁS 
