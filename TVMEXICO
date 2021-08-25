@@ -674,7 +674,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INTERNACIONALES", NACIONES UNIDAS TV  
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CLIC  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/TV_Azteca_Clic_2019.png/revision/latest?cb=20191211180120&path-prefix=es" group-title="ENTRETENIMIENTO", AZ CLIC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=11&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AZ CORAZON  
