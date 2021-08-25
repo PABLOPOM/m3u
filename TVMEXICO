@@ -605,14 +605,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", MOMENTOS GALICIA 
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INTERNACIONALES", TELESUR MADRID 
-https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
-
 #EXTINF:-1 group-title="INTERNACIONALES", CANALSUR ANDALUCÍA  
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONALES", UHDSPAIN  
-http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", 7TV ANDALUCÍA 
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
@@ -629,7 +623,7 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL CAPITAL 
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION  
+#EXTINF:-1 tvg-logo="http://hdfashion.tv/catalog/view/theme/hdfashion/image/logo.svg" group-title="ENTRETENIMIENTO", FASHION  
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION HD PLUTO  
