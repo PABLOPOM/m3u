@@ -623,7 +623,7 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL CAPITAL 
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 tvg-logo="http://hdfashion.tv/catalog/view/theme/hdfashion/image/logo.svg" group-title="ENTRETENIMIENTO", FASHION  
+#EXTINF:-1 tvg-logo="https://ukrtvr.org/images/sat/hdfashion.png" group-title="ENTRETENIMIENTO", FASHION  
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", FASHION HD PLUTO  
