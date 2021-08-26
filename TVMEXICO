@@ -689,7 +689,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="AZMAS" tvg-name="A+" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="TV ABIERTA", A + 
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", E ENTRETEMIENT 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/E%21_2012_logo.png/revision/latest?cb=20200402215643&path-prefix=es" group-title="ENTRETENIMIENTO", E ENTRETEMIENT 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=55&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", ISAT 
@@ -704,7 +704,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="ENTRETENIMIENTO", GLITZ  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=76&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", ZEEMUNDO (INDIA)  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/ZeeMundo2018.png/revision/latest?cb=20180106235144" group-title="ENTRETENIMIENTO", ZEEMUNDO  
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="CINEMA", GOLDEN  
