@@ -551,7 +551,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png" group-title="DEPORTES", GOLF  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=179&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telediario.cr/bundles/appcamusassets/images/logo-canal8.svg" group-title="INTERNACIONALES", CANAL 8 COSTA RICA 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-8-costa-rica-mx-cr.png" group-title="INTERNACIONALES", CANAL 8 COSTA RICA 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="INTERNACIONALES", HOLA TV  
