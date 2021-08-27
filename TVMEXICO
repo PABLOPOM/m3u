@@ -590,10 +590,10 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online-218x150.png" group-title="INTERNACIONALES", MULTIVISION  
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", MICROVISIÓN  
+#EXTINF:-1 tvg-logo="https://microvision.com.do/wp-content/uploads/2020/07/Logo-Micro-Retina.png" group-title="INTERNACIONALES", MICROVISIÓN  
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", ANTENA 3  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest?cb=20200307025520&path-prefix=es" group-title="INTERNACIONALES", ANTENA 3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=199&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", TV GALICIA AMERICA  
