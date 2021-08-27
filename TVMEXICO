@@ -587,7 +587,7 @@ http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="INTERNACIONALES", NET TV  
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", MULTIVISION  
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online-218x150.png" group-title="INTERNACIONALES", MULTIVISION  
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", MICROVISIÓN  
