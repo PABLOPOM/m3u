@@ -557,16 +557,16 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="INTERNACIONALES", HOLA TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=219&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", UNICANAL 
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="INTERNACIONALES", UNICANAL 
 http://45.55.127.106/live/unicanal_src.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", CANAL 26 ARGENTINA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/130px-LogoCanal26.png" group-title="INTERNACIONALES", CANAL 26 ARGENTINA 
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", AMERICA TUC 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png/133px-Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="INTERNACIONALES", AMERICA TUC 
 http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/AmericaTV2017.png/revision/latest?cb=20181229175551" group-title="INTERNACIONALES", AMÉRICA TV 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png" group-title="INTERNACIONALES", TVE LA 1  
