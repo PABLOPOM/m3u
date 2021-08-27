@@ -596,13 +596,13 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/800px-Antena_3_%282017%29.svg.png" group-title="INTERNACIONALES", ANTENA 3  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=199&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", TV GALICIA AMERICA  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONALES", TV GALICIA AMERICA  
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="INTERNACIONALES", EL TRECE TV  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Canal_13_2016.svg/revision/latest?cb=20200305011850&path-prefix=es" group-title="INTERNACIONALES", EL TRECE TV  
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", MOMENTOS GALICIA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONALES", MOMENTOS GALICIA 
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="INTERNACIONALES", CANALSUR ANDALUCÍA  
