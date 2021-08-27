@@ -569,10 +569,10 @@ http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", TVE LA 1  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png" group-title="INTERNACIONALES", TVE LA 1  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=198&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", TVE LA 2  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="INTERNACIONALES", TVE LA 2  
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES", STAR TVE  
