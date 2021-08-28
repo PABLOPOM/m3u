@@ -617,10 +617,10 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica-218x150.png" group-title="INTERNACIONALES", TELESUR COSTA RICA  
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", CARACOL 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="INTERNACIONALES", CARACOL 
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES", CANAL CAPITAL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1011px-2020_Canal_Capital_logo.svg.png" group-title="INTERNACIONALES", CANAL CAPITAL 
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
 #EXTINF:-1 tvg-logo="https://ukrtvr.org/images/sat/hdfashion.png" group-title="ENTRETENIMIENTO", FASHION  
