@@ -758,7 +758,7 @@ https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 #EXTINF:-1 group-title="INFANTILES", TV GALICIA XABADÍN HD
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", DISNEY CHANNEL 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="INFANTILES", DISNEY CHANNEL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=113&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR  
@@ -770,13 +770,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 group-title="INFANTILES", RED DE DIBUJOS ANIMADOS  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=112&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", BOOMERANG  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png" group-title="INFANTILES", BOOMERANG  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=115&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", TOONCAST 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=108&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", NICK JR.  
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="INFANTILES", NICK JR.  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=117&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", TEEN NICK 
