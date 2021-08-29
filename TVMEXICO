@@ -767,7 +767,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png" group-title="INFANTILES", DISNEY XD  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=111&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", RED DE DIBUJOS ANIMADOS  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png"group-title="INFANTILES", CARTOON NETWORK  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=112&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png" group-title="INFANTILES", BOOMERANG  
@@ -779,7 +779,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="INFANTILES", NICK JR.  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=117&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", TEEN NICK 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnick.png" group-title="INFANTILES", TEEN NICK 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2147&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="TPLEY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png",Tooncast
