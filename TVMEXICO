@@ -761,10 +761,10 @@ https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="INFANTILES", DISNEY CHANNEL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=113&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="INFANTILES", DISNEY JUNIOR  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="INFANTILES", DISNEY JUNIOR  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=118&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="INFANTILES", DISNEY XD  
+#EXTINF:-1 tvg-logo="tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png"" group-title="INFANTILES", DISNEY XD  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=111&format=HLS&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", RED DE DIBUJOS ANIMADOS  
