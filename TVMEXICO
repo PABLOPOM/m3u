@@ -752,6 +752,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="INFANTILES", BABY FIRST  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1984&format=HLS&f=.m3u8
 
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png",Baby TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=116&format=HLS&f=.m3u8
+
 #EXTINF:-1 group-title="INFANTILES", CACHIPUM TV  
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
