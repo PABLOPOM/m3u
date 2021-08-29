@@ -752,13 +752,16 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="INFANTILES", BABY FIRST  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1984&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png",Baby TV
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png",BABY TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=116&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", CACHIPUM TV  
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png",NAT GEO KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2373&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTILES", TV GALICIA XABADÍN HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Discovery_Kids_LA_2021_wordmark.png/revision/latest?cb=20210413030430&path-prefix=es" group-title="INFANTILES", DISCOVERY KIDS  
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=109&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INFANTILES", TV GALICIA XABADÍN HD
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="INFANTILES", DISNEY CHANNEL 
