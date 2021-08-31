@@ -329,7 +329,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-logo="https://www.oaxaca.gob.mx/cortv/wp-content/uploads/sites/79/2020/02/CORTV.png" group-title="NACIONALES", CORTV
 https://stream.oursnetworktv.com:443/latin/encoder29/chunklist_w1700812772.m3u8
 
-#EXTINF:-1 tvg-logo="https://lichomeroacostalopez.edu.mx/test2/images/ingenio2.png" group-title="NACIONALES", INGENIO TV 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Ingenio-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", INGENIO TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=401&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="NACIONALES", CANAL 10 QUERÉTARO 
