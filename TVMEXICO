@@ -3,34 +3,34 @@
 https://
 
 #EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TOTALPLAY", CANAL TOTALPLAY 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1973&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=1973&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TOTALPLAY", TOTALPLAY  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=02&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=02&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=07&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="ENTRETENIMIENTO", HOLA TV 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1734&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=1734&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/px_sports-mediano.png" group-title="ENTRETENIMIENTO", PX SPORTS 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=950&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=950&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-name="RED BULL" tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="ENTRETENIMIENTO", RED BULL 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_Adrenalina-%2820q6%29.png/1024px-Logo_Adrenalina-%2820q6%29.png" group-title="ENTRETENIMIENTO", ADRENALINA  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2404&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2404&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/v1/574dcf957c65e4d42aea047c/1473708656764-OTAGGEGZ3KME7MVIE13O/Havoc-TV-Logo.png?format=1000w" group-title="ENTRETENIMIENTO", HAVOC  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2148&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2148&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO -2H" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO -2HORAS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2195&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2195&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="TV ABIERTA", LAS ESTRELLAS 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2362&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2362&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="TV ABIERTA", LAS ESTRELLAS II
 https://live-streams-notusa.televisa.com/channel01-b/index.m3u8
