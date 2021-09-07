@@ -228,7 +228,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3x
 https://mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8?
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="INFORMATIVOS", CANAL 6 PLUS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1253&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=1253&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="INFORMATIVOS", CANAL 6 PLUS II
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/250px-324_%28CCMA%29_logo.svg.png" group-title="INFORMATIVOS", 3/24
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
