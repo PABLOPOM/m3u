@@ -56,7 +56,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" group-title="LATINO", TELEMUNDO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="LATINO", TELEMUNDO 
 http://71.187.29.220:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVISION" tvg-name="UNIVISION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png" group-title="LATINO", UNIVISION 
@@ -173,7 +173,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO", TELENOVELAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=83&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" group-title="LATINO", TELEMUNDO NOVELAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="LATINO", TELEMUNDO NOVELAS 
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="ENTRETENIMIENTO", UNICABLE  
