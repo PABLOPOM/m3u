@@ -744,7 +744,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3x
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=76&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/ZeeMundo2018.png/revision/latest?cb=20180106235144" group-title="ENTRETENIMIENTO", ZEEMUNDO  
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1631799106-now.m3u8
+https://f8e7y4c6.ssl.hwcdn.net:443/mundohd/tracks-v1a1/index-1631800382-now.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="CINEMA", GOLDEN  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=123&format=HLS&f=.m3u8
