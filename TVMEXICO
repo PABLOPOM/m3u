@@ -527,6 +527,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINEMA", TNT SERIES  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=71&format=HLS&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/movie/HBO_FAMILY.png" group-title="CINEMA", HBO FAMILY
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38822
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="CINEMA", A&E  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=62&format=HLS&f=.m3u8
 
