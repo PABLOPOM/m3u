@@ -81,73 +81,73 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243i
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2355&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TV4.1 GUANAJUATO 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2274&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2274&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvguanajuato.com/wp-content/uploads/2016/04/LOGO-300x120.png" group-title="TV ABIERTA", TVGUANAJUATO 
 https://stream.oursnetworktv.com/latin/encoder55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJÍO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2352&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2352&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://turistiktv.com.mx/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="NACIONALES", TURISTIK TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTALES", HGTV 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=3105&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=3105&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest?cb=20190926042803&path-prefix=es" group-title="DOCUMENTALES", DISCOVERY H&H  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=96&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=96&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest?cb=20190926042803&path-prefix=es" group-title="DOCUMENTALES", DISCOVERY H&H
 http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/16022
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8.png" group-title="DOCUMENTALES", DISCOVERY CHANNEL  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=86&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=86&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY WORLD  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=101&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=101&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY THEATER  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=95&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=95&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="DOCUMENTALES", DISCOVERY TLC  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2380&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2380&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest?cb=20190925153556&path-prefix=es" group-title="DOCUMENTALES", DISCOVERY SCIENCE  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=98&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=98&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Discovery_Kids_LA_2021_wordmark.png/revision/latest?cb=20210413030430&path-prefix=es" group-title="DOCUMENTALES", DISCOVERY KIDS  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=109&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=109&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ID" tvg-name="INVESTIGATION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="DOCUMENTALES", DISCOVERY ID  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2376&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2376&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY TURBO  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2379&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2379&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="IMAGENTV" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/212px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV ABIERTA", IMAGEN TELEVISION  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2298&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=317&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=317&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.3" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="TV ABIERTA", AZTECA 7.3  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=3316&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=3316&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Canal_5_M%C3%A9xico_2016.png/revision/latest?cb=20200715225844&path-prefix=es" group-title="TV ABIERTA", CANAL 5 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2218&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2218&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=24&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=24&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 CDMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 CDMX 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=1253&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=1253&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 MONTERREY 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2305&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2305&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -156,19 +156,19 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8?
 
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO TV  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=700&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=700&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=184&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=184&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="LATINO", TELEMUNDO INTERNACIONAL 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=85&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=85&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/1423px-Comedy_Central.svg.png" group-title="ENTRETENIMIENTO", CENTRAL COMEDIA 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=340&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=340&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=78&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=78&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO", TELENOVELAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=83&format=HLS&f=.m3u8
@@ -177,10 +177,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz8
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="ENTRETENIMIENTO", UNICABLE  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=1499&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=1499&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png" group-title="ENTRETENIMIENTO", LAS  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=2089&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=dju243ii81k0sq4&lchId=2089&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="ENTRETENIMIENTO", GOURMET 
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
