@@ -336,7 +336,7 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=25&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="NACIONALES", ONCE II
-https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
+https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="NACIONALES", ONCE INTERNACIONAL 
 https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
