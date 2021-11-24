@@ -386,7 +386,7 @@ https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/TV-Cuatro-Canal-4.4-Guanajuato-en-vivo-Online-218x150.png" group-title="NACIONALES", TV4.4 GUANAJUATO  
 https://5ca3e84a76d30.streamlock.net/tv44/videotv44_240p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ntv.com.mx/wp-content/uploads/2020/05/logo-ntv-300x100.png" group-title="NACIONALES", 12.1 COLIMA
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12.1-Colima-en-vivo-Online-218x150.png" group-title="NACIONALES", 12.1 COLIMA
 https://5ca9af4645e15.streamlock.net/canal11/videocanal11/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.ntv.com.mx/wp-content/uploads/2020/05/logo-ntv-300x100.png" group-title="NACIONALES", NTV TEPIC 
