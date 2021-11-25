@@ -260,6 +260,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-id="ELFINANCIERO" tvg-name="EL FINANCIERO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg-mediano.png" group-title="INFORMATIVOS", EL FINANCIERO BLOOMBERG 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1649&format=HLS&f=.m3u8
 
+#EXTINF:-1 tvg-id="ELFINANCIERO" tvg-name="EL FINANCIERO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg-mediano.png" group-title="INFORMATIVOS", EL FINANCIERO BLOOMBERG II
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/1024px-CBS_News_logo_%282020%29.svg.png" group-title="INFORMATIVOS", CBS NEWS 
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
