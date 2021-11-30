@@ -303,7 +303,7 @@ https://play01.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/VOA_logo.png/1024px-VOA_logo.png" group-title="INFORMATIVOS", VOA 
-https://voavvideo-i.akamaihd.net/hls/live/850895-b/VOAV_TVMC2_MRG/master_1.m3u8
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" group-title="INFORMATIVOS", CNN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=185&format=HLS&f=.m3u8
