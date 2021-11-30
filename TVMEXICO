@@ -302,7 +302,7 @@ https://play01.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="INFORMATIVOS", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/VOA_logo.png/1024px-VOA_logo.png" group-title="INFORMATIVOS", VOA 
+#EXTINF:-1 tvg-logo="https://scontent.fmex24-1.fna.fbcdn.net/v/t1.6435-1/p200x200/123191980_781597082440222_3225282775563008262_n.png?_nc_cat=109&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=X-tb4dpWomgAX-N5w8E&_nc_ht=scontent.fmex24-1.fna&edm=AKsJ254EAAAA&oh=a97f2a77e65052303460ebe7c93358ac&oe=61CC966E" group-title="INFORMATIVOS", VOA 
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" group-title="INFORMATIVOS", CNN 
