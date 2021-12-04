@@ -374,6 +374,13 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="NACIONALES", MEXIQUENSE TELEVISIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=44&format=HLS&f=.m3u8
 
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="NACIONALES",MEXIQUENSE TELEVISIÓN II
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="NACIONALES",AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.oaxaca.gob.mx/cortv/wp-content/uploads/sites/79/2020/02/CORTV.png" group-title="NACIONALES", CORTV
 https://stream.oursnetworktv.com:443/latin/encoder29/chunklist_w1344510036.m3u8
 
