@@ -65,6 +65,9 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.filmandarts.tv/theme/assets/fa-logo.png" group-title="LATINO", FILMS & ARTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=137&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.esmitele.com/wp-content/uploads/2020/04/logo-esmitele-2.png" group-title="LATINO", MI TELE
 https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
 
