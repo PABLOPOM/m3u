@@ -696,6 +696,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONALES", MOMENTOS GALICIA 
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONALES", GALICIA CULTURA 
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://scontent.fntr5-1.fna.fbcdn.net/v/t1.6435-1/p200x200/106980958_10160381744629466_1171784682025043553_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=j5MjLwL6q6gAX-opn_0&_nc_ht=scontent.fntr5-1.fna&edm=AKsJ254EAAAA&oh=00_AT9O6ccDYH8oOq1R0NmI8_0lqnt3SQFPe1ivjlcsJlKoJA&oe=61EE14E0" group-title="INTERNACIONALES", TELEMADRID
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
