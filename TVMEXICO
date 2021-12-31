@@ -114,7 +114,7 @@ https://stream.oursnetworktv.com/latin/encoder55/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2352&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://turistiktv.com.mx/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="NACIONALES", TURISTIK TV
-https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
+https://5fa5de1a545ae.streamlock.net:443/8030/8030/chunklist_w591358697.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTALES", HGTV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3105&format=HLS&f=.m3u8
