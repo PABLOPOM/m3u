@@ -56,8 +56,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="LATINO", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="LATINO", LAS ESTRELLAS III
-https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/250px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="LATINO", CANALSUR ANDALUCÍA  
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
