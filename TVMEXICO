@@ -144,13 +144,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2376&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY TURBO  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2379&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2379&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="IMAGENTV" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/212px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV ABIERTA", IMAGEN TELEVISION  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2298&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7  
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=317&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=317&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7 II
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
