@@ -59,6 +59,9 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/250px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="LATINO", CANALSUR ANDALUCÍA  
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="LATINO", PAKA PAKA 
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
@@ -898,11 +901,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=1708&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="INFANTILES", PAKA PAKA  22.2
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="INFANTILES", NICKELODEON
 http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTILES", LOS SIMPSONS 
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
