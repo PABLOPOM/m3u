@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="************** TV MEXICO *********" group-title="TV MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Television.png",************** TV MEXICO *******
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Apiodemiercoles.png/revision/latest?cb=20200420225144" group-title="NACIONALES", ONCE NIÑAS Y NIÑOS
+**** TV MEXICO *******
 https://
 
 #EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TOTALPLAY", CANAL TOTALPLAY 
@@ -374,6 +374,9 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Apiodemiercoles.png/revision/latest?cb=20200420225144" group-title="NACIONALES", ONCE NIÑAS Y NIÑOS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=3315&format=HLS&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Apiodemiercoles.png/revision/latest?cb=20200420225144" group-title="NACIONALES", ONCE NIÑAS Y NIÑOS II
+http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="NACIONALES", CANAL 22 
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/chunklist_w1526370349_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDE6MDI6MzIgUE0maGFzaF92YWx1ZT1sc01ucFlRejBOV2RxUTRVWXo5dVhBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
@@ -385,6 +388,9 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="NACIONALES", CAPITAL21 
 https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="NACIONALES", EFEKTO TV
+https://cdn.jwplayer.com/manifests/bez1terN.m3u8
 
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="NACIONALES", MEXIQUENSE TELEVISIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=44&format=HLS&f=.m3u8
