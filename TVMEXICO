@@ -575,7 +575,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/dev/_nuxt/img/studiouniversal-logo.3048671.png" group-title="CINEMA", STUDIO UNIVERSAL  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=132&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/dev/_nuxt/img/studiouniversal-logo.3048671.png" group-title="CINEMA", RUN:TIME
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINEMA", RUN:TIME
 https://stream.ads.ottera.tv/cl/83cbe32d-96ef-4b74-9acb-33e8cfcc4b08/1920x1080_4715744_3_false.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="CINEMA", STAR CHANNEL  
