@@ -425,7 +425,7 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.oaxaca.gob.mx/cortv/wp-content/uploads/sites/79/2020/02/CORTV.png" group-title="NACIONALES", CORTV
-https://stream.oursnetworktv.com/latin/encoder29/chunklist_w1243823254.m3u8
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Ingenio-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", INGENIO TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=401&format=HLS&f=.m3u8
