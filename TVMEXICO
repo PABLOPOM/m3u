@@ -62,7 +62,7 @@ https://marine2.miplay.cl/t13/index.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="LATINO", TVE LA 2 
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/250px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="LATINO", CANALSUR ANDALUCÍA  
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
