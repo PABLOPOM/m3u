@@ -671,6 +671,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1280px-Fuel_TV.svg.png" group-title="DEPORTES", FUEL TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2587&format=HLS&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1280px-Fuel_TV.svg.png" group-title="DEPORTES", FUEL TV II
+https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png" group-title="DEPORTES", GOLF  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=179&format=HLS&f=.m3u8
 
