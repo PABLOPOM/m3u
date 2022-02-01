@@ -61,6 +61,9 @@ https://marine2.miplay.cl/t13/index.m3u8
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="LATINO", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="LATINO", TVE LA 2 
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/250px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="LATINO", CANALSUR ANDALUCÍA  
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
@@ -700,6 +703,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="INTERNACIONALES", TVE LA 2  
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="INTERNACIONALES", TVE LA 2 II
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="INTERNACIONALES", STAR TVE  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2375&format=HLS&f=.m3u8
