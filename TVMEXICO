@@ -64,6 +64,15 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="LATINO", TVE LA 2 
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
+#EXTINF:-1 tvg-id="DemandAfricaMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title ="LATINO", DEMANDA ÁFRICA (MÉXICO) 
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4 /46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title=" LATINO", EURONEWS EN ESPAÑOL 
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-language="Inglés" tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title ="LATINO", STINGRAY NATURESCAPE 
+https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/250px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="LATINO", CANALSUR ANDALUCÍA  
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
