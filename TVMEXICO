@@ -424,13 +424,13 @@ https://cdn.jwplayer.com/manifests/bez1terN.m3u8
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="NACIONALES", MEXIQUENSE TELEVISIÓN 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=44&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="NACIONALES",MEXIQUENSE TELEVISIÓN II
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="NACIONALES", MEXIQUENSE TELEVISIÓN II
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="NACIONALES",AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://www.m3u.cl/logo/641_UMTV.png", UMTV | MX
+#EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://www.m3u.cl/logo/641_UMTV.png" group-title="NACIONALES", UMTV | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="NACIONALES",CANAL 28 NL
