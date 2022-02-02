@@ -433,6 +433,9 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://www.m3u.cl/logo/641_UMTV.png" group-title="NACIONALES", UMTV | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://www.oaxaca.gob.mx/cortv/wp-content/uploads/sites/79/2020/02/CORTV.png" group-title="NACIONALES", SRT CAMPECHE
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="NACIONALES",CANAL 28 NL
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
