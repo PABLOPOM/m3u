@@ -91,6 +91,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 #EXTINF:-1 group-title="LATINO", CLASSIC ARTS SHOWCASE  
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
+#EXTINF:-1 canal-id="plex-5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://provider.epg/channel-static.logoc. gracenote/c0a22a7f86f094ddc903af4121c4a7dc.png" group-title="LATINO", QELLO CONCIERTOS DE stingray
+https://stream.ads.ottera.tv/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://www.esmitele.com/wp-content/uploads/2020/04/logo-esmitele-2.png" group-title="LATINO", MI TELE
 https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
 
