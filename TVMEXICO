@@ -602,6 +602,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINEMA", RUN:TIME
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINEMA", RUN:TIME EN ESPAÑOL
+https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=5f5132e362fe160040f26c15&uid=1fqebg2d7-u1fv-ipo-06a4-myngu59tko/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="CINEMA", STAR CHANNEL  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=46&format=HLS&f=.m3u8
 
