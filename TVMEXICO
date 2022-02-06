@@ -395,10 +395,10 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=25&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="NACIONALES", ONCE II
-https://live2.canaloncelive.tv/livepkgr3/cepro/chunklist_w454082180.m3u8
+https://live.canaloncelive.tv/livepkgr3/cepro/chunklist_w454082180.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="NACIONALES", ONCE III
-https://live2.canaloncelive.tv/livepkgr3/smil:nacional.smil/playlist.m3u8
+https://live.canaloncelive.tv/livepkgr3/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Apiodemiercoles.png/revision/latest?cb=20200420225144" group-title="NACIONALES", ONCE NIÑAS Y NIÑOS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=3315&format=HLS&f=.m3u8
