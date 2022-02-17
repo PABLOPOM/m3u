@@ -65,6 +65,9 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ae8059a01777a066979869891e176077o.png" group-title="LATINO", T13
 https://marine2.miplay.cl/t13/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="LATINO", LA RED
+https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
+
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="LATINO", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
