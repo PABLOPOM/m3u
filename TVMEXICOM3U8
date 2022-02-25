@@ -67,6 +67,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", RT NOTICIAS 
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="LATINO", 24h NOTICIAS TVE 
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ae8059a01777a066979869891e176077o.png" group-title="LATINO", T13
 https://marine2.miplay.cl/t13/index.m3u8
 
@@ -753,7 +756,7 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2375&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="INFORMATIVOS", 24h NOTICIAS TVE 
-https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1024px-Cosmo_TV_logo.svg.png" group-title="INTERNACIONALES", COSMO   
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
