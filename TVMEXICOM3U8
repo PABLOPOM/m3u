@@ -91,6 +91,15 @@ https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title=" LATINO", EURONEWS EN ESPAÑOL 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="LATINO", TELESUR VENEZUELA  
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="LATINO", HISPAN TV  
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="LATINO", FRANCE24 
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title ="LATINO", STINGRAY NATURESCAPE 
 https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
 
@@ -795,7 +804,7 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INFORMATIVOS", TELESUR VENEZUELA  
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica-218x150.png" group-title="INTERNACIONALES", TELESUR COSTA RICA  
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
