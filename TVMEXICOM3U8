@@ -67,6 +67,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", RT NOTICIAS 
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", AMÉRICA TE VE
+https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="LATINO", 24h NOTICIAS TVE 
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 
