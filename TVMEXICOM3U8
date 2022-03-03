@@ -1912,6 +1912,150 @@ http://93.152.174.144:4000/play/megasp/index.m3u8
 http://91.126.138.141:1935/live/mega/chunks.m3u8
 
 
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png",CGTN ESPAÑOL
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/320px-TeleMadrid.svg.png",TELEMADRID
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_3.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/13rioja.png",13 LA RIOJA
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/269px-Logo_TVE-1.svg.png",LA 1 TVE
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png",LA 2 TVE
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png",HISPAN TV
+https://live.presstv.ir/live/smil:live.smil/chunklist_w1657033427_b644100_slen.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://es.solidariatv.com/images/logo.png",SOLIDARIA TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",FASHION TV
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/hola-concurso.png?fit=300%2C236&ssl=1",HOLA TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png",MÁS CHIC
+https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://image.shutterstock.com/image-vector/product-made-spain-illustration-260nw-1294741963.jpg",COMEDIA MADE IN SPAIN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png",TV MARTI
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://livetvcentral.com/imgs/tvs/2893.jpg",33 MADRID
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png",UNIVISIÓN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png",TELEMUNDO
+http://181.78.22.214:8000/play/a01t
+
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png",TELEMUNDO NOVELAS
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg",NOVELAS EN FAMILIA
+https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg",NOVELAS DE ROMANCE
+https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg",NOVELAS DE ORO
+https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ilvjz7r1nrgb-prod/dist/samsungtv/196/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/uGwFXeM.png",EDUCA TV
+https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU",LOVE NATURE ESPAÑOL
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdezFnpqqki2OrdP1JhJRxTpolFD2rIU5tTNqAbeuI3jJLsWBY",NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://th.bing.com/th/id/OIP.79DiUzpUebyD0gOVIbSuxQAAAA?pid=ImgDet&rs=1",TV GALICIA AMÉRICA
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://media.tvalacarta.info/canales/256x256/aragontv.png",ARAGÓN TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://image.roku.com/developer_channels/prod/fd618d0970c1332bf577f9643c0dadc3c7f664f1abd0e48444fde3fb9c5a1bc0.png",TELEPLAY
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/id7686eb575e5330d/version/1470081080/image.png",TELPIN
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1502244549_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord-360x240.jpg",TELENORD
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i2eee083b9645b453/version/1470081080/image.png",TELEMAR
+https://59d39900ebfb8.streamlock.net/8410/8410/chunklist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/98u0MKu.png",ARIRANG TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/AFHV_alternate_logo.png/revision/latest/scale-to-width-down/250?cb=20151018010137",AFV Español
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",PLATZI TV
+https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/AkbJq31.png",CLICK TV
+http://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.postimg.cc/C5vVmRF3/SABER-MAS.png",SABER MÁS
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/iZ6B9VC.jpeg",HIPER TV
+http://inliveserver.com:1935/11010/11010/chunklist_w925351683.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://iteleflix.com/archivos/Logo-Negocios-TV.jpg",NEGOCIOS TV
+https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg",TEVEX
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png",CLASSIC ARTS SHOWCASE
+https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master_720p30.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/220px-7TVRM.svg.png",7 MURCIA
+https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eitb_Basque_logo_trans_2021.png/165px-Eitb_Basque_logo_trans_2021.png",EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/68ztlZE.png",EL GOURMET
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png",TASTEMADE ESPAÑOL
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXKRWaD-KP7geIaWZucbJCLFc0SDrjbKbIA&usqp=CAU",DISTRITO DTV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/200px-RTP.svg.png",RTP INTERNACIONAL
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg",ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101 TV
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png",TELECINCO
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png",ANTENA 3
+http://91.126.141.13:1935/live/11/1400-def.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320pxCuatro.svg.png",CUATRO
+http://91.126.141.13:1935/live/51/4000-def.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png",LA SEXTA
+http://91.126.141.13:1935/live/21/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://www.teletoledo.es/img/logo-dark.png",TELETOLEDO
+https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://www.mirametv.com/public/wSystem/images/logo-white.png",MÍRAME TV
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://www.iptvcristiano.com/uploads/channels/145/logo_thumb.jpg",TVGE INTERNACIONAL
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://latinosnctv.com/wp-content/uploads/2020/05/logo-web2k19-min.png",LATINOS NCTV
+https://live.latinosnc.tv:1443/MRR/live/chunklist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/2BBGZ1H.png",CANAL 25 BARBASTRO
+http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320",7 TV ANDALUCÍA
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/sr5vC8z.jpg",DEMAND AFRICA
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320",AGROTENDENCIA TV
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal_Sur_1_-_2017_logo.png/120px-Canal_Sur_1_-_2017_logo.png",CANAL SUR ANDALUCÍA
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200",À PUNT
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/150px-TV3.svg.png",TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://www.cafetv24.it/wp-content/uploads/2021/05/logo-cafe-trasmissione_ARROTONDATO1.png",CAFE 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png",RAI
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i2.wp.com/www.telemia.it/wp-content/uploads/2021/10/cropped-logo_telemia_lite.png?fit=150%2C150&ssl=1",TELEMIA
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://pbs.twimg.com/profile_images/1015604971528708098/h06Dy2xt_400x400.jpg",TELEVENEZIA
+https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/rLCHYCs.png",ABC AU
+https://c.mjh.nz/101002210221
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/JyslMHb.jpg",WORLD FASHING CHANNEL
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.pinimg.com/736x/be/35/97/be3597da32599d2265d647a52d43a88b.jpg",FASHION HAUTE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://cdn.cleeng.com/vod-ppv/A917686777_US/b/M-1518855291-jasmin-tv-channel-live.jpg",JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w1146854440.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png",MIAMI TV
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
+
+
+
 #EXTINF:-1,Univision HD
 http://190.83.119.67:8000/play/a0l7/index.m3u8
 #EXTINF:-1,VENUS
