@@ -145,6 +145,16 @@ http://71.187.29.220:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="UNIVISION" tvg-name="UNIVISION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png" group-title="LATINO", UNIVISION 
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINO",Univision | US
+http://www.tecniconsult.hn/UnivisionHD/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINO",Univision | US
+http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINO",Univision 
+http://clubtv.link/f26/lista1.php?c=3190
+
+
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA",  BAJÍO LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha&l=2220&f=HLS&f=.m3u8
 
