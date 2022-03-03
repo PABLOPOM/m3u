@@ -1850,3 +1850,61 @@ https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Samsung TV", Butaca TV | HD | México
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:0,La 1 HD
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/la1sp/index.m3u8
+
+#EXTINF:0,La 1 ES (op3)
+#EXTGRP:Internacionales
+http://91.126.141.13:1935/live/41/playlist.m3u8
+#EXTINF:0,La 2
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/la2sp/index.m3u8
+#EXTINF:0,Cuatro HD
+#EXTGRP:Internacionales
+http://91.126.141.13:1935/live/51/playlist.m3u8
+
+#EXTINF:0,Cuatro (op2)
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/cuatrosp/index.m3u8
+
+
+
+#EXTINF:0,TeleCinco HD
+#EXTGRP:Internacionales
+http://91.126.141.13:1935/live/61/playlist.m3u8
+
+
+#EXTINF:0,TeleCinco (op2)
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/telecincosp/index.m3u8
+
+#EXTINF:0,TeleDeporte
+#EXTGRP:Internacionales
+http://91.126.141.13:1935/live/91/playlist.m3u8
+#EXTINF:0,TVG2
+#EXTGRP:Internacionales
+https://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
+#EXTINF:0,TVGalicia 2 ES (op2)
+#EXTGRP:Internacionales
+https://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
+#EXTINF:-1,Be Mad
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/bemadsp/index.m3u8
+
+#EXTINF:0,La Sexta HD
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/lasexta/index.m3u8
+#EXTINF:0,La sexta ES
+#EXTGRP:Internacionales
+http://91.126.141.13:1935/live/21/playlist.m3u8
+#EXTINF:0,Antena3 ES
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/antena3sp/index.m3u8
+
+#EXTINF:0,Mega
+#EXTGRP:Internacionales
+http://93.152.174.144:4000/play/megasp/index.m3u8
+#EXTINF:0,Mega ES (op2)
+#EXTGRP:Internacionales
+http://91.126.138.141:1935/live/mega/chunks.m3u8
