@@ -68,7 +68,7 @@ https://tunelive.net:3019/stream/play.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", RT NOTICIAS 
-https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fntr10-1.fna.fbcdn.net/v/t1.6435-1/107668983_10157724988581374_7812400548149349980_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=YDdFwKI2qxsAX9-wbX6&_nc_ht=scontent.fntr10-1.fna&edm=AKsJ254EAAAA&oh=00_AT_IQqytqlNo5j9tp5RSMhJfBMNYkjswQ3vxyuhMi1Ronw&oe=62433EDB" group-title="LATINO", AMÉRICA Te Ve
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
