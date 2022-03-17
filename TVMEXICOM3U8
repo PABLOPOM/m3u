@@ -1899,64 +1899,6 @@ https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:0,La 1 HD
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/la1sp/index.m3u8
-
-#EXTINF:0,La 1 ES (op3)
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/41/playlist.m3u8
-#EXTINF:0,La 2
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/la2sp/index.m3u8
-#EXTINF:0,Cuatro HD
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/51/playlist.m3u8
-
-#EXTINF:0,Cuatro (op2)
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/cuatrosp/index.m3u8
-
-
-
-#EXTINF:0,TeleCinco HD
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/61/playlist.m3u8
-
-
-#EXTINF:0,TeleCinco (op2)
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/telecincosp/index.m3u8
-
-#EXTINF:0,TeleDeporte
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:0,TVG2
-#EXTGRP:Internacionales
-https://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
-#EXTINF:0,TVGalicia 2 ES (op2)
-#EXTGRP:Internacionales
-https://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
-#EXTINF:-1,Be Mad
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/bemadsp/index.m3u8
-
-#EXTINF:0,La Sexta HD
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/lasexta/index.m3u8
-#EXTINF:0,La sexta ES
-#EXTGRP:Internacionales
-http://91.126.141.13:1935/live/21/playlist.m3u8
-#EXTINF:0,Antena3 ES
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/antena3sp/index.m3u8
-
-#EXTINF:0,Mega
-#EXTGRP:Internacionales
-http://93.152.174.144:4000/play/megasp/index.m3u8
-#EXTINF:0,Mega ES (op2)
-#EXTGRP:Internacionales
-http://91.126.138.141:1935/live/mega/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CGTN_English.png/120px-CGTN_English.png",CGTN ESPAÑOL
@@ -2103,18 +2045,7 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
 
 
-#EXTINF:-1,Univision HD
-http://190.83.119.67:8000/play/a0l7/index.m3u8
-#EXTINF:-1,VENUS
-http://190.83.119.67:8000/play/a0hw/index.m3u8
-#EXTINF:-1,VTV Canal 35 ESA
-http://190.83.119.67:8000/play/a0hd/index.m3u8
-#EXTINF:-1,WARNER HD
-http://190.83.119.67:8000/play/a0iu/index.m3u8
-#EXTINF:-1,Warner
-http://190.83.119.67:8000/play/a0ig/index.m3u8
-#EXTINF:-1,ZooMoo
-http://190.83.119.67:8000/play/a0e5/index.m3u8
+
 
 #EXTINF:-1,21 - 252 ComedyC
 http://190.61.102.67:2000/play/a04a/index.m3u8
@@ -2258,74 +2189,7 @@ http://190.61.102.67:2000/play/a058/index.m3u8
 http://190.61.102.67:2000/play/a04o/index.m3u8
 #EXTINF:-1,388 Paramount
 http://190.61.102.67:2000/play/a01s/index.m3u8
-#EXTINF:-1,AGROTENDENCIA
-http://190.61.102.67:2000/play/a08b/index.m3u8
-#EXTINF:-1,BANDAMAX
-http://190.61.102.67:2000/play/a08h/index.m3u8
-#EXTINF:-1,GOLDEN EDGE
-http://190.61.102.67:2000/play/a08k/index.m3u8
-#EXTINF:-1,TELENOVELAS
-http://190.61.102.67:2000/play/a08d/index.m3u8
-#EXTINF:-1,TN23
-http://190.61.102.67:2000/play/a08g/index.m3u8
-#EXTINF:-1,TUDN
-http://190.61.102.67:2000/play/a08j/index.m3u8
-#EXTINF:-1,Tigo Sport GT
-http://190.61.102.67:2000/play/a08i/index.m3u8
-#EXTINF:-1,UNICABLE
-http://190.61.102.67:2000/play/a08f/index.m3u8
-#EXTINF:-1,VEA CANAL
-http://190.61.102.67:2000/play/a08l/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png",GARAJE TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg",DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://graph.facebook.com/FUTVCR/picture?width=200&height=200",FUTV op1
-http://latinosiptv.online:8090/notocar/xmauc84bx1/21142?index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://graph.facebook.com/FUTVCR/picture?width=200&height=200",FUTV op2
-#EXTVLCOPT:http-user-agent=20100101
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/565
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png",FOX SPORTS 2
-http://190.83.119.67:8000/play/a0sd/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/100px-Fox_sports_3_logo.svg.png",FOX SPORTS 3
-http://190.83.119.67:8000/play/a0qm/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",ESPN 1
-http://190.92.95.37:8000/play/a0io/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png",ESPN 2
-http://190.92.95.37:8000/play/a0ip/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
-http://190.92.95.37:8000/play/a0hm/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://www.futbolsapiens.com/wp-content/uploads/2021/12/fox-sport-espn-4.jpg",ESPN 4
-http://190.83.119.67:8000/play/a0u3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/180px-Espn_deportes.svg.png",ESPN DEPORTES
-http://supportstreams.net:80/558585765/n4ySrfoH20/650066
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/135px-Fox_Sports_1_logo.svg.png",FOX SPORTS 1 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png",FOX SPORTS 2 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/100px-Fox_sports_3_logo.svg.png",FOX SPORTS 3 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",FOX SPORTS PREMIUM (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.PNG",ESPN EXTRA
-https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",ESPN 1 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png",ESPN 2 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://www.futbolsapiens.com/wp-content/uploads/2021/12/fox-sport-espn-4.jpg",ESPN 4 (ARG)
-https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png",TNT SSPORTS (ARG)
-https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",BEIN SPORTS XTRA Ñ
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://imgx.fubo.tv/station_logos/tyc_sports_c.png",TyC SPORTS
-https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://multicontenidos.cl/wp-content/uploads/2020/12/FITMAXX.png",FITMAXX
-http://138.36.253.12:8009/play/a004/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2020/03/2020-Pluto-TV-logo-design.png",PLUTO FITNESS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DEPORTES ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png",CLARO SPORTS
