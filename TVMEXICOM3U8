@@ -2483,3 +2483,13 @@ http://laratel.online:33599/swiptv/Szph6Q6Hd2/31
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/33
 #EXTINF:-1,TOON GOGGLES
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/143
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO 
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/295.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XBrJcNOw8hZ0B6rMx3FfbMVxMfuA-8TqTjMdc9bVo2hjArR_1ZSGEnkfYVEJmjti7Gc",CLARO.TV
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=2800000.m3u8
+#EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6hTdga-4bL1c1-QGM-n_iMPgOpZuQXd7oA&usqp=CAU",AZTECA CINEMA HD
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/186.m3u8
+#EXTINF:- 1 tvg-logo="https://1.bp.blogspot.com/-g0xAjRPOGVY/YKvGS1KCpiI/AAAAAAAAcek/_SsNebnNltQblChsW_Bfh0Ia5zGQAcm5wCPcBGAsYHg/s71/de-pelicula.PNG",DE PELICULA HD
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/481.m3u8
