@@ -73,12 +73,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", RT NOTICIAS 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://cdn.americasvoice.news/static/images/home-logo/logo.png@138x70",REAL AMERICA'S VOICE
-https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Informativos" tvg-logo="https://th.bing.com/th/id/OIP.qdQ8DfnUoQ6sdNuRudtQdgHaDF?w=337&h=146&c=7&o=5&dpr=1.1&pid=1.7",VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png",CNN ESPAÑOL
 http://190.61.37.173:9001/play/a02y/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://scontent.fntr10-1.fna.fbcdn.net/v/t1.6435-1/107668983_10157724988581374_7812400548149349980_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=YDdFwKI2qxsAX9-wbX6&_nc_ht=scontent.fntr10-1.fna&edm=AKsJ254EAAAA&oh=00_AT_IQqytqlNo5j9tp5RSMhJfBMNYkjswQ3vxyuhMi1Ronw&oe=62433EDB" group-title="LATINO", AMÉRICA Te Ve
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
