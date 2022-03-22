@@ -2059,3 +2059,8 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/186.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-g0xAjRPOGVY/YKvGS1KCpiI/AAAAAAAAcek/_SsNebnNltQblChsW_Bfh0Ia5zGQAcm5wCPcBGAsYHg/s71/de-pelicula.PNG",DE PELICULA HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/481.m3u8
+
+#EXTINF:-1, Quello Musica Clasica
+https://qwest-classic-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=60aeb06487f9b1002ce1231b&uid=1fueesbnn-8jvc-dio-4koj-9hrd57rigkl/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8
+#EXTINF:-1, Quello Jazz España
+https://qwest-jazz-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=60b0f65c0c8ffb002c821a75&uid=1fueeslrs-qbv4-u2o-w8u2-3ac38lmje0g/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8
