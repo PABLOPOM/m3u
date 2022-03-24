@@ -2076,3 +2076,37 @@ https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/391
 #EXTINF:0 tvg-name="WNJU" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org",WNJU
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/347
+
+
+#EXTINF:0 tvg-name="UNIEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",UNIEHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/396
+#EXTINF:0 tvg-name="UNIWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049" tvg-shift="+3",UNIWHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/394
+#EXTINF:0 tvg-name="GALAHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/460.png" tvg-ID="I404.68367.schedulesdirect.org",GALAHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5819
+#EXTINF:0 tvg-name="GALAWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/460.png" tvg-ID="I404.68367.schedulesdirect.org" tvg-shift="+3",GALAWHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5816
+#EXTINF:0 tvg-name="MEGAHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/260.png" tvg-ID="I405.58698.schedulesdirect.org",MEGAHD
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:0 tvg-name="TELE" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org",TELE
+https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/index_4096_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-name="TELWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org" tvg-shift="+3",TELWHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/349
+#EXTINF:0 tvg-name="TELXT" tvg-logo="https://www.telexitos.com/wp-content/themes/cozi/static/images/telexitos-logo.png" tvg-ID="WNJU2.us",TELXT
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name="UMASHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift="-3",UMASHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5910
+#EXTINF:0 tvg-name="UNIMWST" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift=" ",UNIMWST
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/363
+#EXTINF:0 tvg-name="VPLUS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/219.png" tvg-ID="",VPLUS
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/598
+#EXTINF:0 tvg-name=“UVSOHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/012.png" tvg-ID="NBCUniversoEste.us",UVSOHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27013
+#EXTINF:0 tvg-name="WAPAUS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/577.png" tvg-ID="44322",WAPAUS
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“AZA” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/348.png" tvg-ID="AztecaUSEste.mx",AZA
+https://v-pi.mybtv.net/event/338/1280x720.m3u8?start_time=2019-10-21&end_time=2030-10-21&env=prd&uid=
+#EXTINF:0 tvg-name=“ESRTV” tvg-logo="https://cdn.tvpassport.com/image/station/240x135/estrella.png" tvg-ID="EstrellaTVEast.us",ESRTV
+https://dai.google.com/linear/hls/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
+#EXTINF:0 tvg-name=“ESNW” tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png" tvg-ID="",ESNW
+https://dai.google.com/linear/hls/event/y1Zjs_6rS3-ltPqmaNLQDQ/master.m3u8
