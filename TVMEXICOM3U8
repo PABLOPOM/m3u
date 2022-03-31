@@ -166,6 +166,9 @@ http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINO",Univision 
 http://clubtv.link/f26/lista1.php?c=3190
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINO",Univision FL
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/345.m3u8
+
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png",UNIVISIÓN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
