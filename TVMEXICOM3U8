@@ -20,10 +20,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/634.m3u8
-
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 2
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/4.m3u8
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/634.m3u8
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="ENTRETENIMIENTO", HOLA TV 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha&l=1734&f=HLS&f=.m3u8
@@ -72,9 +69,6 @@ https://tunelive.net:3019/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -2H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS IIIIII
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/636.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -2H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 1
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/636.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="LATINO", DW ALEMANIA EN ESPAÑOL 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
