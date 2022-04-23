@@ -163,6 +163,9 @@ https://tunelive.net:3141/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="LATINO", TELEMUNDO NOTICIAS
 https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="LATINO", TELEMUNDO 52
+https://tunelive.net:3882/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="LATINO", TELEMUNDO 1
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/660.m3u8
 
