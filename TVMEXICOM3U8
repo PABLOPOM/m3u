@@ -2357,5 +2357,20 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg", Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ROSA DE GUADALUPE
+https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", AFIZZIONADOS
+http://linear-348.frequency.stream/348/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CNN
+http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TUDN
+http://linear-357.frequency.stream/357/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TUDN
+http://linear-356.frequency.stream/356/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg", VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
