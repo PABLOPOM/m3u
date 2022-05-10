@@ -2421,11 +2421,14 @@ http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", UNIVISION NOTICIAS
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TUDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ZONA TUDN
 http://linear-357.frequency.stream/357/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TUDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ZONA TUDN
 http://linear-356.frequency.stream/356/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TUDN
+https://linear-360.frequency.stream/360/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", BEIN SPORTS XTRA Ñ
 https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist.m3u8
