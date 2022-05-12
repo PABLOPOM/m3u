@@ -2430,6 +2430,9 @@ http://linear-356.frequency.stream/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TUDN
 https://linear-361.frequency.stream/361/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", LO MEJOR DE LA LIGA MX 
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", BEIN SPORTS XTRA Ñ
 https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist.m3u8
 
