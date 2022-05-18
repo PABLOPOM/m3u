@@ -2570,3 +2570,43 @@ https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg", VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
+
+#EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO HD - GEO
+http://clubtv.link/17may/170may/geomex.php?c=7&f=.m3u8
+#EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO HD - GEO 2
+http://clubtv.link/17may/170may/geomex2.php?c=7&f=.m3u8
+#EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO HD - GEO 3
+http://clubtv.link/17may/170may/geomex3.php?c=7&f=.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - GEO 
+http://clubtv.link/17may/170may/geomex.php?c=27&f=.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - GEO 2
+http://clubtv.link/17may/170may/geomex2.php?c=27&f=.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - GEO 3
+http://clubtv.link/17may/170may/geomex3.php?c=27&f=.m3u8
+#EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO - TV
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - MX
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=27&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - ANDR
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - GEO
+http://clubtv.link/17may/170may/geomex.php?c=1784&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - GEO 2
+http://clubtv.link/17may/170may/geomex2.php?c=1784&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - GEO 3
+http://clubtv.link/17may/170may/geomex3.php?c=1784&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO
+http://clubtv.link/17may/170may/geomex.php?c=17&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO 2
+http://clubtv.link/17may/170may/geomex2.php?c=17&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO 3
+http://clubtv.link/17may/170may/geomex3.php?c=17&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - LIS 1
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - TV
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - MX
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - MX
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - ANDR
