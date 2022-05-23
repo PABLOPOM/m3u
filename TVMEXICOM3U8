@@ -2577,6 +2577,9 @@ https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  LOUPE ART
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  ZEN
+https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg", VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
