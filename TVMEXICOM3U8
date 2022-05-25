@@ -2512,16 +2512,6 @@ https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", AFIZZIONADOS
 http://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CNN
-http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", UNIVISION NOTICIAS
-https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TELEMUNDO AL DIA
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-PLEX
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ZONA TUDN
 http://linear-357.frequency.stream/357/hls/master/playlist.m3u8
 
@@ -2567,15 +2557,22 @@ https://linear-263.frequency.stream/dist/localnow/263/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  BLACK PIX
 https://linear-264.frequency.stream/dist/localnow/264/hls/master/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV 
 https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", NMEDIA+ 
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA NEWS 
+https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg", Mega Noticias
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CNN
+http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", UNIVISION NOTICIAS
+https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg", MEGA NOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  LOUPE ART
@@ -2586,11 +2583,6 @@ https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg", VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-
-#EXTINF:-1,Televisa Novelas
-https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Televisa/playlist.m3u8?ads.wurl_channel=819&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-
 
 
 #EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO HD - GEO
