@@ -2573,10 +2573,10 @@ https://linear-263.frequency.stream/dist/localnow/263/hls/master/playlist.m3u8
 https://linear-264.frequency.stream/dist/localnow/264/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV 
-https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
+https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", NMEDIA+ 
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
