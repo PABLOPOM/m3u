@@ -2519,7 +2519,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ROSA DE GUADALUPE
-https://linear-344.frequency.stream/344/hls/master/playlist_1920x1080.m3u8
+https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", AFIZZIONADOS
 http://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
@@ -2537,16 +2537,16 @@ https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/in
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", LO MEJOR DE LA LIGA MX 
-https://linear-193.frequency.stream/193/hls/master/playlist_1920x1080.m3u8
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", BEIN SPORTS XTRA Ñ
 https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", MÉXICO MIL SABORES
-https://linear-317.frequency.stream/317/hls/master/playlist_1920x1080.m3u8
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  LATIDO
-https://linear-257.frequency.stream/dist/localnow/257/hls/master/playlist_1920x1080.m3u8
+https://linear-257.frequency.stream/dist/localnow/257/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  PG
 http://linear-218.frequency.stream/218/hls/master/playlist_1024x576.m3u8
@@ -2555,7 +2555,7 @@ http://linear-218.frequency.stream/218/hls/master/playlist_1024x576.m3u8
 https://linear-258.frequency.stream/dist/localnow/258/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  VIVO play
-https://linear-260.frequency.stream/dist/localnow/260/hls/master/playlist_1920x1080.m3u8
+https://linear-260.frequency.stream/dist/localnow/260/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  MY TIME
 https://linear-261.frequency.stream/dist/localnow/261/hls/master/playlist.m3u8
@@ -2582,7 +2582,7 @@ https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CNÑ EN ESPAÑOL
-http://linear-358.frequency.stream/358/hls/master/playlist_1920x1080.m3u8
+http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", UNIVISION NOTICIAS
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
