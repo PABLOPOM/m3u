@@ -2528,6 +2528,9 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg", Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", COMO DICE EL DICHO
+https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ROSA DE GUADALUPE
 https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 
