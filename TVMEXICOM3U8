@@ -263,7 +263,8 @@ https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="TV ABIERTA", CANAL 22 
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/chunklist_w1526370349_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDE6MDI6MzIgUE0maGFzaF92YWx1ZT1sc01ucFlRejBOV2RxUTRVWXo5dVhBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14  
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
