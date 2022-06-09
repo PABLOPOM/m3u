@@ -2628,52 +2628,52 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" tvg-group="DEPORTES", AFIZZIONADOS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/izz.json
-https://channel-afizzionados-cdn.blim.com/manifest.mpd
+https://channel-afizzionados-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" tvg-group="DEPORTES", TUDN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-tdn-cdn.blim.com/manifest.mpd
+https://channel-tdn-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="CINE Y SERIES", DE PELICULA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-depelicula-cdn.blim.com/manifest.mpd
+https://channel-depelicula-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-golden-cdn.blim.com/manifest.mpd
+https://channel-golden-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jp1TrGx/Golden-Edge-Logo.png" tvg-group="CINE Y SERIES", GOLDEN EDGE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-goldenedge-cdn.blim.com/manifest.mpd
+https://channel-goldenedge-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-goldenplus-cdn.blim.com/manifest.mpd
+https://channel-goldenplus-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXm4SxG/canal-goldenmultiplex.jpg" tvg-group="CINE Y SERIES", GOLDEN MULTIPLEX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-goldenmpx-cdn.blim.com/manifest.mpd
+https://channel-goldenmpx-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZkKFZ6/Logo-TDN.png" tvg-group="DEPORTES", TDN 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-tdn-cdn.blim.com/manifest.mpd
+https://channel-tdn-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" tvg-group="CINE Y SERIES", TLNOVELAS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-tlnovelas-cdn.blim.com/manifest.mpd
+https://channel-tlnovelas-cdn.blim.com/manifest.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SvD2QvT/Las-Estrellas-logo-2016.png" tvg-group="MEXICO", LAS ESTRELLAAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
-https://channel-estrellas-cdn.blim.com/manifest.mpd
+https://channel-estrellas-cdn.blim.com/manifest.m3u8?
 
 
 
