@@ -2552,6 +2552,9 @@ https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c21
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", LO MEJOR DE LA LIGA MX 
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/245px-MX_logo.png", PRENDE TV LIGA MX
+https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", BEIN SPORTS XTRA Ñ
 https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist_1920x1080.m3u8
 
