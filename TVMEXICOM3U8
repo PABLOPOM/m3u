@@ -2552,6 +2552,9 @@ https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", FOX SPORTS 2
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png", FOX SPORTS 3  
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", LO MEJOR DE LA LIGA MX 
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
