@@ -2564,6 +2564,9 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", BEIN SPORTS XTRA Ñ
 https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist_1920x1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eUhMzubzCLEWpUricwcK&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eUhMzubzCLEWpUricwcK&custom_7=603fb593a99efc002dbf90e4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", MÉXICO MIL SABORES
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 
@@ -2704,6 +2707,20 @@ https://channel-tlnovelas-cdn.blim.com/manifest.m3u8?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/bli.json
 https://channel-estrellas-cdn.blim.com/manifest.m3u8?
+
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="USA,Great Britain",QwestTV Classical
+https://qwest-classic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60aeb06487f9b1002ce1231b
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="Mexico",QwestTV Classical
+https://qwest-classic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60aeb06487f9b1002ce1231b
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="USA,Great Britain",QwestTV Jazz & Beyond
+https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60b0f65c0c8ffb002c821a75
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Mexico",QwestTV Jazz & Beyond
+https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60b0f65c0c8ffb002c821a75
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="USA,Great Britain",QwestTV Mix
+https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60b0f65c0c8ffb002c821a77
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Mexico",QwestTV Mix
+https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60b0f65c0c8ffb002c821a77
 
 
 
