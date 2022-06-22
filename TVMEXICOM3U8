@@ -2644,6 +2644,10 @@ https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", UNIVISION NOTICIAS II
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist_1920x1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", UNIVISIÓN MIAMI 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CRÓNICAS
 https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
 
