@@ -95,7 +95,7 @@ http://190.61.37.173:9001/play/a02y/index.m3u8
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="LATINO", 24h NOTICIAS TVE 
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/800px-Antena_3_%282017%29.svg.png" group-title="LATINO", ANTENA 3  
 https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
