@@ -371,6 +371,9 @@ https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=24&f=HLS&f=.m3u8
 
+#EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE II
+https://linear-352.frequency.stream/352/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
