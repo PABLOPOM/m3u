@@ -2758,16 +2758,21 @@ https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/TVAztecaCinema.png/revision/latest?cb=20200207222158&path-prefix=es" group-title="Mexico", AZ CINEMA  
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest?cb=20210129162928&path-prefix=es" group-title="Mexico", DE PELICULA PLUS 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DPel%C3%ADcula_2021.svg.png/revision/latest?cb=20210123132402&path-prefix=es" group-title="Mexico", DE PELICULA 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Mexico", GOLDEN  
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Mexico", GOLDEN PLUS  
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Mexico", GOLDEN EDGE 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" group-title="Mexico", BANDAMAX 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest?cb=20210129162928&path-prefix=es" group-title="Mexico", DE PELICULA PLUS 
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DPel%C3%ADcula_2021.svg.png/revision/latest?cb=20210123132402&path-prefix=es" group-title="Mexico", DE PELICULA 
+https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Mexico", GOLDEN  
+https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Mexico", GOLDEN PLUS  
+https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Mexico", GOLDEN EDGE 
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" group-title="Mexico", BANDAMAX 
+https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
