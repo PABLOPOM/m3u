@@ -2796,3 +2796,13 @@ https://linear-407.frequency.stream/407/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" group-title="Mexico", BANDAMAX 
 https://linear-400.frequency.stream/400/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TELEHIT 
+https://linear-417.frequency.stream/417/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TELEHIT MUSICA 
+https://linear-418.frequency.stream/418/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", TELEHIT MUSICA PLUS 
+https://linear-419.frequency.stream/419/hls/master/playlist_1920x1080.m3u8
+
