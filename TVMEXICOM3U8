@@ -2554,6 +2554,9 @@ https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ROSA DE GUADALUPE
 https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", DEPORTES UNIVISIÓN
+https://linear-452.frequency.stream/452/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", AFIZZIONADOS
 http://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
 
