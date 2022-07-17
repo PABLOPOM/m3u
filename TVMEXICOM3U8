@@ -2563,6 +2563,9 @@ https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", AFIZZIONADOS
 http://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN
+http://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ZONA TUDN
 http://linear-357.frequency.stream/357/hls/master/playlist_1920x1080.m3u8
 
@@ -2572,7 +2575,7 @@ http://linear-356.frequency.stream/356/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN II
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN 
 https://linear-374.frequency.stream/374/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CLARO SPORTS
