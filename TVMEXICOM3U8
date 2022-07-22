@@ -2648,7 +2648,7 @@ https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
 https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png", ADN 40 
-https://mdstrm.com/live-stream-playlistmedia_2500/60b578b060947317de7b57ac.m3u8
+https://mdstrm.com/live-stream-playlist-hls-master_2500/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
