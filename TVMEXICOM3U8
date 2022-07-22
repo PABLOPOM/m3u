@@ -17,7 +17,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=27&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
-https://mdstrm.com/live-stream-playlist-hls-master_2500/609b243156cca108312822a6.m3u8?
+https://mdstrm.com/live-stream-playlist-hls-master_2500/609b243156cca108312822a6.m3u8?hls
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1
 http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=7&=f.m3u8
@@ -2648,7 +2648,7 @@ https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
 https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png", ADN 40 
-https://mdstrm.com/live-stream-playlist-hls-master_2500/60b578b060947317de7b57ac.m3u8
+https://mdstrm.com/live-stream-playlist-hls-master_2500/60b578b060947317de7b57ac.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
