@@ -242,6 +242,12 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2355&f=HLS&s=hkc2
 #EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-del-Bajio-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 1
 http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=2355&=f.m3u8
 
+#EXTINF:-1 tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA PUEBLA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Puebla-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEVISA PUEBLA CANAL 4  
+https://linear-402.frequency.stream/402/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="TELEVISAMONTERREY" tvg-name="TELEVISA MONTERREY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEVISA MONTERREY CANAL 8
+https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
