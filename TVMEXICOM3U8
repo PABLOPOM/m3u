@@ -16,8 +16,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO III
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=27&f=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO IIII
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
+https://mdstrm.com/live-stream-playlist-hls-master_2500/609b243156cca108312822a6.m3u8?
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1
 http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=7&=f.m3u8
@@ -58,10 +58,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLS&s=hkc2
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -1H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 
 https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -1H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -1HORAS
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -1H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -1 HORAS
 https://linear-414.frequency.stream/414/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -2H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -2HORAS
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -2H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -2 HORAS
 https://linear-415.frequency.stream/415/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -2H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS III
@@ -2776,9 +2776,6 @@ https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Mexico",QwestTV Mix
 https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60b0f65c0c8ffb002c821a77
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="Mexico", BITME
-https://linear-401.frequency.stream/401/hls/master/playlist_1920x1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="Mexico", TLNOVELAS
 https://linear-421.frequency.stream/421/hls/master/playlist_1920x1080.m3u8
 
@@ -2820,3 +2817,4 @@ https://linear-418.frequency.stream/418/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Mexico", TELEHIT MUSICA PLUS 
 https://linear-419.frequency.stream/419/hls/master/playlist_1920x1080.m3u8
+
