@@ -2788,6 +2788,37 @@ https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Mexico",QwestTV Mix
 https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60b0f65c0c8ffb002c821a77
 
+
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png",Azteca Uno
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/19193.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png",Azteca America San Diego SD
+https://v-sd.mybtv.net/live/508/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png",Azteca America San Diego HD
+https://v-sd.mybtv.net/live/508/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png",Azteca America San Diego FHD
+https://v-sd.mybtv.net/live/508/1920x1080.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png",Azteca 7 Web
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png",Azteca 7 Tijuana
+https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png",Azteca 7 Tijuana
+https://v-sd.mybtv.net/live/502/1920x1080.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://cdn.imagentv.com/resources/icn2.png",ImagenTV HD
+http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png",A+ Tij
+https://v-sd.mybtv.net/live/503.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png",A+ Tij
+https://v-sd.mybtv.net/live/503/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png",A+ Web
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png",A+ Noroeste
+http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png",ADN 40 Web
+https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png",ADN 40 TJ
+https://v-sd.mybtv.net/live/484/768x432.m3u8?env=prd&uid=-1&x=1
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="Mexico", TLNOVELAS
 https://linear-421.frequency.stream/421/hls/master/playlist_1920x1080.m3u8
 
