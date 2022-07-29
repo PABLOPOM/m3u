@@ -10,8 +10,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=02&f=HLS&s=hkc26a
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx&l=7&f=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO II SD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2360&f=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
+https://v-sd.mybtv.net/live/760/1920x1080.m3u8?env=prd&uid=-1&x=1
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO III
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=27&f=HLS&f=.m3u8
