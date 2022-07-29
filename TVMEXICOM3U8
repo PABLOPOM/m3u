@@ -275,8 +275,8 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2131072.m
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE MÉXICO 
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE MÉXICO 
-https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 
+https://v-sd.mybtv.net/live/495/1920x1080.m3u8?env=prd&uid=-1&x=1
 
 #EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="TV ABIERTA", CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist_1920x1080.m3u8?
