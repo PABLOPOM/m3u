@@ -85,6 +85,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", RT NOTICIAS 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", RT NOTICIAS II
+https://rt-esp.rttv.com:443/dvr/rtesp/playlist_4500Kb.m3u8
+
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://th.bing.com/th/id/OIP.qdQ8DfnUoQ6sdNuRudtQdgHaDF?w=337&h=146&c=7&o=5&dpr=1.1&pid=1.7",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
