@@ -55,14 +55,11 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLS&s=hkc2
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -1H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 
 https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -1H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS II
-https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
-
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -1H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -1 horas
-https://linear-414.frequency.stream/414/hls/master/playlist_1920x1080.m3u8
+https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -2H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -2 horas
-https://linear-415.frequency.stream/415/hls/master/playlist_1920x1080.m3u8
+https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -2H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS III
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2328&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -77,16 +74,13 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/11004.m3u8
 http://190.108.83.142:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS -2H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS INTERNACIONAL
-https://linear-416.frequency.stream/416/hls/master/playlist_1920x1080.m3u8
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="LATINO", DW ALEMANIA EN ESPAÑOL 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", RT NOTICIAS 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="LATINO", RT NOTICIAS II
-https://rt-esp.rttv.com:443/dvr/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://th.bing.com/th/id/OIP.qdQ8DfnUoQ6sdNuRudtQdgHaDF?w=337&h=146&c=7&o=5&dpr=1.1&pid=1.7",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
@@ -374,14 +368,11 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Canal_5_M%C3%A9xico_2016.png/revision/latest?cb=20200715225844&path-prefix=es" group-title="TV ABIERTA", CANAL 5 II
 https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Canal_5_M%C3%A9xico_2016.png/revision/latest?cb=20200715225844&path-prefix=es" group-title="TV ABIERTA", CANAL 5 III
-https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
-
 #EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=24&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE II
-https://linear-352.frequency.stream/352/hls/master/playlist_1920x1080.m3u8
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
