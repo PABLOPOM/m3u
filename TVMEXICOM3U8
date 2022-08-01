@@ -2821,19 +2821,19 @@ https://v-sd.mybtv.net/live/484/768x432.m3u8?env=prd&uid=-1&x=1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="Mexico", TLNOVELAS
-https://linear-421.frequency.stream/421/hls/master/playlist_1920x1080.m3u8
+https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="Mexico", UNICABLE  
-https://linear-423.frequency.stream/423/hls/master/playlist_1920x1080.m3u8
+https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Mexico", DISTRITO COMEDIA 
-https://linear-405.frequency.stream/405/hls/master/playlist_1920x1080.m3u8
+https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/TVAztecaCinema.png/revision/latest?cb=20200207222158&path-prefix=es" group-title="Mexico", AZ CINEMA  
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest?cb=20210129162928&path-prefix=es" group-title="Mexico", DE PELICULA PLUS 
-https://linear-404.frequency.stream/404/hls/master/playlist_1920x1080.m3u8
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DPel%C3%ADcula_2021.svg.png/revision/latest?cb=20210123132402&path-prefix=es" group-title="Mexico", DE PELICULA 
 https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
@@ -2851,14 +2851,14 @@ https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" group-title="Mexico", BANDAMAX 
-https://linear-400.frequency.stream/400/hls/master/playlist_1920x1080.m3u8
+https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Mexico", TELEHIT 
-https://linear-417.frequency.stream/417/hls/master/playlist_1920x1080.m3u8
+https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Mexico", TELEHIT MUSICA 
-https://linear-418.frequency.stream/418/hls/master/playlist_1920x1080.m3u8
+https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Mexico", TELEHIT MUSICA PLUS 
-https://linear-419.frequency.stream/419/hls/master/playlist_1920x1080.m3u8
+https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 
