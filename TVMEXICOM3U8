@@ -2561,22 +2561,22 @@ https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", AFIZZIONADOS
-http://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
+http://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN
-http://linear-347.frequency.stream/347/hls/master/playlist_1920x1080.m3u8
+http://linear-347.frequency.stream/347/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ZONA TUDN
-http://linear-357.frequency.stream/357/hls/master/playlist_1920x1080.m3u8
+http://linear-357.frequency.stream/357/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ZONA TUDN
-http://linear-356.frequency.stream/356/hls/master/playlist_1920x1080.m3u8
+http://linear-356.frequency.stream/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN 
-https://linear-374.frequency.stream/374/hls/master/playlist_1024x576.m3u8
+https://linear-374.frequency.stream/374/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
@@ -2591,10 +2591,10 @@ https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c21
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ADRENALINA SPORTS  
-https://linear-393.frequency.stream/393/hls/master/playlist_1920x1080.m3u8
+https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", LO MEJOR DE LA LIGA MX 
-https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/245px-MX_logo.png", PRENDE TV LIGA MX
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -2615,7 +2615,7 @@ https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 https://linear-257.frequency.stream/dist/localnow/257/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  PG
-http://linear-218.frequency.stream/218/hls/master/playlist_1024x576.m3u8
+http://linear-218.frequency.stream/218/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  ATV+
 https://linear-258.frequency.stream/dist/localnow/258/hls/master/playlist.m3u8
@@ -2633,7 +2633,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&ap
 https://linear-261.frequency.stream/dist/localnow/261/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  CINE CLUB
-http://linear-192.frequency.stream/192/hls/master/playlist_1024x576.m3u8
+http://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  NUESTRA VISION
 https://linear-262.frequency.stream/dist/localnow/262/hls/master/playlist.m3u8
@@ -2645,10 +2645,10 @@ https://linear-263.frequency.stream/dist/localnow/263/hls/master/playlist.m3u8
 https://linear-264.frequency.stream/dist/localnow/264/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV 
-https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
+https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", NMEDIA+ 
-https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
+https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png", ADN 40 
 https://mdstrm.com/live-stream-playlist-hls-master_2500/60b578b060947317de7b57ac.m3u8?hls
@@ -2668,18 +2668,15 @@ http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", UNIVISION NOTICIAS
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", UNIVISION NOTICIAS II
-https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist_1920x1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", UNIVISIÓN MIAMI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", UNIVISIÓN MIAMI II
-https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
+https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", RCN más 
-https://linear-286.frequency.stream/286/hls/master/playlist_1920x1080.m3u8
+https://linear-286.frequency.stream/286/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CRÓNICAS
 https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
