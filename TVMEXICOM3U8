@@ -242,6 +242,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-del-Bajio-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2355&f=HLS&f=.m3u8
 
+#EXTINF:-1 tvg-id="TELEVISADELBAJIO" tvg-name="TELEVISA DEL BAJÍO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-del-Bajio-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8?
+
 #EXTINF:-1 tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA PUEBLA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Puebla-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEVISA PUEBLA CANAL 4  
 https://linear-402.frequency.stream/402/hls/master/playlist_1920x1080.m3u8
 
