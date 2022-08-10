@@ -2711,7 +2711,10 @@ http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", UNIVISIÓN NY
-https://v-ny.mybtv.net/live/643.m3u8
+https://v-ny.mybtv.net/live/643.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", UNIVISIÓN PX
+https://v-px.mybtv.net/live/28.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", UNIVISIÓN VIX
 https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
