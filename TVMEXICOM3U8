@@ -305,6 +305,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE TELEVISIÓN 2
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w_1920x1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="TV ABIERTA", CANAL 10 QUERÉTARO 
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TV4.1 GUANAJUATO 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2274&f=HLS&f=.m3u8
 
@@ -690,7 +693,7 @@ https://stream.oursnetworktv.com:443/latin/encoder29/chunklist_w968702173.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=401&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="NACIONALES", CANAL 10 QUERÉTARO 
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="NACIONALES", TV4.1 GUANAJUATO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2274&format=HLS&f=.m3u8
