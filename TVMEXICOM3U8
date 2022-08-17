@@ -109,6 +109,9 @@ https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_tok
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png" group-title="LATINO", TVE LA 1  
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE05.m3u8?
 
+#EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="LATINO", HOLA TV I
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8?
+
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="LATINO", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
