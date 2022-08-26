@@ -2944,6 +2944,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="Mexico", TNT  
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8?
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="Mexico", STAR CHANNEL  
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8?
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="Mexico", SABER MAS
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?
 
