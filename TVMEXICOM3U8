@@ -2917,6 +2917,9 @@ https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Mexico", DISTRITO COMEDIA 
 https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/TV_Azteca_Clic_2019.png/revision/latest?cb=20191211180120&path-prefix=es" group-title="Mexico", CLIC  
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8?
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/TV_Azteca_Mundo_2019.png/revision/latest?cb=20191211171850&path-prefix=es" group-title="Mexico", MUNDO  
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8?
 
