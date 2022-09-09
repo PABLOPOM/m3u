@@ -137,7 +137,7 @@ https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="LATINO", TELESUR VENEZUELA  
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="LATINO", HISPAN TV  
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
