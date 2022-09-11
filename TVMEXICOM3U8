@@ -143,7 +143,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="LATINO", FRANCE24 
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title ="LATINO", STINGRAY NATURESCAPE 
 https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
