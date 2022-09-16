@@ -2767,6 +2767,9 @@ https://v-px.mybtv.net/live/56.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", EuroNews
 https://linear-255.frequency.stream/dist/localnow/255/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="166864" tvg-name="UCVTV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png", UCVTV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?WebM3UCL&PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", RCN más 
 https://linear-286.frequency.stream/286/hls/master/playlist.m3u8
 
