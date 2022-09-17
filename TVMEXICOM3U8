@@ -3037,3 +3037,5 @@ https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Mexico", TELEHIT MUSICA PLUS 
 https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=750" group-title="Mexico",Nosotros los Guapos
+https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
