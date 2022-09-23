@@ -2986,6 +2986,13 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Mexico",  MY TIME
 https://linear-261.frequency.stream/dist/localnow/261/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Mexico", MY TIME ESPAÑA
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Mexico", MY TIME MEXICO
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="Mexico", TNT  
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8?
 
@@ -3043,10 +3050,7 @@ https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Mexico", SONY COMPETENCIAS 
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Mexico", Butaca TV España
-https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Mexico", Butaca TV México
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Mexico", butaca TV 
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" group-title="Mexico", BANDAMAX 
