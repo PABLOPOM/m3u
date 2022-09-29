@@ -2832,6 +2832,9 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklis
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg", MEGA NOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg", MEGANOTICIAS 
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/watch?v=f7_om6wwnps
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png", TELEFORMULA 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8?
 
