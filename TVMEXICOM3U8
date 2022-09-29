@@ -497,6 +497,9 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=184&f=HLS&f=.m3u8
 
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 y
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/watch?v=k13334_t-hs&feature=youtu.be
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="TV ABIERTA", AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
