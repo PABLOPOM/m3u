@@ -158,7 +158,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8?
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XDJPzMznAjU
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/AmericaTV2017.png/revision/latest?cb=20181229175551" group-title="LATINO", AMÉRICA TV 
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/watch?v=zcWXboTnous
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/zcWXboTnous
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title ="LATINO", STINGRAY NATURESCAPE 
 https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
