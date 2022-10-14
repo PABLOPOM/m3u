@@ -3089,6 +3089,21 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8?
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="Mexico", DISNEY CHANNEL 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8?
 
+#EXTINF:-1 tvg-logo=" " group-title="Mexico" , Run:Time Accion
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Mexico" , Run:Time Comedia
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Mexico" , Run:Time Triller
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Mexico" , Run:Time  Crimen
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Mexico" , Run:Time Clasico
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Mexico", SONY NOVELAS 
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
