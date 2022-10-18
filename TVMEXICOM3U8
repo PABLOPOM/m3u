@@ -142,6 +142,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="LATINO", TVE LA 2 
 https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8?idasset=1688885
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="LATINO", TV Málaga 
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title ="LATINO", DEMANDA ÁFRICA (MÉXICO) 
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 
