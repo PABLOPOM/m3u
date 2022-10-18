@@ -140,7 +140,7 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/600px-Logo_TVE-2.svg.png" group-title="LATINO", TVE LA 2 
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8?idasset=1688885
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title ="LATINO", DEMANDA ÁFRICA (MÉXICO) 
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
