@@ -3024,7 +3024,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8?
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest?cb=20210129162928&path-prefix=es" group-title="Mexico", DE PELICULA PLUS 
-https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DPel%C3%ADcula_2021.svg.png/revision/latest?cb=20210123132402&path-prefix=es" group-title="Mexico", DE PELICULA 
 https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
