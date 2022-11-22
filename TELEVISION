@@ -3164,3 +3164,5 @@ https://mrgmaw.github.io/enlaces/ny/nyunivsd.m3u8
 https://mrgmaw.github.io/enlaces/ny/nytelem.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_NY",Unimas
 https://mrgmaw.github.io/enlaces/ny/nyunim.m3u8
+#EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_NY",Vix
+https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
