@@ -3209,13 +3209,13 @@ http://189.203.160.152:10803/play/a0fl/index.m3u8
 http://45.174.84.154:8000/play/a02h/index.m3u8
 #EXTINF:0,Foro Tv
 #EXTGRP:unsorted
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:0,N +
 #EXTGRP:unsorted
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_3.m3u8
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:0,N+ Noticias
 #EXTGRP:unsorted
-https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_3.m3u8
+https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index.m3u8
 #EXTINF:0,ADN 40 HD
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
