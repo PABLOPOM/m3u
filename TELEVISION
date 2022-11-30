@@ -3204,3 +3204,33 @@ http://189.203.160.152:10803/play/a0d7/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" group-title="LOCALES", CANAL 5
 http://189.203.160.152:10803/play/a0fl/index.m3u8
 
+#EXTINF:0,Las Estrellas  2
+#EXTGRP:unsorted
+http://45.174.84.154:8000/play/a02h/index.m3u8
+#EXTINF:0,Foro Tv
+#EXTGRP:unsorted
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
+#EXTINF:0,N +
+#EXTGRP:unsorted
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_3.m3u8
+#EXTINF:0,N+ Noticias
+#EXTGRP:unsorted
+https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_3.m3u8
+#EXTINF:0,ADN 40 HD
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0,IMAGEN TV
+#EXTGRP:unsorted
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/634
+#EXTINF:0,Canal 5 (Mx)
+#EXTGRP:unsorted
+http://45.174.84.154:8000/play/a02i/index.m3u8
+#EXTINF:0,Heraldo Tv
+#EXTGRP:unsorted
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,MULTIMEDIOS MTY
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Azteca 7 
+#EXTGRP:unsorted
+http://45.174.84.154:8000/play/a02a/index.m3u8
