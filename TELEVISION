@@ -3197,6 +3197,8 @@ http://189.203.160.152:10803/play/a0kb/index.m3u8
 http://189.203.160.152:10803/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" group-title="LOCALES", CANAL 14
 http://189.203.160.152:10803/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" group-title="LOCALES", CANAL 14
+http://189.203.160.152:10803/play/a0kr
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" group-title="LOCALES", CANAL 22
 http://189.203.160.152:10803/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" group-title="LOCALES", CANAL 22
