@@ -3209,6 +3209,9 @@ http://189.203.160.152:10803/play/a0fl/index.m3u8
 #EXTINF:0,Las Estrellas  2
 #EXTGRP:unsorted
 http://45.174.84.154:8000/play/a02h/index.m3u8
+#EXTINF:0,Las Estrellas  2
+#EXTGRP:unsorted
+http://45.174.84.154:8000/play/a02h
 #EXTINF:0,Foro Tv
 #EXTGRP:unsorted
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
@@ -3227,7 +3230,9 @@ http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/634
 #EXTINF:0,Canal 5 (Mx)
 #EXTGRP:unsorted
 http://45.174.84.154:8000/play/a02i/index.m3u8
-#EXTINF:0,Heraldo Tv
+#EXTINF:0,Canal 5 (Mx)
+#EXTGRP:unsorted
+http://45.174.84.154:8000/play/a02i
 #EXTGRP:unsorted
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:0,MULTIMEDIOS MTY
@@ -3236,6 +3241,9 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,Azteca 7 
 #EXTGRP:unsorted
 http://45.174.84.154:8000/play/a02a/index.m3u8
+#EXTINF:0,Azteca 7 
+#EXTGRP:unsorted
+http://45.174.84.154:8000/play/a02a
 #EXTINF:0,Canal Claro 
 #EXTGRP:unsorted
 http://190.61.102.67:8000/play/a013
