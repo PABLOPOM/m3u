@@ -3237,3 +3237,6 @@ http://45.174.84.154:8000/play/a02a/index.m3u8
 #EXTINF:0,Canal Claro 
 #EXTGRP:unsorted
 http://190.61.102.67:8000/play/a013
+#EXTINF:0,Canal Claro HD
+#EXTGRP:unsorted
+http://45.174.84.154:8000/play/a00p/index.m3u8
