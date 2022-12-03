@@ -3259,3 +3259,6 @@ http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r
 #EXTINF:0,Las Estrellas 
 #EXTGRP:unsorted
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682.ts
+#EXTINF:0, Univision USA
+#EXTGRP:unsorted
+http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668.ts
