@@ -3250,3 +3250,6 @@ http://190.61.102.67:8000/play/a013
 #EXTINF:0,Canal Claro HD
 #EXTGRP:unsorted
 http://45.174.84.154:8000/play/a00p/index.m3u8
+#EXTINF:0,TUDN
+#EXTGRP:unsorted
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666.ts
