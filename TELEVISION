@@ -3098,8 +3098,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", Warner 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", Universal 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", Universal TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", Universal Cinema 
+http://190.61.102.67:8000/play/a05f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", FX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8?
