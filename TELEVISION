@@ -3017,6 +3017,9 @@ https://live.info7.mx/info7/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="Mexico", Azteca America San Diego FHD
 https://v-sd.mybtv.net/live/508/1920x1080.m3u8?env=prd&uid=-1&x=1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="Mexico", TELEMUNDO INTERNACIONAL 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8?
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="Mexico", TLNOVELAS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8?
 
