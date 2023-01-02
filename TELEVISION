@@ -3311,3 +3311,34 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:0, Las Estrellas 
 #EXTGRP:unsorted
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682.ts
+
+#EXTINF:-1,HBO Mundi
+#EXTGRP:PELCULAS
+http://odenfull.co:2086/142536/142536/108719
+
+
+#EXTINF:-1,HBO POP
+#EXTGRP:PELCULAS
+http://odenfull.co:2086/142536/142536/108711
+
+
+#EXTINF:0,My Time 
+#EXTGRP:PELCULAS
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV-ESTRENOS.png", Viwix TV Estrenos
+#EXTGRP:PELCULAS
+https://s2.tvdatta.com:3172/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png", Viwix TV Accion 
+#EXTGRP:PELCULAS
+https://s2.tvdatta.com:3457/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:0 logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png", WIVIX Terror
+#EXTGRP:PELCULAS
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
+
+#EXTINF:0 logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", WIVIX Series
+#EXTGRP:PELCULAS
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
