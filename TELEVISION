@@ -2098,33 +2098,9 @@ https://linear-408.frequency.stream/dist/localnow/408/hls/master/playlist.m3u8
 #EXTGRP:PELCULAS
 http://bulltv.us:2999/darlin/darlin/87
 
-#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/7a5262aeaebfd61a28106eee27a60dc6.jpg",HBO 2
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108696
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/hbo_family.png",HBO Family
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108692
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (HBOPLHD)
 #EXTGRP:PELCULAS
 http://bulltv.us:2999/darlin/darlin/90
-
-#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/c9eb8c603ee20dba2bcf294767e3cf4a.png",HBO Signature
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108710
-
-#EXTINF:-1,HBO Xtreme
-#EXTGRP:PELCULAS
-http://bulltv.us:2999/darlin/darlin/12277
-
-#EXTINF:-1,HBO Mundi
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108719
-
-#EXTINF:-1,HBO POP
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108711
 
 #EXTINF:0,My Time 
 #EXTGRP:PELCULAS
