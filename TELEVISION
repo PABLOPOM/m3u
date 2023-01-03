@@ -2089,6 +2089,9 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTGRP:unsorted
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682.ts
 
+#EXTINF:0, Las Estrellas I
+#EXTGRP:unsorted
+http://190.61.102.67:8000/play/las3
 
 #EXTINF:0 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg",Golden Premier (GLDPRD2)
 #EXTGRP:PELCULAS
