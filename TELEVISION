@@ -1999,7 +1999,7 @@ https://linear-193.frequency.stream/dist/vix/193/hls/master/playlist.m3u8
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", BEIN SPORTS XTRA Ñ
-https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist_1920x1080.m3u8
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eUhMzubzCLEWpUricwcK&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eUhMzubzCLEWpUricwcK&custom_7=603fb593a99efc002dbf90e4
