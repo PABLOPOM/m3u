@@ -44,7 +44,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="Ccr2310",TV MAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="Ccr2310",TV4.1 GUANAJUATO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="Ccr2310",MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="Ccr2310",TELEVISA MONTERREY
