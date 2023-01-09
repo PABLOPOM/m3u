@@ -2023,16 +2023,16 @@ http://linear-192.frequency.stream/dist/vix/192/hls/master/playlist.m3u8
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  LEVEI UP tv
-https://linear-263.frequency.stream/dist/localnow/263/hls/master/playlist.m3u8
+https://linear-263.frequency.stream/dist/vix/263/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  BLACK PIX
-https://linear-264.frequency.stream/dist/localnow/264/hls/master/playlist.m3u8
+https://linear-264.frequency.stream/dist/vix/264/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV 
-https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
+https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", NMEDIA+ 
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV 2
 https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index.m3u8
