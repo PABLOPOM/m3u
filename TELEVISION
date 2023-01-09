@@ -1953,20 +1953,11 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", AFIZZIONADOS
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN
-http://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ZONA TUDN
 http://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", ZONA TUDN
-http://linear-356.frequency.stream/dist/vix/356/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE05.m3u8?
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN 
-https://linear-374.frequency.stream/dist/vix/374/hls/master/playlist.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
