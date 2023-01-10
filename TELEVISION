@@ -2562,3 +2562,15 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="RokuTV",TUDN USA
+http://flash.shortgod.com/shortgodfl/tv5.php?id=10256
+#EXTINF:-1 group-title="RokuTV",TUDN USA
+http://flash.shortgod.com/shortgodfl/tv5.php?id=34280
+#EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
+http://flash.shortgod.com/shortgodfl/tv5.php?id=53540
+#EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
+http://flash.shortgod.com/shortgodfl/tv5.php?id=53549
+
+#EXTINF:-1 group-title="IZZI", AZTECA UNO
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
