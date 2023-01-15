@@ -252,7 +252,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Ccr2310",HISTORY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Ccr2310",H2
-https://regioplay.xyz/php/SR_REGIO_701023_/nuevotv.php?key=SrRegio&c=159
+http://190.61.102.67:8000/play/a021
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/510c690365435b71120db02a607408a0.png" group-title="Ccr2310",MTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/d73c45a6056261b86853e4743093a0ea.png" group-title="Ccr2310",MTV HITS
