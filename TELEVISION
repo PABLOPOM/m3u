@@ -2631,7 +2631,40 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1954/PROFILE05.m3u8
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", 4 GUANAJUATO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
-
+#EXTINF:-1  group-title="TOTAL", CNN
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CÑÑ
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FOX NEWS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", BLOOMBERG
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", BBC NEWS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ALJAZEERA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CNN NEWS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DW
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", RT INGLES
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL999/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", RT ESPAÑOL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2091/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", EL FINANCIERO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2167/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FRANCE 24
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL",IMAGEN MULTICAST
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
+EXTINF:-1  group-title="TOTAL", CANAL DEL CONGRESO
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", GALICIA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL802/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ALEATORIO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL803/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 group-title="IZZI", SKY sports 
 http://190.61.102.67:31589/play/a08m/index.m3u8
