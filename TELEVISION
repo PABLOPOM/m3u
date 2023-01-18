@@ -2580,5 +2580,58 @@ http://flash.shortgod.com/shortgodfl/tv5.php?id=53540
 #EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
 http://flash.shortgod.com/shortgodfl/tv5.php?id=53549
 
+#EXTINF:-1  group-title="TOTAL", AZTECA UNO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2051/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2047/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS -1HR
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2037/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS -2HR
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2264/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", IMAGEN TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FORO TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CANAL 5
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2048/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AZTECA 7
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2049/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AZTECA 7 METROPOLITANO
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1822/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AZTECA BAJA CALIFORNIA
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1869/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", NU9VE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ONCE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CANAL 14
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", EXCELSIOR TV
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MEXIQUENSE
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ADN 40 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEFORMULA 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEVISA PUEBLA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEVISA MONTERREY
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEVER
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1954/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEVISA DEL BAJIO
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", 4 GUANAJUATO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
+
+
 #EXTINF:-1 group-title="IZZI", SKY sports 
 http://190.61.102.67:31589/play/a08m/index.m3u8
