@@ -499,7 +499,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673352382/ei/X
 https://hls.youtb.workers.dev/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/AmericaTV2017.png/revision/latest?cb=20181229175551" group-title="LATINO", AMÉRICA TV 
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/zcWXboTnous
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/6b17a547-9f4e-48bf-b549-d39341604d39:DLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title ="LATINO", STINGRAY NATURESCAPE 
 https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
