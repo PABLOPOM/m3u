@@ -595,6 +595,9 @@ https://5e50264bd6766.streamlock.net:443/tabasco/videotabasco/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", TVMÁS 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", CONECTATV 
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/TRC-Television-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TRC CAMPECHE
 https://stream.oursnetworktv.com/latin/SRTC/index.m3u8?
 
