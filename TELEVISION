@@ -501,6 +501,9 @@ https://hls.youtb.workers.dev/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/AmericaTV2017.png/revision/latest?cb=20181229175551" group-title="LATINO", AMÉRICA TV 
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/6b17a547-9f4e-48bf-b549-d39341604d39:DLS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="LATINO", RCN más 
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title ="LATINO", STINGRAY NATURESCAPE 
 https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
 
@@ -2236,6 +2239,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TV_Azteca_Coraz%C3%B3n_2019.png/revision/latest?cb=20191211175456&path-prefix=es" group-title="Mexico", CORAZON  
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="Mexico", A3CINE 
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/TVAztecaCinema.png/revision/latest?cb=20200207222158&path-prefix=es" group-title="Mexico", CINEMA  
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8?
