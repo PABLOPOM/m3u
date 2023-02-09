@@ -2048,6 +2048,9 @@ http://linear-192.frequency.stream/dist/vix/192/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  NUESTRA VISION
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  NUESTRA VISION Pluto tv
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png",  LEVEI UP tv
 https://linear-263.frequency.stream/dist/vix/263/hls/master/playlist.m3u8
 
