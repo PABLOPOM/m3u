@@ -560,7 +560,7 @@ https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDIzIDg6MzI6MDQgUE0maGFzaF92YWx1ZT1MUnZNTnprUXVGUUQwZGZSdUtrQUZnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", SUMA TV 13.1
+#EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/logo_suma-tv.png" group-title="TV ABIERTA", SUMA TV 13.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79
 
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", TVT Tabasco 
