@@ -327,7 +327,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE05.m3u8
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=7&f=HLS&f=.m3u8
 
@@ -2708,3 +2707,6 @@ http://200.41.79.165:8000/play/a064
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="TV Novelas", Canal De Las Estrellas
 http://190.108.93.148:8000/play/a07c/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="Radio", LG La Grande
+http://radio.promosat.com:8100/;stream/1
