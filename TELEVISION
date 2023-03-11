@@ -2079,6 +2079,9 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", UNIMAS
 https://v-px.mybtv.net/live/56.m3u8?
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png", TELEMUNDO USA
+http://71.187.29.54:8000/play/a07a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", EuroNews
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 
