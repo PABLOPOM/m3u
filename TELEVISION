@@ -327,8 +327,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="Ccr2310",CANAL DEL CONGRESO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="Ccr2310",JUSTICIA TV
-https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
-
+https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=7&f=HLS&f=.m3u8
@@ -584,7 +583,7 @@ https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3
 https://stream.oursnetworktv.com/latin/SRTC/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/justiciatv-logo.png" group-title="TV ABIERTA", JUSTICIA TV 
-https://d2t9djfuxq08da.cloudfront.net:443/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
+https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="TV ABIERTA",Canal Del Congreso 45.1
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
