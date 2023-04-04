@@ -2835,3 +2835,6 @@ https://s2.mexside.net/8016/stream
 
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png",  GUSTO Tv
 https://gustotv-samsung-gb.samsung.wurl.tv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png",  CORTOS 
+https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
