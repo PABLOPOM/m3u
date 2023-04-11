@@ -504,6 +504,8 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="LATINO" tvg-name="Canal Sur 2 Andalucía",Canal Sur 2 Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="LATINO" tvg-name="El País",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="LATINO", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
