@@ -616,6 +616,9 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="TV ABIERTA",Canal Del Congreso 45.3
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="643" tvg-name="Quiero TV" tvg-logo="https://www.m3u.cl/logo/643_Quiero_TV.jpg" group-title="TV ABIERTA",  Quiero TV | Mx
+https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=25&f=HLS&f=.m3u8
 
@@ -2789,8 +2792,8 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3U
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="672" tvg-name="Presumiendo Mexico" tvg-logo="https://www.m3u.cl/logo/672_Presumiendo_Mexico.jpg",  Presumiendo Mexico | MX
 https://59802217c6db4.streamlock.net:443/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="643" tvg-name="Quiero TV" tvg-logo="https://www.m3u.cl/logo/643_Quiero_TV.jpg",  Quiero TV | MX
-https://quierotvlive.tk/httplive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="643" tvg-name="Quiero TV" tvg-logo="https://www.m3u.cl/logo/643_Quiero_TV.jpg",  Quiero TV | Mx
+https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 #EXTINF:-1 tvg-id="673" tvg-name="RCG 1 Saltillo" tvg-logo="https://www.m3u.cl/logo/673_RCG_1_Saltillo.png",  RCG 1 Saltillo | MX
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="674" tvg-name="RCG 2 Saltillo" tvg-logo="https://www.m3u.cl/logo/674_RCG_2_Saltillo.png",  RCG 2 Saltillo | MX
