@@ -11,11 +11,11 @@ http://45.228.234.77:3340/play/lasestrellas/index.m3u8?
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8?totalplay=%2F.ts
 
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png" group-title="Ccr2310",AZTECA UNO 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8?
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png" group-title="Ccr2310",AZTECA UNO-2HORAS 
 http://ott.cdn.iutpcdn.com:80/LIVE/H01/CANAL1892/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/610e734aff40daf96440edc71c5ee75e.png" group-title="Ccr2310",LAS ESTRELLAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8?totalplay=%2F.ts
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/610e734aff40daf96440edc71c5ee75e.png" group-title="Ccr2310",LAS ESTRELLAS-1HORAS
 https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/610e734aff40daf96440edc71c5ee75e.png" group-title="Ccr2310",LAS ESTRELLAS-2HORAS
@@ -29,8 +29,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png" group-title="Ccr2310",NU9VE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="Ccr2310",ONCE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="Ccr2310", CANAL CATORCE 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="Ccr2310", CANAL CATORCE 14
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="Ccr2310", CAPITAL21 
 https://video.cdmx.gob.mx/livestream/stream.m3u8?
