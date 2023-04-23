@@ -2319,8 +2319,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", Sony Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", Sony Channel
-http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Mexico", Warner 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8?
