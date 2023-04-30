@@ -2406,6 +2406,33 @@ https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_NY",Vix
 https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="D PELICULA",DE PELICULA CLASICO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113718.ts
+#EXTINF:-1 group-title="D PELICULA",D PELICULA PLUS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
+#EXTINF:-1 group-title="D PELICULA",DPelicula HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302635
+
+
+#EXTINF:-1 group-title="D PELICULA 1",De Pelicula HD (MX VIP)
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/302635
+#EXTINF:-1 group-title="D PELICULA 1",De Pelicula SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313113
+#EXTINF:-1 group-title="D PELICULA 1",De Pelicula Plus SD (MX)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35000
+
+
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS HD arg
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48995.ts
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORTS ESTADIO (CHILE)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/146757.ts
+#EXTINF:-1 group-title="TNT SPORTS",TNT Sports FHD (CL)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34676
+
+
+#EXTINF:-1 group-title="TNT SPORTS 3",TNT Sports 3 SD (CL)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/123886
+
 
 #EXTINF:-1 group-title="HBO MUNDI",HBO Mundi FHD (MX Dual)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/43222
