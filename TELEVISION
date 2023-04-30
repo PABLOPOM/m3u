@@ -2610,6 +2610,163 @@ http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324326.ts
 #EXTINF:-1 group-title="AMC",AMC FHD (MX)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34916
 
+#EXTINF:-1 group-title="0.0 HBO",HBO
+http://190.131.228.59:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="0.0 HBO",HBO LATINO R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
+#EXTINF:-1 group-title="0.0 HBO",HBO HD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
+#EXTINF:-1 group-title="0.0 HBO",HBO
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
+
+
+#EXTINF:-1 group-title="0.0 HBO 1",HBO SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
+#EXTINF:-1 group-title="0.0 HBO 1",HBO HD IN
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
+#EXTINF:-1 group-title="0.0 HBO 1",HBO HD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
+#EXTINF:-1 group-title="0.0 HBO 1",HBO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324328.ts
+#EXTINF:-1 group-title="0.0 HBO 1",HBO (OPC1)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/139414.ts
+
+
+#EXTINF:-1 group-title="0.0 HBO 2",HBO HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302664
+#EXTINF:-1 group-title="0.0 HBO 2",HBO FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313040
+#EXTINF:-1 group-title="0.0 HBO 2",HBO  SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313095
+#EXTINF:-1 group-title="0.0 HBO 2",HBO FHD (MX Dual)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34880
+
+
+#EXTINF:-1 group-title="0.0 HBO 3",HBO 2 FHD (MX Dual)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34887
+
+
+#EXTINF:-1 group-title="0.0 HBO2",HBO 2
+http://190.131.228.59:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="0.0 HBO2",HBO 2 SD2
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
+#EXTINF:-1 group-title="0.0 HBO2",HBO 2
+http://iptvglobal.site:25461/rrtv/rrtv12345/131122
+#EXTINF:-1 group-title="0.0 HBO2",HBO 2 HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
+#EXTINF:-1 group-title="0.0 HBO2",HBO 2 SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
+
+
+#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2
+http://iptvglobal.site:25461/rrtv/rrtv12345/131122
+#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
+#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121627.ts
+#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 OPC 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121626.ts
+#EXTINF:-1 group-title="0.0 HBO2 1",HBO 2 HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302665
+
+
+#EXTINF:-1 group-title="0.0 HBO2 2",HBO 2 FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313052
+#EXTINF:-1 group-title="0.0 HBO2 2",HBO 2 FHD (MX E)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35288
+
+
+#EXTINF:-1 group-title="HBO PLUS",HBO PLUS
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
+#EXTINF:-1 group-title="HBO PLUS",HBO Plus SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
+#EXTINF:-1 group-title="HBO PLUS",HBO PLUS
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
+#EXTINF:-1 group-title="HBO PLUS",HBO PLUS
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
+#EXTINF:-1 group-title="HBO PLUS",HBO Plus SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
+
+
+#EXTINF:-1 group-title="HBO PLUS 1",HBO PLUS
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
+#EXTINF:-1 group-title="HBO PLUS 1",HBO Plus HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302668
+#EXTINF:-1 group-title="HBO PLUS 1",HBO Plus SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313109
+#EXTINF:-1 group-title="HBO PLUS 1",HBO Plus FHD (MX E)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35290
+
+
+#EXTINF:-1 group-title="HBO FAMILY",HBO Family
+http://190.131.228.59:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="HBO FAMILY",Hbo Family
+http://iptvglobal.site:25461/rrtv/rrtv12345/131118
+#EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
+#EXTINF:-1 group-title="HBO FAMILY",HBO FAMILY R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
+
+
+#EXTINF:-1 group-title="HBO FAMILY 1",HBO Family HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302667
+#EXTINF:-1 group-title="HBO FAMILY 1",HBO Family SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313108
+#EXTINF:-1 group-title="HBO FAMILY 1",HHBO Family FHD (LAT)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34897
+
+
+#EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
+#EXTINF:-1 group-title="HBO SIGNATURE",HBO SIGNATURE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324619.ts
+#EXTINF:-1 group-title="HBO SIGNATURE",HBO Signature SD (LAT)
+
+
+#EXTINF:-1 group-title="HBO SIGNATURE 1",HBO Signature HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302670
+
+
+#EXTINF:-1 group-title="HBO XTREME",HBO XTREME SD
+http://190.131.228.59:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="HBO XTREME",HBO XTREME FHD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126312
+#EXTINF:-1 group-title="HBO XTREME",HBO XTREME HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126313
+#EXTINF:-1 group-title="HBO XTREME",HBO XTREME
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121640.ts
+#EXTINF:-1 group-title="HBO XTREME",HBO EXTREME HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302666
+
+
+#EXTINF:-1 group-title="HBO XTREME 1",HBO Xtreme FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313053
+
+
+#EXTINF:-1 group-title="HBO POP",HBO POP R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126310
+#EXTINF:-1 group-title="HBO POP",HBO POP FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121637.ts
+#EXTINF:-1 group-title="HBO POP",HBO POP HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121638.ts
+#EXTINF:-1 group-title="HBO POP",HBO POP HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302669
+#EXTINF:-1 group-title="HBO POP",HBO POP  FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313058
+
+
+#EXTINF:-1 group-title="HBO MUNDI",HBO Mundi FHD (MX Dual)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/43222
+#EXTINF:-1 group-title="HBO MUNDI",HBO Mundi HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302663
+#EXTINF:-1 group-title="HBO MUNDI",HBO MUNDI HD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
+#EXTINF:-1 group-title="HBO MUNDI",HBO MUNDI SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121632.ts
+
+
+#EXTINF:-1 group-title="HBO MUNDI 1",HBO Mundi SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313096
 
 
 
