@@ -2406,6 +2406,163 @@ https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_NY",Vix
 https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
 
+
+#EXTINF:-1 group-title="HBO MUNDI",HBO Mundi FHD (MX Dual)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/43222
+#EXTINF:-1 group-title="HBO MUNDI",HBO Mundi HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302663
+#EXTINF:-1 group-title="HBO MUNDI",HBO MUNDI HD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
+#EXTINF:-1 group-title="HBO MUNDI",HBO MUNDI SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121632.ts
+
+
+#EXTINF:-1 group-title="HBO MUNDI 1",HBO Mundi SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313096
+
+
+#EXTINF:-1 group-title="CINECANAL",Cinecanal
+http://190.131.228.59:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="CINECANAL",CINECANAL HD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
+#EXTINF:-1 group-title="CINECANAL",CINECANAL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
+
+
+#EXTINF:-1 group-title="CINECANAL 1",CINECANAL HD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
+#EXTINF:-1 group-title="CINECANAL 1",CineCanal HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302689
+#EXTINF:-1 group-title="CINECANAL 1",Cinecanal  FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313035
+#EXTINF:-1 group-title="CINECANAL 1",Cinecanal  SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313081
+#EXTINF:-1 group-title="CINECANAL 1",Cinecanal FHD (CO.) (E)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35235
+
+
+#EXTINF:-1 group-title="UNIVERSAL",Universal Channel FHD (MX E)
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/35266
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL TV HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324321.ts
+#EXTINF:-1 group-title="UNIVERSAL",Universal Premium SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60981
+
+
+#EXTINF:-1 group-title="UNIVERSAL STUDIO",Studio Universal FHD (MX E)
+http://hplay.xyz:80/J9okU7pEQV/jyghIME0wd/35267
+
+
+#EXTINF:-1 group-title="UNIVERSAL CINEMA",UNIVERSAL CINEMA
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140162
+#EXTINF:-1 group-title="UNIVERSAL CINEMA",UNIVERSAL CINEMA
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140162
+
+
+#EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIMEN
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
+#EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIMEN
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
+#EXTINF:-1 group-title="UNIVERSAL CRIME",UNIVERSAL CRIME HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/136174.ts
+
+
+#EXTINF:-1 group-title="UNIVERSAL COMEDY",UNIVERSAL COMEDY
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
+
+
+#EXTINF:-1 group-title="UNIVERSAL REALITY",UNIVERSAL REALITY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137607.ts
+
+
+#EXTINF:-1 group-title="STAR CHANNEL",Star Channel FHD
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313042
+#EXTINF:-1 group-title="STAR CHANNEL",STAR CHANNEL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
+#EXTINF:-1 group-title="STAR CHANNEL",Star Channel  SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313066
+#EXTINF:-1 group-title="STAR CHANNEL",Star Channel SD (LAT)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34926
+
+
+#EXTINF:-1 group-title="WARNER",WARNER
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
+#EXTINF:-1 group-title="WARNER",Warner HD
+http://iptvglobal.site:25461/rrtv/rrtv12345/131129
+#EXTINF:-1 group-title="WARNER",WARNER
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
+#EXTINF:-1 group-title="WARNER",Warner HD
+http://iptvglobal.site:25461/rrtv/rrtv12345/131129
+
+
+#EXTINF:-1 group-title="FX",FX HD (LAT)*
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312926
+#EXTINF:-1 group-title="FX",FX HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324317.ts
+#EXTINF:-1 group-title="FX",FX HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302655
+#EXTINF:-1 group-title="FX",FX  FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313038
+#EXTINF:-1 group-title="FX",FX SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313079
+
+
+#EXTINF:-1 group-title="FX 1",FX HD (LAT)*
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312954
+
+
+#EXTINF:-1 group-title="SPACE",SPACE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+#EXTINF:-1 group-title="SPACE",SPACE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/121650.ts
+#EXTINF:-1 group-title="SPACE",Space  FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313044
+#EXTINF:-1 group-title="SPACE",Space  SD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313070
+
+
+#EXTINF:-1 group-title="SPACE 1",Space SD (MX)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34968
+#EXTINF:-1 group-title="SPACE 1",Space FHD (MX)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34969
+
+
+#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT NETWORK
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
+#EXTINF:-1 group-title="PARAMOUNT",Paramount
+http://iptvglobal.site:25461/rrtv/rrtv12345/131130
+#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
+#EXTINF:-1 group-title="PARAMOUNT",Paramount
+http://iptvglobal.site:25461/rrtv/rrtv12345/131130
+#EXTINF:-1 group-title="PARAMOUNT",PARAMOUNT
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
+
+
+#EXTINF:-1 group-title="PARAMOUNT 1",Paramount HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302716
+#EXTINF:-1 group-title="PARAMOUNT 1",Paramount  FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313041
+#EXTINF:-1 group-title="PARAMOUNT 1",Paramount Channel FHD (CO.) (E)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35246
+#EXTINF:-1 group-title="PARAMOUNT 1",Paramount Channel FHD (MX)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34981
+
+
+#EXTINF:-1 group-title="CINEMAX",CineMax HD (MX VIP)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/302623
+#EXTINF:-1 group-title="CINEMAX",Cinemax  FHD (CL*)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313036
+#EXTINF:-1 group-title="CINEMAX",Cinemax
+http://190.131.228.59:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="CINEMAX",Cinemax
+http://ttv.bz:80/Kenwyn/TJGm5d9YlP/259
+#EXTINF:-1 group-title="CINEMAX",CINEMAX HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324325.ts
+
+
+
+
 #EXTINF:0,Las Estrellas I
 #EXTGRP:unsorted 
 http://45.174.84.154:8000/play/a02h
