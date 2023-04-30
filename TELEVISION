@@ -2605,6 +2605,12 @@ http://ttv.bz:80/Kenwyn/TJGm5d9YlP/259
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324325.ts
 
 
+#EXTINF:-1 group-title="AMC",AMC HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324326.ts
+#EXTINF:-1 group-title="AMC",AMC FHD (MX)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34916
+
+
 
 
 #EXTINF:0,Las Estrellas I
