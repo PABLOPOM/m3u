@@ -496,7 +496,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8?
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673352382/ei/XgC9Y8GsGvqV2_gP8tehoAs/ip/172.71.167.42/id/XDJPzMznAjU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYzcytIqwwrSug7RKsphCzIzHiuRHeXcMvq0HLW6C_oACIQD-_WziC6M4u2_0kNN1aBndn28h-De6XeleFxvg4MKadw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="LATINO", FRANCE 24 
-https://hls.youtb.workers.dev/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/AmericaTV2017.png/revision/latest?cb=20181229175551" group-title="LATINO", AMÉRICA TV 
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/6b17a547-9f4e-48bf-b549-d39341604d39:DLS/master.m3u8
