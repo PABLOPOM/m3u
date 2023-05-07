@@ -3301,7 +3301,7 @@ http://radio.promosat.com:8102/;stream/1
 https://s2.mexside.net/8016/stream
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="Radio", Radio Universal 
-https://19303.live.streamtheworld.com:443/XHRED_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRED_FMAAC.aac
 
 
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png",  GUSTO Tv
