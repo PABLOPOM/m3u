@@ -829,7 +829,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", FLASH 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/2bd41504-eb03-4e3f-9fa6-58a1fbd60d81/5.m3u8
+https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=flash-1&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO NOTICIAS 
