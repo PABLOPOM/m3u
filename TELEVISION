@@ -3185,7 +3185,133 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png",  Zapping Music | CL
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
   
-#EXTM3U 
+#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno 
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Las Estrellas 
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Las estrellas Latam
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV 
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhpX8VpYGmkYMgdEl43ZaNgY
+
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhiA1c0KL5BKuhLHFLz_T6IE
+
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" , Azteca 7 
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca Monterrey 
+https://live.info7.mx/info7/stream.m3u8
+
+#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS 
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Nu9ve 
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAho3FM5Fi1P1Cy2WeTGQh0pg
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV 
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", Canal Once 
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
+https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Canal 14 
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I220.102415.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , TVMas (RTV) 
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever 
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
+https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" , TV Mexiquense 
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Telemax (XEWH)
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RGC
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 15TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , El Heraldo
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Distrito Comedia 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telenovelas Televisa 
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Nuestra Visión 
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Mundo
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Corazon
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latam
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision PR
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", America Teve
+https://live.gideo.video/americateve1/master.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV US
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Telestrella 
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="VARIEDADES" , Wapa
+https://wapa.x10.mx/pq8v/wapa.php/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus 
+http://190.122.96.187:8888/http/006
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Hola TV 
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", TV Salud 
+https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+#EXTINF:-1 group-title="VARIEDADED" , CNN en Español 
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="CANELA TV", Canela Clásicos
