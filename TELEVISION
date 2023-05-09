@@ -36,8 +36,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="Ccr2310",ONCE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8?
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="Ccr2310", CANAL CATORCE 14
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="Ccr2310", CANAL CATORCE MXPLAY
+https://cdn3.wowza.com/1/T1lvY282a3M5ZUxz/WWRRbVdF/hls/live/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="Ccr2310", CAPITAL21 
 https://video.cdmx.gob.mx/livestream/stream.m3u8?
 #EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="Ccr2310", CANAL 22
@@ -659,8 +659,8 @@ http://190.61.102.67:31589/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist_1920x1080.m3u8?
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE 14
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE MXPLAY
+https://cdn3.wowza.com/1/T1lvY282a3M5ZUxz/WWRRbVdF/hls/live/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 
 https://video.cdmx.gob.mx/livestream/stream.m3u8?
@@ -3224,8 +3224,8 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Canal 14 
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Canal Catorce MX PLAY
+https://cdn3.wowza.com/1/T1lvY282a3M5ZUxz/WWRRbVdF/hls/live/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="I220.102415.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -3313,17 +3313,17 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
 
-#EXTINF:0 type="stream" channelId="-1" group="VARIEDADES", MEXICO AZTECA UNO SD
+#EXTINF:0 type="stream" channelId="-1" group="VARIEDADES", MEXICO AZTECA UNO -1h
 http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhuVoqLqPFbgsJgMh0_7Ks2w
 #EXTINF:0 type="stream" channelId="-1" group="VARIEDADES", Canal Cultural Huauchinango
 https://a18d-201-114-107-248.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="VARIEDADES", Las Estrellas
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8?
-#EXTINF:0 type="stream" channelId="0" group="VARIEDADES", Las Estrellas -1
+#EXTINF:0 type="stream" channelId="0" group="VARIEDADES", Las Estrellas -1h
 http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/250230
 #EXTINF:0 type="stream" channelId="0" group="VARIEDADES", Nick Junior HD
 http://200.24.151.134:8000/play/a019/index.m3u8
-#EXTINF:0 type="stream" channelId="3127" group="VARIEDADES", IMAGEN TV m
+#EXTINF:0 type="stream" channelId="3127" group="VARIEDADES", IMAGEN TV M
 http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhpX8VpYGmkYMgdEl43ZaNgY
 #EXTINF:0 type="stream" channelId="1955" group="VARIEDADES", Canal 5 (Mx)
 http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhiA1c0KL5BKuhLHFLz_T6IE
