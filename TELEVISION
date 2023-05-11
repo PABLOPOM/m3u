@@ -3184,7 +3184,23 @@ https://59802217c6db4.streamlock.net:443/montemorelos/videomontemorelos/playlist
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png",  Zapping Music | CL
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-  
+
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", FILMS&ARTS
+http://45.166.92.22:58001/play/a00o/index.m3u8
+#EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
+http://45.166.92.22:58001/play/a036/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", STAR CHANNEL
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:0 type="stream" channelId="188" group="unsorted", SONY CHANNEL
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/2606
+#EXTINF:0 type="stream" channelId="2557" group="unsorted", WARNER CHANNEL
+http://181.189.243.254:8000/play/a0tk/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" group="unsorted", FX
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:0 type="stream" channelId="1208" group="unsorted", A&E
+http://45.166.92.22:58001/play/a00p/index.m3u8
+
+
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
