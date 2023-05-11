@@ -3199,6 +3199,68 @@ http://181.189.243.254:8000/play/a0tk/index.m3u8
 http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:0 type="stream" channelId="1208" group="unsorted", A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:0 type="stream" channelId="1190" group="unsorted", COMEDY CENTRAL
+http://181.189.243.254:8000/play/a0su/index.m3u8
+#EXTINF:0 type="stream" channelId="388" group="unsorted", UNICABLE
+http://190.61.102.67:31589/play/a08f/index.m3u8
+#EXTINF:0 type="stream" channelId="3713" group="unsorted", HOLA TV
+http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:0 type="stream" channelId="238" group="unsorted", AZ CORAZON
+http://181.189.243.254:8000/play/a0pg/index.m3u8
+#EXTINF:0 type="stream" channelId="1188" group="unsorted", E!
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:0 type="stream" channelId="3228" group="unsorted", TBS
+http://181.189.243.254:8000/play/a0pj/index.m3u8
+#EXTINF:0 type="stream" channelId="2504" group="unsorted", TLNOVELAS
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/413
+#EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
+http://181.189.243.254:8000/play/a0s4/index.m3u8
+#EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", DSINEY JR
+http://181.189.243.254:8000/play/a0pb/index.m3u8
+#EXTINF:0 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/2687
+#EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
+http://181.189.243.254:8000/play/a0so/index.m3u8
+#EXTINF:0 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
+http://181.189.243.254:8000/play/a0p8/index.m3u8
+#EXTINF:0 type="stream" channelId="2639" group="unsorted", TOONCAST
+http://181.189.243.254:8000/play/a0s3/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", DISCOVERY THEATER
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:0 type="stream" channelId="2839" group="unsorted", DISCOVERY WORLD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", H&H
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:0 type="stream" channelId="56" group="unsorted", NAT GEO
+http://45.190.13.50:8003/play/a02a/index.m3u8
+#EXTINF:0 type="stream" channelId="57" group="unsorted", DISCOVERY CHANNEL
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/336
+#EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
+http://181.189.243.254:8000/play/a0q4/index.m3u8
+#EXTINF:0 type="stream" channelId="1200" group="unsorted", LIFETIME
+http://181.189.243.254:8000/play/a0pl/index.m3u8
+#EXTINF:0 type="stream" channelId="58" group="unsorted", DISCOVERY SCIENCE
+http://181.189.243.254:8000/play/a0ny/index.m3u8
+#EXTINF:0 type="stream" channelId="73" group="unsorted", TNT
+http://45.190.13.50:8003/play/a02w/index.m3u8
+#EXTINF:0 type="stream" channelId="2686" group="unsorted", TNT SERIES
+http://181.189.243.254:8000/play/a0ta/index.m3u8
+#EXTINF:0 type="stream" channelId="64" group="unsorted", CINECANAL
+http://181.189.243.254:8000/play/a0sl/index.m3u8
+#EXTINF:0 type="stream" channelId="383" group="unsorted", SPACE
+http://181.189.243.254:8000/play/a0ph/index.m3u8
+#EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
+http://190.95.220.212:8000/play/a02l/index.m3u8
+#EXTINF:0 type="stream" channelId="1326" group="unsorted", CINEMAX
+http://181.189.243.254:8000/play/a0v2/index.m3u8
+#EXTINF:0 type="stream" channelId="2625" group="unsorted", STUDIO UNIVERSAL
+http://45.5.118.226:8000/play/a0go/index.m3u8
+#EXTINF:0 type="stream" channelId="895" group="unsorted", TCM
+http://181.189.243.254:8000/play/a0ri/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", PARAMUNT CHANNEL
+http://181.189.243.254:8000/play/a0t9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno 
