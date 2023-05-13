@@ -715,7 +715,7 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJÍO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 BAJÍO 
-https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2352&f=HLS&f=.m3u8
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8?
 
 #EXTINF:-1 tvg-logo="https://turistiktv.com.mx/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="NACIONALES", TURISTIK TV
 https://5fa5de1a545ae.streamlock.net:443/8030/8030/chunklist_w591358697.m3u8
@@ -822,7 +822,7 @@ https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 CDMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 CDMX I
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8 
 
-#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CANAL 6 PLUS II
+#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CANAL 6 CDMX II
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", CANAL 6 MONTERREY 
