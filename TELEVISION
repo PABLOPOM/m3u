@@ -3518,16 +3518,16 @@ https://stream.ads.ottera.tv/cl/230224cfs08hqa1r1n9l8odj9g/1920x1080_2900000_5_f
 #EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="CANELA TV", Origen Tv
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
-EXTINF:-1 tvg-logo=" " group-title="Dish" , Sony Movies
+#EXTINF:-1 tvg-logo=" " group-title="Dish" , Sony Movies
 http://190.61.102.67:8000/play/a04w
 
-EXTINF:-1 tvg-logo=" " group-title="Dish" , AXN
+#EXTINF:-1 tvg-logo=" " group-title="Dish" , AXN
 http://190.61.102.67:8000/play/a07a
 
-EXTINF:-1 tvg-logo=" " group-title="Dish" , Space
+#EXTINF:-1 tvg-logo=" " group-title="Dish" , Space
 http://190.61.102.67:8000/play/a07b
 
-EXTINF:-1 tvg-logo=" " group-title="Dish" , HBO2
+#EXTINF:-1 tvg-logo=" " group-title="Dish" , HBO2
 http://190.61.102.67:8000/play/a016
 
 
