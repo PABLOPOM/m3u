@@ -3521,14 +3521,19 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 EXTINF:-1 tvg-logo=" " group-title="Dish" , Sony Movies
 http://190.61.102.67:8000/play/a04w
 
+EXTINF:-1 tvg-logo=" " group-title="Dish" , AXN
+http://190.61.102.67:8000/play/a07a
+
+EXTINF:-1 tvg-logo=" " group-title="Dish" , Space
+http://190.61.102.67:8000/play/a07b
+
+EXTINF:-1 tvg-logo=" " group-title="Dish" , HBO2
+http://190.61.102.67:8000/play/a016
 
 
+ 
 
-http://190.61.102.67:8000/play/a07a AXN
-
-http://190.61.102.67:8000/play/a07b SPACE
-
-http://190.61.102.67:8000/play/a016 HBO2
+ 
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z4SKgSuJUFZNis8Tou7FQkjeNGArLRDz5g&usqp=CAU" group-title="Radio", LG La Grande
