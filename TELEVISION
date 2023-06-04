@@ -5474,10 +5474,13 @@ http://45.228.232.204:16000/play/a02b/index.m3u8
 http://45.228.232.204:16000/play/a06y/index.m3u8
 #EXTINF:-1,090 Paramount HD
 http://45.228.232.204:16000/play/a07w/index.m3u8
-#EXTINF:-1,096 SONY HD
+#EXTINF:-1,096 Sony Channel HD
 http://45.228.232.204:16000/play/a06n/index.m3u8
 #EXTINF:-1,097 Sony Movies HD
 http://45.228.232.204:16000/play/a04h/index.m3u8
+#EXTINF:-1,097 Sony Cine HD
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8?
+
 #EXTINF:-1,098 SPACE HD
 http://45.228.232.204:16000/play/a07p/index.m3u8
 #EXTINF:-1,099 STAR CHANNEL
