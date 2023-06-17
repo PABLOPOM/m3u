@@ -20,6 +20,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?h
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO centro 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TV ABIERTA", TV AZTECA INTERNACIONAL 
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="ENTRETENIMIENTO", HOLA TV II
 https://live.atresmediainternacional.com:443/ATRESMEDIA/holatv-1080.m3u8
 
