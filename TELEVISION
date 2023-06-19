@@ -51,7 +51,7 @@ https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN 
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+http://190.61.102.67:8000/play/a05d
 
 
 
@@ -217,7 +217,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://45.228.234.77:3340/play/unicable/index.m3u8?
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="TV ABIERTA", HOLA TV 
-https://live.atresmediainternacional.com:443/ATRESMEDIA/holatv-1080.m3u8
+http://190.61.102.67:8000/play/a063
 
 
 
@@ -2860,8 +2860,6 @@ http://190.61.102.67:8000/play/a069
 http://190.61.102.67:8000/play/a06u
 #EXTINF:-1 group-title="CENTROA", Univision HD
 http://190.61.102.67:8000/play/a05d
-#EXTINF:-1 group-title="CENTROA", VENUS
-http://190.61.102.67:8000/play/a02h
 #EXTINF:-1 group-title="CENTROA", VTV Canal 35 ESA
 http://190.61.102.67:8000/play/a01v
 #EXTINF:-1 group-title="CENTROA", ZooMoo
