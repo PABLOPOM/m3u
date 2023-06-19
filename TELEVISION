@@ -217,7 +217,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://45.228.234.77:3340/play/unicable/index.m3u8?
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="TV ABIERTA", HOLA TV 
-http://190.61.102.67:8000/play/a063
+http://190.61.102.67:8000/play/a00f
 
 
 
