@@ -4466,6 +4466,28 @@ http://190.61.102.67:8000/play/a07b
 #EXTINF:-1 tvg-logo=" " group-title="Dish" , HBO2
 http://190.61.102.67:8000/play/a016
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png",⚽ TUDN (HD)
+http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=on
+#EXTINF:-1 group-title="DEPORTES",TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SKY LA LIGA
+http://190.61.102.67:31589/play/a08m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",336 Claro Sport
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",350 CNNE
+http://190.61.102.67:31589/play/a00x/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",356 Milenio
+http://190.61.102.67:31589/play/a00y/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",358 MN MX
+http://190.61.102.67:31589/play/a04m/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",360 Judicial
+http://190.61.102.67:31589/play/a04n/index.m3u8
 
  
 
