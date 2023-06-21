@@ -53,6 +53,8 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN 
 http://190.61.102.67:8000/play/a05d
 
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.samsung.com/us/es/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/telemundoAlDia_circle.png",TELEMUNDO AL DÍA
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 
 
@@ -219,6 +221,8 @@ http://45.228.234.77:3340/play/unicable/index.m3u8?
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="TV ABIERTA", HOLA TV 
 http://190.61.102.67:8000/play/a063
 
+#EXTINF:-1 tvg-id="ESBA1400008NE" tvg-chno="4265" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="TV ABIERTA",¡HOLA! PLAY
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", CANAL 13
@@ -423,6 +427,18 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
+
+#EXTINF:-1 group-title="TV ABIERTA", El Financiero - Bloomberg 
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", DW Español 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", RT in Spanish 
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", EuroNews en español 
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="TV ABIERTA", AMX NOTICIAS
