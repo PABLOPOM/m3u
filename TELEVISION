@@ -428,6 +428,10 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 (b)
+https://v3.playerlatino.live/stream/m3u8/447
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg" group-title="TV ABIERTA", MEGA NOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 
