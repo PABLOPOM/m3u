@@ -1,7 +1,7 @@
 **** TV MEXICO 
 https://
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO centro 
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 centro 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TV ABIERTA", AZTECA Internacional 
