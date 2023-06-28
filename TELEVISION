@@ -142,8 +142,6 @@ http://190.61.37.173:9001/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fntr10-1.fna.fbcdn.net/v/t1.6435-1/107668983_10157724988581374_7812400548149349980_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=YDdFwKI2qxsAX9-wbX6&_nc_ht=scontent.fntr10-1.fna&edm=AKsJ254EAAAA&oh=00_AT_IQqytqlNo5j9tp5RSMhJfBMNYkjswQ3vxyuhMi1Ronw&oe=62433EDB" group-title="LATINO", AMÉRICA Te Ve
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="LATINO", 24h NOTICIAS TVE 
-https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/800px-Antena_3_%282017%29.svg.png" group-title="LATINO", ANTENA 3  
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8?
@@ -278,7 +276,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://45.228.234.77:3340/play/unicable/index.m3u8?
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="TV ABIERTA", ¡HOLA! TV 
-http://190.61.102.67:8000/play/a063
+https://live.atresmediainternacional.com:443/ATRESMEDIA/holatv-1080.m3u8
 
 #EXTINF:-1 tvg-id="ESBA1400008NE" tvg-chno="4265" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="TV ABIERTA",¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -464,6 +462,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", EuroNews 
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24h Tve
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 
 #EXTINF:-1 group-title="TV ABIERTA", N+
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
