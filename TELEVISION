@@ -44,7 +44,10 @@ https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CANAL 6.1 CDMX 
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 6.2
+#EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO 6.2
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 6.4
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="TV ABIERTA", MVS TV 6.4
@@ -90,7 +93,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist_1920x108
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist_1920x1080.m3u8?
 
-#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE TELEVISIÓN 34.1
+#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE Tv 34.1
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="TV ABIERTA", AMX NOTICIAS 34.2
@@ -431,8 +434,6 @@ https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=flash
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO NOTICIAS 
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
 
 
 
