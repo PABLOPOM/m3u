@@ -67,6 +67,8 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2131072.m
 #EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/logo_suma-tv.png" group-title="TV ABIERTA", SUMA TV 13.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", CANAL 13
+https://c13mx.mediatiquestream.com/canal13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1 MxPLUS
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8?
@@ -88,7 +90,11 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist_1920x108
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist_1920x1080.m3u8?
 
+#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE TELEVISIÓN 34.1
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="TV ABIERTA", AMX NOTICIAS 34.2
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 
 
@@ -296,8 +302,6 @@ http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=o
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", CANAL 13
-https://c13mx.mediatiquestream.com/canal13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", ILCE
@@ -328,8 +332,6 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m
 
 
 
-#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE TELEVISIÓN 
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="TV ABIERTA", CANAL 10 QUERÉTARO 
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?
@@ -483,8 +485,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="TV ABIERTA", AMX NOTICIAS
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="LATINO", TELEMUNDO INTERNACIONAL 
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=85&f=HLS&f=.m3u8
