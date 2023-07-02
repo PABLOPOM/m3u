@@ -469,6 +469,8 @@ https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", CNNE
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", CNNE (b)
+https://v3.playerlatino.live/stream/m3u8/136
 
 #EXTINF:-1 group-title="TV ABIERTA", DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
