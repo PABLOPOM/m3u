@@ -4581,3 +4581,54 @@ https://gustotv-samsung-gb.samsung.wurl.tv/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png",  CORTOS 
 https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
+
+
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263287
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas HD (MX VIP)
+http://hidra.live:80/xaehsalg/454K7nBmkn/302641
+
+
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -1H",Las Estrellas -1HRs HD (MX VIP)
+http://hidra.live:80/xaehsalg/454K7nBmkn/304504
+
+
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS -2H",Las Estrellas -2
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263524
+
+#EXTINF:-1 group-title="AZTECA UNO",Azteca Uno SD
+http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/80682
+#EXTINF:-1 group-title="AZTECA UNO",Azteca 13
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263448
+#EXTINF:-1 group-title="AZTECA UNO",Azteca Uno HD (MX VIP)
+http://hidra.live:80/xaehsalg/454K7nBmkn/302682
+#EXTINF:-1 group-title="AZTECA UNO",Azteca Uno HD
+http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1225
+
+
+#EXTINF:-1 group-title="AZTECA UNO -1H",Azteca Uno menos -1
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301429
+
+
+#EXTINF:-1 group-title="AZTECA UNO -2H",Azteca Uno menos -2hr
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301435
+
+
+#EXTINF:-1 group-title="AZTECA 7",Azteca 7
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263435
+#EXTINF:-1 group-title="AZTECA 7",Azteca 7  2 HD (MX VIP)
+http://hidra.live:80/xaehsalg/454K7nBmkn/302683
+#EXTINF:-1 group-title="AZTECA 7",AZTECA SIETE
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="AZTECA 7",Azteca 7 HD
+http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1222
+#EXTINF:-1 group-title="AZTECA 7",Azteca 7 SD
+http://zuihaode.site:25461/i0UuitGu0p/eeLpzo3hhG/1223
+
+#EXTINF:-1 group-title="IMAGEN TV",Imagen Tv
+http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263439
+#EXTINF:-1 group-title="IMAGEN TV",Imagen TV HD (MX VIP)
+http://hidra.live:80/xaehsalg/454K7nBmkn/302650
+
+
+
