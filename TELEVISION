@@ -475,6 +475,9 @@ https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", CNNE (b)
 https://v3.playerlatino.live/stream/m3u8/136
 
+#EXTINF:-1 group-title="TV ABIERTA", CNNE Resumen 
+https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FRANCE24 
 http://576209368611339758.ofio.xyz:80/play/HCMNP577MK/1470603756/339758.ts
 
