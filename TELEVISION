@@ -96,11 +96,11 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8?
 
 
 #EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="TV ABIERTA", CANAL 22.1
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist_1920x1080.m3u8?
+https://60ed5b6d0df78.streamlock.net:1936/canal22/canal22/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist_1920x1080.m3u8?
+https://60ed5b6d0df78.streamlock.net:1936/canal222/canal222/playlist.m3u8?
 
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE Tv 34.1
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
