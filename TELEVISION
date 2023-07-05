@@ -89,7 +89,7 @@ https://c13mx.mediatiquestream.com/canal13tabasco/d0dbe915091d400bd8ee7f27f07913
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA",TV Migrante  
-https://s6.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8?
+https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1 Mx
 https://60ed5b6d0df78.streamlock.net:1936/tvunam/tvunam/playlist.m3u8?
@@ -104,7 +104,7 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8?
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8?
 
 #EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="TV ABIERTA", CANAL 22.1
-https://60ed5b6d0df78.streamlock.net:1936/canal22/canal22/playlist.m3u8?
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
