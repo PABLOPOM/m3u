@@ -354,11 +354,11 @@ http://elmonkey.us:25461/Victor/Victor/93
 #EXTINF:-1 tvg-id="Atrescine(Spanish).us" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="TV ABIERTA", A3 Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 tvg-chno="231" tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="TV ABIERTA" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ESBA1400008NE" tvg-chno="4265" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="TV ABIERTA",¡HOLA! PLAY
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="TV ABIERTA",¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 group-title="TV ABIERTA", TUDN 
@@ -370,16 +370,16 @@ https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="TV ABIERTA", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
-#EXTINF:-1 channel-id="pluto-61b3e21d56fee300087e4cba" tvg-id="61b3e21d56fee300087e4cba" tvg-chno="2720" tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png" group-title="TV ABIERTA" , Corazón turco
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png" group-title="TV ABIERTA" , Corazón turco
 https://i.mjh.nz/PlutoTV/61b3e21d56fee300087e4cba-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-62fa81ccd1a7e90007c1ada0" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-chno="2881" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="TV ABIERTA" , AMC en Español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="TV ABIERTA" , AMC en Español
 https://i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-chno="2761" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="TV ABIERTA" , CSI: Miami en Español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="TV ABIERTA" , CSI: Miami en Español
 https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-632b606e12a67b0007c9e371" tvg-id="632b606e12a67b0007c9e371" tvg-chno="2762" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="TV ABIERTA" , CSI: NY en Español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="TV ABIERTA" , CSI: NY en Español
 https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 
 
