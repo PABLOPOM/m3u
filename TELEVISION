@@ -174,6 +174,11 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-chno="586" tvg-name="Az Clip" group-title="TV ABIERTA" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png", Az Clip
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
+
+#EXTINF:-1 tvg-chno="288" tvg-name="Az Cinema" group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/800px-TV_Azteca_Cinema_logo.svg.png", Az Cinema
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=947429275&_cdn_timestamp=1688905411&_cdn_token=0056569163230d2cd400894f7f555350fa2f6d6f
+
+
 #EXTINF:-1 tvg-chno="587" tvg-id="SonyCompetencias.us" tvg-name="Sony Competencias" tvg-country="US" tvg-language="SPANISH" group-title="TV ABIERTA" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png", Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
