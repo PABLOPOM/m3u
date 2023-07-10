@@ -370,16 +370,16 @@ https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="TV ABIERTA", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png" group-title="TV ABIERTA" , Corazón turco
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png" group-title="TV ABIERTA", Corazón turco
 https://i.mjh.nz/PlutoTV/61b3e21d56fee300087e4cba-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="TV ABIERTA" , AMC en Español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="TV ABIERTA", AMC en Español
 https://i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="TV ABIERTA" , CSI: Miami en Español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="TV ABIERTA", CSI: Miami en Español
 https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="TV ABIERTA" , CSI: NY en Español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="TV ABIERTA", CSI: NY en Español
 https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 
 
