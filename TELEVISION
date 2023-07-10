@@ -165,13 +165,13 @@ http://160.20.165.245:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg", Hola TV Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png", Az Corazon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV ABIERTA", Az Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png", Az Mundo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png" group-title="TV ABIERTA", Az Mundo
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png", Az Clip
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png" group-title="TV ABIERTA", Az Clip
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
 
@@ -354,7 +354,7 @@ http://elmonkey.us:25461/Victor/Victor/93
 #EXTINF:-1 tvg-id="Atrescine(Spanish).us" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="TV ABIERTA", A3 Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
+#EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="TV ABIERTA", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
