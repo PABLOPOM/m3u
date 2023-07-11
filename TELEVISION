@@ -382,6 +382,8 @@ https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="TV ABIERTA", CSI: NY en español
 https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", CORTV
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", ILCE
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
