@@ -186,7 +186,8 @@ http://elmonkey.us:25461/Victor/Victor/22
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TV ABIERTA", STUDIO UNIVERSAL
 http://elmonkey.us:25461/Victor/Victor/116
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TV ABIERTA", TVMAX
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png", Sony Competencias
