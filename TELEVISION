@@ -28,8 +28,6 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?h
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS Internacional 
 http://45.181.121.57:2909/play/151
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 S
-https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=14
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1
 http://elmonkey.us:25461/Victor/Victor/94
@@ -79,9 +77,11 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 Mx
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8?
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 Mx
+https://60ed5b6d0df78.streamlock.net:1936/respaldo/respaldo/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/logo_suma-tv.png" group-title="TV ABIERTA", SUMA TV 13.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79
@@ -92,8 +92,6 @@ https://c13mx.mediatiquestream.com/canal13tabasco/d0dbe915091d400bd8ee7f27f07913
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1  
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1 S 
-https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=6
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA",TV Migrante  
 https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8?
