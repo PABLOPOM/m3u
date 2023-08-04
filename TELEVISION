@@ -2303,26 +2303,44 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-chno="596" tvg-id="SEOTVNovelas.bo" tvg-name="SEO TV Novelas" tvg-country="BO" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV Novelas 
 https://live.seo.tv.bo/live/3SEO.m3u8
 
-#EXTINF:-1 tvg-shift="-2" group-title-"TV2", A&E HD http://190.83.60.34:1414/play/a0lc 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", AMC HD http://190.83.60.34:1414/play/a03m 
-#EXTINF:-l tvg-shift="-2" group-title="TV2", ATV HD http://190.83.60.34:1414/play/a05o 
-#EXTINF:-1 tg-shift="-2" group-title="TV2", ATV+ http://190.83.60.34:1414/play/a05n 
-#EXTINF:-1 tvg-shift="-2" group-title-"TV2", AXN HD http://190.83.60.34:1414/play/a01f 
-#EXTINF:-1 tvg-shift="-2" group-title-"TV2", AZ Cinema HD http://190.83.60.34:1414/play/a03y 
-#EXTINF:-1 tvg-shift="-2" group-title-"TV2", America TV HD http://190.83.60.34:1414/play/a04 
-#EXTINF:-1 tvg-shft="-2" group-title=-"TV2" ", Animal Planet HD http:///190.83.60.34:1414/play/a04. 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", A&E HD 
+http://190.83.60.34:1414/play/a0lc 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", AMC HD 
+http://190.83.60.34:1414/play/a03m 
+#EXTINF:-l tvg-shift="-2" group-title="TV2", ATV HD 
+http://190.83.60.34:1414/play/a05o 
+#EXTINF:-1 tg-shift="-2" group-title="TV2", ATV+ 
+http://190.83.60.34:1414/play/a05n 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", AXN HD 
+http://190.83.60.34:1414/play/a01f 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", AZ Cinema HD 
+http://190.83.60.34:1414/play/a03y 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", America TV HD 
+http://190.83.60.34:1414/play/a04 
+#EXTINF:-1 tvg-shft="-2" group-title=-"TV2" ", Animal Planet HD 
+http:///190.83.60.34:1414/play/a04. 
 EXTINF:-1 tvg-shift="-2" group-title="TV2", CANAL PRUEBA
 http://190.83.60.34:1414/play/a06s 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", CNN Chile HD http://190.83.60.34:1414/play/a0la
- #EXTINF:-1 tvg shift="-2" group-title-"TV2". Canal 1 HD http://190.83.60.34:1414/play/a04b 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2". Caracol HD http://190.83.60.34:1414/play/a054 
-#EXTINF:-1 tvg-shift="2" group-title-"TV2" Cartoon Network HD http://190.83.60.34:1414/play/a03u 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", Cinecanal HD http://190.83.60.34:1414/play/a031
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", Cinemax HD http://190.83.60.34:1414/play/a02f 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", Comedy Central HD http://190.83.60.34:1414/play/a02g 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", DHE HD http://190.83.60.34:1414/play/a059 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", DIRECTV 2 http://190.83.60.34:1414/play/a06c 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", DIRECTV LIGA http://190.83.60.34:1414/play/a06a 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", CNN Chile HD 
+http://190.83.60.34:1414/play/a0la
+#EXTINF:-1 tvg shift="-2" group-title-"TV2". Canal 1 HD 
+http://190.83.60.34:1414/play/a04b 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2". Caracol HD 
+http://190.83.60.34:1414/play/a054 
+#EXTINF:-1 tvg-shift="2" group-title-"TV2" Cartoon Network HD 
+http://190.83.60.34:1414/play/a03u 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Cinecanal HD 
+http://190.83.60.34:1414/play/a031
+ #EXTINF:-1 tvg-shift="-2" group-title="TV2", Cinemax HD 
+http://190.83.60.34:1414/play/a02f 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Comedy Central HD 
+http://190.83.60.34:1414/play/a02g 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", DHE HD 
+http://190.83.60.34:1414/play/a059 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", DIRECTV 2 
+http://190.83.60.34:1414/play/a06c 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", DIRECTV LIGA 
+http://190.83.60.34:1414/play/a06a 
 EXTINF:-1 tvg-shift="-2" group-title="TV2", DIRECTV SPORT http://190.83.60.34:1414/play/a06d
  #EXTINF:-1 tvg-shift="-2" group-title="TV2", Directv Sports Fight http://190.83.60.34:1414/play/a069 
 #EXTINF:-1 tg-shift="-2" group-title="TV2", Directv Sports Plus http://190.83.60.34:1414/play/a06b 
