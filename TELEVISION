@@ -2377,31 +2377,49 @@ http://190.83.60.34:1414/play/a01v
 http://190.83.60.34:1414/play/a02x 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", FX HD 
 http://190.83.60.34:1414/play/a035
- #EXTINF:-1 tvg-shift="-2" group-title-"TV2". Food Network HD 
+ #EXTINF:-1 tvg-shift="-2" group-title-"TV2", Food Network HD 
 http://190.83.60.34:1414/play/a04i
- #EXTINF:-1 tvg-shift="-2" group-title-"TV2". Fox Sports 3 HD 
+ #EXTINF:-1 tvg-shift="-2" group-title-"TV2", Fox Sports 3 HD 
 http://190.83.60.34:1414/play/a027 
-#EXTINF:-1 tg-shift="-2" group-title-"TV2". GLOBAL 
+#EXTINF:-1 tg-shift="-2" group-title-"TV2", GLOBAL 
 http://190.83.60.34:1414/play/a06g 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", GOLPERU HD http://190.83.60.34:1414/play/a04m 
-#EXTINF:-l tvg-shift="-2" group-title="TV2", GolTV HD http://190.83.60.34:1414/play/a04f 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", Golden HD http://190.83.60.34:1414/playla049 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO 2 HD http://190.83.60.34:1414/play/a040 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO Family HD http://190.83.60.34:1414/play/a06n
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO HD http://190.83.60.34:1414/play/a03q 
-#EXTINF:-1 tvg-shift-"-2" group-title="TV2", HBO POP HD http://190.83.60.34:1414/play/a01j 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO XTREME HD http://190.83.60.34:1414/play/a06o 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", History Channel HD http://190.83.60.34:1414/play/a01b 
-#EXTINF:-1 tvg-shift="-2" group-title-"TV2", ID HD http://190.83.60.34:1414/play/a02h 
-#EXTINF:-1 tvg-shift="-2" group-title-"TV2". Kanal D Drama HD http://190.83.60.34:1414/play/a03t 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", La Red HD http://190.83.60.34:1414/play/a01t
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", Las Estrellas HD http://190.83.60.34:1414/play/a06j 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", Latina HD http://190.83.60.34:1414/play/a04k 
-#EXTINF:-1 tvg-shift="-2" group-title-"TV2", Lolly Kids HD http://190.83.60.34:1414/play/a04r
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", MEGA HD http://190.83.60.34:1414/play/a03i 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", Movistar Deportes HD http://190.83.60.34:1414/play/a03g 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", GOLPERU HD 
+http://190.83.60.34:1414/play/a04m 
+#EXTINF:-l tvg-shift="-2" group-title="TV2", GolTV HD 
+http://190.83.60.34:1414/play/a04f 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Golden HD 
+http://190.83.60.34:1414/playla049 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO 2 HD 
+http://190.83.60.34:1414/play/a040 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO Family HD 
+http://190.83.60.34:1414/play/a06n
+ #EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO HD 
+http://190.83.60.34:1414/play/a03q 
+#EXTINF:-1 tvg-shift-"-2" group-title="TV2", HBO POP HD 
+http://190.83.60.34:1414/play/a01j 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO XTREME HD 
+http://190.83.60.34:1414/play/a06o 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", History Channel HD 
+http://190.83.60.34:1414/play/a01b 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", ID HD 
+http://190.83.60.34:1414/play/a02h 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2". Kanal D Drama HD 
+http://190.83.60.34:1414/play/a03t 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", La Red HD 
+http://190.83.60.34:1414/play/a01t
+ #EXTINF:-1 tvg-shift="-2" group-title="TV2", Las Estrellas HD 
+http://190.83.60.34:1414/play/a06j 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Latina HD 
+http://190.83.60.34:1414/play/a04k 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", Lolly Kids HD 
+http://190.83.60.34:1414/play/a04r
+ #EXTINF:-1 tvg-shift="-2" group-title="TV2", MEGA HD 
+http://190.83.60.34:1414/play/a03i 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Movistar Deportes HD 
+http://190.83.60.34:1414/play/a03g 
 
- #EXTINF-1 tvg-shift="2" group-title="TV2", NTV http://190.83.60.34:1414/play/a03j 
+ #EXTINF-1 tvg-shift="2" group-title="TV2", NTV 
+http://190.83.60.34:1414/play/a03j 
  #EXTINF:-1 tvg-shift="-2" group-title="TV2", Nick Music HD http://190.83.60.34:1414/play/a031 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", PANAMERICANA TV http://190.83.60.34:1414/play/a06f 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", Paramount HD http://190.83.60.34:1414/play/a03v 
