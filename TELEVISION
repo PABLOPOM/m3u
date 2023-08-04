@@ -2263,7 +2263,7 @@ http://190.83.60.34:1414/play/a054
 http://190.83.60.34:1414/play/a03u 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", Cinecanal HD 
 http://190.83.60.34:1414/play/a031
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", Cinemax HD 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Cinemax HD 
 http://190.83.60.34:1414/play/a02f 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", Comedy Central HD 
 http://190.83.60.34:1414/play/a02g 
@@ -2275,15 +2275,15 @@ http://190.83.60.34:1414/play/a06c
 http://190.83.60.34:1414/play/a06a 
 EXTINF:-1 tvg-shift="-2" group-title="TV2", DIRECTV SPORT 
 http://190.83.60.34:1414/play/a06d
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", Directv Sports Fight 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Directv Sports Fight 
 http://190.83.60.34:1414/play/a069 
 #EXTINF:-1 tg-shift="-2" group-title="TV2", Directv Sports Plus 
 http://190.83.60.34:1414/play/a06b 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", Discovery H&H HD 
 http://190.83.60.34:1414/play/a02q
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", Discovery HD 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Discovery HD 
 http://190.83.60.34:1414/play/a05a
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", Discovery Kids HD 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Discovery Kids HD 
 http://190.83.60.34:1414/play/a02p 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", Discovery Theater HD 
 http://190.83.60.34:1414/play/a02r 
@@ -2295,23 +2295,23 @@ http://190.83.60.34:1414/play/a023
 http://190.83.60.34:1414/play/a05z 
 #EXTINF:-1 tvg-shift="-2" group-ttle="TV2", ESPN 2 HD 
 http://190.83.60.34:1414/play/a02c
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN 3 HD 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN 3 HD 
 http://190.83.60.34:1414/play/a026
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN 4 HD 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN 4 HD 
 http://190.83.60.34:1414/play/a02w 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN EXTRA HD 
 http://190.83.60.34:1414/play/a03n 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN HD 
 http://190.83.60.34:1414/play/a036
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN HD 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN HD 
 http://190.83.60.34:1414/play/a01v 
 #EXTINF:-1 tvg-shift="-2" group-title-"TV2", FOX Sports 2 HD 
 http://190.83.60.34:1414/play/a02x 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", FX HD 
 http://190.83.60.34:1414/play/a035
- #EXTINF:-1 tvg-shift="-2" group-title-"TV2", Food Network HD 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", Food Network HD 
 http://190.83.60.34:1414/play/a04i
- #EXTINF:-1 tvg-shift="-2" group-title-"TV2", Fox Sports 3 HD 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", Fox Sports 3 HD 
 http://190.83.60.34:1414/play/a027 
 #EXTINF:-1 tg-shift="-2" group-title-"TV2", GLOBAL 
 http://190.83.60.34:1414/play/a06g 
@@ -2325,7 +2325,7 @@ http://190.83.60.34:1414/playla049
 http://190.83.60.34:1414/play/a040 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO Family HD 
 http://190.83.60.34:1414/play/a06n
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO HD 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", HBO HD 
 http://190.83.60.34:1414/play/a03q 
 #EXTINF:-1 tvg-shift-"-2" group-title="TV2", HBO POP HD 
 http://190.83.60.34:1414/play/a01j 
@@ -2339,7 +2339,7 @@ http://190.83.60.34:1414/play/a02h
 http://190.83.60.34:1414/play/a03t 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", La Red HD 
 http://190.83.60.34:1414/play/a01t
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", Las Estrellas HD 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Las Estrellas HD 
 http://190.83.60.34:1414/play/a06j 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", Latina HD 
 http://190.83.60.34:1414/play/a04k 
@@ -2366,22 +2366,38 @@ http://190.83.60.34:1414/play/a0lg
 http://190.83.60.34:1414/play/a03x 
 #EXTINF:-1 tvg-shift=" -2" group-title-"TV2", Sony HD 
 http://190.83.60.34:1414/play/a0ld 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", Space HD http://190.83.60.34:1414/play/a0lg 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", Studio Universal HD http://190.83.60.34:1414/play/a03w 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", Sun Channel HD http://190.83.60.34:1414/play/a02o
- #EXTINF:-1 tvg-shift="-2" group-title="TV2". TELEMUNDO http://190.83.60.34:1414/play/a06g 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2". TELENOVELAS http://190.83.60.34:1414/play/a06p 
-EXTINF:-1 tvg-shift="-2" group-title-"TV2". TNT HD http://190.83.60.34:1414/play/a025
- #EXTINF:-1 tg-shift="-2" group-title="TV2", TNT SPORTS HD http://190.83.60.34:1414/play/a01h
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", TNT Series HD http://190.83.60.34:1414/play/a034
- #EXTINF:-1 tvg-shift="-2" group-title-"TV2". TV+ HD http://190.83.60.34:1414/play/a03h 
-#EXTINF:-1 tvg-shift-"-2" group-title="TV2", Teen Nick HD http://190.83.60.34:1414/play/a06i 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", TyC Sports HD http://190.83.60.34:1414/play/a041 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", UNIVERSAL CHANNEL HD http://190.83.60.34:1414/play/a02u 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", UNIVISION http://190.83.60.34:1414'play/a06r 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", WILLAX http://190.83.60.34:1414/play/a06e 
-#EXTINF:-1 tvg-shift="-2" group-title=-"TV2", Warmer Channel HD http://190.83.60.34:1414/play/a0le
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", Win Sports HD http://190.83.60.34:1414/play/a01k
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Space HD 
+http://190.83.60.34:1414/play/a0lg 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Studio Universal HD 
+http://190.83.60.34:1414/play/a03w 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Sun Channel HD 
+http://190.83.60.34:1414/play/a02o
+#EXTINF:-1 tvg-shift="-2" group-title="TV2". TELEMUNDO 
+http://190.83.60.34:1414/play/a06g 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2". TELENOVELAS 
+http://190.83.60.34:1414/play/a06p 
+EXTINF:-1 tvg-shift="-2" group-title-"TV2". TNT HD 
+http://190.83.60.34:1414/play/a025
+#EXTINF:-1 tg-shift="-2" group-title="TV2", TNT SPORTS HD 
+http://190.83.60.34:1414/play/a01h
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", TNT Series HD 
+http://190.83.60.34:1414/play/a034
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2". TV+ HD 
+http://190.83.60.34:1414/play/a03h 
+#EXTINF:-1 tvg-shift-"-2" group-title="TV2", Teen Nick HD 
+http://190.83.60.34:1414/play/a06i 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", TyC Sports HD 
+http://190.83.60.34:1414/play/a041 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", UNIVERSAL CHANNEL HD 
+http://190.83.60.34:1414/play/a02u 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", UNIVISION 
+http://190.83.60.34:1414'play/a06r 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", WILLAX 
+http://190.83.60.34:1414/play/a06e 
+#EXTINF:-1 tvg-shift="-2" group-title=-"TV2", Warmer Channel HD 
+http://190.83.60.34:1414/play/a0le
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", Win Sports HD 
+http://190.83.60.34:1414/play/a01k
 
 
 
