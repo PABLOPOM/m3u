@@ -2369,13 +2369,20 @@ http://190.83.60.34:1414/play/a026
 http://190.83.60.34:1414/play/a02w 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN EXTRA HD 
 http://190.83.60.34:1414/play/a03n 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN HD http://190.83.60.34:1414/play/a036
- #EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN HD http://190.83.60.34:1414/play/a01v 
-#EXTINF:-1 tvg-shift="-2" group-title-"TV2", FOX Sports 2 HD http://190.83.60.34:1414/play/a02x 
-#EXTINF:-1 tvg-shift="-2" group-title="TV2", FX HD http://190.83.60.34:1414/play/a035
- #EXTINF:-1 tvg-shift="-2" group-title-"TV2". Food Network HD http://190.83.60.34:1414/play/a04i
- #EXTINF:-1 tvg-shift="-2" group-title-"TV2". Fox Sports 3 HD http://190.83.60.34:1414/play/a027 
-#EXTINF:-1 tg-shift="-2" group-title-"TV2". GLOBAL http://190.83.60.34:1414/play/a06g 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN HD 
+http://190.83.60.34:1414/play/a036
+ #EXTINF:-1 tvg-shift="-2" group-title="TV2", ESPN HD 
+http://190.83.60.34:1414/play/a01v 
+#EXTINF:-1 tvg-shift="-2" group-title-"TV2", FOX Sports 2 HD 
+http://190.83.60.34:1414/play/a02x 
+#EXTINF:-1 tvg-shift="-2" group-title="TV2", FX HD 
+http://190.83.60.34:1414/play/a035
+ #EXTINF:-1 tvg-shift="-2" group-title-"TV2". Food Network HD 
+http://190.83.60.34:1414/play/a04i
+ #EXTINF:-1 tvg-shift="-2" group-title-"TV2". Fox Sports 3 HD 
+http://190.83.60.34:1414/play/a027 
+#EXTINF:-1 tg-shift="-2" group-title-"TV2". GLOBAL 
+http://190.83.60.34:1414/play/a06g 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", GOLPERU HD http://190.83.60.34:1414/play/a04m 
 #EXTINF:-l tvg-shift="-2" group-title="TV2", GolTV HD http://190.83.60.34:1414/play/a04f 
 #EXTINF:-1 tvg-shift="-2" group-title="TV2", Golden HD http://190.83.60.34:1414/playla049 
