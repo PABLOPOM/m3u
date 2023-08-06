@@ -1379,4 +1379,114 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 https://live.seo.tv.bo/live/3SEO.m3u8
 
 
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png",001 Azteca Uno (XHDFTDT)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",002 Las Estrellas (XEW)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 ,104 ForoTV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 ,N+
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/RZhSRBKV/milemnio-tv.png",625 Milenio TV HD (MILENHD)
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg",TV MAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png",Imagen Televisión (HD)
+http://elmonkey.us:25461/Victor/Victor/94
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg",Mexiquense Televisión
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png",Teleformula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png",Telemundo Internacional
+http://181.189.243.254:8000/play/a0q9/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png",CNN International (HD)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/j2q0SHhd/estrella-news.png",ESTRELLA NEWS HD
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png",France 24 (Español)
+http://576209368611339758.ofio.xyz:80/play/HCMNP577MK/1470603756/339758.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png",RT (Español)
+https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bloom.png",Bloomberg
+https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png",Corazón
+http://elmonkey.us:25461/Victor/Victor/23
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png",ElGourmet
+http://elmonkey.us:25461/Victor/Victor/31
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png",TBS
+http://elmonkey.us:25461/Victor/Victor/119
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png",Lifetime
+http://elmonkey.us:25461/Victor/Victor/95
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png",E!
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png",Discovery Home & Health
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png",Mas Chic
+http://elmonkey.us:25461/Victor/Victor/96
+#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/30347.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png",HBO POP
+http://elmonkey.us:25461/Victor/Victor/98
+#EXTINF:-1 ,Pluto Familia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 ,Pluto TV Cine Suspenso
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png",TNT Series
+http://181.189.243.254:8000/play/a0ta/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG",Space
+http://elmonkey.us:25461/Victor/Victor/113
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png",Studio Universal
+http://elmonkey.us:25461/Victor/Victor/116
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png",Golden Edge
+http://190.95.220.212:8000/play/a01k/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 ,My Time
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png",TCM
+http://elmonkey.us:25461/Victor/Victor/120
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png",SYFY
+http://elmonkey.us:25461/Victor/Victor/118
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png",Cinema
+http://elmonkey.us:25461/Victor/Victor/22
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png",A3 Series
+http://livex.pop-app.live/s4n/poptv/AntenaSeries.TecnoByte/chunks.m3u8
+#EXTINF:-1 ,#EXTGRP:Ciencia
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png",History
+http://168.194.171.33:8000/play/a05m/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png",Animal Planet
+http://181.189.243.254:8000/play/a0q4/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png",Discovery Science
+http://181.189.243.254:8000/play/a0ny/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png",National Geographic
+http://elmonkey.us:25461/Victor/Victor/102
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png",Cartoon Network
+http://elmonkey.us:25461/Victor/Victor/30
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png",Baby TV
+http://181.189.243.254:8000/play/a0ns/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png",Disney Junior
+http://elmonkey.us:25461/Victor/Victor/27
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png",Nick
+http://elmonkey.us:25461/Victor/Victor/105
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png",Nick Jr.
+http://elmonkey.us:25461/Victor/Victor/106
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png",⚽ TUDN (HD)
+http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=on
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",⚽ DIRECTV SPORTS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
+
 
