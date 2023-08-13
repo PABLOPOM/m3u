@@ -192,6 +192,28 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="TV ABIERTA", MY TIME MEXICO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", TU CINE 
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", HORRORFY
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", JUNTOS
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", CHIQUITINES
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
+
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png", Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
@@ -508,23 +530,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 #EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="CINEMA", CANELA TV 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINEMA", CINE REAL
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINEMA", HORRORFY
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINEMA", JUNTOS
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINEMA", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINEMA", TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINEMA", CHIQUITINES
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="CINEMA", A3CINE II
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
