@@ -183,6 +183,9 @@ http://elmonkey.us:25461/Victor/Victor/116
 #EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="TV ABIERTA", CINE SONY
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="TV ABIERTA", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="TV ABIERTA", MY TIME ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
