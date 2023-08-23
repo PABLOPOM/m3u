@@ -3884,3 +3884,19 @@ https://v3.playerlatino.live/stream/m3u8/91|user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/649|user-agent=Lavf/57.71.001
 
 
+
+#EXTINF:-1 group-title="CR", MX: IMAGEN
+http://svtv.xyz:8080/sandra30abril/CQNFV/109052
+#EXTINF:-1 group-title="CR", MX: IMAGEN
+http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="CR", MX: GLITZ
+http://svtv.xyz:8080/sandra30abril/CQNFV/109053
+#EXTINF:-1 group-title="CR", MX: FORO TV
+http://svtv.xyz:8080/sandra30abril/CQNFV/109054
+#EXTINF:-1 group-title="CR", MX: CANAL DE LAS ESTRELLAS
+http://svtv.xyz:8080/sandra30abril/CQNFV/109056
+#EXTINF:-1 group-title="CR", MX: AZ CLIC
+http://svtv.xyz:8080/sandra30abril/CQNFV/109058
+#EXTINF:-1 group-title="CR", MX: AZ MUNDO
+http://svtv.xyz:8080/sandra30abril/CQNFV/109059
+
