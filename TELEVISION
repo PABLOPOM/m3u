@@ -3900,3 +3900,48 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/109058
 #EXTINF:-1 group-title="CR", MX: AZ MUNDO
 http://svtv.xyz:8080/sandra30abril/CQNFV/109059
 
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" group-title="DISH MX",AZTECA UNO
+http://187.188.232.236:1021/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas (México)" group-title="DISH MX",Las Estrellas
+http://187.188.232.236:1021/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx(m3u4u)" tvg-name="Imagen Television" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/101096/s101096_h3_aa.png?w=55" group-title="DISH MX",IMAGEN TV
+http://187.188.232.236:1021/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="canal5.mx" tvg-name="Canal 5 (México)" group-title="DISH MX",CANAL 5
+http://187.188.232.236:1021/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="MultimediosPlus.mx(m3u4u)" tvg-name="Canal 6 CDMX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/109817/s91505_h3_aa.png?w=55" group-title="DISH MX",Canal 6 Nacional
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Azteca 7 (México)" group-title="DISH MX",AZTECA 7
+http://187.188.232.236:1021/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="a+.mx" tvg-name="a+ (México)" group-title="DISH MX",AztecaMas
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="Nu9ve.mx(m3u4u)" tvg-name="NU9VE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico.png" group-title="DISH MX",NU9VE
+#EXTINF: https://linear-352.frequency.stream/352/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-id="OnceMexico.mx" tvg-name="Once México" group-title="DISH MX",ONCE
+http://187.188.232.236:1021/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="Canal22MetropolitanayNacional.mx" tvg-name="Canal 22 Metropolitana y Nacional" group-title="DISH MX",CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIMTDT2.mx(m3u4u)" tvg-name="Canal 22.2" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15232/s116168_h3_aa.png?w=55" group-title="DISH MX",Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx(m3u4u)" tvg-name="Canal Catorce" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/87914/s90518_h3_aa.png?w=55" group-title="DISH MX",Canal 14
+http://187.188.232.236:1021/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="DISH MX",FORO tv
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 tvg-id="Teleformula.mx(m3u4u)" tvg-name="Teleformula" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34344/s34344_h3_aa.png?w=55" group-title="DISH MX",TELEFORMULA
+https://rdf-tf.otteravision.com/rdf/tf/tf_720p_low.m3u8
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio TV" group-title="DISH MX",MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="adn40.mx(m3u4u)" tvg-name="ADN 40 (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40.png" tvg-group-title="DISH MX",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="tv-unam.mx" tvg-name="TV UNAM (México)" group-title="DISH MX",TV UNAM
+http://187.188.232.236:1021/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="IngenioTV.mx(m3u4u)" tvg-name="Ingenio TV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/87915/s87915_h3_aa.png?w=55" group-title="DISH MX",Ingenio TV
+http://187.251.240.18:1099/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="Justicia TV" tvg-name="JusticiaTV.mx(m3u4u)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50577/s50577_h3_aa.png?w=55" group-title="DISH MX",Justicia TV
+http://187.188.232.236:1021/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx(m3u4u)" tvg-name="MVS TV (XHSAW-TDT4)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/109982/s15213_h3_aa.png?w=55" group-title="DISH MX",MVS TV
+http://187.251.240.18:1099/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="CNN en español" group-title="DISH MX",CNNE
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="CNN International Latin America" group-title="DISH MX",CNN International
+http://187.188.232.236:1021/play/a03t/index.m3u8
