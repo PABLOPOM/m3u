@@ -473,11 +473,11 @@ https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 
-#EXTINF:-1 group-title="TV ABIERTA", UNIVISION NOTICIAS 
-https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", CNNE
+#EXTINF:-1 group-title="TV ABIERTA", CNNE 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CNNE (a)
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CNNE (b)
 https://v3.playerlatino.live/stream/m3u8/136
