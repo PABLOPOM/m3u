@@ -16,8 +16,8 @@ http://elmonkey.us:25461/Victor/Victor/33
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS Mx 2.1
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8?
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS Mx 2.1 S
-https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=17
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS Mx 2.1 
+http://187.188.232.236:1021/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS centro 2.1
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -95,7 +95,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist.m3u8?
+http://187.188.232.236:1021/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8?
