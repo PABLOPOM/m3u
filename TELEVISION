@@ -97,6 +97,9 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="TV ABIERTA", FREE TV 8.3
 https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", NU9VE 9.1
+http://166.0.208.23:4481/galaTV/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 
 http://187.188.232.236:1021/play/a06l/index.m3u8
 
