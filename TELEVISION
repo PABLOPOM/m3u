@@ -31,7 +31,6 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?h
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS Internacional 
 http://45.181.121.57:2909/play/151
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1
 http://elmonkey.us:25461/Victor/Victor/94
 
@@ -41,9 +40,38 @@ https://v3.playerlatino.live/stream/m3u8/341|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_423392900.png" group-title="TV ABIERTA", N+MEDIA 4.2
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg" group-title="TV ABIERTA", MEGA NOTICIAS MX
+https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
+
+#EXTINF:-1 group-title="TV ABIERTA", CNNE 
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CNNE 
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FRANCE24 
+http://576209368611339758.ofio.xyz:80/play/HCMNP577MK/1470603756/339758.ts
+
+#EXTINF:-1 group-title="TV ABIERTA", DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", RT 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", EuroNews 
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24h Tve
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.1 
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
@@ -53,10 +81,6 @@ https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.3   
 https://5f1af61612fb5.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1
 https://v3.playerlatino.live/stream/m3u8/14
