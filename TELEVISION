@@ -148,6 +148,10 @@ http://187.188.232.236:1021/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA",TV Migrante  
 https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", CHP Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1 Mx
 https://60ed5b6d0df78.streamlock.net:1936/tvunam/tvunam/playlist.m3u8?
 
