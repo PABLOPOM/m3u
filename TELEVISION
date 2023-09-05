@@ -58,6 +58,9 @@ https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", CNNE 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA NEWS 
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FRANCE24 
 http://576209368611339758.ofio.xyz:80/play/HCMNP577MK/1470603756/339758.ts
 
@@ -67,7 +70,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", RT 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", EuroNews 
+#EXTINF:-1 group-title="TV ABIERTA", EURONEWS 
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24h Tve
@@ -198,9 +201,11 @@ http://45.228.234.77:3340/play/bitme/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg" group-title="TV ABIERTA", TASTEMADE español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA Tv
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA GAMES
+https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN 
 http://190.61.102.67:8000/play/a05d
@@ -384,15 +389,6 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="LATINO", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA TV 
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA GAMES
-https://estrella-games-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINO", ESTRELLA NEWS 
-https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fntr10-2.fna.fbcdn.net/v/t1.18169-9/734414_573821359308620_1372141160_n.png?_nc_cat=106&ccb=1-5&_nc_sid=85a577&_nc_ohc=WLx7eEUqyhMAX-rpvap&_nc_ht=scontent.fntr10-2.fna&oh=00_AT-muIFRTgCNn5N9hs_r3xF3qY6mQt7f1bRND2WQIVTbsg&oe=6223AA1B" group-title="LATINO", CLASSIC ARTS SHOWCASE  
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
