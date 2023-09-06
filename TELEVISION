@@ -273,6 +273,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", TU CINE 
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", TU CINE europe
+https://tucineeurope-samsungspain.amagi.tv/TuCineEurope-Samsung/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
