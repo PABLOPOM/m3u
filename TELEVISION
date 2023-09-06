@@ -235,7 +235,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="TV ABIERTA", AZ CINEMA
-http://elmonkey.us:25461/Victor/Victor/22
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TV ABIERTA", STUDIO UNIVERSAL
 http://elmonkey.us:25461/Victor/Victor/116
