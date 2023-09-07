@@ -222,6 +222,9 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 
 https://v3.playerlatino.live/stream/m3u8/92
 
+#EXTINF:-1 group-title="TV ABIERTA", HOGAR 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
+
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", Hola TV
 http://160.20.165.245:8000/play/a009/index.m3u8
 
