@@ -267,6 +267,9 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 #EXTINF:-1 group-title="TV ABIERTA", ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 
+#EXTINF:-1 group-title="TV ABIERTA", CANELA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
+
 #EXTINF:-1 group-title="TV ABIERTA", STAR CHANNEL 
 http://45.170.225.212:58001/play/a01q/index.m3u8
 
