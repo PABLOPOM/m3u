@@ -226,7 +226,7 @@ https://v3.playerlatino.live/stream/m3u8/92
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", Hola TV
-http://160.20.165.245:8000/play/a009/index.m3u8
+http://190.122.186.88:8000/play/a0ic/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg", Hola TV Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
