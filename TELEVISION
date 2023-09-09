@@ -214,7 +214,7 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN 
-http://190.61.102.67:8000/play/a05d
+http://svtv.xyz:8080/sandra30abril/CQNFV/109712
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN 
 https://v3.playerlatino.live/stream/m3u8/99
