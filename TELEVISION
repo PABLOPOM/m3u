@@ -225,10 +225,10 @@ https://v3.playerlatino.live/stream/m3u8/92
 #EXTINF:-1 group-title="TV ABIERTA", HOGAR 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", Hola TV
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", HOLA TV
 http://190.122.186.88:8000/play/a0ic/index.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg", Hola TV Play
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg", HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV ABIERTA", AZ CORAZON
@@ -270,7 +270,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 #EXTINF:-1 group-title="TV ABIERTA", CANELA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 
-#EXTINF:-1 tvg-id="vive-kanal-d-drama-0" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg" group-title="" , Vive Kanal D Drama
+#EXTINF:-1 tvg-id="vive-kanal-d-drama-0" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg" group-title="TV ABIERTA" , Vive Kanal D Drama
 https://amg01602-themahqfrance-vivekanalddrama-runtimeusa-k7wf8.amagi.tv/playlist/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=37.120.142.231&ads.ip=37.120.142.231
 
 #EXTINF:-1 group-title="TV ABIERTA", STAR CHANNEL 
