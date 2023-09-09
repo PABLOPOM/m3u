@@ -225,10 +225,10 @@ https://v3.playerlatino.live/stream/m3u8/92
 #EXTINF:-1 group-title="TV ABIERTA", HOGAR 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", HOLA TV
+#EXTINF:-1 group-title="TV ABIERTA", HOLA TV
 http://190.122.186.88:8000/play/a0ic/index.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg", HOLA TV PLAY
+#EXTINF:-1 group-title="TV ABIERTA", HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV ABIERTA", AZ CORAZON
