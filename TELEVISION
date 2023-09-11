@@ -282,7 +282,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 group-title="TV ABIERTA", VIVE KANAL D DRAMA
 https://amg01602-themahqfrance-vivekanalddrama-runtimeusa-k7wf8.amagi.tv/playlist/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=37.120.142.231&ads.ip=37.120.142.231
 
-#EXTINF:-1 group-title="TV ABIERTA" , FILM&CO
+#EXTINF:-1 group-title="TV ABIERTA", FILM&CO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 
 #EXTINF:-1 group-title="TV ABIERTA", STAR CHANNEL 
