@@ -16,8 +16,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="TV ABIERTA", AZTECA Internacional 
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS XEW
-http://elmonkey.us:25461/Victor/Victor/33
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129048
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS Mx 2.1
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8
@@ -4051,3 +4051,57 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="MÉXICO", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+
+#EXTINF:-1 group-title="MEXICO",UnoTV UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/130034
+
+#EXTINF:-1 group-title="MEXICO",Azteca Uno
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2129.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca Uno (op2)
+http://166.0.208.26:4481/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca Uno (alt)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca Uno HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129032
+
+#EXTINF:-1  group-title="MEXICO",ADN 40
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16504.m3u8
+#EXTINF:-1  group-title="MEXICO",ADN 40 (alt)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="MEXICO",ADN 40 HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129046
+
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS SD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/52807.m3u8
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS SD (op2)
+http://166.0.208.26:4481/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Las Estrellas HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129048
+
+#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS -2 HORAS SD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30356.m3u8
+#EXTINF:-1 group-title="MEXICO",Las Estrellas - 2 horas HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/162200
+
+#EXTINF:-1 group-title="MEXICO",Foro Tv SD =
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2447.m3u8
+#EXTINF:-1 group-title="MEXICO",Foro Tv SD (op2)
+http://166.0.208.26:4481/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO", FORO TV MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3748
+
+#EXTINF:-1 group-title="MEXICO",ImagenTv SD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32403.m3u8
+#EXTINF:-1 group-title="MEXICO",ImagenTv SD (op2)
+http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",IMAGEN TV MX UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
+#EXTINF:-1 group-title="MEXICO",EXCELSIOR TV UHD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/153574
+
+#EXTINF:-1 group-title="MEXICO",Canal 5 SD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2123.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 5 SD (op2)
+http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 5 HD®
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
