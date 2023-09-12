@@ -38,7 +38,7 @@ http://45.181.121.57:2909/play/151
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1
-https://v3.playerlatino.live/stream/m3u8/341|user-agent=Lavf/57.71.001
+http://svtv.xyz:8080/sandra30abril/CQNFV/109052
 
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
