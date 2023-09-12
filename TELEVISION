@@ -244,6 +244,9 @@ https://v3.playerlatino.live/stream/m3u8/92
 #EXTINF:-1 group-title="TV ABIERTA", HOGAR 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
 
+#EXTINF:-1 group-title="TV ABIERTA", DISCOVERY H&H
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2026
+
 #EXTINF:-1 group-title="TV ABIERTA", HOLA TV
 http://190.122.186.88:8000/play/a0ic/index.m3u8
 
