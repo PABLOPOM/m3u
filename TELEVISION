@@ -1,6 +1,10 @@
 **** TV MEXICO 
 https://
 
+
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1  UHD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/130034
+
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1  
 http://187.188.232.236:1021/play/a06j/index.m3u8
 
