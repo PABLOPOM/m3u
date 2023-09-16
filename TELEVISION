@@ -292,6 +292,13 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/3730
 #EXTINF:-1 group-title="TV ABIERTA", DISTRITO COMEDIA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="TV ABIERTA", FILMEX CLÁSICO TV
+https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV ABIERTA", FILMEX TV
+https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
+
+
 #EXTINF:-1 group-title="TV ABIERTA", ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 
