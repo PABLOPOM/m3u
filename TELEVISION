@@ -505,16 +505,16 @@ http://elmonkey.us:25461/Victor/Victor/93
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="TV ABIERTA",¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="DEPORTES", TUDN MEXICO UHD
+#EXTINF:-1 group-title="TV ABIERTA", TUDN MEXICO UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/134466
 
-#EXTINF:-1 group-title="DEPORTES", TUDN USA SD 
+#EXTINF:-1 group-title="TV ABIERTA", TUDN USA SD 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34009.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", TUDN USA 
+#EXTINF:-1 group-title="TV ABIERTA", TUDN USA 
 http://166.0.208.26:4481/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", UNIVISION TUDN USA
+#EXTINF:-1 group-title="TV ABIERTA", UNIVISION TUDN USA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
 
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
