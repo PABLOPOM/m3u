@@ -4157,3 +4157,35 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2123.m3u8
 http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 5 HD®
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
+
+#EXTINF:-1 group-title="AZTECA",AZTECA UNO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
+#EXTINF:-1 group-title="AZTECA",AZTECA UNO
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/251
+#EXTINF:-1 group-title="AZTECA",Azteca Uno SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61336
+#EXTINF:-1 group-title="AZTECA",AZTECA 1 (XHDF-TDT)
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140111
+#EXTINF:-1 group-title="AZTECA",AZTECA UNO -2
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
+
+
+#EXTINF:-1 group-title="AZTECA",Azteca 7 SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
+
+#EXTINF:-1 group-title="2 LAS ESTRELLAS",Estrellas HD (MX VIP)
+http://hidra.live:80/yhehteog/NeN02o7t1o/302641
+#EXTINF:-1 group-title="2 LAS ESTRELLAS",LAS ESTRELLAS
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/246
+#EXTINF:-1 group-title="2 LAS ESTRELLAS",LAS ESTRELLAS -2H
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/245
+#EXTINF:-1 group-title="2 LAS ESTRELLAS",Las Estrellas Vix+
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143224
+#EXTINF:-1 group-title="2 LAS ESTRELLAS",Las Estrellas -2 Hrs Vix+
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
+
+
+#EXTINF:-1 group-title="5 CANAL 5",Canal 5 HD (XHGC-TDT)
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
+#EXTINF:-1 group-title="5 CANAL 5",Canal 5 HD Mexico
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
