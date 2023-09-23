@@ -549,6 +549,12 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
+
+
+
+#EXTINF:-1 group-title="TV ABIERTA", FOX SPORTS PREMIUM 
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="TV ABIERTA", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
