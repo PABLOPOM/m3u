@@ -301,7 +301,7 @@ http://45.170.225.212:58001/play/a01s/index.m3u8
 http://45.181.122.145:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", +CINE
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?autoplay=1
 
 #EXTINF:-1 group-title="TV ABIERTA", DE PELICULA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27983
