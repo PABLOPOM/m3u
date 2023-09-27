@@ -540,8 +540,8 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/134466
 #EXTINF:-1 group-title="TV ABIERTA", TUDN USA SD 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34009.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TUDN USA 
-http://166.0.208.26:4481/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="TV ABIERTA", TUDNM
+https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION TUDN USA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
