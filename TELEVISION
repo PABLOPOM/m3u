@@ -117,6 +117,8 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", GTO CANAL 6.1 
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
+#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 PLUS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129042
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
