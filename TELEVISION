@@ -2293,6 +2293,9 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/162200
 
 #EXTINF:-1 group-title="MEXICO",Foro Tv SD =
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2447.m3u8
+
+
+
 #EXTINF:-1 group-title="MEXICO",Foro Tv SD (op2)
 http://166.0.208.26:4481/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO", FORO TV MX UHD®
@@ -2347,3 +2350,165 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
 
 
+
+
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35930f7c0284e5ec49d271911405a5da.png",LA: A&E
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5759
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/d771a83b62cac2dc9dffff4062283d81.png",LA: Aliento Vision
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/295646
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad58529eb9a545d2b1fd0893d7eaf417.png",LA: AMC
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2996
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/2860c7b8887341b3562511ee36e49f21.jpeg",LA: America Teve
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297034
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d70c71401b7d4da7d10e56ce4cdb85dd.png",LA: AXN
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2998
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-08/aea02a4b267193542fd66b9923f73861.png",LA: beIN Sports n
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299731
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7094f593037f91cf19b48829152f7412.png",LA: Bloomberg TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/71867
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/b6dd86d55ecf2e4caa1b3242a2a0be00.jpg",LA: Boing
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298149
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/04249b2b53774c473e57a399f8d6228f.jpg",LA: Boomerang
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298151
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24c5abcd3b88a3d9382fd2df13623209.png",LA: Cartoon Network
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3007
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/eb46683e4bee177863b80fb0efb815c9.png",LA: CBN
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298634
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/5c30980f4a80009facd4e4cc3c7c70d8.png",LA: Cinecanal
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/49452
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0da408e1ce31beda60e5ae859b8f8ac5.jpg",LA: Cinema Dinamita
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3010
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/08ba2b079383d5cceb0234f4820879b2.png",LA: Cinemax
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5770
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/59ccd74d59df49b579b67e37ec1cc01f.png",LA: Clover Channel
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299305
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3bfb9a1b6690135b0a81639e7d1bbdc7.png",LA: Comedy Central
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3015
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",LA: Como dice el dicho VIX+
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298649
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/188475ffb4a2ba53742721797c9b5b09.png",LA: Concert Channel
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/8701
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/490c0209efdc5ecd7dfea8c5b1402279.png",LA: DAZN 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/76336
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/1ad24ef5c1322fdf16a5a6072f065c5a.png",LA: Dios Te Ve Kids
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/295819
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/be2180be71921c8ec968979aaeda69d5.png",LA: DirecTV Sports
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298357
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac7477d84c2e10055979e887cc8c854e.png",LA: DirecTV Sports 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298358
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/91b4bfe0f3db3d3b452b846b242242c1.png",LA: DirecTV Sports plus
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298697
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/170f470424e5b9c40404492047bcab2d.png",LA: Discovery Channel
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281050
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/d38b9e0b2c7f464da439e211bbd89642.png",LA: Discovery Familia
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/147657
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/ff6bcb77307f08998262ff246c6b8c28.png",LA: Discovery H&H
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5774
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5d8a6d0bd0c1237d56625cb92cdde342.png",LA: Discovery Kids
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3020
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cac3f9679cec1213b995216d207a4c44.png",LA: Discovery Science
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3021
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4cf41989812d63a1b5bc1e488ad447e.png",LA: Discovery Theater
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3022
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb8e49ac28ac142eb2f1585fdb3f701e.png",LA: Discovery Turbo
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3023
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png",LA: Discovery World
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/8894
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eeb06c226acc25e1495ef0f80d0533f4.png",LA: Disney Channel
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3025
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf8964d602d9e1b26bab23889ee6677a.png",LA: Disney Junior
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3026
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/318758f8d26d3b300080e8ff794e1a45.png",LA: E!
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3029
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",LA: EnerGeek
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298822
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png",LA: ESPN
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5779
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc3120d8b6dd47f682035e748793b59f.png",LA: ESPN 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3031
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/3d85d5481dc8eb5bf70bd0d82e5f6e44.png",LA: ESPN 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3032
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/94c0ada67643d32a6df44618486e5e89.jpg",LA: ESPN 4
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/295304
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/539a05a3d37b2362763c4779fd461efc.png",LA: ESPN Deportes
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/6446
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/55f937782e1eff60fd0d2ed936aa5ce7.png",LA: ESPN Extra
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285105
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/360936a1cb06bb32c5ab1a7592c34b3b.png",LA: euronews
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299308
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/d961ab72b0b18daff2d982b6b7856f8d.jpg",LA: Eurosport 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298159
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da241cc841ed484ab111df681cfdaf8e.png",LA: Food Network
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/187033
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b2da659c16bc64a81f7fde756fc5850b.png",LA: FOX Sports
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/40839
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/03e0ed6e4c2d09e631fe0605a370a872.png",LA: FOX Sports 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/54432
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/380799e8f8cd7549abef0a92601254bb.png",LA: FOX Sports 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/40840
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14abd21acf87b4acf252690eda33dc6b.png",LA: FOX Sports 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3042
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10e3a77e5bf512f0b2235de814a343e2.png",LA: FX
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/34561
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7abccfac5e61cd02194cb5171ee1c8a.png",LA: Galavision
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/71860
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24771832e613cad63322d45334cd4699.png",LA: Glitz
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/45626
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/90279307d56a41bf8edda4bd3f2e6a50.png",LA: Gol TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/60971
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2f7cf34df9b0ceec221e79a887171cf9.png",LA: Golf Channel
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/76257
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png",LA: HBO
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3055
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png",LA: HBO 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3056
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bcb5ce199d5817bc957ff6dc510577d2.png",LA: HBO Family
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3057
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",LA: HBO Mundi
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/226015
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png",LA: HBO Signature
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3059
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png",LA: HBO Xtreme
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/148927
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf9a927cee9c2258c2a735e42a940ebc.png",LA: HBO+
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3058
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png",LA: HGTV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/187008
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/bd0d2390d955c4eee87b444264ea2ca0.png",LA: Hispan TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/187027
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/01407721fe0bc6698b7528bb74a2e8da.png",LA: Hola TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298058
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa736a0d75e817b038e3df45c3c46e81.png",LA: Investigation Discovery
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3063
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/278659b1caa1917b6669050604078d8f.png",LA: Kanal D Drama
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299311
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/cb516a2a324a30ee0428e506ba0577ab.png",LA: Las Estrellas
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298152
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2bafbfd0d059dc1b372611d3465a8063.png",LA: Lifetime
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3066
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f77e98038afdc8aabd10e1d675f4eb07.png",LA: Mas Chic
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3067
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/46b0516f0076f1d6b76adf4f6eab6fa7.png",LA: Mega TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/295841
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/c34a5b676610864fdc6ff17aedc599ee.png",LA: MTV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299314
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/2cb6212de04cd4a5ddd751297bc9cc36.png",LA: MTV 00s
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299313
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/a0507e5e292fe195d99f86b0eb85121f.svg",LA: MTV Live
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299315
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04e8a37535a0c55f5ca45ab0a15854a7.png",LA: NAT GEO
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3073
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6c489ce95abda2c6ed7c4fd52ec311e.png",LA: NAT GEO Mundo
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/267311
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6571f8f4e51ded8b78e6028593640aee.png",LA: NAT GEO Wild
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/8745
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b8d2a6a7d0c3588f50ccc190b3f6a40d.png",LA: NBC Universo
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/90120
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ee33bd11cd243384f5a340f8e12e189d.png",LA: Nick Jr
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3075
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4f2ba976aa4e755a5050bb4966037d34.png",LA: Nickelodeon
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3076
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/0758f64cb8edaeef73fc5c6400b4f3f1.png",LA: Nuestra Vision
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298979
+#EXTINF:-1 group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b52b3dd7436f99747482bce29accec55.png",LA: Paramount Network
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3077
