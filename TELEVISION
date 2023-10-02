@@ -264,10 +264,10 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 http://72.76.116.158:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision HD" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="TV ABIERTA", UNIVISIÓN 
-http://72.76.116.158:8000/play/a07t/index.m3u8
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148710
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN 
-http://svtv.xyz:8080/sandra30abril/CQNFV/109712
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148711
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN 
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
