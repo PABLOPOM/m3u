@@ -311,8 +311,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL
 http://45.170.225.212:58001/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL
-http://45.181.122.145:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL ma
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138106
 
 #EXTINF:-1 group-title="TV ABIERTA", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?autoplay=1
