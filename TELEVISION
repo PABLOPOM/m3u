@@ -50,8 +50,8 @@ http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 sk
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32403.ts?autoplay=1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 s
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32403.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 h
+http://lbxc20.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30354.m3u8?token=HRNfAEBQEwMVBFdXWlIAVwsAWFMCXloJXwNTBAEAClRXCAYCBFwJDwQVHUMQF0dQUlxmWVUaAwpWAANRSRNNEQNDaAhXGgsbBgACWVFBGRdHWFRVEwIJFURDXwFHCxpTVwcOUREUE1xPQ1QTDQJZaldUT1lSXRsDCEZaCUkTVww5VVIMUlZVGw0VAUNPQVxGQxMDXkRUVRVEUV8RF1BMB0QLFVUKDgkbGxVSDhYNQUdKEwMSfGAbFURWThEAX0sLCV8VWxFVAkwPFR1DChBqR1ZCTUJUWVRcFBEMR1UTFEALUE8+UFdfV1JURQgMDUYXCRMKEh0aVFYIWkIKF25ICwITDUMGCwgPFUo=
 
 #EXTINF:-1 group-title="TV ABIERTA",IMAGEN TV UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
