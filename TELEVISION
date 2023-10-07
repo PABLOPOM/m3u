@@ -566,6 +566,9 @@ https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION TUDN USA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
 
+#EXTINF:-1 group-title="TV ABIERTA", AZ DEPORTES
+http://tv.proyectox.vip:8080/live/jose123/QWsbRtFFnA/180062.ts
+
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
