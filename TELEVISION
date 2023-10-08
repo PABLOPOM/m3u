@@ -84,7 +84,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FRANCE24 
-http://576209368611339758.ofio.xyz:80/play/HCMNP577MK/1470603756/339758.ts
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
