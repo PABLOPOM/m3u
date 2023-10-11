@@ -344,6 +344,9 @@ http://166.0.208.26:4481/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 group-title="TV ABIERTA", DE PELICULA UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3730
 
+#EXTINF:-1 group-title="TV ABIERTA", CANTINFLAS 
+http://50.7.66.234:8080/rub/0302/1144258
+
 #EXTINF:-1 group-title="TV ABIERTA", DISTRITO COMEDIA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 
