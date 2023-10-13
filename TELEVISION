@@ -83,6 +83,9 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FRANCE24 UHD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697191392/ei/gMEoZbfhI9C_6dsP466wWA/ip/89.163.231.66/id/Y-IlMeCCtIg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9sUPSpPqRROFOMGN9VX4_HiqIpO0glO_Cv9fQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAIuuVI_8omF4zyg-TkVbI2cVUQ8GCi8tHMIhOBw33qneAiBtB0dl4UdA-H4coy9991lbc-DnieuSr22C_TgL_VJU4g%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FRANCE24 
 https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
