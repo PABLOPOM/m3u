@@ -103,6 +103,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE UHD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697193424/ei/cMkoZbiVDqq5x_AP-v2Y2Ak/ip/89.163.231.66/id/8GmR9H2iH8Q.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6fnZu_veQQQEq_0OUyV5QkcupPdjCZP2kgsAQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgRvJ-H4kkldqiuJRpfvC6OKjYz1yq_8IXXfYKL2EEZEMCIQCkYJmLxCbeGo25-1mWaiAAuVnoWMzsmzpEyjYbHYQR-g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
