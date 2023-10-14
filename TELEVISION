@@ -90,6 +90,9 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="TV ABIERTA", HISPAN TV  
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", T13
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?dpssid=b4935253743652a176089fb7&sid=ba5t1l1xb41760095094652a176089fb4&ndvc=1
+
 #EXTINF:-1 group-title="TV ABIERTA", DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
