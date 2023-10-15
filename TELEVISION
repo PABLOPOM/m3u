@@ -292,8 +292,8 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo HD" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="TV ABIERTA", TELEMUNDO
-http://72.76.116.158:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo HD" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="TV ABIERTA", TELEMUNDO 51
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 
 #EXTINF:-1 tvg-id="Univision HD" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="TV ABIERTA", UNIVISIÓN 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/148710
