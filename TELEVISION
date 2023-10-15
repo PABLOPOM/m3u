@@ -349,6 +349,12 @@ http://45.170.225.212:58001/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL ma
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138106
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="Cine",SONY MOVIES
+http://45.166.92.22:58001/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6x8jKgKJQdDMR7Be8ZQjnnHyrsrlVhj1yg&usqp=CAU" group-title="Cine",DHE
+http://45.166.92.22:58001/play/a00v/index.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?autoplay=1
 
