@@ -83,9 +83,11 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FRANCE24 UHD
+https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FRANCE24 
 https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="TV ABIERTA", HISPAN TV  
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
