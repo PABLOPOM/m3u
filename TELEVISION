@@ -232,8 +232,11 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2137.m3u8?
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1  
 http://187.188.232.236:1021/play/a06m/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA",TV Migrante  
+#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA", TV Migrante  
 https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", TV TLAXCALA 
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", CHP Canal 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
