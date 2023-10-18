@@ -24,7 +24,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS UHD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/129048
+http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/129048
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS Mx 2.1
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8
@@ -54,13 +54,13 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32403.ts?autoplay=1
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30354.t?autoplay=1
 
 #EXTINF:-1 group-title="TV ABIERTA",IMAGEN TV UHD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
+http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 
 #EXTINF:-1 group-title="TV ABIERTA",EXCELSIOR TV 
 https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA",EXCELSIOR TV UHD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/153574
+http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/153574
 
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
