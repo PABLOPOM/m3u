@@ -62,6 +62,9 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30354.t?autoplay=1
 #EXTINF:-1 group-title="TV ABIERTA",IMAGEN TV UHD
 http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 
+#EXTINF:-1 group-title="TV ABIERTA",IMAGEN TV web
+https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=huA8gX2mmQyoxoRngsPfV9NpEmcEfZW3dI8wPgJBn73seORRN6SbMHC6bxBRTdP4&dmTs=846959&dmV1st=fc72240e-e159-4d8e-863a-9d2317ac2ac3
+
 #EXTINF:-1 group-title="TV ABIERTA",EXCELSIOR TV 
 https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
