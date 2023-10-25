@@ -2422,10 +2422,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143224
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 
 
-#EXTINF:-1 group-title="5 CANAL 5",Canal 5 HD (XHGC-TDT)
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
-#EXTINF:-1 group-title="5 CANAL 5",Canal 5 HD Mexico
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140213
 
 
 
@@ -2648,6 +2644,25 @@ https://ythlsgo.onrender.com/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
 https://ythlsgo.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
 #EXTINF:-1 tvg-id="TelevisaZacatecas.mx",Televisa Zacatecas (720p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
+
+#EXTINF:-1,tvg-name="Stingray Hit List", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Hit List
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
+#EXTINF:-1,tvg-name="Stingray Rock Alternative", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1,tvg-name="Stingray Classic Rock", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1,tvg-name="Stingray Pop Adult", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1,tvg-name="Stingray Urban Beats", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1,tvg-name="Stingray Flashback 70s", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1,tvg-name="Stingray Hot Country", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Hot Country
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1,tvg-name="Stingray Everything 80s", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1,tvg-name="Stingray Today's Latin Pop", tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="Musica",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 
 
 #EXTINF:-1 group-title="ESPANA",TVE LA 1 HD
