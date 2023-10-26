@@ -62,9 +62,6 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30354.t?autoplay=1
 #EXTINF:-1 group-title="TV ABIERTA",IMAGEN TV UHD
 http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 
-#EXTINF:-1 group-title="TV ABIERTA",IMAGEN TV web
-https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=huA8gX2mmQyoxoRngsPfV9NpEmcEfZW3dI8wPgJBn73seORRN6SbMHC6bxBRTdP4&dmTs=846959&dmV1st=fc72240e-e159-4d8e-863a-9d2317ac2ac3
-
 #EXTINF:-1 group-title="TV ABIERTA",EXCELSIOR TV 
 https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
@@ -163,9 +160,6 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/129042
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 
-#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?uid=FH99dvmnUxAlqG5QKOHtl7d2fysm8sv6&sid=yPdLrXOinpUhusQxpNeKfg8rOxpIuzZP&pid=RwucCDZc0UdujDw3thNHA9jmqgfpfOrh&an=screen&at=web-app&av=v5.2.377&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=358x179&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=c7752370-6b18-4639-a1bd-3e6e52613e3a
-
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 Plus
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129042
 
@@ -189,9 +183,6 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7.1 ma
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129033
-
-#EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.2" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="TV ABIERTA", AZ+ 7.2 
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.2" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="TV ABIERTA", AZ+ 7.2 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
