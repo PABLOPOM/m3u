@@ -387,7 +387,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/3730
 #EXTINF:-1 group-title="TV ABIERTA", CANTINFLAS 
 http://50.7.66.234:8080/rub/0302/1144258
 
-#EXTINF:-1 channel-id="pluto-60f58f2278490000079bc47b" tvg-id="60f58f2278490000079bc47b" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/60f58f2278490000079bc47b/colorLogoPNG.png" group-title="TV ABIERTA" , LA NIÑERA
+#EXTINF:-1 group-title="TV ABIERTA" , LA NIÑERA
 https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", DISTRITO COMEDIA
