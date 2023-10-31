@@ -2734,3 +2734,153 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/126184
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/126185
 
 
+
+#EXTINF:-1 tvg-id="Azteca Uno (Mx)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno (Mx)
+http://181.78.105.146:2000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca Uno HD (mxX1)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno HD (mxX1)
+http://45.167.253.253:4000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca Uno HD (X1)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno HD (X1)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="Azteca Uno (GuaX2)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno (GuaX2)
+http://181.78.105.146:2000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40 (mxX1)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 (mxX1)
+http://45.167.253.253:4000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40 HD (X1)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 HD (X1)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40 HD (L33)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 HD (L33)
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28050
+
+#EXTINF:-1 tvg-id="Las Estrellas (GuaX2)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas (GuaX2)
+http://181.78.105.146:2000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas (Gua6)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas (Gua6)
+http://181.78.105.146:8800/play/las4
+
+#EXTINF:-1 tvg-id="Las Estrellas (Mx)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch",Las Estrellas (Mx)
+http://181.78.105.146:2000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas HD (mxX1)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas HD (mxX1)
+http://45.167.253.253:4000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas HD (L33)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas HD (L33)
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27976
+
+#EXTINF:-1 tvg-id="Las Estrellas HD (Hon3)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas HD (Hon3)
+http://190.92.7.19:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-id="Imagen TV (Mx)" tvg-logo="https://i.imgur.com/g9F5v93.png" group-title="Verch" group-title="General",Imagen TV (Mx)
+http://181.78.105.146:2000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="Imagen TV (GuaX2)" tvg-logo="https://i.imgur.com/g9F5v93.png" group-title="Verch" group-title="General",Imagen TV (GuaX2)
+http://181.78.105.146:2000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="Imagen TV HD (mxX1)" tvg-logo="https://i.imgur.com/g9F5v93.png" group-title="Verch" group-title="General",Imagen TV HD (mxX1)
+http://45.167.253.253:4000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="Foro TV (mxX1)" tvg-logo="https://i.imgur.com/hncmWM2.png" group-title="Verch" group-title="General",Foro TV (mxX1)
+http://45.167.253.253:4000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="Foro TV HD (L33)" tvg-logo="https://i.imgur.com/hncmWM2.png" group-title="Verch" group-title="General",Foro TV HD (L33)
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28002
+
+#EXTINF:-1 tvg-id="Canal 5 (Mx)" tvg-logo="https://i.imgur.com/jWXUUJb.png" group-title="Verch" group-title="General",Canal 5 (Mx)
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 5 (GuaX2)" tvg-logo="https://i.imgur.com/jWXUUJb.png" group-title="Verch" group-title="General",Canal 5 (GuaX2)
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 5 HD (mxX1)" tvg-logo="https://i.imgur.com/jWXUUJb.png" group-title="Verch" group-title="General",Canal 5 HD (mxX1)
+http://45.167.253.253:4000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 6 (Mx)" tvg-logo="https://i.imgur.com/MjE2XiL.png" group-title="Verch" group-title="General",Canal 6 (Mx)
+http://181.78.105.146:2000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 6+ (GuaX2)" tvg-logo="https://i.imgur.com/MjE2XiL.png" group-title="Verch" group-title="General",Canal 6+ (GuaX2)
+http://181.78.105.146:2000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 6 HD MTY" tvg-logo="https://i.imgur.com/MjE2XiL.png" group-title="Verch" group-title="General",Canal 6 HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="Canal 6+ HD GDL HD" tvg-logo="https://i.imgur.com/MjE2XiL.png" group" group-title="Verch" group-title="General",Canal 6+ HD
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-id="Canal 6 HD (L33)" tvg-logo="https://i.imgur.com/MjE2XiL.png" group-title="Verch" group-title="General",Canal 6 HD (L33)
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28053
+
+#EXTINF:-1 tvg-id="Canal 6+ HD (L33)" tvg-logo="https://i.imgur.com/MjE2XiL.png" group" group-title="Verch" group-title="General",Canal 6+ HD (L33)
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28024
+
+#EXTINF:-1 tvg-id="Azteca 7 (Mx)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 (Mx)
+http://181.78.105.146:2000/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7 (Mx)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 (Mx)
+http://181.78.105.146:2000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7 (GuaX2)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 (GuaX2)
+http://181.78.105.146:2000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7 HD (mxX1)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 HD (mxX1)
+http://45.167.253.253:4000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7 HD (X1)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 HD (X1)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-id="A Más+ (mxX1)" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Verch" group-title="General",A Más+ (mxX1)
+http://45.167.253.253:4000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="A Más+ (X1)" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Verch" group-title="General",A Más+ (X1)
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="AzClic HD (GuaX1)" tvg-logo="https://i.imgur.com/CdIcbpi.png" group-title="Verch" group-title="General",AzClic HD (GuaX1)
+http://45.228.232.205:16000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="AzClic HD (L33)" tvg-logo="https://i.imgur.com/CdIcbpi.png" group-title="Verch" group-title="General",AzClic HD (L33)
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28048
+
+#EXTINF:-1 tvg-id="Azcorazon (GuaX1)" tvg-logo="https://i.imgur.com/hKgSGRS.png" group-title="Verch" group-title="General",Azcorazon (GuaX1)
+http://45.228.232.205:16000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-id="Azcorazon (Hon2)" tvg-logo="https://i.imgur.com/hKgSGRS.png" group-title="Verch" group-title="General",Azcorazon (Hon2)
+http://45.166.92.22:58001/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="Azcorazon HD (X2)" tvg-logo="https://i.imgur.com/hKgSGRS.png" group-title="Verch" group-title="General",Azcorazon HD (X2)
+http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Azmundo (GuaX1)" tvg-logo="https://i.imgur.com/QnPkuYJ.png" group-title="Verch" group-title="General",Azmundo (GuaX1)
+http://45.228.232.205:16000/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-id="Azmundo (Hon3)" tvg-logo="https://i.imgur.com/QnPkuYJ.png" group-title="Verch" group-title="General",Azmundo (Hon3)
+http://190.92.7.19:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca GUA" tvg-logo="https://i.imgur.com/1Ls2xpy.png" group-title="Verch" group-title="General",Azteca GUA
+http://190.122.186.88:8000/play/a0hf/index.m3u8 
+
+#EXTINF:-1 tvg-id="Canal 8 MMTY HD" tvg-logo="https://i.imgur.com/iQtZpRV.png" group-title="Verch" group-title="General",Canal 8 HD
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-id="Canal 10 Cancun" tvg-logo="https://i.imgur.com/JCBZaHf.png" group-title="Verch" group-title="General",Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 10 Cancun HD" tvg-logo="https://i.imgur.com/JCBZaHf.png" group-title="Verch" group-title="General",Canal 10 HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 11 Mx HD" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Verch" group-title="General",Canal 11 HD
+https://vivo.Canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 11 Mx HD" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Verch" group-title="General",Canal 11 HD
+http://45.167.253.253:4000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 11 niños" tvg-logo="https://i.imgur.com/0ngU754.png" group-title="Verch" group-title="General",Canal 11 niños
+http://45.167.253.253:4000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 14 Mx HD" tvg-logo="https://i.imgur.com/Ven8QtI.png" group-title="Verch" group-title="General",Canal 14 HD
+http://45.167.253.253:4000/play/a00s/index.m3u8
