@@ -104,6 +104,12 @@ https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 
 https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 
+#EXTINF:-1 tvg-id="France24 (GuaX1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="General", FR FRANCE24 (GuaX1)
+http://45.228.232.205:16000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-id="France24 (X1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="General", FR FRANCE24 (X1)
+https://marine2.miplay.cl/france24/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="TV ABIERTA", IR HISPAN TV  
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 
