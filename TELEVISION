@@ -366,8 +366,8 @@ http://38.43.140.97:8000/play/a01b/index.m3u8?
 #EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="TV ABIERTA", CINE SONY
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL ma
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/138106
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL 
+http://200.69.87.250:12500/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
 http://45.166.92.22:58001/play/a00u/index.m3u8
