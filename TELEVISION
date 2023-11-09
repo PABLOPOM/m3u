@@ -17,9 +17,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 md
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 web
-https://dai.google.com/linear/hls/pa/event/8FUmvMX3ShuQTgE3tEqxNg/stream/b5455d4b-bd7a-42bb-bc40-b215de8c1fda:TUL/master.m3u8
-
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 -1h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
@@ -99,7 +96,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 UHD
-https://ythlsgo.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 
 https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
@@ -139,13 +136,13 @@ https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-toke
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA PUEBLA 
-https://ythlsgo.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
-https://ythlsgo.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
+https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA QUERÉTARO 
-https://ythlsgo.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.1 
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
