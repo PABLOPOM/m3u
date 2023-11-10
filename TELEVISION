@@ -339,6 +339,9 @@ https://v3.playerlatino.live/stream/m3u8/92
 #EXTINF:-1 group-title="TV ABIERTA", HOGAR 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
 
+#EXTINF:-1 group-title="TV ABIERTA", GARAGETV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", DISCOVERY H&H
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2026
 
