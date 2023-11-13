@@ -2745,24 +2745,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/126184
 #EXTINF:-1 group-title="ESPANA",MOVISTAR SERIES MANIA HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/126185
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/mx.xml"
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb" tvg-id="608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" , 123GO!
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800" tvg-id="608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" , 5-Minute Crafts
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01" tvg-id="608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b35ffdb-bcf2-4c00-b6cc-e11dd0a45852/Plex_cornhole__1500x1000_white_-_Brendan_Canning.png" , ACL Cornhole TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421" tvg-id="608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" , AFV Español
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63e6381d8895074ec6c78b16" tvg-id="608049aefa2b8ae93c2c3a63-63e6381d8895074ec6c78b16" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df3708df-c16d-43d0-8477-18c5470406fe/AKCtvChannel-Logo-_Dark_-1500x1000px_Bill_Ellis.png" , AKC.tv
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63e6381d8895074ec6c78b16.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60bfd0907c60b7002c9765de" tvg-id="608049aefa2b8ae93c2c3a63-60bfd0907c60b7002c9765de" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42887ec2-a7de-47af-b491-617c3e237008/altrdtv_free_logoredux.png" , ALTRD.TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60bfd0907c60b7002c9765de.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81" tvg-id="608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba0b7563-f805-4ee2-903f-f4fc5149ad0c/artflix_logo_light_-_Toni_Newesil.png" , ARTFLIX - Películas Clásicas
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8
@@ -2770,20 +2753,8 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a11b1ba3-d109-45ec-a87e-4312bad0682c/uno-hora_color_logodrx.png" , AZTECA UNO -1 hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60e737a4ebef9d002c4d0a0c" tvg-id="608049aefa2b8ae93c2c3a63-60e737a4ebef9d002c4d0a0c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" , AfroLandTV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60e737a4ebef9d002c4d0a0c.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62efbb8652f7d73061eec498" tvg-id="608049aefa2b8ae93c2c3a63-62efbb8652f7d73061eec498" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" , Alternative
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62efbb8652f7d73061eec498.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd" tvg-id="608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" , Always Funny
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811" tvg-id="608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811" tvg-logo="https://provider-static.plex.tv/epg/cms/production/890f3b89-1ff3-4f40-8f26-fbb5633010e5/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png" , Autopista al Cielo
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0" tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94b95e02-4cd5-4739-bb43-cd2a26158a85/aym_sports_logo_light_-_Jordan_Warkol.png" , Aym Sports TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8" tvg-id="608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" , Azteca Internacional
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8.m3u8
@@ -2791,17 +2762,13 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a" tvg-id="608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4191909-02c9-4043-9a9a-9344a83653e4/Bigtime_Light_Mode_Logo.png" , Bigtime - Películas Gratis
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c" tvg-id="608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f676bd67-0e26-4cd3-88dd-46fca5130bee/Plex_billiard__1500x1000__color_rdxfds.png" , Billiard TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64a353a864e8e3dc0a29524f" tvg-id="608049aefa2b8ae93c2c3a63-64a353a864e8e3dc0a29524f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24255bb1-0bb1-472a-88fb-bf7947ae8bd7/BSN_Plex_1500x1000_White_Transparent-Attribution_-_Lynne_Costantini.png" , Black Star Network
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64a353a864e8e3dc0a29524f.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518" tvg-id="608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518" tvg-logo="https://provider-static.plex.tv/epg/cms/production/435696d7-3d74-47d0-b108-e56e0e0df40e/BBOriginals_2023_Plex_Stacked_WHTrdx.png" , Bloomberg Originals
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516" tvg-id="608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" , Bloomberg TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516.m3u8
+
+
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6334bd648a7b2a349d903bc3" tvg-id="608049aefa2b8ae93c2c3a63-6334bd648a7b2a349d903bc3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c2734fc-7d8c-494f-b8ab-b506c8dba6e2/channel_logo_light_booniecubstv_-_Jordan_Warkolrdx.png" , Boonie Cubs TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6334bd648a7b2a349d903bc3.m3u8
