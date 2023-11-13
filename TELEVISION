@@ -2768,40 +2768,14 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516" tvg-id="608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" , Bloomberg TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516.m3u8
 
-
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6334bd648a7b2a349d903bc3" tvg-id="608049aefa2b8ae93c2c3a63-6334bd648a7b2a349d903bc3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c2734fc-7d8c-494f-b8ab-b506c8dba6e2/channel_logo_light_booniecubstv_-_Jordan_Warkolrdx.png" , Boonie Cubs TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6334bd648a7b2a349d903bc3.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f" tvg-id="608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png" , Brat TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-id="608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" , Butaca TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6" tvg-id="608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" , CINEPRIDE
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-618adcbb6769b2b0bcc4c17f" tvg-id="608049aefa2b8ae93c2c3a63-618adcbb6769b2b0bcc4c17f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b423ff8b-a491-48ae-8148-7f30ac09d7c9/Jacob_Gordon_-_Commune_Logo_Light.png" , COMMUNE
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-618adcbb6769b2b0bcc4c17f.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e" tvg-id="608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" , COPS
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6164a963766ab4f9f57e81b1" tvg-id="608049aefa2b8ae93c2c3a63-6164a963766ab4f9f57e81b1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png" , Camp Spoopy
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6164a963766ab4f9f57e81b1.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65" tvg-id="608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dee3468a-a0c7-499f-a92b-84efd63b84de/CL_logo.png" , CampusLore Sports
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947" tvg-id="608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" , Canela Clásicos
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529" tvg-id="608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b2ed753-566f-476c-9329-1f08221de7a6/CM-Amagi-Artwork_4-1500x1000_-_Camila_Conti_WHITE_LETTERS_REDLOGO.png" , Canela Telenovelas
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-id="608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" , Choppertown
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc" tvg-id="608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5564f22-68b4-48a4-b797-0efe45c73103/Logo_w_-_JENNIFER_MCBRIDE_colorrdx2.png" , Cine Premium Plus
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc.m3u8
@@ -2826,6 +2800,8 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12" tvg-id="608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4c4f9712-5b0b-4516-bf4d-2ecc79da9c7b/clixtv-logo.png" , ClixTV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12.m3u8
+
+
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-637f7d26eb853a321461cb63" tvg-id="608049aefa2b8ae93c2c3a63-637f7d26eb853a321461cb63" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c255cdee-fd08-4c27-9a52-8e6df187c44b/CoinDeskTV_logo_dark.png" , CoinDesk TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-637f7d26eb853a321461cb63.m3u8
