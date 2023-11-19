@@ -366,17 +366,29 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="TV ABIERTA", AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO 
+http://181.189.243.217:8000/play/a0oo/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TV ABIERTA", STUDIO UNIVERSAL
-http://38.43.140.97:8000/play/a01b/index.m3u8?
+http://181.189.243.217:8000/play/a0q2/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="TV ABIERTA", CINE SONY
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL 
-http://200.69.87.250:12500/play/a04e/index.m3u8
+http://45.166.92.22:58001/play/a04a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL 
+http://181.189.243.217:8000/play/a0s5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
 http://45.166.92.22:58001/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
+http://181.78.105.146:6060/play/a02l
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
+http://181.78.105.146:8800/play/a04w
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6x8jKgKJQdDMR7Be8ZQjnnHyrsrlVhj1yg&usqp=CAU" group-title="TV ABIERTA",DHE
 http://45.166.92.22:58001/play/a00v/index.m3u8
