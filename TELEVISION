@@ -199,7 +199,8 @@ https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", NU9VE 9.1
 http://166.0.208.23:4481/galaTV/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 UHD
+http://45.167.253.253:4000/play/a00u/index.m3u8
 http://187.188.232.236:1021/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 
@@ -220,7 +221,8 @@ https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.s
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1  
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1 UHD
+http://45.167.253.253:4000/play/a00s/index.m3u8
 http://187.188.232.236:1021/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA", TV Migrante  
