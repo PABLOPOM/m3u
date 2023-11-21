@@ -116,6 +116,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", FR EURONEWS 
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", CHN
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?did=b1311878331652c4927ae377
 
