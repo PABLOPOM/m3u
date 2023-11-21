@@ -150,9 +150,9 @@ https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.3   
 https://5f1af61612fb5.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1 UHD
+http://45.167.253.253:4000/play/a016/index.m3u8
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
-
 
 #EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="CANAL 6 BAJIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV ABIERTA", GTO CANAL 6.1 
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
@@ -174,6 +174,9 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="TV ABIERTA", MVS TV 6.4
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7.1 UHD
+http://45.167.253.253:4000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7.1 md
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
