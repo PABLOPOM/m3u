@@ -63,6 +63,9 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/130017
 
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 UHD
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28050
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg" group-title="TV ABIERTA", MEGA NOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 
