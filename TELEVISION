@@ -274,6 +274,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg" group-title="TV ABIERTA", TASTEMADE español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
 
+#EXTINF:-1 group-title="TV ABIERTA", HISTORY
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28022
+
 #EXTINF:-1 group-title="TV ABIERTA", 13CULTURA
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
 
