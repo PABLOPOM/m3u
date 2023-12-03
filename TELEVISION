@@ -353,8 +353,7 @@ http://45.176.232.106:45000/play/a05m
 http://45.176.232.106:45000/play/a03x
 
 #EXTINF:-1 tvg-id="Cine PREMIUM HD (Ecua1)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="TV ABIERTA", Cine PREMIUM HD (Ecua1)
-http:
-
+http://177.234.230.226:8010/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TV ABIERTA", STUDIO UNIVERSAL
 http://181.189.243.217:8000/play/a0q2/index.m3u8?
