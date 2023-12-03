@@ -265,6 +265,9 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", BITME
 http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", NUESTRA VISIÓN 
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="TV ABIERTA", CARTOON NETWORK MÉXICO
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
