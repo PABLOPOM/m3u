@@ -340,6 +340,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO 
 http://181.189.243.217:8000/play/a0oo/index.m3u8
 
+#EXTINF:-1 tvg-id="Cine FAMILIAR HD (Colx)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="TV ABIERTA", Cine FAMILIAR HD (Colx)
+http://45.176.232.106:45000/play/a03u
+
+#EXTINF:-1 tvg-id="Cine FAMILIAR HD (Ecua1)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="TV ABIERTA", Cine FAMILIAR HD (Ecua1)
+http://177.234.230.226:8010/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine HISPANO HD (Colx)" tvg-logo="https://i.imgur.com/WnK4e3E.png" group-title="TV ABIERTA", Cine HISPANO HD (Colx)
+http://45.176.232.106:45000/play/a05m
+
+#EXTINF:-1 tvg-id="Cine PREMIUM HD (Colx)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="TV ABIERTA", Cine PREMIUM HD (Colx)
+http://45.176.232.106:45000/play/a03x
+
+#EXTINF:-1 tvg-id="Cine PREMIUM HD (Ecua1)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="TV ABIERTA", Cine PREMIUM HD (Ecua1)
+http:
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TV ABIERTA", STUDIO UNIVERSAL
 http://181.189.243.217:8000/play/a0q2/index.m3u8?
 
