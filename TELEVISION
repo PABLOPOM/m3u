@@ -325,6 +325,15 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/132595
 #EXTINF:-1 group-title="TV ABIERTA", HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90" tvg-id="608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8e36746-5a92-4d58-b415-28280a044123/cinema_logo_light-01_-_James_Stowerdx.png" group-title="TV ABIERTA" , Cinema
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e" tvg-id="608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="TV ABIERTA" , Clic
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12" tvg-id="608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4c4f9712-5b0b-4516-bf4d-2ecc79da9c7b/clixtv-logo.png" group-title="TV ABIERTA", ClixTV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV ABIERTA", AZ CORAZON
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
