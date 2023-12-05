@@ -157,6 +157,9 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzP
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 6.3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", MTV 80s
+http://190.149.66.90:4000/play/a013/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="TV ABIERTA", MVS TV 6.4
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
@@ -320,7 +323,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", DISCOVERY H&H
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/2026
+http://190.149.66.90:4000/play/a03o/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", HOLA TV
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/132595
