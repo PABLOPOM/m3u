@@ -352,8 +352,14 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="TV ABIERTA", AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO HD
+http://190.149.66.90:4000/play/a00a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO 
 http://181.189.243.217:8000/play/a0oo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO SD
+http://190.149.66.90:4000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine FAMILIAR HD (Colx)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="TV ABIERTA", Cine FAMILIAR HD (Colx)
 http://45.176.232.106:45000/play/a03u
