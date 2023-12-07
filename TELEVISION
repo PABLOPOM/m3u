@@ -5,6 +5,9 @@ https://
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1  UHD
 http://45.167.253.253:4000/play/a00x/index.m3u8
 
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1  UHD
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/82.m3u8
+
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129032
 
 http://187.188.232.236:1021/play/a06j/index.m3u8
