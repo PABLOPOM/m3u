@@ -350,7 +350,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://190.149.66.90:4000/play/a03o/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", HOLA TV
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132595
+http://190.149.66.90:4000/play/a03p/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
