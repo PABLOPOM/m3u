@@ -478,6 +478,12 @@ http://190.149.66.90:4000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", TNT
 http://190.149.66.90:4000/play/a03m/index.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", AMC
+http://190.149.66.90:4000/play/a01m/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", A
+http://190.149.66.90:4000/play/a04r/index.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", HBO Family
 http://190.149.66.90:4000/play/a00f/index.m3u8
 
