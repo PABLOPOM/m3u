@@ -61,9 +61,6 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", N+ REPETICIÓN 
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 HD
-https://us-b7-i-e-fn1.cdn.mdstrm.com/live-stream/60b578b060947317de7b57ac/publish/media_1500.m3u8?aid=5fea0f3673148d5d52cf6a76&pid=CQKCMqdjLemgFk2hWkjW2TC70mS3r3kk&sid=VC3I4uDxyv0d35OWCzIpDj4x2IAuFS3K&uid=scp9QAULlLhCg0qEdZlseJTe8BxyrgfP&es=us-b7-i-e-fn1.cdn.mdstrm.com&ote=1703687837560&ot=FUxjD-MM3G9OI33dcq8idQ&proto=https&pz=us
-
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/130017
