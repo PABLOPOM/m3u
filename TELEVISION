@@ -119,6 +119,9 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA",  EU NASA
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azbE4wl.png" group-title="TV ABIERTA", TELEVISA MONTERREY   
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/143.m3u8
 
