@@ -3698,3 +3698,23 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", NU9VE
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PREMIER
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DPELICULA
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DPELICULA PLUS
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DISTRITO COMEDIA
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
