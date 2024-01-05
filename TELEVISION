@@ -3754,5 +3754,9 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", BANDAMAX
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", 8 MTY
+https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", 4 GDL
+https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 
 
