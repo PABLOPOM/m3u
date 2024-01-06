@@ -719,11 +719,15 @@ http://tv.proyectox.vip:8080/live/jose123/QWsbRtFFnA/180062.ts
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", FOX SPORTS PREMIUM 
-http://166.0.208.26:4481/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" group-title="TV ABIERTA", FOX Sports
+http://45.172.218.126:8000/play/a01v/index.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", FOX SPORTS PREMIUM 
-http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" group-title="TV ABIERTA", FOX Sports 2
+http://45.172.218.126:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" group-title="TV ABIERTA", FOX Sports 3 
+http://45.172.218.126:8000/play/a00y/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="TV ABIERTA", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
@@ -789,7 +793,7 @@ https://5fa5de1a545ae.streamlock.net:443/8030/8030/chunñllist_w591358697.m3u8
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", FLASH 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", FLAS 
 https://regioplay.xyz/php/SR_REGIO_105023_/distroregio.php?token=SrRegio&c=flash-1&f=.m3u8?
 
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", CONECTATV 
