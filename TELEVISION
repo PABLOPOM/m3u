@@ -42,13 +42,13 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -1h
-https://linear-414.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -2h
-https://linear-415.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS INTERNACIONAL 
-https://linear-416.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -2h
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162200
