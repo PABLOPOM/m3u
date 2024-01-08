@@ -149,6 +149,12 @@ https://5f1af61612fb5.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
 http://45.167.253.253:4000/play/a016/index.m3u8
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
 
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1 
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1 
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOSTV.mx" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="TV ABIERTA", MULTIMEDIOS CDMEXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
@@ -222,7 +228,10 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", NU9VE 9.1
-http://166.0.208.23:4481/galaTV/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", NU9VE 9.1
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 UHD
 http://45.167.253.253:4000/play/a00u/index.m3u8
