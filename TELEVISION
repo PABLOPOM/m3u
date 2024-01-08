@@ -722,13 +722,22 @@ http://tv.proyectox.vip:8080/live/jose123/QWsbRtFFnA/180062.ts
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" group-title="TV ABIERTA", FOX Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="TV ABIERTA", ESPN  
+http://45.172.218.126:8000/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="TV ABIERTA", ESPN 2
+http://45.172.218.126:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn3.png" group-title="TV ABIERTA", ESPN 3
+http://45.172.218.126:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" group-title="TV ABIERTA", FOX SPORTS
 http://45.172.218.126:8000/play/a01v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" group-title="TV ABIERTA", FOX Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" group-title="TV ABIERTA", FOX SPORTS 2
 http://45.172.218.126:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" group-title="TV ABIERTA", FOX Sports 3 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" group-title="TV ABIERTA", FOX SPORTS 3 
 http://45.172.218.126:8000/play/a00y/index.m3u8
 
 
