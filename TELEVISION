@@ -3804,4 +3804,27 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", N+ MEDIA
 https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",Claro Sports 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="Sports",Espn Deportes
+http://sysadminhost.net:8080/F17425/8ffdb770/6446
+#EXTINF:-1 group-title="Sports",Fox sport 3 Latinoamerica
+http://167.250.222.35:16000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Sports",Espn 2 Latinoamerica
+http://sysadminhost.net:8080/F17425/8ffdb770/3031
+#EXTINF:-1 group-title="Sports",Espn 3 Latinoamerica
+http://sysadminhost.net:8080/F17425/8ffdb770/3032
+#EXTINF:-1 group-title="Sports",Tudn
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
+#EXTINF:-1 group-title="Sports",Zona Tudn
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="Sports",AyM sports
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 group-title="Sports",M+ La Liga
+http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
+#EXTINF:-1 group-title="Sports",Wapa Deportes
+https://live.field59.com/wapa/wapa2/.m3u8
+#EXTINF:-1 group-title="Sports",Teledeportes
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+
 
