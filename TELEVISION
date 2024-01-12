@@ -348,7 +348,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
-https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8?
+http://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg" group-title="TV ABIERTA", TASTEMADE español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
