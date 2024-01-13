@@ -180,9 +180,6 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1 
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", ULTRA FM PUEBLA
-https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
-
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOSTV.mx" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="TV ABIERTA", MULTIMEDIOS CDMEXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
@@ -218,6 +215,12 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzP
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 6.3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", BANDAMAX
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", ULTRA FM PUEBLA
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA",  OLD MUSIC
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
@@ -347,6 +350,9 @@ http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", NUESTRA VISIÓN 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", DPELICULA PLUS
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="TV ABIERTA", CARTOON NETWORK MÉXICO
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
@@ -558,6 +564,9 @@ http://161.132.243.192:50001/play/a01f/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", GOLDEN PREMIER 
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", GOLDEN EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", GOLDEN EDGE
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/3762.ts
