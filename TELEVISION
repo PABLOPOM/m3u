@@ -795,6 +795,12 @@ http://tv.proyectox.vip:8080/live/jose123/QWsbRtFFnA/180062.ts
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", WAPA DEPORTES
+https://live.field59.com/wapa/wapa2/.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="TV ABIERTA", ESPN  
 http://45.172.218.126:8000/play/a03s/index.m3u8
 
