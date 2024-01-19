@@ -363,6 +363,9 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", NUESTRA VISIÓN 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", DPELICULA 
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", DPELICULA PLUS
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
