@@ -330,7 +330,7 @@ https://60ed5b6d0df78.streamlock.net:1936/tvunam/tvunam/playlist.m3u8?
 https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 
-https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8?
+https://video.cdmx.gob.mx/redes/stream.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 Mx
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8?
