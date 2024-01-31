@@ -67,7 +67,7 @@ http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV WED 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV WEB 
 https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=huA8gX2mmQyoxoRngsPfV5btlCO5d8-8DlCgdk8yJuTscsQ4bm81_ptqP8Fs7pUU&dmTs=654185&dmV1st=0a9edacc-448c-463b-88f3-44b182d2b636
 
 #EXTINF:-1 group-title="TV ABIERTA",EXCELSIOR TV 
