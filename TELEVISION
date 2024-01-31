@@ -94,7 +94,7 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28050
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg" group-title="TV ABIERTA", MEGA NOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", HERALDO TV
+#EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2020/02/dplnews_heraldo-tv_dn040220.jpg" group-title="TV ABIERTA", HERALDO TV
 https://dailymotion.com/cdn/live/video/x88epch.m3u8?sec=nBPg1kA7JQ4jz43f3W2FkuIeZaHgoEVEU3xEBihdzEVvnYEiG3F5da8AveWwnPjn&dmTs=858720&dmV1st=09572226-c38a-4b59-8c0a-f98272f9a8ff
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
