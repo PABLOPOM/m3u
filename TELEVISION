@@ -167,6 +167,9 @@ https://marine2.miplay.cl/t13/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", CL C13
 https://marine2.miplay.cl/c13/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", SALVADOR C10
+https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgNzowNzoyNyBQTSZoYXNoX3ZhbHVlPU1MUkFHU2Jma3ZVanFFTkFGcU40TUE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
+
 #EXTINF:-1 group-title="TV ABIERTA",  EU NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
