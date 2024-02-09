@@ -158,6 +158,12 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE 
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", LA1
+https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", LA2
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="TV ABIERTA", TVE INTERNACIONAL EUROPA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 
