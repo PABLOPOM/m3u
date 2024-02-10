@@ -159,7 +159,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", LA1
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", LA2
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
