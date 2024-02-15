@@ -425,6 +425,9 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", DPELICULA PLUS
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="TV ABIERTA", CARTOON NETWORK MÉXICO
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
