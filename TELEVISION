@@ -67,6 +67,9 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 http://45.167.253.253:4000/play/a013/index.m3u8
 http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 
+http://936261971205766855.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766855.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
