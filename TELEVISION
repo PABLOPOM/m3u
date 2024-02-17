@@ -126,6 +126,12 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28050
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg" group-title="TV ABIERTA", MEGA NOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 
+http://167.114.156.136:25461/INFINITV/ZX89NM22/111
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1  
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", HERALDO TV
 https://www.dailymotion.com/cdn/live/video/x88epch.m3u8?sec=nBPg1kA7JQ4jz43f3W2FkuIeZaHgoEVEU3xEBihdzEVvnYEiG3F5da8AveWwnPjn&dmTs=858720&dmV1st=09572226-c38a-4b59-8c0a-f98272f9a8ff
 
