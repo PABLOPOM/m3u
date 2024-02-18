@@ -920,6 +920,14 @@ http://45.172.218.126:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" group-title="TV ABIERTA", FOX SPORTS 3 
 http://45.172.218.126:8000/play/a00y/index.m3u8
 
+#EXTINF:-1 tvg-shift="0" group-title="TV ABIERTA",FOX SPORT 
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="TV ABIERTA",FOX SPORTS 2 
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="TV ABIERTA",FOX SPORTS 3 
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="TV ABIERTA", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
