@@ -339,19 +339,19 @@ http://190.149.66.90:4000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", MTV 
 http://190.149.66.90:4000/play/a01e/index.m3u8
 
-#EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="TV ABIERTA" , MTV Biggest Pop
+#EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="TV ABIERTA" , MTV Biggest Pop
 https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-chno="1505" group-title="TV ABIERTA" , MTV Spankin' New
+#EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="TV ABIERTA" , MTV Spankin' New
 https://r.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="TV ABIERTA" , MTV Flow Latino
+#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="TV ABIERTA" , MTV Flow Latino
 https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" tvg-chno="1520" group-title="TV ABIERTA por Stingray
+#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="TV ABIERTA por Stingray
 https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-chno="1525" group-title="TV ABIERTA" , Karaoke por Stingray
+#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="TV ABIERTA" , Karaoke por Stingray
 https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="TV ABIERTA", MVS TV 6.4
