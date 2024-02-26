@@ -339,6 +339,15 @@ http://190.149.66.90:4000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", MTV 
 http://190.149.66.90:4000/play/a01e/index.m3u8
 
+#EXTINF:-1 channel-id="samsung-ESBA330004064" tvg-id="ESBA330004064" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004064_20220323T081613SQUARE.png_20220323081615.png" tvg-chno="4728" group-title="TV ABIERTA", FLASH
+https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC3500001LY" tvg-id="ESBC3500001LY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500001LY_20221012T021027SQUARE.png_20221012021028.png" tvg-chno="4734" group-title="TV ABIERTA", VIVALDI TV
+https://i.mjh.nz/SamsungTVPlus/ESBC3500001LY.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", SOMOS CULTURA TV
+https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", MTV BIGGEST POP
 https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
 
