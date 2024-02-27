@@ -138,6 +138,9 @@ https://www.dailymotion.com/cdn/live/video/x88epch.m3u8?sec=nBPg1kA7JQ4jz43f3W2F
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+
 #EXTINF:-1 group-title="TV ABIERTA", EU CNNE 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
