@@ -215,6 +215,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE 
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE YT
+https://ythls.armelin.one/channel/UC7QZIf0dta-XPXsp9Hv4dTw.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", LA1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 
