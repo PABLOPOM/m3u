@@ -184,6 +184,9 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="TV ABIERTA", IR HISPAN TV  
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", AR AMÉRICA TV
+https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", AR EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
