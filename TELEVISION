@@ -85,6 +85,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV YT
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 
+https://ythls.armelin.one/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", SIN EMBARGO 
 https://ythls.armelin.one/channel/UCt7k7y_xTkkc1Jeh7cdAjDQ.m3u8
 
