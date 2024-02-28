@@ -100,6 +100,12 @@ https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/111
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1343
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE.3 Señal Digital 
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
