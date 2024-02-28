@@ -94,6 +94,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 
 https://ythls.armelin.one/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 2
+https://ythls.armelin.one/channel/UCxEgOKuI-n-WOJaNcisHvSg.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", SIN EMBARGO 
 https://ythls.armelin.one/channel/UCt7k7y_xTkkc1Jeh7cdAjDQ.m3u8
 
