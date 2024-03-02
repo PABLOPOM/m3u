@@ -84,6 +84,9 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION 
 http://131.161.53.2:8000/play/a07a/index.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 
+https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8|user-agent=okhttp/4.10.0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 UHD
 http://45.167.253.253:4000/play/a013/index.m3u8
 http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
@@ -191,6 +194,9 @@ https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION NOTICIAS 
 https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO AL DÍA 
+https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", EU ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
