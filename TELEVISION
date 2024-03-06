@@ -87,6 +87,9 @@ http://131.161.53.2:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 
 https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", CANELA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 UHD
 http://45.167.253.253:4000/play/a013/index.m3u8
 http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
