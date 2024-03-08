@@ -148,6 +148,9 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzP
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac" tvg-id="608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e99eb82-f642-4f2f-86e3-16df76547494/Logotipo_MILENIO_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="TV ABIERTA", MILENIO Plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac.m3u8
 
+#EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO YT
+https://ythls.armelin.one/channel/UCFxHplbcoJK9m70c4VyTIxg.m3u8
+
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 
