@@ -95,6 +95,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 UHD
 http://45.167.253.253:4000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 
 http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 
