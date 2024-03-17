@@ -750,6 +750,9 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?autoplay=1
 #EXTINF:-1 group-title="TV ABIERTA", ORIGENtv
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8?autoplay=1
 
+#EXTINF:-1 group-title="TV ABIERTA", MULTICINEMA
+http://170.82.37.21:8000/play/a02s/index.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-id="608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="TV ABIERTA", BUTACA TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
 
