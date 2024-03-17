@@ -115,7 +115,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1695
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV YT
-https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/111
@@ -133,32 +133,32 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 https://canaldiez.tv/live/stream/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 
-https://ythls-v2.onrender.com/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
+https://ythls.armelin.one/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 2
-https://ythls-v2.onrender.com/channel/UCxEgOKuI-n-WOJaNcisHvSg.m3u8
+https://ythls.armelin.one/channel/UCxEgOKuI-n-WOJaNcisHvSg.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", INE
-https://ythls-v2.onrender.com/channel/UCJZO7lVnlpbUBxwPdXad3lA.m3u8
+https://ythls.armelin.one/channel/UCJZO7lVnlpbUBxwPdXad3lA.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", SIN EMBARGO.MX
-https://ythls-v2.onrender.com/channel/UCt7k7y_xTkkc1Jeh7cdAjDQ.m3u8
+https://ythls.armelin.one/channel/UCt7k7y_xTkkc1Jeh7cdAjDQ.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", ROMPEVIENTO TV
-https://ythls-v2.onrender.com/channel/UCBdM6w8S6kn90P0or3Z0kxQ.m3u8
+https://ythls.armelin.one/channel/UCBdM6w8S6kn90P0or3Z0kxQ.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CANAL RED LIVE
-https://ythls-v2.onrender.com/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
+https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA",EXCELSIOR TV 
-https://ythls-v2.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/153574
 
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO TY
-https://ythls-v2.onrender.com/channel/UCUsm-fannqOY02PNN67C0KA.m3u8
+https://ythls.armelin.one/channel/UCUsm-fannqOY02PNN67C0KA.m3u8
 
 #EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO 6.2
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
@@ -167,7 +167,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzP
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac.m3u8
 
 #EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO YT
-https://ythls-v2.onrender.com/channel/UCFxHplbcoJK9m70c4VyTIxg.m3u8
+https://ythls.armelin.one/channel/UCFxHplbcoJK9m70c4VyTIxg.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
@@ -176,7 +176,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 YT
-https://ythls-v2.onrender.com/channel/UCKuAmo9OGf8kw2jrPWCpHdA.m3u8
+https://ythls.armelin.one/channel/UCKuAmo9OGf8kw2jrPWCpHdA.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064" tvg-id="608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="TV ABIERTA", C4 EN ALERTA
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064.m3u8
@@ -198,16 +198,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646ccd3681844c000974d6
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28050
 
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 YT
-https://ythls-v2.onrender.com/channel/UC7k--FhnJzhPTrbtldMSoQQ.m3u8
+https:/ythls.armelin.one/channel/UC7k--FhnJzhPTrbtldMSoQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg" group-title="TV ABIERTA", MEGA NOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", HERALDO TV
-https://ythls-v2.onrender.com/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
+https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", REPORTE INDIGO
-https://ythls-v2.onrender.com/channel/UCCCjc1piE1mIrhcE3ejENeA.m3u8
+https://ythls.armelin.one/channel/UCCCjc1piE1mIrhcE3ejENeA.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
@@ -243,7 +243,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 UHD
-https://ythls-v2.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id="France24 (X1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="TV ABIERTA", FR FRANCE24 HD
 https://marine2.miplay.cl/france24/playlist.m3u8
@@ -262,7 +262,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AR AMÉRICA TV
-https://ythls-v2.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
+https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AR EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
@@ -281,7 +281,7 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", FR EURONEWS YT
-https://ythls-v2.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
+https://ythls.armelin.one/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", CHN
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?did=b1311878331652c4927ae377
@@ -302,7 +302,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE YT
-https://ythls-v2.onrender.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw.m3u8
+https://ythls.armelin.one/channel/UC7QZIf0dta-XPXsp9Hv4dTw.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", LA1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
@@ -311,7 +311,7 @@ https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", LA2 YT
-https://ythls-v2.onrender.com/channel/UCzFECXtTtodMuin8whWxDqQ.m3u8
+https://ythls.armelin.one/channel/UCzFECXtTtodMuin8whWxDqQ.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="TV ABIERTA", TVE INTERNACIONAL EUROPA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
@@ -356,16 +356,16 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/143.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA PUEBLA 
-https://ythls-v2.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
-https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
+https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA QUERÉTARO 
-https://ythls-v2.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", ENLACE13 SALTILLO 
-https://ythls-v2.onrender.com/channel/UCnF-7iyudFEyig475MIVa6w.m3u8
+https://ythls.armelin.one/channel/UCnF-7iyudFEyig475MIVa6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.1 
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
