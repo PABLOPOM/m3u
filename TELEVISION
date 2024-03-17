@@ -754,6 +754,9 @@ http://181.78.105.146:6060/play/a02l
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
 http://181.78.105.146:8800/play/a04w
 
+#EXTINF:-1 group-title="TV ABIERTA", A3CINE
+http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6x8jKgKJQdDMR7Be8ZQjnnHyrsrlVhj1yg&usqp=CAU" group-title="TV ABIERTA",DHE
 http://181.78.105.146:8800/play/a04x
 
