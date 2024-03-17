@@ -755,7 +755,7 @@ http://181.78.105.146:6060/play/a02l
 http://181.78.105.146:8800/play/a04w
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6x8jKgKJQdDMR7Be8ZQjnnHyrsrlVhj1yg&usqp=CAU" group-title="TV ABIERTA",DHE
-http://45.166.92.22:58001/play/a00v/index.m3u8
+http://181.78.105.146:8800/play/a04x
 
 #EXTINF:-1 group-title="TV ABIERTA", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?autoplay=1
@@ -813,7 +813,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 http://190.149.66.90:4000/play/a03e/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TNT
-http://190.149.66.90:4000/play/a03m/index.m3u8
+http://181.78.105.146:8800/play/a04a
 
 #EXTINF:-1 group-title="TV ABIERTA", AMC
 http://190.149.66.90:4000/play/a01m/index.m3u8
