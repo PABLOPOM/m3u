@@ -816,7 +816,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 http://190.149.66.90:4000/play/a03e/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TNT
-http://181.78.105.146:8800/play/a04a
+http://181.78.105.146:8800/play/a060
 
 #EXTINF:-1 group-title="TV ABIERTA", AMC
 http://190.149.66.90:4000/play/a01m/index.m3u8
