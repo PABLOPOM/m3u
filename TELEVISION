@@ -603,6 +603,16 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", DPELICULA PLUS
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
+#EXTINF:-1 channel-id="roku-50cd4d6c632d5172834eb5b77fa395c6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" tvg-chno="1033" group-title="TV ABIERTA", FILMEX Clásico
+https://i.mjh.nz/Roku/50cd4d6c632d5172834eb5b77fa395c6.m3u8
+
+#EXTINF:-1 channel-id="roku-1e2a4ec82eb65f729ad7484337c0bcd4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png" tvg-chno="1034" group-title="TV ABIERTA", FILMEX
+https://i.mjh.nz/Roku/1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
+
+#EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="TV ABIERTA", CINE ESTRELLATV
+https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
+
+
 #EXTINF:-1 group-title="TV ABIERTA", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 
