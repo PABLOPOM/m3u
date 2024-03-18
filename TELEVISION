@@ -152,6 +152,9 @@ https://ythls.armelin.one/channel/UCJZO7lVnlpbUBxwPdXad3lA.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", SIN EMBARGO.MX
 https://ythls.armelin.one/channel/UCt7k7y_xTkkc1Jeh7cdAjDQ.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", SIN MASCARAS 
+https://ythls.armelin.one/channel/UCH4M_4Ed6SUidQthmZ60M2g.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", ROMPEVIENTO TV
 https://ythls.armelin.one/channel/UCBdM6w8S6kn90P0or3Z0kxQ.m3u8
 
