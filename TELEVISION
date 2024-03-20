@@ -772,6 +772,9 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?autoplay=1
 #EXTINF:-1 group-title="TV ABIERTA", ORIGENtv
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8?autoplay=1
 
+#EXTINF:-1 group-title="TV ABIERTA", HALLMARK EN ESPAÑOL 
+https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", MULTICINEMA
 http://170.82.37.21:8000/play/a02s/index.m3u8
 
