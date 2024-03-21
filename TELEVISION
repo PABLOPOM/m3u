@@ -158,6 +158,9 @@ https://ythls.armelin.one/channel/UCxEgOKuI-n-WOJaNcisHvSg.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", INBA
 https://ythls.armelin.one/channel/UC-ra2eTz-8Hem5627hhn45g.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", RADIO EDUCACIÓN 
+https://ythls.armelin.one/channel/UCTG3J_Av40XdUJs2NT74nTw.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", INE
 https://ythls.armelin.one/channel/UCJZO7lVnlpbUBxwPdXad3lA.m3u8
 
