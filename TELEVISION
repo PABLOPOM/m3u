@@ -256,6 +256,9 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", EU CNNE 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO AL DÍA 
 https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 
