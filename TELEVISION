@@ -569,6 +569,9 @@ https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", BAJIO CANAL 13 
 https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", OAXACA CANAL 13 
+https://alba-mx-c13mexico-c13oaxaca.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1  
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
