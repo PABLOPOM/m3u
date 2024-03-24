@@ -564,10 +564,10 @@ https://tvenvivo.buap.mx/livestream/stream.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", TABASCO CANAL 13
-https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+https://alba-mx-c13mexico-c13tabasco.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", BAJIO CANAL 13 
-https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+https://alba-mx-c13mexico-c13bajio.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", OAXACA CANAL 13 
 https://alba-mx-c13mexico-c13oaxaca.stream.mediatiquestream.com/index.m3u8
