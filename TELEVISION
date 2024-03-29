@@ -238,8 +238,11 @@ https:/ythls.armelin.one/channel/UC7k--FhnJzhPTrbtldMSoQQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg" group-title="TV ABIERTA", MEGA NOTICIAS MX
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", HERALDO TV
+#EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", HERALDO TV YT
 https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", HERALDO TV
+https://www.dailymotion.com/cdn/live/video/x88epch.m3u8?sec=nBPg1kA7JQ4jz43f3W2FkidLFfnbky6bg8rNe_Ak181qWlVQ9pAalYERIdLulnA8&dmTs=154793&dmV1st=66383DEF924BBFF5BBEA953469DA6B20
 
 #EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", REPORTE INDIGO
 https://ythls.armelin.one/channel/UCCCjc1piE1mIrhcE3ejENeA.m3u8
