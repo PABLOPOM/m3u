@@ -37,6 +37,12 @@ https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", TUDN VIX
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
+https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS YT
+https://ythls.armelin.one/channel/UCqfCJBfrFSO4tZM1LNZTBFQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 UHD
 http://45.167.253.253:4000/play/a010/index.m3u8
 
