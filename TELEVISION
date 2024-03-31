@@ -372,6 +372,9 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manife
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="TV ABIERTA", SUR ANDALUCIA YT
+https://ythls.armelin.one/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="TV ABIERTA", SUR 1 ANDALUCIA
 https://cdnlive.codev8.net/rtvalive/channel1.smil/playlist.m3u8
 
