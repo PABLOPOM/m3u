@@ -65,6 +65,9 @@ http://131.161.53.2:8000/play/a07k/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS MX 2.1
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27976
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS MX 2.1 II
+http://bantel.iptvperu.tv:1935/transcoderip/Canal_LasEstrellas_t4/chunks.m3u8
+
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS centro 2.1
 https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
