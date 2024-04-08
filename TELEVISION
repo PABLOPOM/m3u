@@ -826,6 +826,9 @@ http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6x8jKgKJQdDMR7Be8ZQjnnHyrsrlVhj1yg&usqp=CAU" group-title="TV ABIERTA",DHE
 http://181.78.105.146:8800/play/a04x
 
+#EXTINF:-1 group-title="TV ABIERTA", BJGTJME 
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 group-title="TV ABIERTA", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?autoplay=1
 
