@@ -50,6 +50,9 @@ https://ythls.armelin.one/channel/UCqfCJBfrFSO4tZM1LNZTBFQ.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", ITV DEPORTES 
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", AYM DEPORTES 
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", MOTORVISION.TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6152
 
