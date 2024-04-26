@@ -253,6 +253,9 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 Pluto
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
+#EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 Plex
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062.m3u8
+
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1 YT
 https://ythls.armelin.one/channel/UCKuAmo9OGf8kw2jrPWCpHdA.m3u8
 
