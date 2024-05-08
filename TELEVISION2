@@ -2,17 +2,6 @@
 https://
 
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1  UHD
-http://45.167.253.253:4000/play/a00x/index.m3u8
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/82.m3u8
-
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/129032
-
-http://187.188.232.236:1021/play/a06j/index.m3u8
-
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1  UHD
-http://167.114.156.136:25461/INFINITV/ZX89NM22/82
-
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 HD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?
 
@@ -58,10 +47,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6152
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 UHD
 http://45.167.253.253:4000/play/a010/index.m3u8
-
-http://45.228.234.77:3340/play/lasestrellas/index.m3u8
-
-http://187.188.232.236:1021/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS HD
 http://138.186.20.13:23200/play/a0c3
