@@ -99,6 +99,9 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/162200
 #EXTINF:-1 group-title="TV ABIERTA", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", UNIFE TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1664070224&e=1664070344&h=ad43f21ba7f3eaaaa634ea304f6a5c64
+
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
