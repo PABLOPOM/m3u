@@ -99,6 +99,12 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/162200
 #EXTINF:-1 group-title="TV ABIERTA", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", HOLA TV
+http://45.166.92.22:58001/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HOLA TV PLAY
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", UNIFE TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1664070224&e=1664070344&h=ad43f21ba7f3eaaaa634ea304f6a5c64
 
@@ -766,12 +772,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", DISCOVERY H&H
 http://190.149.66.90:4000/play/a03o/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", HOLA TV
-http://190.149.66.90:4000/play/a03p/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", HOLA TV PLAY
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90" tvg-id="608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8e36746-5a92-4d58-b415-28280a044123/cinema_logo_light-01_-_James_Stowerdx.png" group-title="TV ABIERTA" , Cinema
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
