@@ -193,7 +193,6 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/130017
 
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 Pluto 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -260,7 +259,6 @@ https://is.gd/OREb6o
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 SD 
 https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
-http://45.228.232.205:16000/play/a02w/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TELESUR 
 https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
@@ -288,7 +286,6 @@ https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", FR EURONEWS 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", FR EURONEWS 
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8
@@ -400,10 +397,6 @@ https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.3 UHD 
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1 UHD
-http://45.167.253.253:4000/play/a016/index.m3u8
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -539,7 +532,6 @@ https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1 UHD
 http://45.167.253.253:4000/play/a00u/index.m3u8
-http://187.188.232.236:1021/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE.3 Señal Digital 
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
@@ -564,7 +556,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL 14.1 UHD
 http://45.167.253.253:4000/play/a00s/index.m3u8
-http://187.188.232.236:1021/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/justiciatv-logo.png" group-title="TV ABIERTA", JUSTICIA TV 
 https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
@@ -637,7 +628,6 @@ https://i.mjh.nz/Roku/1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
 
 #EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="TV ABIERTA", CINE ESTRELLATV
 https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
-
 
 #EXTINF:-1 group-title="TV ABIERTA", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
@@ -922,74 +912,8 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV Novelas 
 https://live.seo.tv.bo/live/3SEO.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="TV ABIERTA", UNICABLE  
-http://45.228.234.77:3340/play/unicable/index.m3u8?
-
-#EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="TV ABIERTA", ¡HOLA! TV 
-https://live.atresmediainternacional.com:443/ATRESMEDIA/holatv-1080.m3u8
-
-#EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="TV ABIERTA", ¡HOLA! TV 
-http://elmonkey.us:25461/Victor/Victor/93
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="TV ABIERTA",¡HOLA! PLAY
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 group-title="TV ABIERTA", ZONA TUDN 
-https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="TV ABIERTA", ZONA TUDN 
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TUDN MEXICO UHD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/134466
-
-#EXTINF:-1 group-title="TV ABIERTA", TUDN USA SD 
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34009.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TUDNM
-https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", UNIVISION TUDN USA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
-
-#EXTINF:-1 group-title="TV ABIERTA", AZ DEPORTES
-http://tv.proyectox.vip:8080/live/jose123/QWsbRtFFnA/180062.ts
-
-#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
-https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS 2
-http://45.5.117.182:8000/play/a0e5/index.m3u8
-
 #EXTINF:-1 group-title="TV ABIERTA", WAPA DEPORTES
 https://live.field59.com/wapa/wapa2/.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="TV ABIERTA", ESPN  
-http://45.172.218.126:8000/play/a03s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="TV ABIERTA", ESPN 2
-http://45.172.218.126:8000/play/a00z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn3.png" group-title="TV ABIERTA", ESPN 3
-http://45.172.218.126:8000/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" group-title="TV ABIERTA", FOX SPORTS
-http://45.172.218.126:8000/play/a01v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" group-title="TV ABIERTA", FOX SPORTS 2
-http://45.172.218.126:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" group-title="TV ABIERTA", FOX SPORTS 3 
-http://45.172.218.126:8000/play/a00y/index.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="TV ABIERTA",FOX SPORT 
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="TV ABIERTA",FOX SPORTS 2 
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="TV ABIERTA",FOX SPORTS 3 
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="TV ABIERTA", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
