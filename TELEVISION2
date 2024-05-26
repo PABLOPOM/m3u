@@ -20,7 +20,6 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", A+ GUATE 
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
@@ -45,27 +44,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", MOTORVISION.TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6152
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 UHD
-http://45.167.253.253:4000/play/a010/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS HD
-http://138.186.20.13:23200/play/a0c3
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS HD OP2
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS HD OP3
-http://131.161.53.2:8000/play/a07k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS MX 2.1
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27976
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS MX 2.1 II
-http://bantel.iptvperu.tv:1935/transcoderip/Canal_LasEstrellas_t4/chunks.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS MX
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/29
-
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS centro 2.1
 https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
@@ -78,24 +56,6 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?h
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS centro 2.1 (c) 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS II
-https://linear-413.frequency.stream:443/mt/studio/413/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -1h
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -2h
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS INTERNACIONAL 
-https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS -2h
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/162200
-
 #EXTINF:-1 group-title="TV ABIERTA", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
@@ -107,9 +67,6 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIFE TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1664070224&e=1664070344&h=ad43f21ba7f3eaaaa634ea304f6a5c64
-
-#EXTINF:-1 group-title="TV ABIERTA", UNIVISION
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION 
 http://131.161.53.2:8000/play/a07a/index.m3u8
@@ -132,9 +89,6 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO INTERNACIONAL 
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TODO NOVELAS 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA NOVELAS 
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 
@@ -147,18 +101,6 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png" group-title="TV ABIERTA", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 UHD
-http://45.167.253.253:4000/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 
-http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/3767
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 N
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/3767
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV 3.1 
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1695
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -170,12 +112,6 @@ https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN MULTICAST
 https://ythls.armelin.one/channel/UCevif8Yk47cJKrq4-0EmwIA.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 
-http://167.114.156.136:25461/INFINITV/ZX89NM22/111
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1343
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE.3 Señal Digital 
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
@@ -198,12 +134,6 @@ https://ythls.armelin.one/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 2
 https://ythls.armelin.one/channel/UCxEgOKuI-n-WOJaNcisHvSg.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", INBA
-https://ythls.armelin.one/channel/UC-ra2eTz-8Hem5627hhn45g.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", RADIO EDUCACIÓN 
-https://ythls.armelin.one/channel/UCTG3J_Av40XdUJs2NT74nTw.m3u8
-
 #EXTINF:-1 group-title="TV ABIERTA", INE
 https://ythls.armelin.one/channel/UCJZO7lVnlpbUBxwPdXad3lA.m3u8
 
@@ -212,9 +142,6 @@ https://ythls.armelin.one/channel/UCt7k7y_xTkkc1Jeh7cdAjDQ.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", SIN MASCARAS 
 https://ythls.armelin.one/channel/UCH4M_4Ed6SUidQthmZ60M2g.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", ROMPEVIENTO TV
-https://ythls.armelin.one/channel/UCBdM6w8S6kn90P0or3Z0kxQ.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", SIN CENSURA 
 https://ythls.armelin.one/channel/UCTylu3hYVwekovz0wzTYGtA.m3u8
@@ -227,7 +154,6 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA",EXCELSIOR TV 
 https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-http://2.magmas5.com:8000/goodserver/2C4X1EC7EW/153574
 
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
