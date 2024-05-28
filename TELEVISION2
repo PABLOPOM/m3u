@@ -333,9 +333,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8w1QRn.png" group-title="TV ABIERTA", STAR TVE AMERICA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", ANTENA 3
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 
@@ -651,17 +648,8 @@ https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg" group-title="TV ABIERTA", TASTEMADE español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
 
-#EXTINF:-1 group-title="TV ABIERTA", HISTORY
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28022
-
 #EXTINF:-1 group-title="TV ABIERTA", 13CULTURA
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="TV ABIERTA", TVMAX PANAMA
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TVN
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA Tv
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
@@ -672,17 +660,11 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo HD" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="TV ABIERTA", TELEMUNDO 51
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 
-#EXTINF:-1 tvg-id="Univision HD" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="TV ABIERTA", UNIVISIÓN 
-http://190.149.66.90:4000/play/a054/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN ViX
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/es/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/telemundoAlDia_circle.png" group-title="TV ABIERTA", TELEMUNDO AL DÍA
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-
-#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 
-https://v3.playerlatino.live/stream/m3u8/92
 
 #EXTINF:-1 group-title="TV ABIERTA", HOGAR 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
@@ -723,17 +705,8 @@ http://181.189.243.217:8000/play/a0oo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO SD
 http://190.149.66.90:4000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine FAMILIAR HD (Colx)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="TV ABIERTA", Cine FAMILIAR HD (Colx)
-http://45.176.232.106:45000/play/a03u
-
 #EXTINF:-1 tvg-id="Cine FAMILIAR HD (Ecua1)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="TV ABIERTA", Cine FAMILIAR HD (Ecua1)
 http://177.234.230.226:8010/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine HISPANO HD (Colx)" tvg-logo="https://i.imgur.com/WnK4e3E.png" group-title="TV ABIERTA", Cine HISPANO HD (Colx)
-http://45.176.232.106:45000/play/a05m
-
-#EXTINF:-1 tvg-id="Cine PREMIUM HD (Colx)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="TV ABIERTA", Cine PREMIUM HD (Colx)
-http://45.176.232.106:45000/play/a03x
 
 #EXTINF:-1 tvg-id="Cine PREMIUM HD (Ecua1)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="TV ABIERTA", Cine PREMIUM HD (Ecua1)
 http://177.234.230.226:8010/play/a00f/index.m3u8
@@ -762,9 +735,6 @@ http://181.78.105.146:6060/play/a02l
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
 http://181.78.105.146:8800/play/a04w
 
-#EXTINF:-1 group-title="TV ABIERTA", A3CINE
-http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6x8jKgKJQdDMR7Be8ZQjnnHyrsrlVhj1yg&usqp=CAU" group-title="TV ABIERTA",DHE
 http://181.78.105.146:8800/play/a04x
 
@@ -789,18 +759,11 @@ http://170.82.37.21:8000/play/a02s/index.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-id="608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="TV ABIERTA", BUTACA TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", LA NIÑERA
-https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", DISTRITO COMEDIA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="TV ABIERTA", FILMEX CLÁSICO TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV ABIERTA", FILMEX TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
-
 
 #EXTINF:-1 group-title="TV ABIERTA", ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
@@ -916,24 +879,14 @@ https://5e50264bd6766.streamlock.net:443/tabasco/videotabasco/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", TVMÁS 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/justiciatv-logo.png" group-title="TV ABIERTA", JUSTICIA TV 
 https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="TV ABIERTA", CANAL 10 QUERÉTARO 
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?
 
-
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online-218x150.png" group-title="TV ABIERTA", CANAL 10 Y HERALDO Tv 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
-
-
-
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-218x150.png" group-title="TV ABIERTA", CANAL 26 AGUASCALIENTES 
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
