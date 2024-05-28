@@ -791,21 +791,6 @@ http://170.82.37.21:8000/play/a02s/index.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-id="608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="TV ABIERTA", BUTACA TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", DE PELICULA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27983
-
-#EXTINF:-1 group-title="TV ABIERTA", DE PELICULA 
-http://166.0.208.26:4481/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", DE PELICULA UHD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3730
-
-#EXTINF:-1 group-title="TV ABIERTA", CANTINFLAS 
-http://tv.nousiptv.com:8080/AR10465/10465R/1144258
-
-#EXTINF:-1 group-title="TV ABIERTA", CANTINFLAS 2
-http://tv.nousiptv.com:8080/pablo379/91053/1144258
-
 #EXTINF:-1 group-title="TV ABIERTA", LA NIÑERA
 https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 
@@ -830,21 +815,6 @@ https://amg01602-themahqfrance-vivekanalddrama-runtimeusa-k7wf8.amagi.tv/playlis
 
 #EXTINF:-1 group-title="TV ABIERTA", FILM&CO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
-
-#EXTINF:-1 group-title="TV ABIERTA", STAR CHANNEL 
-http://190.149.66.90:4000/play/a03e/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TNT
-http://181.78.105.146:8800/play/a060
-
-#EXTINF:-1 group-title="TV ABIERTA", AMC
-http://190.149.66.90:4000/play/a01m/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", AXN
-http://190.149.66.90:4000/play/a04r/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", HBO Family
-http://190.149.66.90:4000/play/a00f/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="TV ABIERTA", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
