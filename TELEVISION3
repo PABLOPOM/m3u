@@ -176,10 +176,6 @@ http://170.82.37.21:8000/play/a00v/index.m3u8
 http://170.82.37.21:8000/play/a00r/index.m3u8
 #EXTINF:-1,Paramount Network
 http://170.82.37.21:8000/play/a02v/index.m3u8
-#EXTINF:-1,Pasiones
-http://170.82.37.21:8000/play/a027/index.m3u8
-#EXTINF:-1,PlayBoy
-http://170.82.37.21:8000/play/a004/index.m3u8
 #EXTINF:-1,Porvenir TV
 http://170.82.37.21:8000/play/a045/index.m3u8
 #EXTINF:-1,Q'hubo TV
