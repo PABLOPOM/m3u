@@ -2,8 +2,6 @@
 http://170.82.37.21:8000/play/a01l/index.m3u8
 #EXTINF:-1,A3 Series
 http://170.82.37.21:8000/play/a01k/index.m3u8
-#EXTINF:-1,Adult Swim
-http://170.82.37.21:8000/play/a034/index.m3u8
 #EXTINF:-1,AMC
 http://170.82.37.21:8000/play/a01m/index.m3u8
 #EXTINF:-1,AXN
