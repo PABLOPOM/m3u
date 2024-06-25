@@ -10,6 +10,9 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?h
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
+http://181.78.8.90:16123/play/ch44
+
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
