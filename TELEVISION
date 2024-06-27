@@ -47,6 +47,9 @@ https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/in
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS YT
 https://ythls.armelin.one/channel/UCqfCJBfrFSO4tZM1LNZTBFQ.m3u8
 
+#EXTINF:-1 tvg-id="ESBC2700009B4" tvg-name="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="TV ABIERTA", FIFA+
+https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", ITV DEPORTES 
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
