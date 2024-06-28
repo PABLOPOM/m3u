@@ -86,7 +86,7 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1664070224&e=1664070344&h=ad43f21ba7f3eaaaa634ea304f6a5c64
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION 
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO CALIFORNIA 
 https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
