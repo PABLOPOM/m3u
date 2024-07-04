@@ -19,6 +19,9 @@ http://181.78.8.90:16123/play/ch44
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
+#EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
+https://channel02dai-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=st=1720053009~exp=1720053309~acl=*~id=30f03d27-e860-4ddb-b147-3fd5f1ba5c4b~hmac=319dd175f583bf743b83c1644792004fb470e7dfedf88ecbf261130edf5e3e4b&originpath=/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/46d294c2-2e12-4a47-9b74-6acded65e3d9:DLS/master.m3u8
+
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 
