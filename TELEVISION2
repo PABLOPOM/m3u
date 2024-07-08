@@ -31,6 +31,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://us-b7-i-e-fn1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/87a195ae-2370-492e-8591-9be6d8f12395:CBF2/master.m3u8?uid=KS6Lo90OkHMXwKaAtlbfP7RDTdqgx9CS&sid=eaTBECjXb3VtM3T8eZigeDAiubaFcCic&pid=cUflFIedvwvSLKw4xR5UpVDMSsWADv26&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&listenerid=&dnt=true&ote=1720141727394&ot=ri4ku0O9-mlvtc06E7eeIQ&es=us-b7-i-e-fn1.cdn.mdstrm.com&proto=https&pz=us&aid=5fea0f3673148d5d52cf6a76
 
+#EXTINF:-1 group-title="TV ABIERTA", CANAL 5
+http://170.82.37.21:8000/play/a02h/index.m3u8
+
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV ABIERTA", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
