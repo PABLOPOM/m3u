@@ -104,7 +104,7 @@ http://45.166.92.22:58001/play/a016/index.m3u8
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIFE TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1664070224&e=1664070344&h=ad43f21ba7f3eaaaa634ea304f6a5c64
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION UHD
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
