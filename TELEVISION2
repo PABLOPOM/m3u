@@ -176,7 +176,7 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
 https://ythls.armelin.one/channel/UCqaOSuXiGdnuoqXBda-XD2A.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE 
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+https://s5.mexside.net:1936/canal14/canal14/chunklist_w1965032944.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE YT
 https://ythls.armelin.one/channel/UCvKhnicGlLpJWfgAcmX8zXQ.m3u8
