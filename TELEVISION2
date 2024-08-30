@@ -17,6 +17,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://us-b7-i-e-fn1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/87a195ae-2370-492e-8591-9be6d8f12395:CBF2/master.m3u8?uid=KS6Lo90OkHMXwKaAtlbfP7RDTdqgx9CS&sid=eaTBECjXb3VtM3T8eZigeDAiubaFcCic&pid=cUflFIedvwvSLKw4xR5UpVDMSsWADv26&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&listenerid=&dnt=true&ote=1720141727394&ot=ri4ku0O9-mlvtc06E7eeIQ&es=us-b7-i-e-fn1.cdn.mdstrm.com&proto=https&pz=us&aid=5fea0f3673148d5d52cf6a76
 
+#EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO 6.2
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 5
 http://170.82.37.21:8000/play/a02h/index.m3u8
 
@@ -161,9 +164,6 @@ https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal44.mx" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="TV ABIERTA", CANAL 44 CHIHUAHUA 
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TV QUIERO 
-https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 
 https://ythls.armelin.one/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
 
@@ -176,15 +176,6 @@ https://ythls.armelin.one/channel/UCJZO7lVnlpbUBxwPdXad3lA.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", SIN EMBARGO.MX
 https://ythls.armelin.one/channel/UCt7k7y_xTkkc1Jeh7cdAjDQ.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", SIN MASCARAS 
-https://ythls.armelin.one/channel/UCH4M_4Ed6SUidQthmZ60M2g.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", SIN CENSURA 
-https://ythls.armelin.one/channel/UCTylu3hYVwekovz0wzTYGtA.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", CANAL RED LIVE
-https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
-
 #EXTINF:-1 group-title="TV ABIERTA", HISPAN TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
@@ -193,9 +184,6 @@ https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO TY
 https://ythls.armelin.one/channel/UCUsm-fannqOY02PNN67C0KA.m3u8
-
-#EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO 6.2
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac" tvg-id="608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e99eb82-f642-4f2f-86e3-16df76547494/Logotipo_MILENIO_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="TV ABIERTA", MILENIO Plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac.m3u8
@@ -249,43 +237,16 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 group-title="TV ABIERTA", EU CNNE 
-https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", EU CNNE B
-https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", EU CNNE 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO AL DÍA 
-https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO AL DÍA 
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-
-#EXTINF:-1 group-title="TV ABIERTA", UNIVISION NOTICIAS VX
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", UNIVISION NOTICIAS 
-https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO AL DÍA 
-https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", EU ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 UHD
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
-#EXTINF:-1 tvg-id="France24 (X1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="TV ABIERTA", FR FRANCE24 HD
-https://marine2.miplay.cl/france24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="France24 (X1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="TV ABIERTA", FR FRANCE24 HD
-https://is.gd/OREb6o
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 SD 
 https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
@@ -364,12 +325,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8w1QRn.png" group-title="TV ABIERTA", STAR TVE AMERICA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
-https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="TV ABIERTA", SUR ANDALUCIA YT
 https://ythls.armelin.one/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8
@@ -475,30 +430,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzP
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 6.3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", BANDAMAX
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", BANDAMAX
-http://161.132.243.192:50001/play/a04b/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", ULTRA FM 
-https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", EXA FM 
-http://131.161.53.2:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA",  OLD MUSIC
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", MTV 80s
-http://190.149.66.90:4000/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", MTV SIM 
-http://190.149.66.90:4000/play/a03r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", MTV 
-http://190.149.66.90:4000/play/a01e/index.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA330004064" tvg-id="ESBA330004064" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004064_20220323T081613SQUARE.png_20220323081615.png" tvg-chno="4728" group-title="TV ABIERTA", FLASH
 https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
