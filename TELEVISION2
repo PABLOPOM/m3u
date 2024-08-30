@@ -67,18 +67,6 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV ABIERTA", TUDN
-https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", TUDN VIX
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF:-1 tvg-id="ESBC2700009B4" tvg-name="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="TV ABIERTA", FIFA+
-https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", CALIENTE TV
-https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
-
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
@@ -90,12 +78,6 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AYM DEPORTES 
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", MOTORVISION.TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6152
-
-#EXTINF:-1 group-title="TV ABIERTA", UNICABLE
-https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CARAS TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -126,18 +108,6 @@ https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", US TELEMUNDO
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", US TELEMUNDO -1 HR
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3600
-
-#EXTINF:-1 group-title="TV ABIERTA", US TELEMUNDO -2 HR
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
-
-#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO INTERNACIONAL 
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA NOVELAS 
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
@@ -182,7 +152,7 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
 https://ythls.armelin.one/channel/UCqaOSuXiGdnuoqXBda-XD2A.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE 
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE YT
 https://ythls.armelin.one/channel/UCvKhnicGlLpJWfgAcmX8zXQ.m3u8
