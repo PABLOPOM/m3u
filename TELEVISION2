@@ -14,11 +14,11 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062.m3u8
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 
-#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
-https://us-b7-i-e-fn1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/87a195ae-2370-492e-8591-9be6d8f12395:CBF2/master.m3u8?uid=KS6Lo90OkHMXwKaAtlbfP7RDTdqgx9CS&sid=eaTBECjXb3VtM3T8eZigeDAiubaFcCic&pid=cUflFIedvwvSLKw4xR5UpVDMSsWADv26&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&listenerid=&dnt=true&ote=1720141727394&ot=ri4ku0O9-mlvtc06E7eeIQ&es=us-b7-i-e-fn1.cdn.mdstrm.com&proto=https&pz=us&aid=5fea0f3673148d5d52cf6a76
-
 #EXTINF:-1 tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="TV ABIERTA", MILENIO 6.2
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 
 #EXTINF:-1 group-title="TV ABIERTA", CANAL 5
 http://170.82.37.21:8000/play/a02h/index.m3u8
@@ -229,9 +229,6 @@ https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", REPORTE INDIGO
 https://ythls.armelin.one/channel/UCCCjc1piE1mIrhcE3ejENeA.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
