@@ -83,6 +83,36 @@ https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", EXPRESA TV CELAYA 
 https://5ca9af4645e15.streamlock.net:443/teleradio/smil:teleradio.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA", TV Migrante  
+https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", TV TLAXCALA 
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", CHP Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1 Mx
+https://60ed5b6d0df78.streamlock.net:1936/tvunam/tvunam/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1
+https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 
+https://video.cdmx.gob.mx/redes/stream.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 MX
+https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="TV ABIERTA", CANAL 22.1
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE Tv 34.1
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
+
 #EXTINF:-1 group-title="TV ABIERTA", CANTINFLAS 
 http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222938
 
@@ -526,36 +556,6 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", MOR SMRTV
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA", TV Migrante  
-https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", TV TLAXCALA 
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", CHP Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1 Mx
-https://60ed5b6d0df78.streamlock.net:1936/tvunam/tvunam/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1
-https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 
-https://video.cdmx.gob.mx/redes/stream.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 MX
-https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="TV ABIERTA", CANAL 22.1
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-
-#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE Tv 34.1
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="TV ABIERTA", AMX NOTICIAS 34.2
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
