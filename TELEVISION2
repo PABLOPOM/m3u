@@ -134,6 +134,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", TELESUR 
 https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
+https://cdn.jwplayer.com/manifests/W4uERwKU.m3u8?exp=1726189920&sig=15cc742e88166c19867069ce3250be5b
+
 #EXTINF:-1 group-title="TV ABIERTA", CANTINFLAS 
 http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222938
 
@@ -151,9 +154,6 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
-#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
-https://pubads.g.doubleclick.net/ssai/event/vsRdNgc4RL-rFJL_Vel1NQ/master.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS YT
 https://ythls.armelin.one/channel/UCqfCJBfrFSO4tZM1LNZTBFQ.m3u8
