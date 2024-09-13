@@ -62,6 +62,9 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE 
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", TV MIGRANTE
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w850318408.m3u8
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.1 
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 
