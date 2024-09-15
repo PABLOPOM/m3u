@@ -95,17 +95,11 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", CHP Canal 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1 Mx
-https://60ed5b6d0df78.streamlock.net:1936/tvunam/tvunam/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1
-https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
+https://5f1af61612fb5.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI0IDc6NDc6MDIgUE0maGFzaF92YWx1ZT1WZ2ZIMVprOFpsWWtXV2NvSWthV2R3PT0mdmFsaWRtaW51dGVzPTUmaWQ9&DVR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 
 https://video.cdmx.gob.mx/redes/stream.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 MX
-https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="TV ABIERTA", CANAL 22.1
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
