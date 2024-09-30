@@ -146,7 +146,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc
 #EXTINF:-1 group-title="TV ABIERTA", VIVALDI 
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-61bb9a63e0b39cfe304c9a8a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=zz_-JVxExTyMm_Tx1fR9
 
-#EXTINF:-1 group-title="TV ABIERTA", QWETS
+#EXTINF:-1 group-title="TV ABIERTA", QWESTtv
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=f2oxkmDu5b_C-PGMFKEs
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="TV ABIERTA", AZTECA Internacional 
