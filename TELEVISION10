@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,A&E HD-IK1605-OK
+http://191.52.214.5:8000/play/a01s/index.m3u8
+#EXTINF:-1,AMC HD-IK1633-OK
+http://191.52.214.5:8000/play/a02x/index.m3u8
+#EXTINF:-1,AXN HD-IK1617-OK
+http://191.52.214.5:8000/play/a01v/index.m3u8
+#EXTINF:-1,Animal Planet HD-IK1601-OK
+http://191.52.214.5:8000/play/a038/index.m3u8
+#EXTINF:-1,CHV HD-IK1664-OK
+http://191.52.214.5:8000/play/a06p/index.m3u8
+#EXTINF:-1,Cartoon Network HD-IK1610-OK
+http://191.52.214.5:8000/play/a031/index.m3u8
+#EXTINF:-1,Cinemax HD-IK1627-OK
+http://191.52.214.5:8000/play/a02a/index.m3u8
+#EXTINF:-1,Comedy Central HD-IK1649-OK
+http://191.52.214.5:8000/play/a02b/index.m3u8
+#EXTINF:-1,Discovery H&H HD-IK1602-OK
+http://191.52.214.5:8000/play/a02i/index.m3u8
+#EXTINF:-1,Discovery Kids HD-IK1608-OK
+http://191.52.214.5:8000/play/a02h/index.m3u8
+#EXTINF:-1,Discovery Theater HD-IK1609-OK
+http://191.52.214.5:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Animation;Kids",Disney Channel Latin America (480p)
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1,E! HD-IK1615-OK
+http://191.52.214.5:8000/play/a03f/index.m3u8
+#EXTINF:-1,ESPN 2 HD-IK1623-OK
+http://191.52.214.5:8000/play/a027/index.m3u8
+#EXTINF:-1,ESPN 3 HD-IK1652 ok
+http://191.52.214.5:8000/play/a025/index.m3u8
+#EXTINF:-1,ESPN HD-IK1622-OK
+http://191.52.214.5:8000/play/a02s/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD-IK1621-OK
+http://191.52.214.5:8000/play/a02o/index.m3u8
+#EXTINF:-1,FX HD-IKS-1625-OK
+http://191.52.214.5:8000/play/a02r/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD-IK1620-OK
+http://191.52.214.5:8000/play/a03u/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD-IK1653
+http://191.52.214.5:8000/play/a026/index.m3u8
+#EXTINF:-1,GOLPERU HD-IK1624-OK
+http://191.52.214.5:8000/play/a03m/index.m3u8
+#EXTINF:-1,Golden HD-IK1662-OK
+http://191.52.214.5:8000/play/a03b/index.m3u8
+#EXTINF:-1,HBO 2 HD-IK1661-OK
+http://191.52.214.5:8000/play/a06o/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://191.52.214.5:8000/play/a06q/index.m3u8
+#EXTINF:-1,HBO HD-IK1663
+http://191.52.214.5:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO XTREME HD-IK1632-OK
+http://191.52.214.5:8000/play/a03x/index.m3u8
+#EXTINF:-1,History Channel HD-IK1604-OK
+http://191.52.214.5:8000/play/a01r/index.m3u8
+#EXTINF:-1,Nat Geo HD-IK1606-OK
+http://191.52.214.5:8000/play/a02u/index.m3u8
+#EXTINF:-1,Paramount HD-IK1619-OK
+http://191.52.214.5:8000/play/a032/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD-IK1629-OK
+http://191.52.214.5:8000/play/a02k/index.m3u8
+#EXTINF:-1,Space HD-IK1626-OK
+http://191.52.214.5:8000/play/a01w/index.m3u8
+#EXTINF:-1,TNT HD-IK1608
+http://191.52.214.5:8000/play/a024/index.m3u8
+#EXTINF:-1,TNT Series HD-IK1618-OK
+http://191.52.214.5:8000/play/a059/index.m3u8
+#EXTINF:-1,Warner Channel HD-IK1631-HD
+http://191.52.214.5:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonPanregional.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Panregional (480p)
+http://45.181.122.13:8000/play/019
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (720p) [Not 24/7]
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Family",Canal IPe (1080p)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports",Claro Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa (720p)
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina (720p)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NacionalTvPeru.pe" tvg-logo="https://i.imgur.com/ad0GNqa.png" group-title="Undefined",Nacional Tv Peru
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
