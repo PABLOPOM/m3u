@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
-https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png",Casa de los Famosos Multicámaras
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412787.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png",Casa de los Famosos acceso total
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412789.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png",Casa de los Famosos Baño
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412790.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png",Casa de los Famosos Cocina
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412791.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png",Casa de los Famosos Habitación 1
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412792.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png",Casa de los Famosos Habitación 2
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412793.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png",Casa de los Famosos Sala
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412794.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS",Casa de los Famosos 24-7
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/413615.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png",Gran Hermano Chile 1
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412795.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png",Gran Hermano Chile 2
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412796.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png",Gran Hermano Chile 3
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412797.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png",Gran Hermano Chile 4
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412798.ts
-#EXTINF:-1 group-title="CASA DE LOS FAMOSOS" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png",Gran Hermano Chile 5
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/412799.ts
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY9EAO638mihjC5qy4SabHVifHeMg4PQjm34aYq_Bahr7Jiuko96R7LX0OF590r4So.png",MX | Azteca Uno
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/56.ts
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://offshore.lat:8080/images/45ef7c4022e916a430626f305ee727cb.png",MX | Azteca Uno Op2
