@@ -569,48 +569,6 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="TV ABIERTA", AMX NOTICIAS 34.2
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", BITME
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", BITME
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", NUESTRA VISIÓN 
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", DPELICULA 
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", DPELICULA PLUS
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="roku-50cd4d6c632d5172834eb5b77fa395c6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" tvg-chno="1033" group-title="TV ABIERTA", FILMEX Clásico
-https://i.mjh.nz/Roku/50cd4d6c632d5172834eb5b77fa395c6.m3u8
-
-#EXTINF:-1 channel-id="roku-1e2a4ec82eb65f729ad7484337c0bcd4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png" tvg-chno="1034" group-title="TV ABIERTA", FILMEX
-https://i.mjh.nz/Roku/1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
-
-#EXTINF:-1 channel-id="roku-5dbf591219b15aa8bb3a7b73b59307f0" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657834856300_center-HUD-260x147.png" tvg-chno="1035" group-title="TV ABIERTA", CINE ESTRELLATV
-https://i.mjh.nz/Roku/5dbf591219b15aa8bb3a7b73b59307f0.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="TV ABIERTA", CARTOON NETWORK MÉXICO
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="TV ABIERTA", CARTOONITO MÉXICO
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
-http://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8?
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="TV ABIERTA", ESP CLAN 
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg" group-title="TV ABIERTA", TASTEMADE español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
 
@@ -623,12 +581,6 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo HD" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="TV ABIERTA", TELEMUNDO 51
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/290px-Logo_Univision_2019.svg.png" group-title="TV ABIERTA", UNIVISIÓN ViX
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/es/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/telemundoAlDia_circle.png" group-title="TV ABIERTA", TELEMUNDO AL DÍA
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
@@ -637,9 +589,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
 
 #EXTINF:-1 group-title="TV ABIERTA", GARAGETV
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", DISCOVERY H&H
-http://190.149.66.90:4000/play/a03o/index.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90" tvg-id="608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8e36746-5a92-4d58-b415-28280a044123/cinema_logo_light-01_-_James_Stowerdx.png" group-title="TV ABIERTA" , Cinema
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
@@ -662,101 +611,23 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="TV ABIERTA", AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO HD
-http://190.149.66.90:4000/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO 
-http://181.189.243.217:8000/play/a0oo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="TV ABIERTA", CANAL CLARO SD
-http://190.149.66.90:4000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine FAMILIAR HD (Ecua1)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="TV ABIERTA", Cine FAMILIAR HD (Ecua1)
-http://177.234.230.226:8010/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine PREMIUM HD (Ecua1)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="TV ABIERTA", Cine PREMIUM HD (Ecua1)
-http://177.234.230.226:8010/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TV ABIERTA", STUDIO UNIVERSAL
-http://181.189.243.217:8000/play/a0q2/index.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TV ABIERTA", STUDIO UNIVERSAL
-http://190.149.66.90:4000/play/a01i/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="TV ABIERTA", CINE SONY
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL 
-http://45.166.92.22:58001/play/a04a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png?w=55" group-title="TV ABIERTA", SONY CHANNEL 
-http://190.149.66.90:4000/play/a03g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
-http://45.166.92.22:58001/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
-http://181.78.105.146:6060/play/a02l
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="TV ABIERTA",SONY MOVIES
-http://181.78.105.146:8800/play/a04w
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6x8jKgKJQdDMR7Be8ZQjnnHyrsrlVhj1yg&usqp=CAU" group-title="TV ABIERTA",DHE
-http://181.78.105.146:8800/play/a04x
 
 #EXTINF:-1 group-title="TV ABIERTA", BJGTJME 
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="TV ABIERTA", +CINE
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?autoplay=1
-
-#EXTINF:-1 group-title="TV ABIERTA", ORIGENtv
-https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8?autoplay=1
-
 #EXTINF:-1 group-title="TV ABIERTA", HALLMARK EN ESPAÑOL 
 https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", CINE XOXO
-https://r.mjh.nz/PlutoTV/5f5136317aedfb0007016f93-alt.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", MULTICINEMA
-http://170.82.37.21:8000/play/a02s/index.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-id="608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="TV ABIERTA", BUTACA TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="TV ABIERTA", FILMEX CLÁSICO TV
-https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV ABIERTA", FILMEX TV
-https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 
 #EXTINF:-1 group-title="TV ABIERTA", CANELA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
-
-#EXTINF:-1 group-title="TV ABIERTA", VIVE KANAL D DRAMA
-https://amg01602-themahqfrance-vivekanalddrama-runtimeusa-k7wf8.amagi.tv/playlist/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=37.120.142.231&ads.ip=37.120.142.231
-
-#EXTINF:-1 group-title="TV ABIERTA", FILM&CO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="TV ABIERTA", GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="TV ABIERTA", GOLDEN PLUS
-http://161.132.243.192:50001/play/a01f/index.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", GOLDEN PREMIER 
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", GOLDEN EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", GOLDEN EDGE
-http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/3762.ts
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="TV ABIERTA", MY TIME ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -815,20 +686,6 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", WAPA DEPORTES
 https://live.field59.com/wapa/wapa2/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="TV ABIERTA", PAKA PAKA 
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png" group-title="TV ABIERTA", CORAZÓN TURCO
-https://i.mjh.nz/PlutoTV/61b3e21d56fee300087e4cba-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="TV ABIERTA", AMC en español
-https://i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="TV ABIERTA", CSI: MIAMI en español
-https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="TV ABIERTA", CSI: NY en español
-https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", CORTV
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8?
