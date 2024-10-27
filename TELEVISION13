@@ -1,0 +1,285 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#http://m3u4u.com
+#https://logos.fandom.com/es/wiki/Categor%C3%ADa:Chile
+
+
+#EXTINF:-1 tvg-id="24_Play" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/24 play.jpg" group-title="Televisión",24 Play
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?res=true&at=android-app&dnt=true
+
+#EXTINF:-1 tvg-id="Space 1 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space 1 HD
+http://167.250.39.130:8000/play/space
+#EXTINF:-1 tvg-id="Space 2 HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space 2 HD
+http://38.41.8.1:8000/play/a00a
+#EXTINF:-1 tvg-id="TCS PELICULAS" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TCS PELICULAS
+http://45.191.196.10:8000/play/a00k
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Televisión",A&E HD
+http://38.41.8.1:8000/play/a006
+#EXTINF:-1 tvg-id="AMC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Televisión",AMC 1
+http://38.41.8.1:8000/play/a01s
+#EXTINF:-1 tvg-id="AMC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Televisión",AMC 2
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AXN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Televisión",AXN 1 HD
+http://38.41.8.1:8000/play/a009
+#EXTINF:-1 tvg-id="AXN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Televisión",AXN 2 HD
+http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="Televisión",Comedy Central
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="Televisión",Lifetime
+http://170.254.18.106/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="Televisión",HBO Pop
+http://38.41.8.1:8000/play/a00d
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="Televisión",HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Televisión",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Televisión",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Televisión",STAR
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Televisión",FX
+http://170.254.18.106/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Televisión",FX HD
+http://38.41.8.1:8000/play/a01h
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Televisión",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="Televisión",Animal Planet HD
+http://38.41.8.1:8000/play/a023
+#EXTINF:-1 tvg-id="Cinecanal 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Televisión",Cinecanal 1 HD
+http://38.41.8.1:8000/play/a01r
+#EXTINF:-1 tvg-id="Cinecanal 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Televisión",Cinecanal 2 HD
+http://38.41.8.1:8000/play/a00y
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Televisión",Discovery Channel
+http://38.41.8.1:8000/play/a07l
+#EXTINF:-1 tvg-id="Discovery H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="Televisión",Discovery H&H HD
+http://38.41.8.1:8000/play/a017
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="Televisión",Discovery Theater HD
+http://38.41.8.1:8000/play/a018
+#EXTINF:-1 tvg-id="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="Televisión",History Channel HD
+http://38.41.8.1:8000/play/a005
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Televisión",Nat Geo HD
+http://38.41.8.1:8000/play/a01p
+#EXTINF:-1 tvg-id="STAR CHANNEL HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Televisión",STAR CHANNEL HD 1
+http://38.41.8.1:8000/play/a019
+#EXTINF:-1 tvg-id="STAR CHANNEL HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Televisión",STAR CHANNEL HD 2
+http://38.41.8.1:8000/play/a02s
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Televisión",Studio Universal HD
+http://38.41.8.1:8000/play/a01y
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="UNIVERSAL CHANNEL HD
+http://38.41.8.1:8000/play/a01a
+#EXTINF:-1 tvg-id="Sun Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="Televisión",Sun Channel HD
+http://38.41.8.1:8000/play/a015
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1280px-SYFY.svg.png" group-title="Televisión",SyFy
+http://38.41.8.1:8000/play/a057
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="Televisión",TBS
+http://38.41.8.1:8000/play/a074
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="Televisión",TCM
+http://38.41.8.1:8000/play/a04x
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Televisión",TNT HD
+http://38.41.8.1:8000/play/a00s
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Televisión",Warner Channel HD
+http://38.41.8.1:8000/play/a008
+
+
+#SD
+#EXTINF:-1 tvg-id="City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Televisión",City TV[853x480]
+http://190.61.43.117:45000/play/a03f
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Televisión",Discovery HD[1920x1080]
+http://190.61.43.117:45000/play/a02y
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Televisión",Discovery ID[720x540]
+http://190.61.43.117:45000/play/a06e
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Televisión",Discovery Kids HD[1920x1080]
+http://190.61.43.117:45000/play/a019
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="Televisión",Discovery Turbo[853x480]
+http://190.61.43.117:45000/play/a040
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="Televisión",Disney Channel[853x480]
+http://190.61.43.117:45000/play/a06b
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="Televisión",Disney Junior[853x480]
+http://190.61.43.117:45000/play/a045
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Televisión",ESPN HD[1280x720]
+http://190.61.43.117:45000/play/a01l
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Televisión",ESPN 2 HD[1280x720]
+http://190.61.43.117:45000/play/a053
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Televisión",ESPN 3 HD[1280x720]
+http://190.61.43.117:45000/play/a051
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN4_Logo.png" group-title="Televisión",ESPN 4[853x480]
+http://190.61.43.117:45000/play/a06w
+#EXTINF:-1 tvg-id="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Televisión",ESPN EXTRA HD[1280x720]
+http://190.61.43.117:45000/play/a01v
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="Televisión",FOX Sports 2 HD[1920x1080]
+http://190.61.43.117:45000/play/a01g
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Televisión",FX HD[1920x1080]
+http://190.61.43.117:45000/play/a01k
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/a/a9/20170519075100%21Fox_sports_3_logo.svg" group-title="Televisión",Fox Sports 3[853x480]
+http://190.61.43.117:45000/play/a060
+#SD
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="Televisión",Baby TV[720x540]
+http://190.61.43.117:45000/play/a03r
+#EXTINF:-1 tvg-id="CNN Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Televisión",CNN Espanol[720x540]
+http://190.61.43.117:45000/play/a044
+#EXTINF:-1 tvg-id="Canal Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/640px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="Televisión",Canal Estrellas[853x480]
+http://190.61.43.117:45000/play/a06h
+#EXTINF:-1 tvg-id="Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Televisión",Caracol HD[1920x1080]
+http://190.61.43.117:45000/play/a02v
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="Televisión",Cartoon Network HD[1920x1080]
+http://190.61.43.117:45000/play/a01y
+#SD
+#EXTINF:-1 tvg-id="Golden HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Televisión",Golden HD[1920x1080]
+http://190.61.43.117:45000/play/a029
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Televisión",HBO 2 HD[1920x1080]
+http://190.61.43.117:45000/play/a023
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="Televisión",HBO Family[853x480]
+http://190.61.43.117:45000/play/a05y
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="Televisión",HBO HD[1920x1080]
+http://190.61.43.117:45000/play/a01w
+#EXTINF:-1 tvg-id="HBO XTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png" group-title="Televisión",HBO XTREME SD[853x480]
+http://190.61.43.117:45000/play/a05u
+#EXTINF:-1 tvg-id="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="Televisión",History Channel[720x540]
+http://190.61.43.117:45000/play/a061
+#EXTINF:-1 tvg-id="History 2 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Televisión",History 2 Channel[720x540]
+http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+#EXTINF:-1 tvg-id="HomeandHealth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg" group-title="Televisión",Home and Health[853x480]
+http://190.61.43.117:45000/play/a06f
+#EXTINF:-1 tvg-id="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Televisión",Nat Geo[853x480]
+http://190.61.43.117:45000/play/a06i
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="Televisión",Nickelodeon[720x540]
+http://190.61.43.117:45000/play/a03u
+#EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="Televisión",Pasiones HD[1920x1080]
+http://190.61.43.117:45000/play/a04x
+#EXTINF:-1 tvg-id="RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Televisión",RCN HD[1920x1080]
+http://190.61.43.117:45000/play/a01m
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="Televisión",RCN Novelas[853x480]
+http://190.61.43.117:45000/play/a06d
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Televisión",STAR CHANNEL[853x480]
+http://190.61.43.117:45000/play/a05h
+#EXTINF:-1 tvg-id="Senal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1280px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Televisión",Senal Colombia[720x540]
+http://190.61.43.117:45000/play/a03b
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Space[853x480]
+http://190.61.43.117:45000/play/a06l
+#SD
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Studio Universal HD[1920x1080]
+http://190.61.43.117:45000/play/a020
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TLC[853x480]
+http://190.61.43.117:45000/play/a042
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TNT HD[1920x1080]
+http://190.61.43.117:45000/play/a050
+#EXTINF:-1 tvg-id="TNT Novelas HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TNT Novelas HD[1920x1080]
+http://190.61.43.117:45000/play/a06u
+#EXTINF:-1 tvg-id="TNT Series HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TNT Series HD[1920x1080]
+http://190.61.43.117:45000/play/a01j
+#EXTINF:-1 tvg-id="TRO" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",TRO[720x540]
+http://190.61.43.117:45000/play/a03d
+#EXTINF:-1 tvg-id="Teleantioquia" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Teleantioquia[720x540]
+http://190.61.43.117:45000/play/a03i
+#EXTINF:-1 tvg-id="Telecafe" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Telecafe[720x540]
+http://190.61.43.117:45000/play/a03l
+#EXTINF:-1 tvg-id="Telecaribe" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Telecaribe[720x540]
+http://190.61.43.117:45000/play/a03k
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Telemundo[853x480]
+http://190.61.43.117:45000/play/a049
+#SD
+#EXTINF:-1 tvg-id="Telepacifico" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Telepacifico[720x540]
+http://190.61.43.117:45000/play/a03j
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Tooncast[720x540]
+http://190.61.43.117:45000/play/a03s
+#EXTINF:-1 tvg-id="Trece" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Trece[720x540]
+http://190.61.43.117:45000/play/a03m
+#EXTINF:-1 tvg-id="Universal Cinema SD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Universal Cinema SD[853x480]
+http://190.61.43.117:45000/play/a05x
+#EXTINF:-1 tvg-id="Universal Comedy SD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Universal Comedy SD[853x480]
+http://190.61.43.117:45000/play/a06k
+#EXTINF:-1 tvg-id="Universal Premiere SD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Universal Premiere SD[853x480]
+http://190.61.43.117:45000/play/a05w
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Warner[720x540]
+http://190.61.43.117:45000/play/a05o
+#EXTINF:-1 tvg-id="Win" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Win[853x480]
+http://190.61.43.117:45000/play/a067
+#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Win Sports+ HD[1920x1080]
+http://190.61.43.117:45000/play/a024
+#EXTINF:-1 tvg-id="Fashion tv" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Fashion tv[800x453]
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 tvg-id="Fashion tv 1" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="Televisión",Fashion tv 1[800x453]
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="Televisión",Tvn
+http://localhost/canales/tvn.php
+
+#EXTINF:-1 tvg-id="Mega_demo" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/mega.jpg" group-title="Televisión",Mega HD
+http://localhost/canales/mega.php
+
+#EXTINF:-1 tvg-id="Chilevision" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/chv.jpg" group-title="Televisión",Chilevision
+https://jireh-1-hls-video-cl-claro.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal13.jpg" group-title="Televisión",Canal 13
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/85823f09-4339-4874-be41-c7e94f683ed4:MRN2/variant/acbf86e29b18dcce3eea2e2d5f2435a5/bandwidth/2305600.m3u8
+http://201.222.44.220:4227/play/a02l
+
+#EXTINF:-1 tvg-id="Canal 13 Deporte" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Televisión",Canal 13 Deporte
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#https://rudo.video/live/13d
+
+#EXTINF:-1 tvg-id="Holvoet tv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/holvoet.jpg" group-title="Televisión",Holvoet tv
+http://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="America" tvg-logo="https://lh3.googleusercontent.com/-fHUFZgkXp4k/ZgTWyEgPzsI/AAAAAAAABHE/3risgYCtUGUN2ZEsf90LEMo0qWmdbrudQCNcBGAsYHQ/h120/America.png" group-title="Televisión",América Televisión
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina" tvg-logo="https://lh3.googleusercontent.com/--Zd9Jw1EVgA/ZgTW25ayqdI/AAAAAAAABHI/d_PnELWw_TkERdXLpPAWcW7nTPvizWVXACNcBGAsYHQ/h120/Latina.png" group-title="Televisión",Latina Televisión
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+#EXTINF:-1 tvg-id="Tevex" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tevex.jpg" group-title="Televisión",Tevex
+https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://lh3.googleusercontent.com/-tsIUzwIDDh8/ZgTW6fwnaUI/AAAAAAAABHM/fGPi-ekRRskNeoKn8zTfoGHv46GT5wjjwCNcBGAsYHQ/h120/Panamericana.png" group-title="Televisión",Panamericana
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:-1 tvg-id="Willax" tvg-logo="https://lh3.googleusercontent.com/-zCcPYjGPBFk/ZgTYEMwLl3I/AAAAAAAABHg/DLyfreoxRGUEz2AyuvSZK0_PNGuu1-olQCNcBGAsYHQ/h120/Willax.png" group-title="Televisión",Willax
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+#EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-URNTBUQRzl0/ZgTZV24nmEI/AAAAAAAABHo/X5h4gjVrOGsM3eym7qKDhKJZBu9UMQV2QCNcBGAsYHQ/h120/Exitosa.png" group-title="Televisión",Exitosa
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Perú" tvg-logo="https://lh3.googleusercontent.com/-qhJSQi63ycM/ZgTZ0nvJ5JI/AAAAAAAABHw/EXGdHldhDh4QZSnZtwKcIgEnYKe5jVkOwCNcBGAsYHQ/h120/TV%2BPer%25C3%25BA.png" group-title="Televisión",TV Perú
+https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+#EXTINF:-1 tvg-id="Nativa" tvg-logo="https://lh3.googleusercontent.com/-IzU1ISqWMPQ/ZgTaP88lswI/AAAAAAAABH4/-I7A3mHOsMwMVIaXnlekE1sAzP_Kayl8ACNcBGAsYHQ/h120/Nativa.png" group-title="Televisión",Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV TV" tvg-logo="https://lh3.googleusercontent.com/-C8EpD545q5Y/ZgTa02Z4GiI/AAAAAAAABIA/jJloGJe-ORU277XvufpOlRpl8fuV910AgCNcBGAsYHQ/h120/CTV%2BTV.png" group-title="Televisión",CTV TV
+https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ovacion" tvg-logo="https://lh3.googleusercontent.com/-6ZD5WT1-3SU/ZgTW8JsL5JI/AAAAAAAABHQ/6sZrvtX2IjUq6fNkIBxjp_uMzc6wyUWpACNcBGAsYHQ/h120/Ovacion.png" group-title="Televisión",Ovacion
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 9 bío-bío" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/canal9.jpg" group-title="Televisión",Canal 9 bío-bío
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwd.jpg" group-title="Televisión",DW (deutsch)
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="DW (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dwe.jpg" group-title="Televisión",DW (español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="DW Selection" tvg-logo="https://api.rlaxxtv.com/images/channels/deutschewelle_colour.png" group-title="Televisión",DW Selection
+https://spottvod.akamaized.net/i/hdflash/rlaxx/deutsche_welle/hea20230908_DigiEuro_AVC_1920x1080_,premium,high,regular,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-id="5-minute crafts" tvg-logo="https://api.rlaxxtv.com/images/channels/5minutecrafts_colour.png" group-title="Televisión",5-minute crafts
+https://spottvod.akamaized.net/i/hdflash/rlaxx/thesoul_publishing/0c4c7e59aeb04d742bdf13d1a5_,premium,high,regular,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-id="Deluxe Lounge" tvg-logo="https://api.rlaxxtv.com/images/channels/deluxeloungehd_colour.png" group-title="Televisión",Deluxe Lounge
+https://spottvod.akamaized.net/i/hdflash/rlaxx/high_view/812032_,premium,high,regular,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-id="Nature Stream" tvg-logo="https://api.rlaxxtv.com/images/channels/naturestreamtv_colour.png" group-title="Televisión",Nature Stream
+https://spottvod.akamaized.net/i/hdflash/rlaxx/naturestream_tv/S6I6061VT_,premium,high,regular,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-id="Soni Centric" tvg-logo="https://api.rlaxxtv.com/images/channels/sonicentric_colour.png" group-title="Televisión",Soni Centric
+https://spottvod.akamaized.net/i/hdflash/rlaxx/sonicentric/Campfire_at_Sunset_,premium,high,regular,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-id="Alacocina" tvg-logo="https://api.rlaxxtv.com/images/channels/alacocinatv_colour.png" group-title="Televisión",Alacocina
+https://spottvod.akamaized.net/i/hdflash/rlaxx/alacocina_tv/fuera_de_carta_e8_t2_,premium,high,regular,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-id="Todo crimen" tvg-logo="https://api.rlaxxtv.com/images/channels/todocrimen_colour.png" group-title="Televisión",Todo crimen
+https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/12_VICTIMAS_DEL_MI_012__DG00045125_VICTIMAS_DEL_MIS_1_V1_7_,premium,high,regular,.mp4.csmil/master.m3u8
+
+
+#EXTINF:-1 tvg-id="RT (Español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/rt.jpg" group-title="Televisión",RT (español)
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dramas coreanos (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg" group-title="Televisión",Dramas coreanos (pluto tv)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
+
+#EXTINF:-1 tvg-id="CGTN (español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg" group-title="Televisión",CGTN
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
