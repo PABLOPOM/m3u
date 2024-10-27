@@ -218,9 +218,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 #EXTINF:-1 group-title="TV ABIERTA", CANELA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 
-#EXTINF:-1 group-title="TV ABIERTA", IMAGEN UNIVERSAL TV
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV ABIERTA", RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
@@ -535,6 +532,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="TV ABIERTA", CINE SONY
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", BJGTJME 
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
