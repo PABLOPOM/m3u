@@ -152,6 +152,12 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", TELESUR 
 https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE 
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", ORO TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Si3N1DKQX7cuctXy9dh9
 
@@ -170,7 +176,7 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS YT
+#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS 
 https://ythls.armelin.one/channel/UCqfCJBfrFSO4tZM1LNZTBFQ.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", ITV DEPORTES 
@@ -319,18 +325,6 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="TV ABIERTA", EL CONFIDENCIAL TV
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE 
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", LA1
-https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="TV ABIERTA", TVE INTERNACIONAL EUROPA HD 
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="TV ABIERTA", TVE INTERNACIONAL AMERICA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
