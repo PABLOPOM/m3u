@@ -110,6 +110,21 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?w
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE Tv 34.1
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", ILCE
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", TVT Tabasco 
+https://5e50264bd6766.streamlock.net:443/tabasco/videotabasco/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", TVMÁS 
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online-218x150.png" group-title="TV ABIERTA", CANAL 10 Y HERALDO Tv 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-218x150.png" group-title="TV ABIERTA", CANAL 26 AGUASCALIENTES 
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", CGTN ESPAÑOL 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
@@ -131,15 +146,11 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", HISPAN TV 
 https://live.presstv.ir/hls/hispantv.m3u8
 
-
 #EXTINF:-1 group-title="TV ABIERTA", RS RT 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TELESUR 
 https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:443/v2/stitch/hls/channel/6320d2755e54db000783fd87livestitch/2977920/playlist.m3u8?terminate=false&sid=2ca8dbaf-753b-11ef-b209-527f5d97f491&deviceDNT=0&deviceLat=20.09000015258789&deviceLon=-98.77999877929688&deviceModel=web&deviceVersion=128.0.6613&includeExtendedEvents=true&appName=web&deviceId=04f086ab-318c-4078-8378-4f5c0a32fcbc&appVersion=9.4.0-9ca51ca10c3047fbafa7297708f146243146d125&deviceType=web&deviceMake=chromium-webview&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgyZDdiMjhlLWMxZDYtNGJjNS1iYzBlLTJlMzgyNzk5OGM5OCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyY2E4ZGJhZi03NTNiLTExZWYtYjIwOS01MjdmNWQ5N2Y0OTEiLCJjbGllbnRJUCI6IjI4MDY6MmYwOmEyYTA6ZmIxZDo3YzJhOjc3MTM6ZGI3NTo1NWMwIiwiY2l0eSI6IlBhY2h1Y2EgRGUgU290byIsInBvc3RhbENvZGUiOiI0MjA4NCIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjIwLjA5MDAwMDE1MjU4Nzg5LCJkZXZpY2VMb24iOi05OC43Nzk5OTg3NzkyOTY4OCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTI4LjAuNjYxMyIsImRldmljZU1ha2UiOiJjaHJvbWl1bS13ZWJ2aWV3IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNC4wLTljYTUxY2ExMGMzMDQ3ZmJhZmE3Mjk3NzA4ZjE0NjI0MzE0NmQxMjUiLCJjbGllbnRJRCI6IjA0ZjA4NmFiLTMxOGMtNDA3OC04Mzc4LTRmNWMwYTMyZmNiYyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMDRmMDg2YWItMzE4Yy00MDc4LTgzNzgtNGY1YzBhMzJmY2JjIiwiZndWY0lEMkNvcHBhIjoiMDRmMDg2YWItMzE4Yy00MDc4LTgzNzgtNGY1YzBhMzJmY2JjIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIwNGYwODZhYi0zMThjLTQwNzgtODM3OC00ZjVjMGEzMmZjYmMiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDAzIn19LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TURSbU1EZzJZV0l0TXpFNFl5MDBNRGM0TFRnek56Z3ROR1kxWXpCaE16Sm1ZMkpqIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTcyNjY5NDY0OCwiaWF0IjoxNzI2NjA4MjQ4LCJqdGkiOiJmZGZlOGJhZC1iODYxLTQwNzctOTk4Yy0zYjJkNWNmYjNmMzcifQ.lZdYKJEDeglDo77YIKaS2NptHuj7BYqQXP-kwb7vWto&paln=AQzzBGQES4MkzlWzUMtQm-f0GTjV1JUwtgTsFFIcTBbdZsXz4aQxyujQurda_DdPRVyaqNLOZvEX_gaLGaLQ9xp7oLSuUIwU3qQbUsnZZUTHQ_j8mD_nMkSruYhFT7vUXqo9rnvIMn1Lc55oYpf4mRyAJUZs4wSQvj-CJwdVZt4744TtguaUYWRF8uoZto_XUADpLN3Bk7iPnt9ULAy6uwbarGkEJ9W1i5KVEe9V61l0oIG5BAzGG56MmFkAy8gfVFOHlqg3E2o4aNXHpro22tnmDvaVWOInCRF60gFzbqPZRf3EpKH_T8cZTjGvt9gJ4gcDqLpIZjvxs3s6Sn8WhxDqY7So4O569fvzJHRdzmm0P9w5Vx2SNnIattDMH6xVaA-XTpzLbtBByNGk_HFDhteUogsumaSKb6JwF9VtDjNuQcEpoVTu_g1Tq9ShyeNLuQ3uCcFWAewD7gEvLmSIsfsDIH6wvbqhSQDO0Epm-o-m0MCKCti9p43DQehHyxl8k40EgItJJfzvNBQ57YVAFqdJGvEw8cW_CCxcue4hr-vtRRsaEZ0F20PUlDUmQdZ6tWHvaBi-PkaZleBe-3cMzIz3i9yfQeChiqthcCHYfcb2vScidlFeSVV2V8zHth1eJwepUGIyCZ1a9d5IiLmv43_h36nrtgbRF98J8_uRIQbX6OXOH3IgOPGSfjHD9W3NB-gtvMgdK1bHtbTkIpr5-leJeUFqwyAha13dSvQvhf1qh3qj5z-fclASOH8HjMDhlqWXNrbv8rveelJ3HOpU2xBbqACPaWdVtR4cObMbIGspRiikHxGUfvSLGi3wMW5jTOrEwVcddrdthfOh9fXJEVsobgepk2Ha38leq8lz5DIsmo5YQxjYeafRoC-Ed89FVBDmwn9sZ5dTyH2JUzrBSILIEZjiOkj008YOkJytti-CpohSa53b3y9Up2xz-uynRnFzXA_7k6HXCwHmB-CL1gfj5bBDQzzS-vdrhsMAC0-aTUQLd8wRfYrJH77zNqRA2j8w_dTAv19blnfZcR1oPsZUfj43TUFFiAaSoYhGbEfkYS1VakE0WgyYmYNXKM41h8nOzrUH3k-Zsj6wEDCgAXq6-miOx43Yz5oQQEWGO0A2_p4TniDMw2ci2XxsfmxIelWydW43BMewvMXosJn52RJJOnhCYbpq7Ve1qTK5cX49ceni_sMtUY7b0ZG0r6rlI4dlTuRbgp-pybdwAgwRUcSn0s1FjAgXkqL2qVFux2fXsXee6Fv9gFxEOA6ZLM9ZYCsQFaf4TmAYoCJT-UeBmPFqLkvjENbLbCgnFcFN-rK5KolC7m-JxgEdHFBAKR8XpbjBCExU4we8d5qWAAd-TeYyoE51_LVFeU4el3KD2OGlYo_L7w9cWQ7MgFj8q7OXMfZTY2lT4brP-vMBJBdz_cIIYoc.
 
 #EXTINF:-1 group-title="TV ABIERTA", ORO TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Si3N1DKQX7cuctXy9dh9
@@ -170,9 +181,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CARAS TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", HOLA TV
-http://45.166.92.22:58001/play/a016/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
@@ -441,9 +449,6 @@ https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", KARAOKE POR STINGRAY
 https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
-#EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7.1 UHD
-http://45.167.253.253:4000/play/a00p/index.m3u8
-
 #EXTINF:-1 tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="TV ABIERTA", AZTECA 7.1 HD
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
 
@@ -507,9 +512,6 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/es/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/01202022/telemundoAlDia_circle.png" group-title="TV ABIERTA", TELEMUNDO AL DÍA
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-
 #EXTINF:-1 group-title="TV ABIERTA", HOGAR 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
 
@@ -543,15 +545,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", BJGTJME 
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="TV ABIERTA", HALLMARK EN ESPAÑOL 
-https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-id="608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="TV ABIERTA", BUTACA TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", ELECTRIC NOW ESPAÑOL 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
-
 #EXTINF:-1 group-title="TV ABIERTA", CANELA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 
@@ -573,33 +566,6 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="TV ABIERTA", OLD
 https://marine2.miplay.cl/old/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", TU CINE 
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", TU CINE europe
-https://tucineeurope-samsungspain.amagi.tv/TuCineEurope-Samsung/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", CINE REAL
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", HORRORFY
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", JUNTOS
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", FREE TV
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="TV ABIERTA", CINES VERDI TV
-https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png", Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
@@ -609,39 +575,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV Novelas 
 https://live.seo.tv.bo/live/3SEO.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", WAPA DEPORTES
-https://live.field59.com/wapa/wapa2/.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", CORTV
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", ILCE
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
-
-#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_filter_nobg_62422bfc29a52.png" group-title="TV ABIERTA", SAN LUIS NUEVE TV
-https://5ca9af4645e15.streamlock.net:443/nuevetv/videonuevetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", TVT Tabasco 
-https://5e50264bd6766.streamlock.net:443/tabasco/videotabasco/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="TV ABIERTA", TVMÁS 
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/justiciatv-logo.png" group-title="TV ABIERTA", JUSTICIA TV 
-https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="TV ABIERTA", CANAL 10 QUERÉTARO 
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online-218x150.png" group-title="TV ABIERTA", CANAL 10 Y HERALDO Tv 
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-218x150.png" group-title="TV ABIERTA", CANAL 26 AGUASCALIENTES 
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-218x150.png" group-title="TV ABIERTA", JALISCO TV 
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 
 
 
