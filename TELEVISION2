@@ -146,6 +146,9 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", AL DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", NEGOCIOS.TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", HISPAN TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
