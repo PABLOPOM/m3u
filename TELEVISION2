@@ -176,6 +176,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", 24H TVE 
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg", CLAN
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90" tvg-id="608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8e36746-5a92-4d58-b415-28280a044123/cinema_logo_light-01_-_James_Stowerdx.png" group-title="TV ABIERTA" , Cinema
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
 
