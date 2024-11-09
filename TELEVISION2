@@ -74,6 +74,9 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w850318408.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", CANAL DEL CONGRESO JALISCO 
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", SUMA TV HGO
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/ABR480v1/streams/50dac0d8-d628-9b54-2895-ae16b2ba9e72_adaptive.m3u8?amsmt=st=1731176842~exp=1731176962~hmac=86940b7d0fd9f34d556409a915bbf7f9d9c43c6b263eaa98d8366dfa7db22cf3
+
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/justiciatv-logo.png" group-title="TV ABIERTA", JUSTICIA TV 
 https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
 
