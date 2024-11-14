@@ -59,6 +59,9 @@ https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 
 https://ythls.armelin.one/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", @PRENDE+
+https://stream.aprende.gob.mx/live/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE.3 Señal Digital 
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
 
