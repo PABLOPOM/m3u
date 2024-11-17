@@ -227,6 +227,33 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="TV ABIERTA", MY TIME MEXICO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" group-title="TV ABIERTA", AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="BETEast.us" group-title="TV ABIERTA", BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+
+#EXTINF:-1 tvg-id="BravoEast.us" group-title="TV ABIERTA", BRAVO
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV ABIERTA", FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV ABIERTA", HISTORY
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV ABIERTA", LIFETIME
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVEast.us" group-title="TV ABIERTA", MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" group-title="TV ABIERTA", STAR CHANNEL CENTRAL AMERICA
+https://streamer1.nexgen.bz/STAR/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1East.us" group-title="TV ABIERTA", VH1
+https://streamer1.nexgen.bz/VH1/index.m3u8
+
 #EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="TV ABIERTA",  MX FAMILY
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
