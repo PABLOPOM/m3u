@@ -296,7 +296,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 #EXTINF:-1 group-title="TV ABIERTA", UNIMAS
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
 
-#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 
+#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO INTERNACIONAL 
 http://170.83.242.9:5151/play/a0el
 
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO CALIFORNIA 
