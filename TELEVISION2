@@ -65,6 +65,9 @@ http://190.97.183.98:8000/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-logo="https://heraldodemexico.com.mx/a/plantillas/p/el-heraldo-de-mexico/imgs/favicons/apple-touch-icon.png" group-title="TV ABIERTA", HERALDO TELEVISIÓN 
 https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", CLAUDIA SHEINBAUM PARDO
+https://ythls.armelin.one/channel/UC6mvc52_1j0okpAaXJj2c_Q.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", GOBIERNO DE MÉXICO 
 https://ythls.armelin.one/channel/UCQbtB5SraxFm0VqYlIGIf1w.m3u8
 
