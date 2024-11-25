@@ -17,7 +17,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3?mp2t
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
 http://200.115.120.1:8000/play/ca014/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="TV ABIERTA" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png", TUDN 🇲🇽🇺🇸
+#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png" group-title="TV ABIERTA, TUDN 🇲🇽🇺🇸
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TUDN
