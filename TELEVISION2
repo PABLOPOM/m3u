@@ -188,6 +188,9 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 UHD
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", IB3
+https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", NTN24 
 https://ythls.armelin.one/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
 
