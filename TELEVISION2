@@ -332,6 +332,9 @@ https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", HISTORY2 
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", DISCOVERY 
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", TURBO
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 
