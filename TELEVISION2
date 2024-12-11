@@ -311,6 +311,9 @@ https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="MTVEast.us" group-title="TV ABIERTA", MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" group-title="TV ABIERTA", STAR CHANNEL CENTRAL AMERICA
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
