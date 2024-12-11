@@ -317,6 +317,30 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1 tvg-id="VH1East.us" group-title="TV ABIERTA", VH1
 https://streamer1.nexgen.bz/VH1/index.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", CINEMAX
+https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HBO PLUS 
+https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HBO FAMILY 
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HISTORY
+https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HISTORY2 
+https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TURBO
+https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", NAT GEO
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", AXN
+https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1 tvg-id="VH1East.us" group-title="TV ABIERTA", USA
 http://200.115.120.1:8000/play/ca125/index.m3u8
 
