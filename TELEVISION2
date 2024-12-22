@@ -341,6 +341,9 @@ https://streamer1.nexgen.bz/VH1/index.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", CINEMAX
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", SPACE
+http://181.78.107.162:49000/play/a0iz/index.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", CINECANAL
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
