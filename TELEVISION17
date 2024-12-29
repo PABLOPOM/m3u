@@ -1,0 +1,563 @@
+#EXTM3U
+
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/20-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISTRITOCOMEDIA/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/BITME/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AXN/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/GOLDEN/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/GOLDENPLUS/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TELEHIT/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DEPELICULA/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINEMAX/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LIGA1/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LIGA1MAX/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/STAR/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINECANAL/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/WARNERCHANNEL/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FX/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNT/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HISTORY/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/UNIVERSAL/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TYC/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYCHANNEL/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HGTV/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PARAMOUNT/40-hls/live-media.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DHE/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LIFETIME/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYWORLD/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/THEATER/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYID/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TLC/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/SCIENCE/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HYH/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FOODNETWORK/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ANIMALPLANET/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NATGEO/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/MTV/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CARTOONITO/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYKIDS/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISNEYCHANNEL/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISNEYJR/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NICK/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NICKJR/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ATRESERIES/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/SPACE/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TCM/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNTSERIES/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AMC/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AYE/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/EDGE/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TLNOVELAS/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PASIONES/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/UNIVISION/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NICKJR/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CARTOONNETWORK/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN2/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN3/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPNEXTRA/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN4/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FOXSPORT3/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FOXSPORTS2/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HISTORY2/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/USA/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AZCORAZON/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AZMUNDO/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ENTERTAINMENT/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNTSERIES/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NATGEO/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/MTV/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TURBO/40-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PBO/20-hls/live-media.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LASESTRELLAS/20-hls/live-media.m3u8
+
+#EXTINF:-1,5700 | GOLF CHANNEL
+181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1,5800 | Sony HD
+181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
+#EXTINF:-1,5801 | DISCOVERY SCIENCE
+181.114.57.246:4000/play/xDmVBDWKHJDg/index.m3u8
+#EXTINF:-1,5802 | History Channel
+181.114.57.246:4000/play/hgRR6HGdf23As/index.m3u8
+#EXTINF:-1,5803 | Investigation Discovery
+181.114.57.246:4000/play/8EVmhNhJHQUwrNKA/index.m3u8
+#EXTINF:-1,5804 â”‚ Discovery Kids HD
+181.114.57.246:4000/play/s8FgQukj6d9eKmT9/index.m3u8
+#EXTINF:-1,5805 | ESPN HD
+181.114.57.246:4000/play/Z5TWRUY3869wGRLG/index.m3u8
+#EXTINF:-1,5806 | DW Tv
+181.114.57.246:4000/play/tKvLD8GZp9nGM8JC/index.m3u8
+#EXTINF:-1,5807 | ESPN 5
+181.114.57.246:4000/play/zMbqBSS3gramuTPy/index.m3u8
+#EXTINF:-1,5808 | A&E
+181.114.57.246:4000/play/8XG7XmKxcXbmsbJG/index.m3u8
+#EXTINF:-1,5809 | A3CINE
+181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+#EXTINF:-1,5810 | ABC HD
+181.114.57.246:4000/play/bhAmBxmCwn3VLbnJ/index.m3u8
+#EXTINF:-1,58100 | Starz HD
+181.114.57.246:4000/play/tyuptHZqYdP3wcU7/index.m3u8
+#EXTINF:-1,58101 | STARZ COMEDY
+181.114.57.246:4000/play/d9wMw4hRpVVkXFmF/index.m3u8
+#EXTINF:-1,58103 | Universal
+181.114.57.246:4000/play/Um9B9zJk9LEqj7aA/index.m3u8
+#EXTINF:-1,58104 | Sun Channel
+181.114.57.246:4000/play/dkagyRRTYhsydHH87Tt/index.m3u8
+#EXTINF:-1,58105 | Suyapa TV
+181.114.57.246:4000/play/ehUvcm7apFwn8Qb8/index.m3u8
+#EXTINF:-1,58106 | SyFy
+181.114.57.246:4000/play/s8HLStQvq2dwPhSk/index.m3u8
+#EXTINF:-1,58108 | TDTV
+181.114.57.246:4000/play/CtHhZK8VSMyrLuvh/index.m3u8
+#EXTINF:-1,58109 | Telecadena 7/4
+181.114.57.246:4000/play/f8jnN96QRRHSLgvE/index.m3u8
+#EXTINF:-1,58110 | TeleCeiba
+181.114.57.246:4000/play/wTUasRcEn9wz7AcM/index.m3u8
+#EXTINF:-1,58111 | Telemundo HD
+181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+#EXTINF:-1,58113 | Telesur
+181.114.57.246:4000/play/KrgtR2UMeB2c4gEN/index.m3u8
+#EXTINF:-1,58114 | Televicentro HD
+181.114.57.246:4000/play/z2Whc6dVUvW6c9BE/index.m3u8
+#EXTINF:-1,58115 | Tennis Channel HD
+181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8
+#EXTINF:-1,58117 | TLC
+181.114.57.246:4000/play/BVzkaj9B6Qv8LHu4/index.m3u8
+#EXTINF:-1,58123 | TSI HD
+181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
+#EXTINF:-1,58124â”‚Tv Chile
+181.114.57.246:4000/play/fSqkHRY83AslobpD/index.m3u8
+#EXTINF:-1,58126 | TVE
+181.114.57.246:4000/play/YLBNzWjum7u9gpQC/index.m3u8
+#EXTINF:-1,58128 | TyCSports HD
+181.114.57.246:4000/play/CMGEPVwDeTnyM7Rb/index.m3u8
+#EXTINF:-1,58129 | Une TV
+181.114.57.246:4000/play/Xk8Pq5PnKCZA75xn/index.m3u8
+#EXTINF:-1,5813 | Animal Planet HD
+181.114.57.246:4000/play/3xraqjwdjUNTNVu9/index.m3u8
+#EXTINF:-1,58130 | Univision HD
+181.114.57.246:4000/play/TR65WqDLpEby8nmy/index.m3u8
+
+#EXTINF:-1,58132 | VTV
+181.114.57.246:4000/play/99AG3HLAKBRseUqt/index.m3u8
+#EXTINF:-1,58133 | TUDN
+181.114.57.246:4000/play/HuT9u9zLHrk8FUk2/index.m3u8
+#EXTINF:-1,5814 | Antena 3
+181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
+#EXTINF:-1,58142 | INTI HD
+181.114.57.246:4000/play/36UNSCv2nkjpgZ2Y/index.m3u8
+#EXTINF:-1,5815 | AXN HD
+181.114.57.246:4000/play/8Cq8VftfuLDUjBSh/index.m3u8
+#EXTINF:-1,58152 | CITY TV
+181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
+#EXTINF:-1,58155 | Paramount
+181.114.57.246:4000/play/1DeeCTuOYU9GJRg9/index.m3u8
+#EXTINF:-1,5816 | AZ Cinema
+181.114.57.246:4000/play/ppDuxzpFe2YZtbph/index.m3u8
+#EXTINF:-1,58168 | ESPN 4 NUEVO STRIM
+181.114.57.246:4000/play/zxCvBnM159QsGhk5/index.m3u8
+#EXTINF:-1,5817 | AZ Clic HD
+181.114.57.246:4000/play/HmvJ4ds5gWTRtCMR/index.m3u8
+#EXTINF:-1,5818 | Azteca Corazon
+181.114.57.246:4000/play/ZYfj23fPhTjFbjAf/index.m3u8
+#EXTINF:-1,58188 | Studio Universal
+181.114.57.246:4000/play/sJRs4XE38K9b5FEJ/index.m3u8
+#EXTINF:-1,58189 | Deportes TVC
+181.114.57.246:4000/play/2Na3hEJynkzTWSKh/index.m3u8
+#EXTINF:-1,5819 | Az Mundo HD
+181.114.57.246:4000/play/P2jFgnwAUdRRkN7P/index.m3u8
+#EXTINF:-1,58192 | Azteca 7
+181.114.57.246:4000/play/tqTqb4YCsaBYU2h2/index.m3u8
+#EXTINF:-1,58195 | Bravo TV
+181.114.57.246:4000/play/wEGFm7Suv2nmM6w7/index.m3u8
+#EXTINF:-1,58196 | Telemundo Internacional
+181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
+#EXTINF:-1,5820 | Baby TV
+181.114.57.246:4000/play/LCE4K4Y28Qr2Z9AM/index.m3u8
+#EXTINF:-1,58216 | Maria Vision
+181.114.57.246:4000/play/LA54AZ78as45JAMp/index.m3u8
+#EXTINF:-1,5823 | Canal 11
+181.114.57.246:4000/play/V3VZP98PhCLhd2UV/index.m3u8
+#EXTINF:-1,5824 | Canal TEN
+181.114.57.246:4000/play/g5czJwVdqWpYY128/index.m3u8
+#EXTINF:-1,5825 | Canal 6
+181.114.57.246:4000/play/Uh5vNWNknJkaX4sT/index.m3u8
+#EXTINF:-1,5826 | Cartoon Network
+181.114.57.246:4000/play/73Ep4s92JhcqCy3U/index.m3u8
+#EXTINF:-1,5827 | CBS
+181.114.57.246:4000/play/SJc3fvCpEhFAv6N2/index.m3u8
+#EXTINF:-1,5828 | CCI
+181.114.57.246:4000/play/Gn0ycenJynsB1Pbu/index.m3u8
+#EXTINF:-1,5829 | Cinecanal HD
+181.114.57.246:4000/play/AS2ESM6kwGDqHCaX/index.m3u8
+#EXTINF:-1,5831 | CNN ESPAÃ‘OL
+181.114.57.246:4000/play/WmpucMcLyV96bWYM/index.m3u8
+#EXTINF:-1,5832 | CNN International
+181.114.57.246:4000/play/kbRr3ah49h2fTXNn/index.m3u8
+#EXTINF:-1,5836 | Discovery Channel
+181.114.57.246:4000/play/ZbNgJUAyX5qQ2Kck/index.m3u8
+#EXTINF:-1,5837 | Discovery Home & Health HD
+181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
+#EXTINF:-1,5838 | Discovery Theater HD
+181.114.57.246:4000/play/rDeXCAhrZdLmXQ7Y/index.m3u8
+#EXTINF:-1,5839 | Discovery World HD
+181.114.57.246:4000/play/Nf4QeAarDKFtuBFz/index.m3u8
+#EXTINF:-1,5840 | Disney Channel
+181.114.57.246:4000/play/ntefpXvD4uthEv4f/index.m3u8
+#EXTINF:-1,5841 | Disney Junior
+181.114.57.246:4000/play/QnbYDeU2yshyMZpD/index.m3u8
+#EXTINF:-1,5842 | DTV HD
+181.114.57.246:4000/play/23Bp6Sqv99nCx5s6/index.m3u8
+#EXTINF:-1,5843 | E!
+181.114.57.246:4000/play/PrEJ4uP9gUv7H63u/index.m3u8
+#EXTINF:-1,5845 | Encore Family
+181.114.57.246:4000/play/LMMEXc96QKtvV7uC/index.m3u8
+#EXTINF:-1,5846â”‚Encore HD
+181.114.57.246:4000/play/Y8c3rYC2aR76bVBh/index.m3u8
+#EXTINF:-1,5848 | ESPN Plus+
+181.114.57.246:4000/play/7mZEEEBQpQGypd9c/index.m3u8
+#EXTINF:-1,5849 | ESPN 2
+181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
+#EXTINF:-1,5850 | ESPN3 HD
+181.114.57.246:4000/play/4hrEpujghmYgjET8/index.m3u8
+#EXTINF:-1,5852 | EWTN
+181.114.57.246:4000/play/5HJJPbP7JMwg5Vc5/index.m3u8
+#EXTINF:-1,5853 | FOOD NETWORK ES
+181.114.57.246:4000/play/wmUA33kut66JuxHh/index.m3u8
+#EXTINF:-1,5854 | CARACOL TV
+181.114.57.246:4000/play/2QB37RxhyfbMBFWX/index.m3u8
+#EXTINF:-1,5856 | RCN COLOMBIA
+181.114.57.246:4000/play/NwTjrW2RFy1Um4zW/index.m3u8
+#EXTINF:-1,5860 | Telesistema
+181.114.57.246:4000/play/N78UVv766r6cyfcazxz/index.m3u8
+#EXTINF:-1,5862 | Fox News
+181.114.57.246:4000/play/K5ajuynCU4YyEy57/index.m3u8
+#EXTINF:-1,5864 | FOX Sports 2 HD
+181.114.57.246:4000/play/eGhTK4fJJR5p5M3N/index.m3u8
+#EXTINF:-1,5865 | ESPN 6
+181.114.57.246:4000/play/G5zcc3HYpdc5AjMs/index.m3u8
+#EXTINF:-1,5868 | Fox 7
+181.114.57.246:4000/play/xShXfm4TDt98YmwJ/index.m3u8
+#EXTINF:-1,5869 | Bloomberg
+181.114.57.246:4000/play/aaC2G9BQULG4Wa3k/index.m3u8
+#EXTINF:-1,5872 | GO TV HD
+181.114.57.246:4000/play/ezcjMhAHpPDNzV82/index.m3u8
+#EXTINF:-1,5873 | GolTV
+181.114.57.246:4000/play/S58HV7ekrnCUvF4u/index.m3u8
+#EXTINF:-1,5875 | GuateVision
+181.114.57.246:4000/play/5Zd33BSgrRbERkXk/index.m3u8
+#EXTINF:-1,5876 | Hallmark Movie Channel
+181.114.57.246:4000/play/DuLWJ8FDApFxgpya/index.m3u8
+#EXTINF:-1,5881 | HCH
+181.114.57.246:4000/play/h9ZJEvEGVfy9by8W/index.m3u8
+#EXTINF:-1,5883 | Lifetime LA
+181.114.57.246:4000/play/ZPqDc6wxcS6VPMpy/index.m3u8
+#EXTINF:-1,5885 | MultiPremier
+181.114.57.246:4000/play/PKaCscg4MeGenpzG/index.m3u8
+#EXTINF:-1,5888 | National Geographic
+181.114.57.246:4000/play/TQqUqLTut8Hk4F89/index.m3u8
+#EXTINF:-1,5889 | NBC
+181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
+
+#EXTINF:-1 tvg-id=\"a05fdae2eee4358a5b3ee1871cf1a6f5\" tvg-chno=\"1\",Service01
+http://187.249.112.44:9981/stream/channelid/1658478496?profile=pass
+#EXTINF:-1 tvg-id=\"722b1e81fcd375b2c183d130ccea0593\" tvg-chno=\"100\",localCAST
+http://187.249.112.44:9981/stream/channelid/18754418?profile=pass
+#EXTINF:-1 tvg-id=\"42fde34c9d3db0495e7a031ae5f1f57f\" tvg-chno=\"101\",Azteca UNO
+http://187.249.112.44:9981/stream/channelid/1290009922?profile=pass
+#EXTINF:-1 tvg-id=\"3a7e6cf2b499d7d00259c7bc712de754\" tvg-chno=\"102\",Las Estrellas
+http://187.249.112.44:9981/stream/channelid/1919712826?profile=pass
+#EXTINF:-1 tvg-id=\"08c89a4abca5761fcc0b7c7e4942713a\" tvg-chno=\"103\",IMAGEN
+http://187.249.112.44:9981/stream/channelid/1251657736?profile=pass
+#EXTINF:-1 tvg-id=\"072e046c0697a49482787dc76c8e0d2a\" tvg-chno=\"105\",Canal 5
+http://187.249.112.44:9981/stream/channelid/1812213255?profile=pass
+#EXTINF:-1 tvg-id=\"71775b66cdb566e3507920a0580efd62\" tvg-chno=\"107\",Azteca 7
+http://187.249.112.44:9981/stream/channelid/1717270385?profile=pass
+#EXTINF:-1 tvg-id=\"0dfe61f43135b8244363ee41b5364e52\" tvg-chno=\"108\",La Octava
+http://187.249.112.44:9981/stream/channelid/1952579085?profile=pass
+#EXTINF:-1 tvg-id=\"5c26c5d390fe3212e6e9f2124c7db60f\" tvg-chno=\"109\",CORTV
+http://187.249.112.44:9981/stream/channelid/1405429340?profile=pass
+#EXTINF:-1 tvg-id=\"50c290be8c7fb5395c3175202875daa8\" tvg-chno=\"111\",ONCE
+http://187.249.112.44:9981/stream/channelid/1049674320?profile=pass
+#EXTINF:-1 tvg-id=\"5d69f4f67ba5aecbd637dd225b1e41b2\" tvg-chno=\"114\",14
+http://187.249.112.44:9981/stream/channelid/1995729245?profile=pass
+#EXTINF:-1 tvg-id=\"30d83bd2844a343f011f1ac92f1daf65\" tvg-chno=\"115\",Ingenio TV
+http://187.249.112.44:9981/stream/channelid/1379653680?profile=pass
+#EXTINF:-1 tvg-id=\"589b9c95a1f7a8754223453c947917c5\" tvg-chno=\"116\",TELEVISA PUEBLA
+http://187.249.112.44:9981/stream/channelid/362584920?profile=pass
+#EXTINF:-1 tvg-id=\"b1d47d20becd99baa0f7ea06f129644d\" tvg-chno=\"117\",TVC HD
+http://187.249.112.44:9981/stream/channelid/545117361?profile=pass
+
+#EXTINF:-1 tvg-id=\"213eaefddadfcacd4b9d4b95ac538800\" tvg-chno=\"121\",Multimedios TV
+http://187.249.112.44:9981/stream/channelid/2108571169?profile=pass
+#EXTINF:-1 tvg-id=\"c7093b2c72b77e653f568d064f88c12b\" tvg-chno=\"122\",Canal 22
+http://187.249.112.44:9981/stream/channelid/742066631?profile=pass
+
+#EXTINF:-1 tvg-id=\"32d7b9d0287a7bdb5938cd20d2b9dcea\" tvg-chno=\"162\",Las Estrellas -2
+http://187.249.112.44:9981/stream/channelid/1354356530?profile=pass
+#EXTINF:-1 tvg-id=\"b27b17ec4399103bf518fa0e23f9716e\" tvg-chno=\"204\",UNICABLE HD
+http://187.249.112.44:9981/stream/channelid/1813478322?profile=pass
+#EXTINF:-1 tvg-id=\"bb207acc5cc4750a10f813667fb73318\" tvg-chno=\"205\",TLENOVELAS HD
+http://187.249.112.44:9981/stream/channelid/1283072187?profile=pass
+#EXTINF:-1 tvg-id=\"b0adf1d4a6c334f94bf8205af84157fb\" tvg-chno=\"206\",TELEMUNDO HD
+http://187.249.112.44:9981/stream/channelid/1425124784?profile=pass
+#EXTINF:-1 tvg-id=\"6a3c38cba1c6cc19d1e43146469af600\" tvg-chno=\"253\",HISTORY
+http://187.249.112.44:9981/stream/channelid/1261976682?profile=pass
+#EXTINF:-1 tvg-id=\"9fc085677c94c812f5e86919486b416d\" tvg-chno=\"254\",NAT GEO
+http://187.249.112.44:9981/stream/channelid/1736818847?profile=pass
+#EXTINF:-1 tvg-id=\"fc9ba0062edda785519a0a0eeb098f0a\" tvg-chno=\"256\",H2
+http://187.249.112.44:9981/stream/channelid/111188988?profile=pass
+#EXTINF:-1 tvg-id=\"58785e6cbc39ce13384c95178debb485\" tvg-chno=\"257\",DISCOVERY CHANNEL
+http://187.249.112.44:9981/stream/channelid/1818130520?profile=pass
+#EXTINF:-1 tvg-id=\"57f9f91925b973dda135ed1990746ae5\" tvg-chno=\"258\",ANIMAL PLANET
+http://187.249.112.44:9981/stream/channelid/435812695?profile=pass
+#EXTINF:-1 tvg-id=\"dc535caef1943b2091266038c2c56d73\" tvg-chno=\"260\",ID
+http://187.249.112.44:9981/stream/channelid/777802716?profile=pass
+#EXTINF:-1 tvg-id=\"c2315e7a8fe17bb4c867a9db7b41ed0b\" tvg-chno=\"261\",AXN
+http://187.249.112.44:9981/stream/channelid/2052993474?profile=pass
+#EXTINF:-1 tvg-id=\"a573080be38d1f65bc2d95e558f97cfd\" tvg-chno=\"262\",Home & Health
+http://187.249.112.44:9981/stream/channelid/185103269?profile=pass
+#EXTINF:-1 tvg-id=\"4f0200721be93164ae97160b9c1329a3\" tvg-chno=\"263\",TLC
+http://187.249.112.44:9981/stream/channelid/1912603215?profile=pass
+#EXTINF:-1 tvg-id=\"0cc88a9961f6ed6607de6a99709e6891\" tvg-chno=\"269\",MASCHIC
+http://187.249.112.44:9981/stream/channelid/428525580?profile=pass
+#EXTINF:-1 tvg-id=\"d82860c82ce6eb1b605a5b54fa7a8560\" tvg-chno=\"270\",Comedy Central
+http://187.249.112.44:9981/stream/channelid/1214261464?profile=pass
+#EXTINF:-1 tvg-id=\"d80451eb5ddda66b51b38be0f42c8858\" tvg-chno=\"271\",Distrito Comedia HD
+http://187.249.112.44:9981/stream/channelid/1800471768?profile=pass
+#EXTINF:-1 tvg-id=\"5e4062d7a5cd70366fad399609ef6003\" tvg-chno=\"310\",BitMe
+http://187.249.112.44:9981/stream/channelid/1466056798?profile=pass
+#EXTINF:-1 tvg-id=\"bdda70416a7e9ed8f0505b3e5e7d0909\" tvg-chno=\"314\",TOONCAST
+http://187.249.112.44:9981/stream/channelid/1097915069?profile=pass
+#EXTINF:-1 tvg-id=\"8eaf9732f5eb338eda4f271e77d8730c\" tvg-chno=\"315\",DISCOVERY KIDS
+http://187.249.112.44:9981/stream/channelid/848801678?profile=pass
+#EXTINF:-1 tvg-id=\"1f581f0d92262f0e8826ad3b91fa2a60\" tvg-chno=\"316\",Zoomoo HD
+http://187.249.112.44:9981/stream/channelid/220157983?profile=pass
+#EXTINF:-1 tvg-id=\"f30a39763ad520ca618c3d234885078b\" tvg-chno=\"317\",BABY TV
+http://187.249.112.44:9981/stream/channelid/1983449843?profile=pass
+#EXTINF:-1 tvg-id=\"12fe7c9804c1eb05ecd89a004cc0018e\" tvg-chno=\"318\",CARTOON NETWORK
+http://187.249.112.44:9981/stream/channelid/410844690?profile=pass
+#EXTINF:-1 tvg-id=\"98721f509e5e3f7170b7a8e8a3764f8d\" tvg-chno=\"319\",DisneyJR
+http://187.249.112.44:9981/stream/channelid/1344238232?profile=pass
+#EXTINF:-1 tvg-id=\"083e6db2802db2f7e64cd5de8bd443eb\" tvg-chno=\"320\",NICKELODEON
+http://187.249.112.44:9981/stream/channelid/846020104?profile=pass
+#EXTINF:-1 tvg-id=\"37ebb814d5f70be15d5b6d464ad8f071\" tvg-chno=\"321\",Disney HD
+http://187.249.112.44:9981/stream/channelid/347663159?profile=pass
+#EXTINF:-1 tvg-id=\"18a51bf1e2b3da228b6b159e913544a2\" tvg-chno=\"322\",ONCE ninos
+http://187.249.112.44:9981/stream/channelid/1897637144?profile=pass
+#EXTINF:-1 tvg-id=\"23ef602ad9467ff878fb807ffaa6486a\" tvg-chno=\"402\",CINE MEXICANO
+http://187.249.112.44:9981/stream/channelid/710995747?profile=pass
+#EXTINF:-1 tvg-id=\"ecd69d2139d13e70b8d280599a916c9c\" tvg-chno=\"403\",Cinema Platino
+http://187.249.112.44:9981/stream/channelid/563992300?profile=pass
+#EXTINF:-1 tvg-id=\"26241e0e794eeddab127d2df1ff7f42e\" tvg-chno=\"404\",Cinema Platino2
+http://187.249.112.44:9981/stream/channelid/236856358?profile=pass
+#EXTINF:-1 tvg-id=\"d5ad5b6ae1da6b2cc73a0cb6c1402a4c\" tvg-chno=\"405\",Panico HD
+http://187.249.112.44:9981/stream/channelid/1784393173?profile=pass
+#EXTINF:-1 tvg-id=\"a13528b52a1a7b30bb1551376a011260\" tvg-chno=\"406\",CINEMAX
+http://187.249.112.44:9981/stream/channelid/891827617?profile=pass
+#EXTINF:-1 tvg-id=\"765d924b3ca1feb0403d742d57617d68\" tvg-chno=\"408\",EDGE HD
+http://187.249.112.44:9981/stream/channelid/1267883382?profile=pass
+#EXTINF:-1 tvg-id=\"7d23c57f62679388b21bdbcd8fade981\" tvg-chno=\"411\",CINECANAL
+http://187.249.112.44:9981/stream/channelid/2143626109?profile=pass
+#EXTINF:-1 tvg-id=\"89310013a482379903f5283a45ca3477\" tvg-chno=\"412\",TCM
+http://187.249.112.44:9981/stream/channelid/318779785?profile=pass
+#EXTINF:-1 tvg-id=\"1513e2a1bc8c7da66efe9c5998a56b1c\" tvg-chno=\"420\",UNIVERSAL CHANNEL
+http://187.249.112.44:9981/stream/channelid/568464149?profile=pass
+#EXTINF:-1 tvg-id=\"1e1746641c5d38505a3ee854fdd33f5a\" tvg-chno=\"421\",STUDIO UNIVERSAL
+http://187.249.112.44:9981/stream/channelid/1682315038?profile=pass
+#EXTINF:-1 tvg-id=\"95b238a62dc8efb20d7f27a3cf883f13\" tvg-chno=\"423\",CineLatino
+http://187.249.112.44:9981/stream/channelid/641249941?profile=pass
+#EXTINF:-1 tvg-id=\"e2e0a29495f8ea8bd1caef3f9d377ed3\" tvg-chno=\"424\",TNT HD
+http://187.249.112.44:9981/stream/channelid/346218722?profile=pass
+#EXTINF:-1 tvg-id=\"b0addd14200cae916d081a95c10f41a9\" tvg-chno=\"425\",PARAMOUNT
+http://187.249.112.44:9981/stream/channelid/350072240?profile=pass
+#EXTINF:-1 tvg-id=\"adba086640460c3c0224e05d87890507\" tvg-chno=\"426\",AMC
+http://187.249.112.44:9981/stream/channelid/1711848109?profile=pass
+#EXTINF:-1 tvg-id=\"608cb6a653d4292662492534bfa3cab1\" tvg-chno=\"427\",WARNER
+http://187.249.112.44:9981/stream/channelid/649497696?profile=pass
+#EXTINF:-1 tvg-id=\"244b73546800abfef1c6b46a4b61c4b1\" tvg-chno=\"428\",STAR HD
+http://187.249.112.44:9981/stream/channelid/1416842020?profile=pass
+#EXTINF:-1 tvg-id=\"0785c9252f10b7f6770aa4bd7a5be585\" tvg-chno=\"429\",USA
+http://187.249.112.44:9981/stream/channelid/633963783?profile=pass
+#EXTINF:-1 tvg-id=\"22142f2b298d37032ac889d41c324855\" tvg-chno=\"430\",SONY
+http://187.249.112.44:9981/stream/channelid/724505634?profile=pass
+#EXTINF:-1 tvg-id=\"7e82320f8c0340dcba57ab38f48cdd8f\" tvg-chno=\"431\",FX HD
+http://187.249.112.44:9981/stream/channelid/254968446?profile=pass
+#EXTINF:-1 tvg-id=\"5444688adad3aa549f085c646107f3c0\" tvg-chno=\"432\",film&arts
+http://187.249.112.44:9981/stream/channelid/174605396?profile=pass
+#EXTINF:-1 tvg-id=\"55da58255a7a143a73b252e0bbf54697\" tvg-chno=\"440\",HBO HD
+http://187.249.112.44:9981/stream/channelid/626580053?profile=pass
+#EXTINF:-1 tvg-id=\"548eeb5109f49f4bce0a870e18e6b359\" tvg-chno=\"441\",AE
+http://187.249.112.44:9981/stream/channelid/1374391892?profile=pass
+#EXTINF:-1 tvg-id=\"49febaadcc07e39cb2e9eb4a103f487b\" tvg-chno=\"509\",Adrenalina Sport N
+http://187.249.112.44:9981/stream/channelid/767229513?profile=pass
+#EXTINF:-1 tvg-id=\"8dbe118cacf146a86bd493fda5827375\" tvg-chno=\"514\",CLARO SPORTS
+http://187.249.112.44:9981/stream/channelid/202489485?profile=pass
+#EXTINF:-1 tvg-id=\"5b3bc434b8fec371a44f83301925dbd4\" tvg-chno=\"515\",FOX SPORTS HD
+http://187.249.112.44:9981/stream/channelid/885275483?profile=pass
+#EXTINF:-1 tvg-id=\"ce7b05c1272e51c376195b29391f8ec8\" tvg-chno=\"516\",FOX SPORTS 2 HD
+http://187.249.112.44:9981/stream/channelid/1090878414?profile=pass
+#EXTINF:-1 tvg-id=\"fe1736a4096a939d4766055ee05d20ac\" tvg-chno=\"518\",ESPN
+http://187.249.112.44:9981/stream/channelid/607524862?profile=pass
+#EXTINF:-1 tvg-id=\"2243dcf02d03f1e363f640db70812627\" tvg-chno=\"519\",ESPN2
+http://187.249.112.44:9981/stream/channelid/1893483298?profile=pass
+#EXTINF:-1 tvg-id=\"8ddd3e61a7258c6f98f3210cc795ded8\" tvg-chno=\"520\",TVC Depor HD
+http://187.249.112.44:9981/stream/channelid/1631509901?profile=pass
+#EXTINF:-1 tvg-id=\"c135857e01ba11488e6eff2bc15e0718\" tvg-chno=\"522\",ESPN-extra
+http://187.249.112.44:9981/stream/channelid/2122659265?profile=pass
+#EXTINF:-1 tvg-id=\"b90543979c9f4d65ad3601e56317eff7\" tvg-chno=\"523\",ESPN3
+http://187.249.112.44:9981/stream/channelid/390268345?profile=pass
+
+#EXTINF:-1 tvg-id=\"a858b1ab842ffe6235155e0438b6a89c\" tvg-chno=\"552\",EWTN
+http://187.249.112.44:9981/stream/channelid/733042856?profile=pass
+#EXTINF:-1 tvg-id=\"5b03022edb1eda508b283859e544342f\" tvg-chno=\"553\",ENLACE
+http://187.249.112.44:9981/stream/channelid/771883867?profile=pass
+#EXTINF:-1 tvg-id=\"241d325df163ad8b053fc42f43aaf193\" tvg-chno=\"554\",EJTV
+http://187.249.112.44:9981/stream/channelid/1563565348?profile=pass
+#EXTINF:-1 tvg-id=\"91874e3f8bed19570644a6659ae7fa57\" tvg-chno=\"603\",BANDAMAX HD
+http://187.249.112.44:9981/stream/channelid/1062111121?profile=pass
+#EXTINF:-1 tvg-id=\"bcd29868ae11d97d75ebfd53366969bc\" tvg-chno=\"604\",MTV
+http://187.249.112.44:9981/stream/channelid/1754845884?profile=pass
+#EXTINF:-1 tvg-id=\"0dafeda4fcc42dcf9885ca993326d28c\" tvg-chno=\"605\",VH1
+http://187.249.112.44:9981/stream/channelid/619556621?profile=pass
+#EXTINF:-1 tvg-id=\"5d9dc1c46a986da0a48cac608a840f77\" tvg-chno=\"606\",BEATBOX
+http://187.249.112.44:9981/stream/channelid/1153539421?profile=pass
+#EXTINF:-1 tvg-id=\"0523728b775b48a29b1e5cf0aeceb4e3\" tvg-chno=\"607\",Teleritmo
+http://187.249.112.44:9981/stream/channelid/192029445?profile=pass
+#EXTINF:-1 tvg-id=\"a43e7503aeb2cab61eb980c13d8e843a\" tvg-chno=\"701\",GUATEVISION
+http://187.249.112.44:9981/stream/channelid/58015396?profile=pass
+#EXTINF:-1 tvg-id=\"f837d70cbac798795662082667ae38d0\" tvg-chno=\"702\",TELESUR HD
+http://187.249.112.44:9981/stream/channelid/215431160?profile=pass
+#EXTINF:-1 tvg-id=\"1a1675be638eda18e665937f7f1d4f1a\" tvg-chno=\"703\",HISPAN TV
+http://187.249.112.44:9981/stream/channelid/1047860762?profile=pass
+#EXTINF:-1 tvg-id=\"aa862b6150fc75f3f7fba3f889a9ac4c\" tvg-chno=\"704\",RT
+http://187.249.112.44:9981/stream/channelid/1630242474?profile=pass
+#EXTINF:-1 tvg-id=\"c679cbea9d7bfa22d090dc0dffd91b4e\" tvg-chno=\"705\",EuroCH
+http://187.249.112.44:9981/stream/channelid/1791719878?profile=pass
+#EXTINF:-1 tvg-id=\"0b7dc2d4aec596a3713c53ca6b67dfab\" tvg-chno=\"706\",CCTV E
+http://187.249.112.44:9981/stream/channelid/1422032139?profile=pass
+#EXTINF:-1 tvg-id=\"b9a1425b1c283a60beed70141d587f83\" tvg-chno=\"750\",Milenio TV
+http://187.249.112.44:9981/stream/channelid/1531093433?profile=pass
+#EXTINF:-1 tvg-id=\"c41e0f19c3b15902e382f605824c2857\" tvg-chno=\"751\",Teleformula
+http://187.249.112.44:9981/stream/channelid/420421316?profile=pass
+#EXTINF:-1 tvg-id=\"fe5f00aac597a876c71ac1756fe06a47\" tvg-chno=\"752\",Excelsior TV
+http://187.249.112.44:9981/stream/channelid/704667646?profile=pass
+#EXTINF:-1 tvg-id=\"17d4b504d6b2d8fceb2f01d403720d89\" tvg-chno=\"753\",Foro TV
+http://187.249.112.44:9981/stream/channelid/79025175?profile=pass
