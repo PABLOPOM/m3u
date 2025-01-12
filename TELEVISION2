@@ -235,6 +235,9 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871
 #EXTINF:-1 group-title="TV ABIERTA", CGTN ESPAÑOL 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", AWAPA TV
+https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 UHD
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
