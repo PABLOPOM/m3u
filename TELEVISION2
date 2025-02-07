@@ -34,6 +34,9 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u
 #EXTINF:-1 group-title="TV ABIERTA", UNICABLE
 http://187.249.112.44:9981/stream/channelid/1813478322?profile=pass
 
+#EXTINF:-1 group-title="TV ABIERTA", DPELICULA
+http://148.113.190.252:8000/play/a015/index.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", UNIVISION 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 
