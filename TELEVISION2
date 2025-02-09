@@ -355,6 +355,9 @@ http://50.7.137.106:8080/FOX/index.m3u8?token=test
 #EXTINF:-1 group-title="TV ABIERTA", STAR CHANNEL 
 http://187.249.112.44:9981/stream/channelid/1416842020?profile=pass
 
+#EXTINF:-1 group-title="TV ABIERTA", +CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
 #EXTINF:-1  group-title="TV ABIERTA", AXN
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
 
