@@ -26,7 +26,7 @@ http://200.115.120.1:8000/play/ca014/index.m3u8
 http://187.249.112.44:9981/stream/channelid/1919712826?profile=pass
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 (-2h)
-http://187.249.112.44:9981/stream/channelid/1354356530?profile=pass
+http://187.249.112.44:9981/stream/channelid/1354356530.ts?profile=pass
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
