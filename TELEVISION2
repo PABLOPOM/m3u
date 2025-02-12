@@ -49,6 +49,9 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABIERTA", HOLA TV
+http://160.20.165.246:8000/play/a009/index.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", TUDN Usa
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
