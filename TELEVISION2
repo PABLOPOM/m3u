@@ -43,11 +43,11 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 6.3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", CINEMA
-http://148.113.190.252:8000/play/a015/index.m3u8
-
 #EXTINF:-1 group-title="TV ABIERTA", DE PELÍCULA 
 http://190.60.38.114:1010/play/a08f/index.m3u
+
+#EXTINF:-1 group-title="TV ABIERTA", MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIVERSO 
 http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
@@ -99,9 +99,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ADN40/20-hls/live-media.m3u8
-
-#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
-https://ythls.armelin.one/channel/UC7k--FhnJzhPTrbtldMSoQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online-218x150.png" group-title="TV ABIERTA", TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
