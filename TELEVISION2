@@ -265,9 +265,6 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871
 #EXTINF:-1 group-title="TV ABIERTA", CGTN ESPAÑOL 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", AWAPA TV
-https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 UHD
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
@@ -538,15 +535,6 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", HGO CANALDIEZ.TV
 https://canaldiez.tv/live/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="TV ABIERTA",CANAL DEL CONGRESO 45.1
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="TV ABIERTA",CANAL DEL CONGRESO 45.2
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="TV ABIERTA", CANAL 44 CHIHUAHUA 
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="TV ABIERTA", CDMX CANAL 6.1
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 
@@ -567,21 +555,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", EU ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="TV ABIERTA", FR FRANCE24 SD 
-https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1024px-HispanTv_logo.svg.png" group-title="TV ABIERTA", IR HISPAN TV  
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", AR AMÉRICA TV
-https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", AR EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqJtEaO.jpg" group-title="TV ABIERTA", MEGA NOTICIAS
-https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="TV ABIERTA", CHN
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?did=b1311878331652c4927ae377
@@ -618,27 +591,6 @@ https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA",  EU NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azbE4wl.png" group-title="TV ABIERTA", TELEVISA MONTERREY   
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/143.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA PUEBLA 
-https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA DEL BAJÍO 
-https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", TELEVISA QUERÉTARO 
-https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", ENLACE13 SALTILLO 
-https://ythls.armelin.one/channel/UCnF-7iyudFEyig475MIVa6w.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1 
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/360px-Las_Estrellas.svg.png" group-title="TV ABIERTA", CANAL 5.1 
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOSTV.mx" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="TV ABIERTA", MULTIMEDIOS CDMEXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -712,55 +664,6 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="TV ABIERTA", FREE TV 8.3
 https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="TV ABIERTA", NU9VE 9.1
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE.3 Señal Digital 
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpJ8f53Xvv8BCRhbzjOB6bCfJ6N9paLZk-Q&usqp=CAU" group-title="TV ABIERTA", BUAP
-https://tvenvivo.buap.mx/livestream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/logo_suma-tv.png" group-title="TV ABIERTA", HGO SUMA TV 13.1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", TABASCO CANAL 13
-https://alba-mx-c13mexico-c13tabasco.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", BAJIO CANAL 13 
-https://alba-mx-c13mexico-c13bajio.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk4JA0nexnvQK-muAFyYaNCdtL-_etGfvxw&usqp=CAU" group-title="TV ABIERTA", OAXACA CANAL 13 
-https://alba-mx-c13mexico-c13oaxaca.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-218x150.png" group-title="TV ABIERTA", JALISCO TV 
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="TV ABIERTA", MOR SMRTV
-https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="TV ABIERTA", AMX NOTICIAS 34.2
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ddaQD5z.jpg" group-title="TV ABIERTA", TASTEMADE español 
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
-
-#EXTINF:-1 group-title="TV ABIERTA", 13CULTURA
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA Tv
-https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV ABIERTA", ESTRELLA GAMES
-https://estrella-games-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", HOGAR 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
-
-#EXTINF:-1 group-title="TV ABIERTA", GARAGETV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-
 
 #EXTINF:-1,156. Teleuniverso - RD
 http://45.5.117.182:8000/play/a0g2/index.m3u8
@@ -788,8 +691,6 @@ http://45.5.117.182:8000/play/cj9t/index.m3u8
 http://45.5.117.182:8000/play/a0km/index.m3u8
 #EXTINF:-1,173. Univision HD
 http://45.5.117.182:8000/play/a2jq/index.m3u8
-#EXTINF:-1,174. VENUS
-http://45.5.117.182:8000/play/a0gf/index.m3u8
 #EXTINF:-1,175. Warner
 http://45.5.117.182:8000/play/a0hp/index.m3u8
 #EXTINF:-1,176. WARNER HD
