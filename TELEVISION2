@@ -46,8 +46,8 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", DE PELÍCULA 
 http://190.60.38.114:1010/play/a08f/index.m3u
 
-#EXTINF:-1 group-title="TV ABIERTA", MIAMI TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
+#EXTINF:-1 group-title="TV ABIERTA", TELEHIT 
+https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", UNIVERSO 
 http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
