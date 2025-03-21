@@ -55,8 +55,11 @@ http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", UNIVERSO 
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", UNIVISION 
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
+#EXTINF:-1 group-title="TV ABIERTA", ANTENA 3 
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", LA SEXTA 
+http://185.189.225.150:85/LaSexta/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
