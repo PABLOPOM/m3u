@@ -55,11 +55,26 @@ http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", UNIVERSO 
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="TV ABIERTA", TVE INTERNACIONAL AMERICA HD 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="TV ABIERTA", TVE INTERNACIONAL AMERICA HD 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8w1QRn.png" group-title="TV ABIERTA", STAR TVE AMERICA HD 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", ANTENA 3 
 http://185.189.225.150:85/Antena3HD/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", LA SEXTA 
 http://185.189.225.150:85/LaSexta/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TELECINCO
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CUATRO  
+http://185.189.225.150:85/CuatroHD/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
@@ -574,14 +589,6 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="TV ABIERTA", EL CONFIDENCIAL TV
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="TV ABIERTA", TVE INTERNACIONAL AMERICA HD 
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="TV ABIERTA", TVE INTERNACIONAL AMERICA HD 
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8w1QRn.png" group-title="TV ABIERTA", STAR TVE AMERICA HD 
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="TV ABIERTA", SUR 1 ANDALUCIA
 https://cdnlive.codev8.net/rtvalive/channel1.smil/playlist.m3u8
@@ -671,83 +678,5 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 
 
-#EXTINF:-1,156. Teleuniverso - RD
-http://45.5.117.182:8000/play/a0g2/index.m3u8
-#EXTINF:-1,158. TLC
-http://45.5.117.182:8000/play/a0hQ/index.m3u8
-#EXTINF:-1,159. TNT
-http://45.5.117.182:8000/play/a0f4/index.m3u8
-#EXTINF:-1,160. TNT HD
-http://45.5.117.182:8000/play/a0i9/index.m3u8
-#EXTINF:-1,161. TNT Series
-http://45.5.117.182:8000/play/a0ew/index.m3u8
-#EXTINF:-1,162. TNT Series HD
-http://45.5.117.182:8000/play/a0jt/index.m3u8
-#EXTINF:-1,163. Tooncast
-http://45.5.117.182:8000/play/a0hm/index.m3u8
-#EXTINF:-1,164. Tru TV
-http://45.5.117.182:8000/play/a0es/index.m3u8
-#EXTINF:-1,167. UNIVERSAL CINEMA ESTE HD
-http://45.5.117.182:8000/play/a0jz/index.m3u8
-#EXTINF:-1,170. UNIVERSAL PREMIERE HD
-http://45.5.117.182:8000/play/a0ig/index.m3u8
-#EXTINF:-1,171. CANAL UNIVERSAL COMEDY
-http://45.5.117.182:8000/play/cj9t/index.m3u8
-#EXTINF:-1,172. TUDN USA
-http://45.5.117.182:8000/play/a0km/index.m3u8
-#EXTINF:-1,173. Univision HD
-http://45.5.117.182:8000/play/a2jq/index.m3u8
-#EXTINF:-1,175. Warner
-http://45.5.117.182:8000/play/a0hp/index.m3u8
-#EXTINF:-1,176. WARNER HD
-http://45.5.117.182:8000/play/a0i2/index.m3u8
-#EXTINF:-1,178. TVE
-http://45.5.117.182:8000/play/a0th/index.m3u8
-#EXTINF:-1,179. TLNOVELAS
-http://45.5.117.182:8000/play/Kjnl/index.m3u8
-#EXTINF:-1,180. ENCODER
-http://45.5.117.182:8000/play/lz9ip/index.m3u8
-#EXTINF:-1,181. DISCOVERY TURBO
-http://45.5.117.182:8000/play/tdr9/index.m3u8
-#EXTINF:-1,182. LIGA
-http://45.5.117.182:8000/play/jnl0/index.m3u8
-#EXTINF:-1,183. BANDAMAX
-http://45.5.117.182:8000/play/98ui/index.m3u8
-#EXTINF:-1,184. CANAL DE LAS ESTRELLAS
-http://45.5.117.182:8000/play/hjkP/index.m3u8
-#EXTINF:-1,185.TN23
-http://45.5.117.182:8000/play/ojnl/index.m3u8
-#EXTINF:-1,186. DISTRITO COMEDIA
-http://45.5.117.182:8000/play/ihf9/index.m3u8
-#EXTINF:-1,188 TIGO SPORT
-http://45.5.117.182:8000/play/ljt0/index.m3u8
-#EXTINF:-1,189. FOX PREMIUM
-http://45.5.117.182:8000/play/j0b9/index.m3u8
-#EXTINF:-1,190. TUDN canal 66
-http://45.5.117.182:8000/play/lh0jp/index.m3u8
-#EXTINF:-1,191. CANAL 5
-http://45.5.117.182:8000/play/jlo9/index.m3u8
-#EXTINF:-1,192. CANAL 27
-http://45.5.117.182:8000/play/a0gp/index.m3u8
-#EXTINF:-1,193. ESPN
-http://45.5.117.182:8000/play/a0zo3/index.m3u8
-#EXTINF:-1,194. TLNOVELAS 2
-http://45.5.117.182:8000/play/jp0t/index.m3u8
-#EXTINF:-1,195. ENCODER CRISTIANO
-http://45.5.117.182:8000/play/tfc0/index.m3u8
-#EXTINF:-1,196. Canal 7 - GUA
-http://45.5.117.182:8000/play/a0ko/index.m3u8
-#EXTINF:-1,197. ESPN 4
-http://45.5.117.182:8000/play/a0xg/index.m3u8
-#EXTINF:-1,198. ESPN 5
-http://45.5.117.182:8000/play/a0k5/index.m3u8
-#EXTINF:-1,199. Cartoonito
-http://45.5.117.182:8000/play/ari9/index.m3u8
-#EXTINF:-1,ESPN 6
-http://45.5.117.182:8000/play/a0kc/index.m3u8
-#EXTINF:-1,ESPN 6 HD
-http://45.5.117.182:8000/play/a0kh1/index.m3u8
-#EXTINF:-1,TNT Novelas
-http://45.5.117.182:8000/play/a0ku/index.m3u8
 
 
