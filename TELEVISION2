@@ -16,8 +16,8 @@ http://45.5.117.182:8000/play/hjkP/index.m3u8
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 UHD
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1083
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 HD
+https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
 http://200.115.120.1:8000/play/ca014/index.m3u8
@@ -36,6 +36,9 @@ http://187.249.112.44:9981/stream/channelid/1813478322?profile=pass
 
 #EXTINF:-1 group-title="TV ABIERTA", EXAtv
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
+
+#EXTINF:-1 group-title="TV ABIERTA", LA VOZ GRUPERA
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", STINGRAY CLASSICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
