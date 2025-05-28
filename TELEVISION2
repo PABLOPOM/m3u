@@ -63,7 +63,11 @@ https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", DISNEY XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", FX
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HALLMARK
 https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", TELEHIT 
