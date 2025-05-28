@@ -954,6 +954,53 @@ http://45.68.35.218:4001/play/a01u/index.m3u8
 http://cord-cutter.net:8080/Rme2Fg/183926/11885
 
 
+#EXTM3U
+#EXTINF:-1 ACC Network , http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 AMC East , http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 Aspire , http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 BBC News , http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 BET East , http://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 BET Gospel , http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 BET Her , http://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 BET Jams , http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 BET Soul , http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 Bravo East , http://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 CBS East , http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 CBS Sports Network USA , http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 Cartoon Network , https://fl5.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 Comedy Central East , http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 Disney Channel East , http://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 Disney Junior , http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 Disney XD West , http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 E! East , http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 Fox News Channel , http://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 Fox Sports , http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 FX East , http://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 FXM , http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 FXX , http://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 Lifetime East , http://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 Lifetime Movies , http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 MLB Network , http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 MSG , http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 MTV East , http://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 National Geographic , http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 NBA TV , http://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 NFL Network , http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 NHL Network , http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 NickToons , https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 Nick Music , https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 Showtime , https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 TBS , https://fl3.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 TNT, https://fl3.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 Azteca Uno , https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 Las Estrellas , https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 ImagenTV , https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+#EXTINF:-1 Telediario , https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
+#EXTINF:-1 Azteca 7 , https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 Multimedios , https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 Milenio , https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 MVS , https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
 #EXTINF:-1,  tvg-name="AZTECA"  tvg-logo="https://i.postimg.cc/yxcyzphz/aztkinl.png" group-title="TV MEXICO",AZTECA Internl
 http://45.68.35.218:4001/play/a025/index.m3u8
 #EXTINF:-1,  tvg-name="IMAGENTV"  tvg-logo="https://i.postimg.cc/hGnQjmY9/IMGTV.png" group-title="TV MEXICO",IMAGEN TV
