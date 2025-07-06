@@ -41,6 +41,78 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", POPCORN CENTRAL 6.4
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE.3 Señal Digital 
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE MÉXICO 
+https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE MÉXICO 1.11
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1
+https://s5.mexside.net:1936/stream/stream/chunklist_w533253457.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE 11.1
+https://s5.mexside.net:1936/stream/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", CANAL CATORCE 
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest?cb=20200410213940" group-title="TV ABIERTA", TV MIGRANTE
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w850318408.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CANAL DEL CONGRESO JALISCO 
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/justiciatv-logo.png" group-title="TV ABIERTA", JUSTICIA TV 
+https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.1 
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.1 UHD
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.2 
+https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.2 
+https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.3 UHD 
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="TV ABIERTA", GTO TV4.4 UHD 
+https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", EXPRESA TV CELAYA 
+https://5ca9af4645e15.streamlock.net:443/teleradio/smil:teleradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="TV ABIERTA", TV Migrante  
+https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="TV ABIERTA", CHP Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1
+https://5ca39be538307.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI0IDc6NTM6NTEgUE0maGFzaF92YWx1ZT1DNnROdHNQcllhblFoSEplYW1UeFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9&DVR
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 
+https://video.cdmx.gob.mx/redes/stream.m3u8?
+
+#EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="TV ABIERTA", CANAL 22.1
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="TV ABIERTA", CANAL 22.2 
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="TV ABIERTA", MEXIQUENSE Tv 34.1
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", ILCE
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", EXAtv
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
