@@ -5,14 +5,17 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 -1h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 -1h 
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VUdRbiFWBHwhV_sDQS1g
-
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV II" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 group-title="TV ABIERTA", TELEDIARIO NOW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
@@ -40,6 +43,9 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", POPCORN CENTRAL 6.4
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", SONY CHANNEL
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="TV ABIERTA", ONCE.3 Señal Digital 
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
@@ -125,9 +131,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO 6.3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", SONY CHANNEL
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
 #EXTINF:-1 group-title="TV ABIERTA", TELEHIT 
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 
@@ -145,12 +148,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8w1QRn.png" group-title="TV ABIERTA", STAR TVE AMERICA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+
-https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 group-title="TV ABIERTA", TASTEMADE
 https://amg00047-tastemade-tastemadees16international24i-ono-h4pdz.amagi.tv/playlist/amg00047-tastemade-tastemadees16international24i-ono/cb513d177b6c638c84cb3678d1d3d091a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600e66413e1ad668db7907b2ce08ed0868280811fa99c365db9a1309b2dd112a2ab4710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e4835cc9ca1abc87dc459d4a960bae46c4cea59bb041d4d7d33ab652b163470b743fddd57d919f04b78c9b243bce702c0b4f04e3a5defc193e870a4759feac9aea35a94b978a71b39d56d176f09f0b8aeb11c83a91a32585a1fbec434d2fa5c0547355d88fc2a4da45fe39fb99d884f37c6e8dfe54594acc7fd1212a42e3952aaf3ea267fa85228bf45a1c34d69041948ff0c4875036f0fd57a8f4c7e241664b730510925caf9f63cf269d7cad8e2020520d77ac9643c582d64c7a021dcfe85aa578ce7fc22c8a942e423077e798ab4deffb4f1fed39696eec2ef8d51960b6150b89233cff5727baf69dd2ec948ad4ff0f37b9df8817b13faffd26dbf817b1367c780cb7e02356410c2c84b5263e1d34e210b185efa1551c09e0f382cbf00219496b44035cdbb7a920cbd99b690a0088130770641c12a101d442d61406557d9e5080fa493cae2e1500caeb7f5153679388968484ddc50df549d6ddee3020351637f363450566c1b9805cb269182f340dce593314e549091baab8c6e7908c6b8eaf65ac39701d2c90a3400f5a04010e60fcb166d34ced9a19cbf99b08b6afe775768431b0141e99a2bb5ff9e092d24108d2c67a16659edf22854325c819d121eb83298da834e67d86b4ec18e8b569a5e3a2b80530c43835f6d0022220/195/1920x1080_4716800/index.m3u8
