@@ -117,7 +117,7 @@ https://5ca9af4645e15.streamlock.net:443/teleradio/smil:teleradio.smil/playlist.
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV ABIERTA", TV UNAM 20.1
-https://5ca39be538307.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI0IDc6NTM6NTEgUE0maGFzaF92YWx1ZT1DNnROdHNQcllhblFoSEplYW1UeFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9&DVR
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1747392996_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="TV ABIERTA", CAPITAL21 
 https://video.cdmx.gob.mx/redes/stream.m3u8?
