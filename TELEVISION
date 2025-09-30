@@ -20,6 +20,9 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
+#EXTINF:-1 group-title="TV ABIERTA", RADIO Y TELEVISIÓN DE HIDALGO 
+https://live20.bozztv.com/akamaissh101/ssh101/rythtest/chunks.m3u8
+
 #EXTINF:-1 group-title="TV ABIERTA", CLARO SPORTS
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
