@@ -75,7 +75,7 @@ https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV ABIERTA", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+https://mx-b9-i-e-bv1.cdn.mdstrm.com/live-stream-gdai/67da2962c4eed1a805b30e61/linear/hls/pa/event/5HKtAWzrTVGjPNdt1HNd_Q/stream/f135d403-c6a7-441c-ade5-4fcfa1f21104:CHS/master.m3u8?aid=5fea09a071a9945deebf5f7c&uid=IVj5a71HkAzmiSSHmAZ2k69HR9UVsw4f&sid=rpgwBkosGTb2h6LuUq9FmiZvN47DRVUU&pid=vqZHK5MAwMMbsYVfj0dxdFttYKz62Ubo&pid_dvr=ZMLm0JHc2K3Jym22EQiuhrmlnHFZmQKB&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=Hqa0baAmsIDpe8mAP49mjTafdQZlKWkzFlfckOsjRx9DFV6w0omVxFaaV9edla1H0bKwqfNpHGm&adInsertionGoogleStreamId=f135d403-c6a7-441c-ade5-4fcfa1f21104%3ACHS&CMCD=cid%3D%2267da2962c4eed1a805b30e61%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22vqZHK5MAwMMbsYVfj0dxdFttYKz62Ubo%22%2Csu&es=mx-b9-i-e-bv1.cdn.mdstrm.com&ote=1790452062745&ot=bV6Oguf2Hngrua-Wv3vEyg&proto=https&pz=us
 
 #EXTINF:-1 tvg-id="APRENDETV" tvg-name="AZTECA 7.2" tvg-logo="http://codiceenlinea.com/wp-content/uploads/2020/08/Aprende-en-Casa_2_LOGO2-792x445.png" group-title="TV ABIERTA", AZ+ 7.2 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
